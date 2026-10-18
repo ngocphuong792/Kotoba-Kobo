@@ -6,67 +6,67 @@
       {
         "id": "work",
         "name": "Công việc / Văn phòng",
-        "count": 35
+        "count": 71
       },
       {
         "id": "it",
         "name": "IT / Công nghệ",
-        "count": 17
+        "count": 20
       },
       {
         "id": "kaiwa",
         "name": "Kaiwa / Giao tiếp",
-        "count": 286
+        "count": 314
       },
       {
         "id": "traffic",
         "name": "Giao thông",
-        "count": 55
+        "count": 95
       },
       {
         "id": "food",
         "name": "Ẩm thực / Quán ăn",
-        "count": 252
+        "count": 286
       },
       {
         "id": "shopping",
         "name": "Mua sắm",
-        "count": 19
+        "count": 34
       },
       {
         "id": "health",
         "name": "Y tế / Sức khỏe",
-        "count": 33
+        "count": 56
       },
       {
         "id": "body",
         "name": "Cơ thể người",
-        "count": 55
+        "count": 68
       },
       {
         "id": "finance",
         "name": "Ngân hàng / Tài chính",
-        "count": 2
+        "count": 15
       },
       {
         "id": "post",
         "name": "Bưu điện / Gửi nhận",
-        "count": 30
+        "count": 40
       },
       {
         "id": "community",
         "name": "Cộng đồng / Đời sống",
-        "count": 46
+        "count": 102
       },
       {
         "id": "life",
         "name": "Sự kiện đời sống",
-        "count": 50
+        "count": 55
       },
       {
         "id": "sports",
         "name": "Vận động / Thể thao",
-        "count": 24
+        "count": 33
       },
       {
         "id": "news",
@@ -91,12 +91,57 @@
       {
         "id": "grammar",
         "name": "Tính từ / Ngữ pháp",
-        "count": 14
+        "count": 23
       },
       {
-        "id": "somatome",
-        "name": "Somatome",
-        "count": 505
+        "id": "housing",
+        "name": "Nhà cửa / Thuê nhà",
+        "count": 22
+      },
+      {
+        "id": "family",
+        "name": "Gia đình / Họ hàng",
+        "count": 13
+      },
+      {
+        "id": "culture",
+        "name": "Văn hóa / Tôn giáo / Lễ hội",
+        "count": 22
+      },
+      {
+        "id": "emotion",
+        "name": "Cảm xúc / Tính cách",
+        "count": 57
+      },
+      {
+        "id": "nature",
+        "name": "Thiên nhiên / Động vật / Thời tiết",
+        "count": 15
+      },
+      {
+        "id": "legal",
+        "name": "Pháp lý / Hành chính",
+        "count": 15
+      },
+      {
+        "id": "travel",
+        "name": "Du lịch / Giải trí",
+        "count": 17
+      },
+      {
+        "id": "appearance",
+        "name": "Ngoại hình / Làm đẹp",
+        "count": 11
+      },
+      {
+        "id": "school",
+        "name": "Học tập / Trường học",
+        "count": 12
+      },
+      {
+        "id": "daily",
+        "name": "Đời sống hàng ngày",
+        "count": 27
       },
       {
         "id": "n1",
@@ -13535,8 +13580,8 @@
       "reading": "",
       "meaning": "hãy thử làm V xem",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "grammar",
+      "themeName": "Tính từ / Ngữ pháp",
       "id": "v1474"
     },
     {
@@ -13544,8 +13589,8 @@
       "reading": "",
       "meaning": "toà nhà Harukasu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1475"
     },
     {
@@ -13553,8 +13598,8 @@
       "reading": "",
       "meaning": "thiếu trách nhiệm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1476"
     },
     {
@@ -13562,8 +13607,8 @@
       "reading": "",
       "meaning": "nói vô trách nhiệm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1477"
     },
     {
@@ -13571,8 +13616,8 @@
       "reading": "",
       "meaning": "đủ rồi đấy",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1478"
     },
     {
@@ -13580,8 +13625,8 @@
       "reading": "くち",
       "meaning": "người có tửu lượng tốt",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1479"
     },
     {
@@ -13589,8 +13634,8 @@
       "reading": "",
       "meaning": "mân mê, trêu trọc, đùa giỡn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1480"
     },
     {
@@ -13598,8 +13643,8 @@
       "reading": "",
       "meaning": "thà rằng...còn hơn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1481"
     },
     {
@@ -13607,8 +13652,8 @@
       "reading": "",
       "meaning": "anh em họ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "family",
+      "themeName": "Gia đình / Họ hàng",
       "id": "v1482"
     },
     {
@@ -13616,8 +13661,8 @@
       "reading": "",
       "meaning": "không đồng đều, méo mó",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1483"
     },
     {
@@ -13625,8 +13670,8 @@
       "reading": "",
       "meaning": "anh chị hãy đến",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1484"
     },
     {
@@ -13634,8 +13679,8 @@
       "reading": "",
       "meaning": "súc miệng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1485"
     },
     {
@@ -13643,8 +13688,8 @@
       "reading": "",
       "meaning": "cháu trai (gọi mình là cô, chú)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "family",
+      "themeName": "Gia đình / Họ hàng",
       "id": "v1486"
     },
     {
@@ -13652,8 +13697,8 @@
       "reading": "",
       "meaning": "đồ nhắm là phô mai",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1487"
     },
     {
@@ -13661,8 +13706,8 @@
       "reading": "",
       "meaning": "trầm tính, ít nói",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1488"
     },
     {
@@ -13670,8 +13715,8 @@
       "reading": "",
       "meaning": "cái rốn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "body",
+      "themeName": "Cơ thể người",
       "id": "v1489"
     },
     {
@@ -13679,8 +13724,8 @@
       "reading": "",
       "meaning": "tôi sẽ đi cùng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1490"
     },
     {
@@ -13688,8 +13733,8 @@
       "reading": "たより",
       "meaning": "thông tin, tin tức",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1491"
     },
     {
@@ -13697,8 +13742,8 @@
       "reading": "ばけ",
       "meaning": "ma, quỷ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1492"
     },
     {
@@ -13706,8 +13751,8 @@
       "reading": "",
       "meaning": "bùa hộ mệnh",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1493"
     },
     {
@@ -13715,8 +13760,8 @@
       "reading": "",
       "meaning": "nếu bạn không phiền thì…",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1494"
     },
     {
@@ -13724,8 +13769,8 @@
       "reading": "つきみ",
       "meaning": "ngắm trăng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1495"
     },
     {
@@ -13733,8 +13778,8 @@
       "reading": "",
       "meaning": "đổi sang tiền lẻ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "finance",
+      "themeName": "Ngân hàng / Tài chính",
       "id": "v1496"
     },
     {
@@ -13742,8 +13787,8 @@
       "reading": "",
       "meaning": "anh đã vất vả rồi (dùng được cho tất cả mọi người",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1497"
     },
     {
@@ -13751,8 +13796,8 @@
       "reading": "",
       "meaning": "tôi rất mong được gặp bạn (dùng trong thư từ)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1498"
     },
     {
@@ -13760,8 +13805,8 @@
       "reading": "",
       "meaning": "đến (tôn kính ngữ)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1499"
     },
     {
@@ -13769,8 +13814,8 @@
       "reading": "",
       "meaning": "hãy cùng rủ bạn bè, người thân",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "family",
+      "themeName": "Gia đình / Họ hàng",
       "id": "v1500"
     },
     {
@@ -13778,8 +13823,8 @@
       "reading": "さいせん",
       "meaning": "hòm công đức",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1501"
     },
     {
@@ -13787,8 +13832,8 @@
       "reading": "こうでん",
       "meaning": "tiền phúng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "life",
+      "themeName": "Sự kiện đời sống",
       "id": "v1502"
     },
     {
@@ -13796,8 +13841,8 @@
       "reading": "おなじみ",
       "meaning": "quen thuộc, phổ biến",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1503"
     },
     {
@@ -13805,8 +13850,8 @@
       "reading": "",
       "meaning": "cái không thể thay thế",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1504"
     },
     {
@@ -13814,8 +13859,8 @@
       "reading": "",
       "meaning": "đánh bài, chơi bài",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1505"
     },
     {
@@ -13823,8 +13868,8 @@
       "reading": "",
       "meaning": "run lẩy bẩy",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1506"
     },
     {
@@ -13832,8 +13877,8 @@
       "reading": "",
       "meaning": "cây xăng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1507"
     },
     {
@@ -13841,8 +13886,8 @@
       "reading": "",
       "meaning": "tỉ mỉ, cẩn thận",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "body",
+      "themeName": "Cơ thể người",
       "id": "v1508"
     },
     {
@@ -13850,8 +13895,8 @@
       "reading": "",
       "meaning": "làm đổ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1509"
     },
     {
@@ -13859,8 +13904,8 @@
       "reading": "",
       "meaning": "bị đổ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1510"
     },
     {
@@ -13868,8 +13913,8 @@
       "reading": "",
       "meaning": "anh đã vất vả rồi (cấp trên nói với cấp dưới)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1511"
     },
     {
@@ -13877,8 +13922,8 @@
       "reading": "",
       "meaning": "nhỏ bé, giản dị",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1512"
     },
     {
@@ -13886,8 +13931,8 @@
       "reading": "だす",
       "meaning": "phơi bày, bộc lộ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1513"
     },
     {
@@ -13895,8 +13940,8 @@
       "reading": "",
       "meaning": "bị xao động",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1514"
     },
     {
@@ -13904,8 +13949,8 @@
       "reading": "",
       "meaning": "nấc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1515"
     },
     {
@@ -13913,8 +13958,8 @@
       "reading": "",
       "meaning": "xê dịch, di dời",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1516"
     },
     {
@@ -13922,8 +13967,8 @@
       "reading": "おり",
       "meaning": "vào dịp đó, vào thời điểm đó",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "grammar",
+      "themeName": "Tính từ / Ngữ pháp",
       "id": "v1517"
     },
     {
@@ -13931,8 +13976,8 @@
       "reading": "",
       "meaning": "đừng bận tâm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1518"
     },
     {
@@ -13940,8 +13985,8 @@
       "reading": "",
       "meaning": "làm ướt giẻ lau",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1519"
     },
     {
@@ -13949,8 +13994,8 @@
       "reading": "",
       "meaning": "thở dài",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1520"
     },
     {
@@ -13958,8 +14003,8 @@
       "reading": "",
       "meaning": "rối rắm, k hiểu nổi, chả hiểu gì cả",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1521"
     },
     {
@@ -13967,8 +14012,8 @@
       "reading": "",
       "meaning": "xui xẻo",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1522"
     },
     {
@@ -13976,8 +14021,8 @@
       "reading": "",
       "meaning": "may mắn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1523"
     },
     {
@@ -13985,8 +14030,8 @@
       "reading": "かんらんしゃ",
       "meaning": "đu quay khổng lồ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1524"
     },
     {
@@ -13994,8 +14039,8 @@
       "reading": "",
       "meaning": "tôi k khách sáo nữa, tôi xin phép dùng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1525"
     },
     {
@@ -14003,8 +14048,8 @@
       "reading": "",
       "meaning": "xin đừng bận tâm đến tôi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1526"
     },
     {
@@ -14012,8 +14057,8 @@
       "reading": "",
       "meaning": "rót nhiều hơn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1527"
     },
     {
@@ -14021,8 +14066,8 @@
       "reading": "",
       "meaning": "ốc vít (を回す)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1528"
     },
     {
@@ -14030,8 +14075,8 @@
       "reading": "",
       "meaning": "vô lo",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1529"
     },
     {
@@ -14039,8 +14084,8 @@
       "reading": "あいま",
       "meaning": "trong lúc làm gì",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "grammar",
+      "themeName": "Tính từ / Ngữ pháp",
       "id": "v1530"
     },
     {
@@ -14048,8 +14093,8 @@
       "reading": "",
       "meaning": "nhìn thoáng qua",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1531"
     },
     {
@@ -14057,8 +14102,8 @@
       "reading": "",
       "meaning": "khăn lau",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1532"
     },
     {
@@ -14066,8 +14111,8 @@
       "reading": "",
       "meaning": "nói thẳng ra, thật lòng mà nói thì",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1533"
     },
     {
@@ -14075,8 +14120,8 @@
       "reading": "",
       "meaning": "treo lỏng lẻo",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1534"
     },
     {
@@ -14084,8 +14129,8 @@
       "reading": "",
       "meaning": "phủi, quét bụi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1535"
     },
     {
@@ -14093,8 +14138,8 @@
       "reading": "",
       "meaning": "trở nên tốt hơn, bệnh đỡ hơn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1536"
     },
     {
@@ -14102,8 +14147,8 @@
       "reading": "",
       "meaning": "đồ chơi nấu nướng (chơi đồ hàng)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1537"
     },
     {
@@ -14111,8 +14156,8 @@
       "reading": "",
       "meaning": "vị êm, tan trong miệng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1538"
     },
     {
@@ -14120,8 +14165,8 @@
       "reading": "",
       "meaning": "cháu gái (gọi mình là cô chú)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "family",
+      "themeName": "Gia đình / Họ hàng",
       "id": "v1539"
     },
     {
@@ -14129,8 +14174,8 @@
       "reading": "",
       "meaning": "rõ rệt",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1540"
     },
     {
@@ -14138,8 +14183,8 @@
       "reading": "",
       "meaning": "lười biếng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1541"
     },
     {
@@ -14147,8 +14192,8 @@
       "reading": "",
       "meaning": "phiền hà, phiền phức",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1542"
     },
     {
@@ -14156,8 +14201,8 @@
       "reading": "",
       "meaning": "rơm, rạ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "nature",
+      "themeName": "Thiên nhiên / Động vật / Thời tiết",
       "id": "v1543"
     },
     {
@@ -14165,8 +14210,8 @@
       "reading": "",
       "meaning": "phấn mắt",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "appearance",
+      "themeName": "Ngoại hình / Làm đẹp",
       "id": "v1544"
     },
     {
@@ -14174,8 +14219,8 @@
       "reading": "",
       "meaning": "trung tâm mua sắm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "shopping",
+      "themeName": "Mua sắm",
       "id": "v1545"
     },
     {
@@ -14183,8 +14228,8 @@
       "reading": "",
       "meaning": "nhấn ga",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1546"
     },
     {
@@ -14192,8 +14237,8 @@
       "reading": "",
       "meaning": "chăm sóc, hỗ trợ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1547"
     },
     {
@@ -14201,8 +14246,8 @@
       "reading": "",
       "meaning": "kho lưu trữ tài liệu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1548"
     },
     {
@@ -14210,8 +14255,8 @@
       "reading": "",
       "meaning": "dấu bằng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1549"
     },
     {
@@ -14219,8 +14264,8 @@
       "reading": "",
       "meaning": "thế giới ánh sáng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1550"
     },
     {
@@ -14228,8 +14273,8 @@
       "reading": "",
       "meaning": "bị cúm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1551"
     },
     {
@@ -14237,8 +14282,8 @@
       "reading": "",
       "meaning": "bồn cầu tự rửa",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1552"
     },
     {
@@ -14246,8 +14291,8 @@
       "reading": "みずわり",
       "meaning": "rượu wisky pha lẫn với nước",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1553"
     },
     {
@@ -14255,8 +14300,8 @@
       "reading": "",
       "meaning": "nhím biển",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1554"
     },
     {
@@ -14264,8 +14309,8 @@
       "reading": "",
       "meaning": "chim hải âu đuôi đen",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "nature",
+      "themeName": "Thiên nhiên / Động vật / Thời tiết",
       "id": "v1555"
     },
     {
@@ -14273,8 +14318,8 @@
       "reading": "",
       "meaning": "thư bằng đường hàng không",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "post",
+      "themeName": "Bưu điện / Gửi nhận",
       "id": "v1556"
     },
     {
@@ -14282,8 +14327,8 @@
       "reading": "",
       "meaning": "nghiện (game, anime)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1557"
     },
     {
@@ -14291,8 +14336,8 @@
       "reading": "",
       "meaning": "chính thức",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "it",
+      "themeName": "IT / Công nghệ",
       "id": "v1558"
     },
     {
@@ -14300,8 +14345,8 @@
       "reading": "",
       "meaning": "Hà Lan",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1559"
     },
     {
@@ -14309,8 +14354,8 @@
       "reading": "",
       "meaning": "tham gia đấu giá trên mạng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "shopping",
+      "themeName": "Mua sắm",
       "id": "v1560"
     },
     {
@@ -14318,8 +14363,8 @@
       "reading": "",
       "meaning": "khoá tự động",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1561"
     },
     {
@@ -14327,8 +14372,8 @@
       "reading": "",
       "meaning": "thẻ vạn năng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "finance",
+      "themeName": "Ngân hàng / Tài chính",
       "id": "v1562"
     },
     {
@@ -14336,8 +14381,8 @@
       "reading": "",
       "meaning": "rực rỡ, đầy màu sắc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "appearance",
+      "themeName": "Ngoại hình / Làm đẹp",
       "id": "v1563"
     },
     {
@@ -14345,8 +14390,8 @@
       "reading": "",
       "meaning": "hệ thống chỉ đường",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1564"
     },
     {
@@ -14354,8 +14399,8 @@
       "reading": "",
       "meaning": "tủ tài liệu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1565"
     },
     {
@@ -14363,8 +14408,8 @@
       "reading": "",
       "meaning": "trò hề, thằng hề, chơi chữ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1566"
     },
     {
@@ -14372,8 +14417,8 @@
       "reading": "",
       "meaning": "bia được làm thủ công",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1567"
     },
     {
@@ -14381,8 +14426,8 @@
       "reading": "",
       "meaning": "rung lắc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1568"
     },
     {
@@ -14390,8 +14435,8 @@
       "reading": "",
       "meaning": "vỉ nướng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1569"
     },
     {
@@ -14399,8 +14444,8 @@
       "reading": "",
       "meaning": "ghế hạng sang",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1570"
     },
     {
@@ -14408,8 +14453,8 @@
       "reading": "",
       "meaning": "cáp treo",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1571"
     },
     {
@@ -14417,8 +14462,8 @@
       "reading": "",
       "meaning": "giặt là tự động (nhét xu)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1572"
     },
     {
@@ -14426,8 +14471,8 @@
       "reading": "",
       "meaning": "mặc cảm, tự ti",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1573"
     },
     {
@@ -14435,8 +14480,8 @@
       "reading": "",
       "meaning": "bếp gas",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1574"
     },
     {
@@ -14444,8 +14489,8 @@
       "reading": "",
       "meaning": "kính chiếu hậu ở 2 bên",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1575"
     },
     {
@@ -14453,8 +14498,8 @@
       "reading": "",
       "meaning": "lướt sóng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "sports",
+      "themeName": "Vận động / Thể thao",
       "id": "v1576"
     },
     {
@@ -14462,8 +14507,8 @@
       "reading": "",
       "meaning": "vết bẩn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1577"
     },
     {
@@ -14471,8 +14516,8 @@
       "reading": "",
       "meaning": "tỉnh táo",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1578"
     },
     {
@@ -14480,8 +14525,8 @@
       "reading": "",
       "meaning": "lặn với ống thở",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "sports",
+      "themeName": "Vận động / Thể thao",
       "id": "v1579"
     },
     {
@@ -14489,8 +14534,8 @@
       "reading": "",
       "meaning": "tủ đựng giày",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1580"
     },
     {
@@ -14498,8 +14543,8 @@
       "reading": "",
       "meaning": "tạ đẩy luyện cơ vai",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "sports",
+      "themeName": "Vận động / Thể thao",
       "id": "v1581"
     },
     {
@@ -14507,8 +14552,8 @@
       "reading": "",
       "meaning": "show diễn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1582"
     },
     {
@@ -14516,8 +14561,8 @@
       "reading": "",
       "meaning": "thế hệ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1583"
     },
     {
@@ -14525,8 +14570,8 @@
       "reading": "",
       "meaning": "đoạn nhạc ngắn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1584"
     },
     {
@@ -14534,8 +14579,8 @@
       "reading": "",
       "meaning": "đồ ngọt",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1585"
     },
     {
@@ -14543,8 +14588,8 @@
       "reading": "",
       "meaning": "swat",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "sports",
+      "themeName": "Vận động / Thể thao",
       "id": "v1586"
     },
     {
@@ -14552,8 +14597,8 @@
       "reading": "",
       "meaning": "thép",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1587"
     },
     {
@@ -14561,8 +14606,8 @@
       "reading": "",
       "meaning": "ống hút",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1588"
     },
     {
@@ -14570,8 +14615,8 @@
       "reading": "",
       "meaning": "vóc dáng thanh mảnh",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "appearance",
+      "themeName": "Ngoại hình / Làm đẹp",
       "id": "v1589"
     },
     {
@@ -14579,8 +14624,8 @@
       "reading": "",
       "meaning": "đồ mặn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1590"
     },
     {
@@ -14588,8 +14633,8 @@
       "reading": "",
       "meaning": "tham dự buổi hội thảo",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "school",
+      "themeName": "Học tập / Trường học",
       "id": "v1591"
     },
     {
@@ -14597,8 +14642,8 @@
       "reading": "",
       "meaning": "rắc cắm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "it",
+      "themeName": "IT / Công nghệ",
       "id": "v1592"
     },
     {
@@ -14606,8 +14651,8 @@
       "reading": "",
       "meaning": "xúc xích",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1593"
     },
     {
@@ -14615,8 +14660,8 @@
       "reading": "",
       "meaning": "van ở bánh xe",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1594"
     },
     {
@@ -14624,8 +14669,8 @@
       "reading": "",
       "meaning": "gạch men",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1595"
     },
     {
@@ -14633,8 +14678,8 @@
       "reading": "",
       "meaning": "điều cấm kị",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1596"
     },
     {
@@ -14642,8 +14687,8 @@
       "reading": "",
       "meaning": "sân hiên ngoài trời",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1597"
     },
     {
@@ -14651,8 +14696,8 @@
       "reading": "",
       "meaning": "tâm trạng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1598"
     },
     {
@@ -14660,8 +14705,8 @@
       "reading": "",
       "meaning": "tăng hưng phấn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1599"
     },
     {
@@ -14669,8 +14714,8 @@
       "reading": "",
       "meaning": "lều",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1600"
     },
     {
@@ -14678,8 +14723,8 @@
       "reading": "",
       "meaning": "boong tàu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1601"
     },
     {
@@ -14687,8 +14732,8 @@
       "reading": "",
       "meaning": "cửa hàng bách hoá",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "shopping",
+      "themeName": "Mua sắm",
       "id": "v1602"
     },
     {
@@ -14696,8 +14741,8 @@
       "reading": "",
       "meaning": "phép thử và lỗi sai",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1603"
     },
     {
@@ -14705,8 +14750,8 @@
       "reading": "",
       "meaning": "ám ảnh",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1604"
     },
     {
@@ -14714,8 +14759,8 @@
       "reading": "",
       "meaning": "vượt qua xe tải",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1605"
     },
     {
@@ -14723,8 +14768,8 @@
       "reading": "",
       "meaning": "cốp xe, thùng xe",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1606"
     },
     {
@@ -14732,8 +14777,8 @@
       "reading": "",
       "meaning": "cái khay",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1607"
     },
     {
@@ -14741,8 +14786,8 @@
       "reading": "",
       "meaning": "món mì ý kiểu nhật",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1608"
     },
     {
@@ -14750,8 +14795,8 @@
       "reading": "",
       "meaning": "những thứ người hồi giáo được sử dụng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1609"
     },
     {
@@ -14759,8 +14804,8 @@
       "reading": "",
       "meaning": "nhảy dù",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "sports",
+      "themeName": "Vận động / Thể thao",
       "id": "v1610"
     },
     {
@@ -14768,8 +14813,8 @@
       "reading": "",
       "meaning": "vi khuẩn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1611"
     },
     {
@@ -14777,8 +14822,8 @@
       "reading": "",
       "meaning": "gương chiếu hậu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1612"
     },
     {
@@ -14786,8 +14831,8 @@
       "reading": "ていりゅうじょ",
       "meaning": "điểm dừng xe bus",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1613"
     },
     {
@@ -14795,8 +14840,8 @@
       "reading": "",
       "meaning": "cập rập, bận rộn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1614"
     },
     {
@@ -14804,8 +14849,8 @@
       "reading": "",
       "meaning": "nhạc nền",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1615"
     },
     {
@@ -14813,8 +14858,8 @@
       "reading": "",
       "meaning": "tông đơ cắt tóc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "appearance",
+      "themeName": "Ngoại hình / Làm đẹp",
       "id": "v1616"
     },
     {
@@ -14822,8 +14867,8 @@
       "reading": "",
       "meaning": "người pha chế",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1617"
     },
     {
@@ -14831,8 +14876,8 @@
       "reading": "",
       "meaning": "ban công",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1618"
     },
     {
@@ -14840,8 +14885,8 @@
       "reading": "",
       "meaning": "đại dịch",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1619"
     },
     {
@@ -14849,8 +14894,8 @@
       "reading": "",
       "meaning": "làm việc theo ca",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1620"
     },
     {
@@ -14858,8 +14903,8 @@
       "reading": "",
       "meaning": "mảnh khảnh, gầy",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "appearance",
+      "themeName": "Ngoại hình / Làm đẹp",
       "id": "v1621"
     },
     {
@@ -14867,8 +14912,8 @@
       "reading": "あわ",
       "meaning": "bọt bia",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1622"
     },
     {
@@ -14876,8 +14921,8 @@
       "reading": "",
       "meaning": "làm đổ chai bia",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1623"
     },
     {
@@ -14885,8 +14930,8 @@
       "reading": "",
       "meaning": "bông tai",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "shopping",
+      "themeName": "Mua sắm",
       "id": "v1624"
     },
     {
@@ -14894,8 +14939,8 @@
       "reading": "",
       "meaning": "khung ảnh",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1625"
     },
     {
@@ -14903,8 +14948,8 @@
       "reading": "",
       "meaning": "thất vọng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1626"
     },
     {
@@ -14912,8 +14957,8 @@
       "reading": "",
       "meaning": "kính phía trc của ô tô",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1627"
     },
     {
@@ -14921,8 +14966,8 @@
       "reading": "",
       "meaning": "khu ẩm thực",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1628"
     },
     {
@@ -14930,8 +14975,8 @@
       "reading": "こする",
       "meaning": "chà bằng bàn chải",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1629"
     },
     {
@@ -14939,8 +14984,8 @@
       "reading": "",
       "meaning": "ban nhạc kèn đồng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1630"
     },
     {
@@ -14948,8 +14993,8 @@
       "reading": "",
       "meaning": "gian hàng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "shopping",
+      "themeName": "Mua sắm",
       "id": "v1631"
     },
     {
@@ -14957,8 +15002,8 @@
       "reading": "",
       "meaning": "đấu vật chuyên nghiệp",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "sports",
+      "themeName": "Vận động / Thể thao",
       "id": "v1632"
     },
     {
@@ -14966,8 +15011,8 @@
       "reading": "",
       "meaning": "ăn chay",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1633"
     },
     {
@@ -14975,8 +15020,8 @@
       "reading": "",
       "meaning": "tạ đẩy luyện cơ ngực",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "sports",
+      "themeName": "Vận động / Thể thao",
       "id": "v1634"
     },
     {
@@ -14984,8 +15029,8 @@
       "reading": "",
       "meaning": "màu be",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "appearance",
+      "themeName": "Ngoại hình / Làm đẹp",
       "id": "v1635"
     },
     {
@@ -14993,8 +15038,8 @@
       "reading": "",
       "meaning": "nhân viên khách sạn (bao gồm cả ng làm thêm)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1636"
     },
     {
@@ -15002,8 +15047,8 @@
       "reading": "",
       "meaning": "cái ống",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1637"
     },
     {
@@ -15011,8 +15056,8 @@
       "reading": "",
       "meaning": "làm ng giúp việc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1638"
     },
     {
@@ -15020,8 +15065,8 @@
       "reading": "",
       "meaning": "tỉa tóc cho mỏng lại",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "appearance",
+      "themeName": "Ngoại hình / Làm đẹp",
       "id": "v1639"
     },
     {
@@ -15029,8 +15074,8 @@
       "reading": "",
       "meaning": "nắp động cơ (ở phía trước của oto)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1640"
     },
     {
@@ -15038,8 +15083,8 @@
       "reading": "",
       "meaning": "can nhựa",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1641"
     },
     {
@@ -15047,8 +15092,8 @@
       "reading": "",
       "meaning": "tháp cảng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1642"
     },
     {
@@ -15056,8 +15101,8 @@
       "reading": "",
       "meaning": "cốc sứ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1643"
     },
     {
@@ -15065,8 +15110,8 @@
       "reading": "",
       "meaning": "cơ bắp cuồn cuộn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "body",
+      "themeName": "Cơ thể người",
       "id": "v1644"
     },
     {
@@ -15074,8 +15119,8 @@
       "reading": "",
       "meaning": "buồn bã, phiền não",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1645"
     },
     {
@@ -15083,8 +15128,8 @@
       "reading": "",
       "meaning": "hài hước",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1646"
     },
     {
@@ -15092,8 +15137,8 @@
       "reading": "",
       "meaning": "livestream",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1647"
     },
     {
@@ -15101,8 +15146,8 @@
       "reading": "",
       "meaning": "bánh mì lúa mạch đen",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1648"
     },
     {
@@ -15110,8 +15155,8 @@
       "reading": "",
       "meaning": "gắn mác",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1649"
     },
     {
@@ -15119,8 +15164,8 @@
       "reading": "",
       "meaning": "con sóc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "nature",
+      "themeName": "Thiên nhiên / Động vật / Thời tiết",
       "id": "v1650"
     },
     {
@@ -15128,8 +15173,8 @@
       "reading": "",
       "meaning": "đổi mới",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1651"
     },
     {
@@ -15137,8 +15182,8 @@
       "reading": "",
       "meaning": "xe buýt đưa đón",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1652"
     },
     {
@@ -15146,8 +15191,8 @@
       "reading": "",
       "meaning": "tái, chưa chín hẳn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1653"
     },
     {
@@ -15155,8 +15200,8 @@
       "reading": "",
       "meaning": "cuộc cách mạng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1654"
     },
     {
@@ -15164,8 +15209,8 @@
       "reading": "",
       "meaning": "thuê xe",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1655"
     },
     {
@@ -15173,8 +15218,8 @@
       "reading": "",
       "meaning": "cái cần gạt nước của ô tô",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1656"
     },
     {
@@ -15182,8 +15227,8 @@
       "reading": "",
       "meaning": "không dây",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "it",
+      "themeName": "IT / Công nghệ",
       "id": "v1657"
     },
     {
@@ -15191,8 +15236,8 @@
       "reading": "いっかのあたま",
       "meaning": "chủ hộ gia đình",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "family",
+      "themeName": "Gia đình / Họ hàng",
       "id": "v1658"
     },
     {
@@ -15200,8 +15245,8 @@
       "reading": "いちだんらく",
       "meaning": "công việc đã tạm ổn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1659"
     },
     {
@@ -15209,8 +15254,8 @@
       "reading": "たなばたのかざり",
       "meaning": "đồ trang trí của lễ thất tịch",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "life",
+      "themeName": "Sự kiện đời sống",
       "id": "v1660"
     },
     {
@@ -15218,8 +15263,8 @@
       "reading": "のぼりのでんしゃ",
       "meaning": "tàu chạy theo hướng tiến vào trung tâm thành phố (chạy đến điểm đầu của tuyến)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1661"
     },
     {
@@ -15227,8 +15272,8 @@
       "reading": "くだりのでんしゃ",
       "meaning": "tàu chạy theo hướng rời trung tâm thành phố (chạy đến điểm cuối của tuyến)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1662"
     },
     {
@@ -15236,8 +15281,8 @@
       "reading": "ふてぎわ",
       "meaning": "sơ suất, bất cẩn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1663"
     },
     {
@@ -15245,8 +15290,8 @@
       "reading": "なみもり",
       "meaning": "cỡ trung bình, cỡ thường",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1664"
     },
     {
@@ -15254,8 +15299,8 @@
       "reading": "くしかつ",
       "meaning": "thịt xiên",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1665"
     },
     {
@@ -15263,8 +15308,8 @@
       "reading": "",
       "meaning": "đi quá, hành động có chủ ý",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1666"
     },
     {
@@ -15272,8 +15317,8 @@
       "reading": "",
       "meaning": "đi quá, hành động k có chủ ý",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1667"
     },
     {
@@ -15281,8 +15326,8 @@
       "reading": "おとめざ",
       "meaning": "xử nữ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1668"
     },
     {
@@ -15290,8 +15335,8 @@
       "reading": "",
       "meaning": "hỗ trợ công việc văn phòng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1669"
     },
     {
@@ -15299,8 +15344,8 @@
       "reading": "ひとなつっこい",
       "meaning": "thân thiện, dễ gần",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1670"
     },
     {
@@ -15308,8 +15353,8 @@
       "reading": "ひとみしり",
       "meaning": "nhút nhát, bẽn lẽn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1671"
     },
     {
@@ -15317,8 +15362,8 @@
       "reading": "じんしんじこ",
       "meaning": "tai nạn về người",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1672"
     },
     {
@@ -15326,8 +15371,8 @@
       "reading": "",
       "meaning": "đồng nghiệp",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1673"
     },
     {
@@ -15335,8 +15380,8 @@
       "reading": "",
       "meaning": "giá mua vào",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "shopping",
+      "themeName": "Mua sắm",
       "id": "v1674"
     },
     {
@@ -15344,8 +15389,8 @@
       "reading": "しぐさ",
       "meaning": "hành vi, cử chỉ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1675"
     },
     {
@@ -15353,8 +15398,8 @@
       "reading": "だいようひん",
       "meaning": "vật thay thế, vật đại diện",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1676"
     },
     {
@@ -15362,8 +15407,8 @@
       "reading": "",
       "meaning": "nhà tắm tạm thời",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "nature",
+      "themeName": "Thiên nhiên / Động vật / Thời tiết",
       "id": "v1677"
     },
     {
@@ -15371,8 +15416,8 @@
       "reading": "",
       "meaning": "tụ tập ăn uống",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1678"
     },
     {
@@ -15380,8 +15425,8 @@
       "reading": "でんぴょう",
       "meaning": "tờ phiếu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1679"
     },
     {
@@ -15389,8 +15434,8 @@
       "reading": "じゅうたくがい",
       "meaning": "khu dân cư",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1680"
     },
     {
@@ -15398,8 +15443,8 @@
       "reading": "しぼう",
       "meaning": "lượng mỡ thừa",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "body",
+      "themeName": "Cơ thể người",
       "id": "v1681"
     },
     {
@@ -15407,8 +15452,8 @@
       "reading": "",
       "meaning": "vấn đề đã nói trước đó",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1682"
     },
     {
@@ -15416,8 +15461,8 @@
       "reading": "",
       "meaning": "được chứng nhận",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "legal",
+      "themeName": "Pháp lý / Hành chính",
       "id": "v1683"
     },
     {
@@ -15425,8 +15470,8 @@
       "reading": "ほようしょ",
       "meaning": "resort, khu nghỉ dưỡng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1684"
     },
     {
@@ -15434,8 +15479,8 @@
       "reading": "",
       "meaning": "người chăm chỉ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1685"
     },
     {
@@ -15443,8 +15488,8 @@
       "reading": "",
       "meaning": "nơi được ưa chuộng, ưa thích của tôi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1686"
     },
     {
@@ -15452,8 +15497,8 @@
       "reading": "さきのばし",
       "meaning": "trì hoãn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1687"
     },
     {
@@ -15461,8 +15506,8 @@
       "reading": "ぜんようはんめい",
       "meaning": "hoàn toàn sáng tỏ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1688"
     },
     {
@@ -15470,8 +15515,8 @@
       "reading": "こうぜん",
       "meaning": "công khai, không giấu diếm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1689"
     },
     {
@@ -15479,8 +15524,8 @@
       "reading": "かねあい",
       "meaning": "sự cân bằng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1690"
     },
     {
@@ -15488,8 +15533,8 @@
       "reading": "ぼうとう",
       "meaning": "phần đầu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "grammar",
+      "themeName": "Tính từ / Ngữ pháp",
       "id": "v1691"
     },
     {
@@ -15497,8 +15542,8 @@
       "reading": "こりかたまる",
       "meaning": "cứng nhắc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1692"
     },
     {
@@ -15506,8 +15551,8 @@
       "reading": "しょほうせん",
       "meaning": "đơn thuốc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1693"
     },
     {
@@ -15515,8 +15560,8 @@
       "reading": "しょきしょうか",
       "meaning": "dập lửa",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "legal",
+      "themeName": "Pháp lý / Hành chính",
       "id": "v1694"
     },
     {
@@ -15524,8 +15569,8 @@
       "reading": "",
       "meaning": "phí đầu vào",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1695"
     },
     {
@@ -15533,8 +15578,8 @@
       "reading": "りこう",
       "meaning": "thông minh lanh lợi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1696"
     },
     {
@@ -15542,8 +15587,8 @@
       "reading": "しげき",
       "meaning": "sự kích thích",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1697"
     },
     {
@@ -15551,8 +15596,8 @@
       "reading": "かめいてん",
       "meaning": "cửa hàng nhượng quyền, cửa hàng liên kết",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "shopping",
+      "themeName": "Mua sắm",
       "id": "v1698"
     },
     {
@@ -15560,8 +15605,8 @@
       "reading": "じょしゅせき",
       "meaning": "ghế phụ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1699"
     },
     {
@@ -15569,8 +15614,8 @@
       "reading": "",
       "meaning": "dũng cảm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1700"
     },
     {
@@ -15578,8 +15623,8 @@
       "reading": "",
       "meaning": "nói tuỳ tiện (đưa ra ý kiến chỉ biết lợi cho mình)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1701"
     },
     {
@@ -15587,8 +15632,8 @@
       "reading": "いやしい",
       "meaning": "hạ mình, hèn kém",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1702"
     },
     {
@@ -15596,8 +15641,8 @@
       "reading": "",
       "meaning": "không lấy được tín chỉ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "school",
+      "themeName": "Học tập / Trường học",
       "id": "v1703"
     },
     {
@@ -15605,8 +15650,8 @@
       "reading": "きぐ",
       "meaning": "lo âu, lo lắng, lo sợ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1704"
     },
     {
@@ -15614,8 +15659,8 @@
       "reading": "",
       "meaning": "sách tham khảo",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "school",
+      "themeName": "Học tập / Trường học",
       "id": "v1705"
     },
     {
@@ -15623,8 +15668,8 @@
       "reading": "おば",
       "meaning": "cô, dì",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "family",
+      "themeName": "Gia đình / Họ hàng",
       "id": "v1706"
     },
     {
@@ -15632,8 +15677,8 @@
       "reading": "おじ",
       "meaning": "chú, bác",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "family",
+      "themeName": "Gia đình / Họ hàng",
       "id": "v1707"
     },
     {
@@ -15641,8 +15686,8 @@
       "reading": "くち",
       "meaning": "ý kiến đánh giá của mọi người",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1708"
     },
     {
@@ -15650,8 +15695,8 @@
       "reading": "",
       "meaning": "khăn lau bếp",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1709"
     },
     {
@@ -15659,8 +15704,8 @@
       "reading": "だいなし",
       "meaning": "phá huỷ, huỷ hoại, không còn ý nghĩa gì",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1710"
     },
     {
@@ -15668,8 +15713,8 @@
       "reading": "",
       "meaning": "tính tổng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "finance",
+      "themeName": "Ngân hàng / Tài chính",
       "id": "v1711"
     },
     {
@@ -15677,8 +15722,8 @@
       "reading": "なふだ",
       "meaning": "bảng tên, thẻ (をつける)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1712"
     },
     {
@@ -15686,8 +15731,8 @@
       "reading": "われき",
       "meaning": "lịch của Nhật",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1713"
     },
     {
@@ -15695,8 +15740,8 @@
       "reading": "しなぞろえ",
       "meaning": "chủng loại sản phẩm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "shopping",
+      "themeName": "Mua sắm",
       "id": "v1714"
     },
     {
@@ -15704,8 +15749,8 @@
       "reading": "うなる",
       "meaning": "kêu rú, gầm gừ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1715"
     },
     {
@@ -15713,8 +15758,8 @@
       "reading": "しょうじ",
       "meaning": "mua bán thương mại",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1716"
     },
     {
@@ -15722,8 +15767,8 @@
       "reading": "しょうかい",
       "meaning": "công ty",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1717"
     },
     {
@@ -15731,8 +15776,8 @@
       "reading": "しょうひんみほん",
       "meaning": "hàng mẫu của sản phẩm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "shopping",
+      "themeName": "Mua sắm",
       "id": "v1718"
     },
     {
@@ -15740,8 +15785,8 @@
       "reading": "しょうばいどうぐ",
       "meaning": "công cụ kiếm ăn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1719"
     },
     {
@@ -15749,8 +15794,8 @@
       "reading": "ふんしゃ",
       "meaning": "phun",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1720"
     },
     {
@@ -15758,8 +15803,8 @@
       "reading": "よつかど",
       "meaning": "ngã tư",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1721"
     },
     {
@@ -15767,8 +15812,8 @@
       "reading": "",
       "meaning": "đi đường vòng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1722"
     },
     {
@@ -15776,8 +15821,8 @@
       "reading": "ずめん",
       "meaning": "bản vẽ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1723"
     },
     {
@@ -15785,8 +15830,8 @@
       "reading": "こくどう",
       "meaning": "đường quốc lộ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1724"
     },
     {
@@ -15794,8 +15839,8 @@
       "reading": "どげさ",
       "meaning": "quỳ xuống sát đất",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1725"
     },
     {
@@ -15803,8 +15848,8 @@
       "reading": "",
       "meaning": "giải đấu địa phương",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "sports",
+      "themeName": "Vận động / Thể thao",
       "id": "v1726"
     },
     {
@@ -15812,8 +15857,8 @@
       "reading": "じごく",
       "meaning": "địa ngục",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1727"
     },
     {
@@ -15821,8 +15866,8 @@
       "reading": "じらい",
       "meaning": "mìn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "legal",
+      "themeName": "Pháp lý / Hành chính",
       "id": "v1728"
     },
     {
@@ -15830,8 +15875,8 @@
       "reading": "すいちょく",
       "meaning": "thẳng đứng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1729"
     },
     {
@@ -15839,8 +15884,8 @@
       "reading": "かきね",
       "meaning": "rào cản",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1730"
     },
     {
@@ -15848,8 +15893,8 @@
       "reading": "しおたいおう",
       "meaning": "ứng xử lạnh nhạt, k nhiệt tình",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1731"
     },
     {
@@ -15857,8 +15902,8 @@
       "reading": "そうぜつ",
       "meaning": "vĩ đại",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1732"
     },
     {
@@ -15866,8 +15911,8 @@
       "reading": "せいゆう",
       "meaning": "diễn viên lồng tiếng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1733"
     },
     {
@@ -15875,8 +15920,8 @@
       "reading": "ばいきゃくかかく",
       "meaning": "giá bán",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "shopping",
+      "themeName": "Mua sắm",
       "id": "v1734"
     },
     {
@@ -15884,8 +15929,8 @@
       "reading": "だいだいてき",
       "meaning": "rộng lớn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1735"
     },
     {
@@ -15893,8 +15938,8 @@
       "reading": "おくぶかい",
       "meaning": "vô biên, bao la, bạt ngàn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1736"
     },
     {
@@ -15902,8 +15947,8 @@
       "reading": "ふじんふく",
       "meaning": "quần áo nữ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "shopping",
+      "themeName": "Mua sắm",
       "id": "v1737"
     },
     {
@@ -15911,8 +15956,8 @@
       "reading": "",
       "meaning": "cảm giác cô độc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1738"
     },
     {
@@ -15920,8 +15965,8 @@
       "reading": "まご",
       "meaning": "cháu (gọi mình là ông, bà)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "family",
+      "themeName": "Gia đình / Họ hàng",
       "id": "v1739"
     },
     {
@@ -15929,8 +15974,8 @@
       "reading": "",
       "meaning": "hộp nhét bưu phẩm khi giao hàng tận nhà",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "post",
+      "themeName": "Bưu điện / Gửi nhận",
       "id": "v1740"
     },
     {
@@ -15938,8 +15983,8 @@
       "reading": "あんか",
       "meaning": "giá rẻ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "shopping",
+      "themeName": "Mua sắm",
       "id": "v1741"
     },
     {
@@ -15947,8 +15992,8 @@
       "reading": "",
       "meaning": "chốt an toàn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1742"
     },
     {
@@ -15956,8 +16001,8 @@
       "reading": "じょうぎ",
       "meaning": "thước kẻ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1743"
     },
     {
@@ -15965,8 +16010,8 @@
       "reading": "かない",
       "meaning": "vợ tôi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "family",
+      "themeName": "Gia đình / Họ hàng",
       "id": "v1744"
     },
     {
@@ -15974,8 +16019,8 @@
       "reading": "やど",
       "meaning": "nhà trọ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1745"
     },
     {
@@ -15983,8 +16028,8 @@
       "reading": "",
       "meaning": "không chịu được lạnh, không chịu được nóng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "nature",
+      "themeName": "Thiên nhiên / Động vật / Thời tiết",
       "id": "v1746"
     },
     {
@@ -15992,8 +16037,8 @@
       "reading": "",
       "meaning": "phong toả",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "legal",
+      "themeName": "Pháp lý / Hành chính",
       "id": "v1747"
     },
     {
@@ -16001,8 +16046,8 @@
       "reading": "しょうにか",
       "meaning": "bác sĩ khoa nhi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1748"
     },
     {
@@ -16010,8 +16055,8 @@
       "reading": "こづつみ",
       "meaning": "gói bưu phẩm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "post",
+      "themeName": "Bưu điện / Gửi nhận",
       "id": "v1749"
     },
     {
@@ -16019,8 +16064,8 @@
       "reading": "",
       "meaning": "k ít",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1750"
     },
     {
@@ -16028,8 +16073,8 @@
       "reading": "じんりょく",
       "meaning": "tận lực",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1751"
     },
     {
@@ -16037,8 +16082,8 @@
       "reading": "きょくちてき",
       "meaning": "mang tính cục bộ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1752"
     },
     {
@@ -16046,8 +16091,8 @@
       "reading": "きょじゅうりつ",
       "meaning": "tỉ lệ sinh sống",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1753"
     },
     {
@@ -16055,8 +16100,8 @@
       "reading": "",
       "meaning": "ngủ gật",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1754"
     },
     {
@@ -16064,8 +16109,8 @@
       "reading": "いま",
       "meaning": "phòng khách",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1755"
     },
     {
@@ -16073,8 +16118,8 @@
       "reading": "おくがい",
       "meaning": "ngoài trời",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "nature",
+      "themeName": "Thiên nhiên / Động vật / Thời tiết",
       "id": "v1756"
     },
     {
@@ -16082,8 +16127,8 @@
       "reading": "",
       "meaning": "liên luỵ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1757"
     },
     {
@@ -16091,8 +16136,8 @@
       "reading": "きしょうかち",
       "meaning": "giá trị hiếm có",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1758"
     },
     {
@@ -16100,8 +16145,8 @@
       "reading": "じょうむ",
       "meaning": "giám đốc điều hành",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1759"
     },
     {
@@ -16109,8 +16154,8 @@
       "reading": "ねんぱい",
       "meaning": "người có tuổi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1760"
     },
     {
@@ -16118,8 +16163,8 @@
       "reading": "",
       "meaning": "điều hành, điều phối",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1761"
     },
     {
@@ -16127,8 +16172,8 @@
       "reading": "まぼろし",
       "meaning": "ảo mộng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1762"
     },
     {
@@ -16136,8 +16181,8 @@
       "reading": "とこや",
       "meaning": "hiệu cắt tóc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "appearance",
+      "themeName": "Ngoại hình / Làm đẹp",
       "id": "v1763"
     },
     {
@@ -16145,8 +16190,8 @@
       "reading": "せんりょう",
       "meaning": "chiếm chỗ ngồi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1764"
     },
     {
@@ -16154,8 +16199,8 @@
       "reading": "ざせきしてい",
       "meaning": "ghế chỉ định",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1765"
     },
     {
@@ -16163,8 +16208,8 @@
       "reading": "ざしき",
       "meaning": "phòng kiểu nhật",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1766"
     },
     {
@@ -16172,8 +16217,8 @@
       "reading": "えんちょうりょうきん",
       "meaning": "phí gia hạn thêm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "finance",
+      "themeName": "Ngân hàng / Tài chính",
       "id": "v1767"
     },
     {
@@ -16181,8 +16226,8 @@
       "reading": "しきてん",
       "meaning": "nghi thức",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "life",
+      "themeName": "Sự kiện đời sống",
       "id": "v1768"
     },
     {
@@ -16190,8 +16235,8 @@
       "reading": "",
       "meaning": "giữ lại, níu lại -> お引き止めして、申し訳ございません。：xin lỗi vì níu bạn lại nãy giờ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1769"
     },
     {
@@ -16199,8 +16244,8 @@
       "reading": "",
       "meaning": "giấy dán thông báo",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1770"
     },
     {
@@ -16208,8 +16253,8 @@
       "reading": "あたりさわり",
       "meaning": "chướng ngại, trở ngại",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1771"
     },
     {
@@ -16217,8 +16262,8 @@
       "reading": "",
       "meaning": "đợi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1772"
     },
     {
@@ -16226,8 +16271,8 @@
       "reading": "こうじんをはいする",
       "meaning": "bị nẫng tay trên",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1773"
     },
     {
@@ -16235,8 +16280,8 @@
       "reading": "",
       "meaning": "ứng phó không kịp, trạng thái bị động",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1774"
     },
     {
@@ -16244,8 +16289,8 @@
       "reading": "",
       "meaning": "tinh thần lung lay",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1775"
     },
     {
@@ -16253,8 +16298,8 @@
       "reading": "こころちよい",
       "meaning": "thoải mái",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1776"
     },
     {
@@ -16262,8 +16307,8 @@
       "reading": "かいそく",
       "meaning": "tàu nhanh",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1777"
     },
     {
@@ -16271,8 +16316,8 @@
       "reading": "",
       "meaning": "kẻ lười biếng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1778"
     },
     {
@@ -16280,8 +16325,8 @@
       "reading": "おんきせがましい",
       "meaning": "làm cho người khác cảm thấy mang ơn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1779"
     },
     {
@@ -16289,8 +16334,8 @@
       "reading": "",
       "meaning": "khó thở",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1780"
     },
     {
@@ -16298,8 +16343,8 @@
       "reading": "なさけない",
       "meaning": "tệ hại, thảm hại",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1781"
     },
     {
@@ -16307,8 +16352,8 @@
       "reading": "いとしい",
       "meaning": "đáng yêu, yêu dấu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1782"
     },
     {
@@ -16316,8 +16361,8 @@
       "reading": "かいちゅうでんとう",
       "meaning": "đèn pin",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1783"
     },
     {
@@ -16325,8 +16370,8 @@
       "reading": "とまどう",
       "meaning": "lúng túng không biết cách làm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1784"
     },
     {
@@ -16334,8 +16379,8 @@
       "reading": "てみやげ",
       "meaning": "quà xách tay đến",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "life",
+      "themeName": "Sự kiện đời sống",
       "id": "v1785"
     },
     {
@@ -16343,8 +16388,8 @@
       "reading": "こうせいぶっしつ",
       "meaning": "thuốc kháng sinh",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1786"
     },
     {
@@ -16352,8 +16397,8 @@
       "reading": "だっこする",
       "meaning": "bế (trên tay) 腕に抱く(うでにいだく)：bế",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "family",
+      "themeName": "Gia đình / Họ hàng",
       "id": "v1787"
     },
     {
@@ -16361,8 +16406,8 @@
       "reading": "",
       "meaning": "bác sĩ phụ trách",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1788"
     },
     {
@@ -16370,8 +16415,8 @@
       "reading": "ぬぐう",
       "meaning": "lau nước mắt",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1789"
     },
     {
@@ -16379,8 +16424,8 @@
       "reading": "くじく",
       "meaning": "bong gân",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1790"
     },
     {
@@ -16388,8 +16433,8 @@
       "reading": "とらえる",
       "meaning": "nắm bắt",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1791"
     },
     {
@@ -16397,8 +16442,8 @@
       "reading": "",
       "meaning": "sử dụng máy hút bụi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1792"
     },
     {
@@ -16406,8 +16451,8 @@
       "reading": "しききん",
       "meaning": "tiền cọc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1793"
     },
     {
@@ -16415,8 +16460,8 @@
       "reading": "だんすい",
       "meaning": "mất nước",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1794"
     },
     {
@@ -16424,8 +16469,8 @@
       "reading": "だんじき",
       "meaning": "nhịn ăn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1795"
     },
     {
@@ -16433,8 +16478,8 @@
       "reading": "しんちく",
       "meaning": "nhà mới xây, chưa qua sử dụng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1796"
     },
     {
@@ -16442,8 +16487,8 @@
       "reading": "きせい",
       "meaning": "đồ làm sẵn, gia công sẵn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "shopping",
+      "themeName": "Mua sắm",
       "id": "v1797"
     },
     {
@@ -16451,8 +16496,8 @@
       "reading": "",
       "meaning": "ngày tháng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "grammar",
+      "themeName": "Tính từ / Ngữ pháp",
       "id": "v1798"
     },
     {
@@ -16460,8 +16505,8 @@
       "reading": "ざいじゅう",
       "meaning": "đang sinh sống tại Nhật",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1799"
     },
     {
@@ -16469,8 +16514,8 @@
       "reading": "じかんわり",
       "meaning": "thời khoá biểu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "school",
+      "themeName": "Học tập / Trường học",
       "id": "v1800"
     },
     {
@@ -16478,8 +16523,8 @@
       "reading": "",
       "meaning": "luật lệ ngầm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "legal",
+      "themeName": "Pháp lý / Hành chính",
       "id": "v1801"
     },
     {
@@ -16487,8 +16532,8 @@
       "reading": "あばれる",
       "meaning": "làm loạn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1802"
     },
     {
@@ -16496,8 +16541,8 @@
       "reading": "ぼうげん",
       "meaning": "lời nói khiếm nhã",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1803"
     },
     {
@@ -16505,8 +16550,8 @@
       "reading": "こういしゅつ",
       "meaning": "phòng thay đồ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "school",
+      "themeName": "Học tập / Trường học",
       "id": "v1804"
     },
     {
@@ -16514,8 +16559,8 @@
       "reading": "",
       "meaning": "nghe và viết vào",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "school",
+      "themeName": "Học tập / Trường học",
       "id": "v1805"
     },
     {
@@ -16523,8 +16568,8 @@
       "reading": "",
       "meaning": "tự mình suy nghĩ và viết ra",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "school",
+      "themeName": "Học tập / Trường học",
       "id": "v1806"
     },
     {
@@ -16532,8 +16577,8 @@
       "reading": "かきとめ",
       "meaning": "gửi đảm bảo",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "post",
+      "themeName": "Bưu điện / Gửi nhận",
       "id": "v1807"
     },
     {
@@ -16541,8 +16586,8 @@
       "reading": "まっき",
       "meaning": "giai đoạn cuối",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1808"
     },
     {
@@ -16550,8 +16595,8 @@
       "reading": "けんじ",
       "meaning": "công tố viên, kiểm sát viên",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "legal",
+      "themeName": "Pháp lý / Hành chính",
       "id": "v1809"
     },
     {
@@ -16559,8 +16604,8 @@
       "reading": "",
       "meaning": "thời gian làm việc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1810"
     },
     {
@@ -16568,8 +16613,8 @@
       "reading": "おうだんほどう",
       "meaning": "đường dành cho ng đi bộ qua đường",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1811"
     },
     {
@@ -16577,8 +16622,8 @@
       "reading": "じちょう",
       "meaning": "phó giám đốc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1812"
     },
     {
@@ -16586,8 +16631,8 @@
       "reading": "せいざ",
       "meaning": "ngồi quỳ gối",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1813"
     },
     {
@@ -16595,8 +16640,8 @@
       "reading": "",
       "meaning": "hợp pháp, phù hợp",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "legal",
+      "themeName": "Pháp lý / Hành chính",
       "id": "v1814"
     },
     {
@@ -16604,8 +16649,8 @@
       "reading": "",
       "meaning": "đi gặp bác sĩ nha khoa",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1815"
     },
     {
@@ -16613,8 +16658,8 @@
       "reading": "もうふ",
       "meaning": "chăn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1816"
     },
     {
@@ -16622,8 +16667,8 @@
       "reading": "みんしゅく",
       "meaning": "nhà trọ của người dân",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1817"
     },
     {
@@ -16631,8 +16676,8 @@
       "reading": "みんぞくしりょうかん",
       "meaning": "bảo tàng văn hoá dân gian",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1818"
     },
     {
@@ -16640,8 +16685,8 @@
       "reading": "きさく",
       "meaning": "cởi mở, hoà đồng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1819"
     },
     {
@@ -16649,8 +16694,8 @@
       "reading": "",
       "meaning": "không có áp lực",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1820"
     },
     {
@@ -16658,8 +16703,8 @@
       "reading": "",
       "meaning": "tự làm mình căng thẳng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1821"
     },
     {
@@ -16667,8 +16712,8 @@
       "reading": "くむ",
       "meaning": "múc nước",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1822"
     },
     {
@@ -16676,8 +16721,8 @@
       "reading": "",
       "meaning": "mùi mồ hôi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "body",
+      "themeName": "Cơ thể người",
       "id": "v1823"
     },
     {
@@ -16685,8 +16730,8 @@
       "reading": "",
       "meaning": "tra dầu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1824"
     },
     {
@@ -16694,8 +16739,8 @@
       "reading": "ゆだん",
       "meaning": "lơ là, lơ đễnh",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1825"
     },
     {
@@ -16703,8 +16748,8 @@
       "reading": "ほうてい",
       "meaning": "toà án, phòng xử án",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "legal",
+      "themeName": "Pháp lý / Hành chính",
       "id": "v1826"
     },
     {
@@ -16712,8 +16757,8 @@
       "reading": "ようふくだんす",
       "meaning": "tủ quần áo",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1827"
     },
     {
@@ -16721,8 +16766,8 @@
       "reading": "せんじょうき",
       "meaning": "máy tẩy rửa, máy vệ sinh",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1828"
     },
     {
@@ -16730,8 +16775,8 @@
       "reading": "りゅうつうきこう",
       "meaning": "hệ thống phân phối",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1829"
     },
     {
@@ -16739,8 +16784,8 @@
       "reading": "うみのさち",
       "meaning": "hải sản",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1830"
     },
     {
@@ -16748,8 +16793,8 @@
       "reading": "しょうかき",
       "meaning": "bình cứu hoả",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "legal",
+      "themeName": "Pháp lý / Hành chính",
       "id": "v1831"
     },
     {
@@ -16757,8 +16802,8 @@
       "reading": "しょうぼうしょ",
       "meaning": "trạm cứu hoả",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "legal",
+      "themeName": "Pháp lý / Hành chính",
       "id": "v1832"
     },
     {
@@ -16766,8 +16811,8 @@
       "reading": "",
       "meaning": "thanh toán",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "finance",
+      "themeName": "Ngân hàng / Tài chính",
       "id": "v1833"
     },
     {
@@ -16775,8 +16820,8 @@
       "reading": "てんこ",
       "meaning": "điểm danh",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "school",
+      "themeName": "Học tập / Trường học",
       "id": "v1834"
     },
     {
@@ -16784,8 +16829,8 @@
       "reading": "むだん",
       "meaning": "tự tiện, k có sự cho phép",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1835"
     },
     {
@@ -16793,8 +16838,8 @@
       "reading": "",
       "meaning": "thiếu trách nhiệm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1836"
     },
     {
@@ -16802,8 +16847,8 @@
       "reading": "むだ",
       "meaning": "hoang phí",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1837"
     },
     {
@@ -16811,8 +16856,8 @@
       "reading": "はぶく",
       "meaning": "giảm bớt lãng phí",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1838"
     },
     {
@@ -16820,8 +16865,8 @@
       "reading": "しかり",
       "meaning": "cũng như vậy (僕も然りだ)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "grammar",
+      "themeName": "Tính từ / Ngữ pháp",
       "id": "v1839"
     },
     {
@@ -16829,8 +16874,8 @@
       "reading": "ぼくじょう",
       "meaning": "trang trại",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "nature",
+      "themeName": "Thiên nhiên / Động vật / Thời tiết",
       "id": "v1840"
     },
     {
@@ -16838,8 +16883,8 @@
       "reading": "",
       "meaning": "đo bằng thước kẻ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1841"
     },
     {
@@ -16847,8 +16892,8 @@
       "reading": "ものほしざお",
       "meaning": "sào phơi đồ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1842"
     },
     {
@@ -16856,8 +16901,8 @@
       "reading": "",
       "meaning": "cất vào kho",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1843"
     },
     {
@@ -16865,8 +16910,8 @@
       "reading": "",
       "meaning": "cán qua con mèo",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1844"
     },
     {
@@ -16874,8 +16919,8 @@
       "reading": "こんだて",
       "meaning": "thực đơn, menu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1845"
     },
     {
@@ -16883,8 +16928,8 @@
       "reading": "りふじん",
       "meaning": "phi lí, vô lí, vô cớ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1846"
     },
     {
@@ -16892,8 +16937,8 @@
       "reading": "りこうがくぶ",
       "meaning": "khoa khoa học kĩ thuật",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "school",
+      "themeName": "Học tập / Trường học",
       "id": "v1847"
     },
     {
@@ -16901,8 +16946,8 @@
       "reading": "りはつてん",
       "meaning": "tiệm cắt tóc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "appearance",
+      "themeName": "Ngoại hình / Làm đẹp",
       "id": "v1848"
     },
     {
@@ -16910,8 +16955,8 @@
       "reading": "",
       "meaning": "âm thanh môi trường xung quanh",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "nature",
+      "themeName": "Thiên nhiên / Động vật / Thời tiết",
       "id": "v1849"
     },
     {
@@ -16919,8 +16964,8 @@
       "reading": "あまざけ",
       "meaning": "rượu ngọt",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1850"
     },
     {
@@ -16928,8 +16973,8 @@
       "reading": "なまいき",
       "meaning": "hỗn xược, xấc xược, kiêu căng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1851"
     },
     {
@@ -16937,8 +16982,8 @@
       "reading": "たたむ",
       "meaning": "gập (chăn, chiếu)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1852"
     },
     {
@@ -16946,8 +16991,8 @@
       "reading": "そがいかん",
       "meaning": "cảm giác bị xa lánh, bị cho ra rìa",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1853"
     },
     {
@@ -16955,8 +17000,8 @@
       "reading": "",
       "meaning": "bị xàm sỡ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "legal",
+      "themeName": "Pháp lý / Hành chính",
       "id": "v1854"
     },
     {
@@ -16964,8 +17009,8 @@
       "reading": "ちかんこうい",
       "meaning": "hành vi sờ soạng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "legal",
+      "themeName": "Pháp lý / Hành chính",
       "id": "v1855"
     },
     {
@@ -16973,8 +17018,8 @@
       "reading": "あれる",
       "meaning": "da nứt nẻ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "body",
+      "themeName": "Cơ thể người",
       "id": "v1856"
     },
     {
@@ -16982,8 +17027,8 @@
       "reading": "かんし",
       "meaning": "giám sát, theo dõi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "legal",
+      "themeName": "Pháp lý / Hành chính",
       "id": "v1857"
     },
     {
@@ -16991,8 +17036,8 @@
       "reading": "",
       "meaning": "gãi, dụi mắt",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "body",
+      "themeName": "Cơ thể người",
       "id": "v1858"
     },
     {
@@ -17000,8 +17045,8 @@
       "reading": "めだまやき",
       "meaning": "trứng ốp la",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1859"
     },
     {
@@ -17009,8 +17054,8 @@
       "reading": "ちょっこう",
       "meaning": "đi thẳng (k ghé qua đâu đó)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1860"
     },
     {
@@ -17018,8 +17063,8 @@
       "reading": "すもうとり",
       "meaning": "đô vật",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1861"
     },
     {
@@ -17027,8 +17072,8 @@
       "reading": "",
       "meaning": "đưa ra lời khuyên, góp ý",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1862"
     },
     {
@@ -17036,8 +17081,8 @@
       "reading": "まはんたい",
       "meaning": "hoàn toàn trái ngược nhau",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1863"
     },
     {
@@ -17045,8 +17090,8 @@
       "reading": "",
       "meaning": "quần đùi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "shopping",
+      "themeName": "Mua sắm",
       "id": "v1864"
     },
     {
@@ -17054,8 +17099,8 @@
       "reading": "たんざく",
       "meaning": "mảnh giấy nhỏ để ghi điều ước",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1865"
     },
     {
@@ -17063,8 +17108,8 @@
       "reading": "こうか",
       "meaning": "tiền xu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "finance",
+      "themeName": "Ngân hàng / Tài chính",
       "id": "v1866"
     },
     {
@@ -17072,8 +17117,8 @@
       "reading": "れいじょう",
       "meaning": "thư cảm ơn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1867"
     },
     {
@@ -17081,8 +17126,8 @@
       "reading": "れいきん",
       "meaning": "tiền lễ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "housing",
+      "themeName": "Nhà cửa / Thuê nhà",
       "id": "v1868"
     },
     {
@@ -17090,8 +17135,8 @@
       "reading": "",
       "meaning": "cầu nguyện",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1869"
     },
     {
@@ -17099,8 +17144,8 @@
       "reading": "しゅくふく",
       "meaning": "chúc phúc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "life",
+      "themeName": "Sự kiện đời sống",
       "id": "v1870"
     },
     {
@@ -17108,8 +17153,8 @@
       "reading": "かみたいおう",
       "meaning": "ứng xử cực kì tốt (ngành dịch vụ)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1871"
     },
     {
@@ -17117,8 +17162,8 @@
       "reading": "しんかくか",
       "meaning": "thần thánh hoá",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1872"
     },
     {
@@ -17126,8 +17171,8 @@
       "reading": "ほどなく",
       "meaning": "chẳng bao lâu, một lát sau",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "grammar",
+      "themeName": "Tính từ / Ngữ pháp",
       "id": "v1873"
     },
     {
@@ -17135,8 +17180,8 @@
       "reading": "",
       "meaning": "cái bơm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "daily",
+      "themeName": "Đời sống hàng ngày",
       "id": "v1874"
     },
     {
@@ -17144,8 +17189,8 @@
       "reading": "",
       "meaning": "đâm, chọc, cắm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1875"
     },
     {
@@ -17153,8 +17198,8 @@
       "reading": "",
       "meaning": "rẽ trái ở cuối đường",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1876"
     },
     {
@@ -17162,8 +17207,8 @@
       "reading": "りっち",
       "meaning": "vị trí, địa thế",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1877"
     },
     {
@@ -17171,8 +17216,8 @@
       "reading": "ささ",
       "meaning": "cây trúc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "nature",
+      "themeName": "Thiên nhiên / Động vật / Thời tiết",
       "id": "v1878"
     },
     {
@@ -17180,8 +17225,8 @@
       "reading": "ひっきようぐ",
       "meaning": "dụng cụ viết",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1879"
     },
     {
@@ -17189,8 +17234,8 @@
       "reading": "とうあん",
       "meaning": "phiếu trả lời",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "school",
+      "themeName": "Học tập / Trường học",
       "id": "v1880"
     },
     {
@@ -17198,8 +17243,8 @@
       "reading": "こもる",
       "meaning": "ở lỳ, ẩn mình, không ra ngoài",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1881"
     },
     {
@@ -17207,8 +17252,8 @@
       "reading": "ねばる",
       "meaning": "nhây, dai dẳng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1882"
     },
     {
@@ -17216,8 +17261,8 @@
       "reading": "",
       "meaning": "cảm giác thuần khiết",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1883"
     },
     {
@@ -17225,8 +17270,8 @@
       "reading": "",
       "meaning": "chân thành",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1884"
     },
     {
@@ -17234,8 +17279,8 @@
       "reading": "しがいせん",
       "meaning": "tia UV",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1885"
     },
     {
@@ -17243,8 +17288,8 @@
       "reading": "おろす",
       "meaning": "rút tiền lương",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "finance",
+      "themeName": "Ngân hàng / Tài chính",
       "id": "v1886"
     },
     {
@@ -17252,8 +17297,8 @@
       "reading": "きゅうすいしゃ",
       "meaning": "xe chở nước cứu trợ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1887"
     },
     {
@@ -17261,8 +17306,8 @@
       "reading": "きゅうしょく",
       "meaning": "cơm suất (do cơ quan, trường học chuẩn bị)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1888"
     },
     {
@@ -17270,8 +17315,8 @@
       "reading": "ぜつみょう",
       "meaning": "tuyệt vời",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1889"
     },
     {
@@ -17279,8 +17324,8 @@
       "reading": "",
       "meaning": "cảnh báo sớm về động đất",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "nature",
+      "themeName": "Thiên nhiên / Động vật / Thời tiết",
       "id": "v1890"
     },
     {
@@ -17288,8 +17333,8 @@
       "reading": "",
       "meaning": "trung tâm phúc lợi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1891"
     },
     {
@@ -17297,8 +17342,8 @@
       "reading": "せんろ",
       "meaning": "đường ray 🛤️",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1892"
     },
     {
@@ -17306,8 +17351,8 @@
       "reading": "しめくくる",
       "meaning": "tổng kết (một năm)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "grammar",
+      "themeName": "Tính từ / Ngữ pháp",
       "id": "v1893"
     },
     {
@@ -17315,8 +17360,8 @@
       "reading": "",
       "meaning": "chất chứa trong lòng (nỗi bất an)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1894"
     },
     {
@@ -17324,8 +17369,8 @@
       "reading": "",
       "meaning": "áp đặt",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1895"
     },
     {
@@ -17333,8 +17378,8 @@
       "reading": "せんい",
       "meaning": "dệt may",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1896"
     },
     {
@@ -17342,8 +17387,8 @@
       "reading": "",
       "meaning": "mở rộng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1897"
     },
     {
@@ -17351,8 +17396,8 @@
       "reading": "",
       "meaning": "bỏ lại, bỏ rơi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1898"
     },
     {
@@ -17360,8 +17405,8 @@
       "reading": "たいすい",
       "meaning": "chống nước",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1899"
     },
     {
@@ -17369,8 +17414,8 @@
       "reading": "ひまん",
       "meaning": "béo phì",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1900"
     },
     {
@@ -17378,8 +17423,8 @@
       "reading": "",
       "meaning": "quay lưng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1901"
     },
     {
@@ -17387,8 +17432,8 @@
       "reading": "だっせん",
       "meaning": "lạc đề",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1902"
     },
     {
@@ -17396,8 +17441,8 @@
       "reading": "うでたてふせ",
       "meaning": "hít đất, chống đẩy",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "sports",
+      "themeName": "Vận động / Thể thao",
       "id": "v1903"
     },
     {
@@ -17405,8 +17450,8 @@
       "reading": "はらはちぶんめ",
       "meaning": "ăn không quá no",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1904"
     },
     {
@@ -17414,8 +17459,8 @@
       "reading": "ふっきん",
       "meaning": "gập bụng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "body",
+      "themeName": "Cơ thể người",
       "id": "v1905"
     },
     {
@@ -17423,8 +17468,8 @@
       "reading": "ひざをくずす",
       "meaning": "ngồi duỗi thẳng chân ra",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "body",
+      "themeName": "Cơ thể người",
       "id": "v1906"
     },
     {
@@ -17432,8 +17477,8 @@
       "reading": "",
       "meaning": "bơm xe đạp",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1907"
     },
     {
@@ -17441,8 +17486,8 @@
       "reading": "こうくうびん",
       "meaning": "đường hàng không",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "post",
+      "themeName": "Bưu điện / Gửi nhận",
       "id": "v1908"
     },
     {
@@ -17450,8 +17495,8 @@
       "reading": "ふなびん",
       "meaning": "bưu kiện gửi bằng đường biển",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "post",
+      "themeName": "Bưu điện / Gửi nhận",
       "id": "v1909"
     },
     {
@@ -17459,8 +17504,8 @@
       "reading": "しばい",
       "meaning": "vở kịch",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1910"
     },
     {
@@ -17468,8 +17513,8 @@
       "reading": "かだん",
       "meaning": "vườn hoa",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "nature",
+      "themeName": "Thiên nhiên / Động vật / Thời tiết",
       "id": "v1911"
     },
     {
@@ -17477,8 +17522,8 @@
       "reading": "らくご",
       "meaning": "kể chuyện 1 mk",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1912"
     },
     {
@@ -17486,8 +17531,8 @@
       "reading": "じんましん",
       "meaning": "nổi mề đay",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1913"
     },
     {
@@ -17495,8 +17540,8 @@
       "reading": "やっきょく",
       "meaning": "hiệu thuốc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1914"
     },
     {
@@ -17504,8 +17549,8 @@
       "reading": "やくぶつちゅうどく",
       "meaning": "đầu độc thuốc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1915"
     },
     {
@@ -17513,8 +17558,8 @@
       "reading": "",
       "meaning": "tỉ mỉ, kĩ lưỡng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1916"
     },
     {
@@ -17522,8 +17567,8 @@
       "reading": "しょうげき",
       "meaning": "sốc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1917"
     },
     {
@@ -17531,8 +17576,8 @@
       "reading": "はかま",
       "meaning": "áo kimono của nam",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1918"
     },
     {
@@ -17540,8 +17585,8 @@
       "reading": "ほしゅう",
       "meaning": "buổi học bổ trợ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "school",
+      "themeName": "Học tập / Trường học",
       "id": "v1919"
     },
     {
@@ -17549,8 +17594,8 @@
       "reading": "ほこう",
       "meaning": "lớp học bù",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "school",
+      "themeName": "Học tập / Trường học",
       "id": "v1920"
     },
     {
@@ -17558,8 +17603,8 @@
       "reading": "すそわけ",
       "meaning": "chia sẻ cùng nhau",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1921"
     },
     {
@@ -17567,8 +17612,8 @@
       "reading": "ふくごうてき",
       "meaning": "mang tính tổ hợp",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1922"
     },
     {
@@ -17576,8 +17621,8 @@
       "reading": "みうしなう",
       "meaning": "đánh mất, quên đi (目標を見失う)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1923"
     },
     {
@@ -17585,8 +17630,8 @@
       "reading": "けんとう",
       "meaning": "ước chừng (がつく)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "grammar",
+      "themeName": "Tính từ / Ngữ pháp",
       "id": "v1924"
     },
     {
@@ -17594,8 +17639,8 @@
       "reading": "けんかい",
       "meaning": "cách nghĩ, quan điểm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1925"
     },
     {
@@ -17603,8 +17648,8 @@
       "reading": "しや",
       "meaning": "tầm nhìn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1926"
     },
     {
@@ -17612,8 +17657,8 @@
       "reading": "しんせき",
       "meaning": "họ hàng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "family",
+      "themeName": "Gia đình / Họ hàng",
       "id": "v1927"
     },
     {
@@ -17621,8 +17666,8 @@
       "reading": "しんぼく",
       "meaning": "thân thiết, gắn bó",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1928"
     },
     {
@@ -17630,8 +17675,8 @@
       "reading": "しんるい",
       "meaning": "người thân",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "family",
+      "themeName": "Gia đình / Họ hàng",
       "id": "v1929"
     },
     {
@@ -17639,8 +17684,8 @@
       "reading": "げねつざい",
       "meaning": "thuốc hạ sốt",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1930"
     },
     {
@@ -17648,8 +17693,8 @@
       "reading": "しんりょうしょ",
       "meaning": "cơ sở khám chữa bệnh",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1931"
     },
     {
@@ -17657,8 +17702,8 @@
       "reading": "しさくひん",
       "meaning": "tác phẩm thử nghiệm",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1932"
     },
     {
@@ -17666,8 +17711,8 @@
       "reading": "にんちしょう",
       "meaning": "đãng trí, suy giảm trí nhớ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "health",
+      "themeName": "Y tế / Sức khỏe",
       "id": "v1933"
     },
     {
@@ -17675,8 +17720,8 @@
       "reading": "ろんそう",
       "meaning": "tranh luận",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "kaiwa",
+      "themeName": "Kaiwa / Giao tiếp",
       "id": "v1934"
     },
     {
@@ -17684,8 +17729,8 @@
       "reading": "ぶたのまるやき",
       "meaning": "lợn quay",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1935"
     },
     {
@@ -17693,8 +17738,8 @@
       "reading": "",
       "meaning": "cõng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "family",
+      "themeName": "Gia đình / Họ hàng",
       "id": "v1936"
     },
     {
@@ -17702,8 +17747,8 @@
       "reading": "びんぼう",
       "meaning": "nghèo khó",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "finance",
+      "themeName": "Ngân hàng / Tài chính",
       "id": "v1937"
     },
     {
@@ -17711,8 +17756,8 @@
       "reading": "",
       "meaning": "hạn trả",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "post",
+      "themeName": "Bưu điện / Gửi nhận",
       "id": "v1938"
     },
     {
@@ -17720,8 +17765,8 @@
       "reading": "にぎわい",
       "meaning": "nhộn nhịp",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1939"
     },
     {
@@ -17729,8 +17774,8 @@
       "reading": "",
       "meaning": "ngồi một cách thoải mái (có thể duỗi chân)",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1940"
     },
     {
@@ -17738,8 +17783,8 @@
       "reading": "ふみきり",
       "meaning": "chắn tàu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1941"
     },
     {
@@ -17747,8 +17792,8 @@
       "reading": "",
       "meaning": "diện mạo",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "appearance",
+      "themeName": "Ngoại hình / Làm đẹp",
       "id": "v1942"
     },
     {
@@ -17756,8 +17801,8 @@
       "reading": "みもと",
       "meaning": "tung tích",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "legal",
+      "themeName": "Pháp lý / Hành chính",
       "id": "v1943"
     },
     {
@@ -17765,8 +17810,8 @@
       "reading": "しゃしょう",
       "meaning": "nhân viên phục vụ tàu xe",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1944"
     },
     {
@@ -17774,8 +17819,8 @@
       "reading": "",
       "meaning": "đi đường tắt",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1945"
     },
     {
@@ -17783,8 +17828,8 @@
       "reading": "",
       "meaning": "hòm trả sách",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "post",
+      "themeName": "Bưu điện / Gửi nhận",
       "id": "v1946"
     },
     {
@@ -17792,8 +17837,8 @@
       "reading": "めいしん",
       "meaning": "mê tín",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1947"
     },
     {
@@ -17801,8 +17846,8 @@
       "reading": "つうてんかく",
       "meaning": "tháp biểu tượng của Osaka",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1948"
     },
     {
@@ -17810,8 +17855,8 @@
       "reading": "",
       "meaning": "sao kê sổ ngân hàng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "finance",
+      "themeName": "Ngân hàng / Tài chính",
       "id": "v1949"
     },
     {
@@ -17819,8 +17864,8 @@
       "reading": "つうこうどめ",
       "meaning": "cấm đi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1950"
     },
     {
@@ -17828,8 +17873,8 @@
       "reading": "",
       "meaning": "chuyển phát nhanh",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "post",
+      "themeName": "Bưu điện / Gửi nhận",
       "id": "v1951"
     },
     {
@@ -17837,8 +17882,8 @@
       "reading": "れんぽうこく",
       "meaning": "quốc gia liên bang",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "legal",
+      "themeName": "Pháp lý / Hành chính",
       "id": "v1952"
     },
     {
@@ -17846,8 +17891,8 @@
       "reading": "ゆうえんち",
       "meaning": "công viên giải",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "travel",
+      "themeName": "Du lịch / Giải trí",
       "id": "v1953"
     },
     {
@@ -17855,8 +17900,8 @@
       "reading": "よこぎる",
       "meaning": "băng qua đường",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1954"
     },
     {
@@ -17864,8 +17909,8 @@
       "reading": "",
       "meaning": "xa cách dần",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "emotion",
+      "themeName": "Cảm xúc / Tính cách",
       "id": "v1955"
     },
     {
@@ -17873,8 +17918,8 @@
       "reading": "",
       "meaning": "đi đường tránh",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "traffic",
+      "themeName": "Giao thông",
       "id": "v1956"
     },
     {
@@ -17882,8 +17927,8 @@
       "reading": "いしつぶつとどけ",
       "meaning": "tờ khai mất đồ",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "post",
+      "themeName": "Bưu điện / Gửi nhận",
       "id": "v1957"
     },
     {
@@ -17891,8 +17936,8 @@
       "reading": "ひしょち",
       "meaning": "chỗ nghỉ mát, tránh nóng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "nature",
+      "themeName": "Thiên nhiên / Động vật / Thời tiết",
       "id": "v1958"
     },
     {
@@ -17900,8 +17945,8 @@
       "reading": "ぶるい",
       "meaning": "nhóm, loại",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1959"
     },
     {
@@ -17909,8 +17954,8 @@
       "reading": "きんせん",
       "meaning": "cách cư xử với tiền bạc",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "finance",
+      "themeName": "Ngân hàng / Tài chính",
       "id": "v1960"
     },
     {
@@ -17918,8 +17963,8 @@
       "reading": "きんぎょ",
       "meaning": "cá vàng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1961"
     },
     {
@@ -17927,8 +17972,8 @@
       "reading": "",
       "meaning": "hoa trồng trong chậu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "nature",
+      "themeName": "Thiên nhiên / Động vật / Thời tiết",
       "id": "v1962"
     },
     {
@@ -17936,8 +17981,8 @@
       "reading": "",
       "meaning": "chi nhánh của ngân hàng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "finance",
+      "themeName": "Ngân hàng / Tài chính",
       "id": "v1963"
     },
     {
@@ -17945,8 +17990,8 @@
       "reading": "",
       "meaning": "trụ sở chính của ngân hàng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "finance",
+      "themeName": "Ngân hàng / Tài chính",
       "id": "v1964"
     },
     {
@@ -17954,8 +17999,8 @@
       "reading": "ながい",
       "meaning": "ở lại lâu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "community",
+      "themeName": "Cộng đồng / Đời sống",
       "id": "v1965"
     },
     {
@@ -17963,8 +18008,8 @@
       "reading": "",
       "meaning": "tỷ lệ khách vào",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "shopping",
+      "themeName": "Mua sắm",
       "id": "v1966"
     },
     {
@@ -17972,8 +18017,8 @@
       "reading": "やとう",
       "meaning": "thuê ai đó",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "work",
+      "themeName": "Công việc / Văn phòng",
       "id": "v1967"
     },
     {
@@ -17981,8 +18026,8 @@
       "reading": "しんげん",
       "meaning": "tâm chấn",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "nature",
+      "themeName": "Thiên nhiên / Động vật / Thời tiết",
       "id": "v1968"
     },
     {
@@ -17990,8 +18035,8 @@
       "reading": "ひじょうしょく",
       "meaning": "thức ăn khẩn cấp",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1969"
     },
     {
@@ -17999,8 +18044,8 @@
       "reading": "よきん",
       "meaning": "gửi tiền vào ngân hàng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "finance",
+      "themeName": "Ngân hàng / Tài chính",
       "id": "v1970"
     },
     {
@@ -18008,8 +18053,8 @@
       "reading": "なでる",
       "meaning": "xoa đầu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "body",
+      "themeName": "Cơ thể người",
       "id": "v1971"
     },
     {
@@ -18017,8 +18062,8 @@
       "reading": "こうばしい",
       "meaning": "thơm phức",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "food",
+      "themeName": "Ẩm thực / Quán ăn",
       "id": "v1972"
     },
     {
@@ -18026,8 +18071,8 @@
       "reading": "🪒ひげそり",
       "meaning": "cạo râu",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "appearance",
+      "themeName": "Ngoại hình / Làm đẹp",
       "id": "v1973"
     },
     {
@@ -18035,8 +18080,8 @@
       "reading": "まよけ",
       "meaning": "bùa trừ tà",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "culture",
+      "themeName": "Văn hóa / Tôn giáo / Lễ hội",
       "id": "v1974"
     },
     {
@@ -18044,8 +18089,8 @@
       "reading": "こうさ",
       "meaning": "bão cát",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "nature",
+      "themeName": "Thiên nhiên / Động vật / Thời tiết",
       "id": "v1975"
     },
     {
@@ -18053,8 +18098,8 @@
       "reading": "",
       "meaning": "bị nghẹt mũi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "body",
+      "themeName": "Cơ thể người",
       "id": "v1976"
     },
     {
@@ -18062,8 +18107,8 @@
       "reading": "",
       "meaning": "bịt mũi",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "body",
+      "themeName": "Cơ thể người",
       "id": "v1977"
     },
     {
@@ -18071,8 +18116,8 @@
       "reading": "",
       "meaning": "chảy nước miếng",
       "source": "Từ vựng somatome 1",
-      "theme": "somatome",
-      "themeName": "Somatome",
+      "theme": "body",
+      "themeName": "Cơ thể người",
       "id": "v1978"
     },
     {

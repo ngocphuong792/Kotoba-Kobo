@@ -44,7 +44,7 @@ window.KAIWA_PLAN = {
         "〜の違いに驚きました"
       ],
       apply: "Small talk đời sống với đồng nghiệp Nhật",
-      vocabThemes: ["community", "traffic", "shopping", "life"],
+      vocabThemes: ["community", "traffic", "shopping", "life", "housing", "daily"],
       notionUrl: "https://www.notion.so/3fccc809f7eb8144992bcf58ffe96168"
     },
     {
@@ -58,7 +58,7 @@ window.KAIWA_PLAN = {
         "〜に行ってみたいと思っています"
       ],
       apply: "Ice-break trước/sau họp",
-      vocabThemes: ["sports", "life", "kaiwa", "food"],
+      vocabThemes: ["sports", "life", "kaiwa", "food", "travel"],
       notionUrl: "https://www.notion.so/3fccc809f7eb8144992bcf58ffe96168"
     },
     {
@@ -100,7 +100,7 @@ window.KAIWA_PLAN = {
         "〜が課題となっている"
       ],
       apply: "Chủ đề xã hội sâu hơn",
-      vocabThemes: ["daily_study", "news", "life"],
+      vocabThemes: ["daily_study", "news", "life", "school", "family"],
       notionUrl: "https://www.notion.so/3fccc809f7eb8144992bcf58ffe96168"
     },
     {
@@ -114,7 +114,7 @@ window.KAIWA_PLAN = {
         "〜への取り組みが進んでいる"
       ],
       apply: "Luyện diễn đạt trừu tượng",
-      vocabThemes: ["news", "community"],
+      vocabThemes: ["news", "community", "nature"],
       notionUrl: "https://www.notion.so/3fccc809f7eb8144992bcf58ffe96168"
     },
     {
@@ -170,7 +170,7 @@ window.KAIWA_PLAN = {
         "誤解が生じやすい"
       ],
       apply: "BrSE: nhận diện lệch nhận thức JP–VN",
-      vocabThemes: ["kaiwa", "work", "community"],
+      vocabThemes: ["kaiwa", "work", "community", "culture", "emotion"],
       notionUrl: "https://www.notion.so/3fccc809f7eb818296ddfcd2dbc02a3a"
     },
     {
