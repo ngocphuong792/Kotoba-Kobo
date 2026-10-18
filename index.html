@@ -1,0 +1,1289 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>語彙工房 — Kotoba Kobo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Shippori+Mincho:wght@500;700&family=Sora:wght@500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ink: #13212b;
+      --ink-soft: #2a3d4a;
+      --paper: #f3efe6;
+      --paper-2: #e7e0d2;
+      --mist: #c5d4dc;
+      --sea: #1f6f7a;
+      --sea-deep: #0f4a52;
+      --accent: #c45c26;
+      --ok: #2f7d4a;
+      --warn: #b45309;
+      --line: rgba(19, 33, 43, 0.12);
+      --shadow: 0 18px 50px rgba(15, 40, 50, 0.14);
+      --radius: 18px;
+      --font-ui: "Sora", "IBM Plex Sans", sans-serif;
+      --font-body: "IBM Plex Sans", sans-serif;
+      --font-jp: "Shippori Mincho", "Hiragino Mincho ProN", serif;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      font-family: var(--font-body);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, rgba(31, 111, 122, 0.18), transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, rgba(196, 92, 38, 0.12), transparent 50%),
+        linear-gradient(165deg, #f7f3ea 0%, #ebe4d6 45%, #dfe8eb 100%);
+      min-height: 100vh;
+    }
+
+    button, input, select { font: inherit; }
+    button {
+      cursor: pointer;
+      border: none;
+      background: none;
+      color: inherit;
+    }
+
+    .app-shell { max-width: 1120px; margin: 0 auto; padding: 0 20px 64px; }
+
+    /* Hero */
+    .hero {
+      min-height: min(92vh, 760px);
+      display: grid;
+      align-content: end;
+      padding: 48px 0 40px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: "語";
+      position: absolute;
+      right: -4%;
+      top: 8%;
+      font-family: var(--font-jp);
+      font-size: clamp(180px, 28vw, 320px);
+      line-height: 0.8;
+      color: rgba(19, 33, 43, 0.06);
+      pointer-events: none;
+      animation: floatGlyph 8s ease-in-out infinite;
+    }
+    @keyframes floatGlyph {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-12px); }
+    }
+    .brand {
+      font-family: var(--font-ui);
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      font-size: clamp(2.4rem, 6vw, 4.2rem);
+      line-height: 1.05;
+      margin: 0 0 12px;
+    }
+    .brand span {
+      display: block;
+      font-family: var(--font-jp);
+      font-weight: 700;
+      font-size: 0.52em;
+      letter-spacing: 0.12em;
+      color: var(--sea-deep);
+      margin-bottom: 8px;
+    }
+    .hero-lead {
+      max-width: 36rem;
+      font-size: 1.08rem;
+      line-height: 1.65;
+      color: var(--ink-soft);
+      margin: 0 0 28px;
+    }
+    .cta-row { display: flex; flex-wrap: wrap; gap: 12px; }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 18px;
+      border-radius: 999px;
+      font-family: var(--font-ui);
+      font-weight: 600;
+      font-size: 0.92rem;
+      transition: transform 0.2s ease, background 0.2s ease, box-shadow 0.2s ease;
+    }
+    .btn:hover { transform: translateY(-1px); }
+    .btn-primary {
+      background: var(--sea);
+      color: #f7fbfb;
+      box-shadow: 0 10px 24px rgba(31, 111, 122, 0.28);
+    }
+    .btn-primary:hover { background: var(--sea-deep); }
+    .btn-ghost {
+      background: rgba(255,255,255,0.55);
+      border: 1px solid var(--line);
+      backdrop-filter: blur(8px);
+    }
+    .stats-line {
+      margin-top: 28px;
+      font-size: 0.9rem;
+      color: var(--ink-soft);
+      letter-spacing: 0.02em;
+    }
+    .stats-line strong { color: var(--ink); font-weight: 600; }
+
+    /* Nav */
+    .topnav {
+      position: sticky;
+      top: 0;
+      z-index: 40;
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      padding: 10px 0;
+      margin-bottom: 8px;
+      background: rgba(243, 239, 230, 0.82);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid transparent;
+    }
+    .topnav.stuck { border-bottom-color: var(--line); }
+    .nav-btn {
+      padding: 8px 14px;
+      border-radius: 999px;
+      font-family: var(--font-ui);
+      font-size: 0.84rem;
+      font-weight: 600;
+      color: var(--ink-soft);
+    }
+    .nav-btn.active, .nav-btn:hover {
+      background: var(--ink);
+      color: var(--paper);
+    }
+
+    .panel { display: none; animation: rise 0.35s ease; }
+    .panel.active { display: block; }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: none; }
+    }
+
+    h2.section-title {
+      font-family: var(--font-ui);
+      font-size: 1.35rem;
+      margin: 18px 0 6px;
+    }
+    .section-sub {
+      margin: 0 0 20px;
+      color: var(--ink-soft);
+      line-height: 1.5;
+    }
+
+    /* Theme grid */
+    .theme-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 14px;
+    }
+    .theme-tile {
+      text-align: left;
+      padding: 18px 18px 16px;
+      border-radius: var(--radius);
+      background: rgba(255,255,255,0.55);
+      border: 1px solid var(--line);
+      transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+      min-height: 118px;
+    }
+    .theme-tile:hover {
+      transform: translateY(-2px);
+      border-color: rgba(31, 111, 122, 0.35);
+      box-shadow: var(--shadow);
+    }
+    .theme-tile .count {
+      font-family: var(--font-ui);
+      font-size: 1.7rem;
+      font-weight: 700;
+      color: var(--sea-deep);
+      margin-bottom: 6px;
+    }
+    .theme-tile .name { font-weight: 600; line-height: 1.35; }
+    .theme-tile .hint { margin-top: 8px; font-size: 0.8rem; color: var(--ink-soft); }
+
+    /* Toolbar */
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 16px;
+      align-items: center;
+    }
+    .search, .select {
+      padding: 10px 14px;
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,0.7);
+      min-width: 0;
+    }
+    .search { flex: 1 1 220px; }
+    .select { flex: 0 1 200px; }
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: rgba(31, 111, 122, 0.1);
+      color: var(--sea-deep);
+      font-size: 0.82rem;
+      font-weight: 600;
+    }
+
+    /* Word list */
+    .word-list {
+      display: grid;
+      gap: 8px;
+      max-height: 62vh;
+      overflow: auto;
+      padding-right: 4px;
+    }
+    .word-row {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 8px;
+      padding: 12px 14px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.58);
+      border: 1px solid transparent;
+      text-align: left;
+      transition: background 0.15s, border-color 0.15s;
+    }
+    .word-row:hover, .word-row.active {
+      background: #fff;
+      border-color: rgba(31, 111, 122, 0.3);
+    }
+    .word-jp {
+      font-family: var(--font-jp);
+      font-size: 1.2rem;
+      font-weight: 700;
+    }
+    .word-reading {
+      font-size: 0.82rem;
+      color: var(--sea);
+      margin-left: 8px;
+      font-family: var(--font-body);
+      font-weight: 500;
+    }
+    .word-meaning { color: var(--ink-soft); font-size: 0.92rem; margin-top: 2px; }
+    .badge {
+      align-self: start;
+      font-size: 0.72rem;
+      font-weight: 600;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: var(--paper-2);
+      color: var(--ink-soft);
+      white-space: nowrap;
+    }
+    .mastered { outline: 1px solid rgba(47, 125, 74, 0.35); }
+    .mastered .badge { background: rgba(47,125,74,0.15); color: var(--ok); }
+
+    /* Detail / study layout */
+    .split {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr);
+      gap: 16px;
+      align-items: start;
+    }
+    @media (max-width: 860px) {
+      .split { grid-template-columns: 1fr; }
+      .word-list { max-height: 40vh; }
+    }
+
+    .detail {
+      position: sticky;
+      top: 64px;
+      padding: 22px;
+      border-radius: calc(var(--radius) + 4px);
+      background: rgba(255,255,255,0.72);
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+      min-height: 320px;
+    }
+    .detail.empty {
+      display: grid;
+      place-items: center;
+      color: var(--ink-soft);
+      text-align: center;
+    }
+    .detail-word {
+      font-family: var(--font-jp);
+      font-size: clamp(2rem, 4vw, 2.8rem);
+      font-weight: 700;
+      margin: 0;
+      line-height: 1.2;
+    }
+    .detail-reading {
+      margin: 6px 0 0;
+      color: var(--sea);
+      font-size: 1.05rem;
+    }
+    .detail-meaning {
+      margin: 14px 0 18px;
+      font-size: 1.05rem;
+      line-height: 1.5;
+    }
+    .detail-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 18px;
+    }
+    .examples { display: grid; gap: 12px; }
+    .ex-item {
+      padding: 12px 14px;
+      border-radius: 12px;
+      background: rgba(19, 33, 43, 0.035);
+      border-left: 3px solid var(--sea);
+    }
+    .ex-ja {
+      font-family: var(--font-jp);
+      font-size: 1.05rem;
+      line-height: 1.55;
+      margin: 0 0 6px;
+    }
+    .ex-ja mark {
+      background: rgba(196, 92, 38, 0.18);
+      color: inherit;
+      padding: 0 2px;
+      border-radius: 3px;
+    }
+    .ex-vi { margin: 0; color: var(--ink-soft); font-size: 0.92rem; line-height: 1.45; }
+    .ex-pending {
+      padding: 16px;
+      border-radius: 12px;
+      background: rgba(180, 83, 9, 0.08);
+      color: var(--warn);
+      font-size: 0.92rem;
+    }
+    .detail-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+
+    /* Flashcard */
+    .card-stage {
+      perspective: 1200px;
+      max-width: 520px;
+      margin: 24px auto;
+    }
+    .flashcard {
+      position: relative;
+      width: 100%;
+      min-height: 280px;
+      transform-style: preserve-3d;
+      transition: transform 0.55s cubic-bezier(.2,.8,.2,1);
+      cursor: pointer;
+    }
+    .flashcard.flipped { transform: rotateY(180deg); }
+    .face {
+      position: absolute;
+      inset: 0;
+      backface-visibility: hidden;
+      border-radius: 22px;
+      display: grid;
+      place-content: center;
+      padding: 28px;
+      text-align: center;
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+    }
+    .face.front {
+      background: linear-gradient(160deg, #1f6f7a, #0f4a52);
+      color: #f4fafb;
+    }
+    .face.back {
+      background: #fffdf8;
+      transform: rotateY(180deg);
+    }
+    .face .big {
+      font-family: var(--font-jp);
+      font-size: clamp(2rem, 5vw, 2.8rem);
+      font-weight: 700;
+      margin: 0;
+    }
+    .face .sub { margin-top: 10px; opacity: 0.85; }
+    .flash-controls {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 18px;
+    }
+    .btn-ok { background: var(--ok); color: #fff; border-radius: 999px; padding: 12px 18px; font-weight: 600; }
+    .btn-again { background: var(--accent); color: #fff; border-radius: 999px; padding: 12px 18px; font-weight: 600; }
+    .progress-bar {
+      height: 6px;
+      background: rgba(19,33,43,0.08);
+      border-radius: 999px;
+      overflow: hidden;
+      max-width: 520px;
+      margin: 0 auto 8px;
+    }
+    .progress-bar > i {
+      display: block;
+      height: 100%;
+      width: 0;
+      background: linear-gradient(90deg, var(--sea), #3aa0a8);
+      transition: width 0.25s ease;
+    }
+
+    /* Quiz */
+    .quiz-box {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 24px;
+      border-radius: 22px;
+      background: rgba(255,255,255,0.7);
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+    }
+    .quiz-prompt {
+      font-family: var(--font-jp);
+      font-size: 2rem;
+      font-weight: 700;
+      margin: 8px 0 6px;
+    }
+    .quiz-options { display: grid; gap: 10px; margin-top: 18px; }
+    .quiz-opt {
+      text-align: left;
+      padding: 14px 16px;
+      border-radius: 14px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,0.8);
+      transition: background 0.15s, border-color 0.15s;
+    }
+    .quiz-opt:hover { border-color: var(--sea); }
+    .quiz-opt.correct { background: rgba(47,125,74,0.12); border-color: var(--ok); }
+    .quiz-opt.wrong { background: rgba(196,92,38,0.12); border-color: var(--accent); }
+    .quiz-opt:disabled { cursor: default; }
+
+    .speak-btn {
+      font-size: 0.85rem;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: rgba(31,111,122,0.12);
+      color: var(--sea-deep);
+      font-weight: 600;
+    }
+
+    /* Kaiwa BrSE bridge */
+    .kaiwa-hero-box {
+      margin: 0 0 18px;
+      padding: 14px 16px;
+      border-radius: 14px;
+      background: rgba(31, 111, 122, 0.1);
+      border: 1px solid rgba(31, 111, 122, 0.22);
+      line-height: 1.5;
+      color: var(--ink-soft);
+    }
+    .kaiwa-hero-box a { color: var(--sea-deep); font-weight: 600; }
+    .kaiwa-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      margin-bottom: 16px;
+    }
+    @media (max-width: 860px) {
+      .kaiwa-grid { grid-template-columns: 1fr; }
+    }
+    .kaiwa-card {
+      padding: 18px;
+      border-radius: calc(var(--radius) + 2px);
+      background: rgba(255,255,255,0.72);
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+    }
+    .kaiwa-card h3 {
+      font-family: var(--font-ui);
+      font-size: 1.05rem;
+      margin: 0 0 10px;
+    }
+    .kaiwa-card .label {
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--sea);
+      margin-bottom: 4px;
+    }
+    .phrase-list {
+      list-style: none;
+      padding: 0;
+      margin: 10px 0 0;
+      display: grid;
+      gap: 8px;
+    }
+    .phrase-list li {
+      font-family: var(--font-jp);
+      padding: 8px 10px;
+      border-radius: 10px;
+      background: rgba(19, 33, 43, 0.04);
+      font-size: 0.98rem;
+    }
+    .prompt-box {
+      margin-top: 12px;
+      padding: 12px 14px;
+      border-radius: 12px;
+      background: rgba(196, 92, 38, 0.1);
+      border-left: 3px solid var(--accent);
+      line-height: 1.5;
+    }
+    .week-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin: 10px 0 14px;
+    }
+    .week-pill {
+      padding: 6px 10px;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,0.65);
+      font-family: var(--font-ui);
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: var(--ink-soft);
+    }
+    .week-pill.active {
+      background: var(--ink);
+      color: var(--paper);
+      border-color: var(--ink);
+    }
+    .link-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+    .link-row a.btn { text-decoration: none; }
+
+    footer.note {
+      margin-top: 48px;
+      padding-top: 16px;
+      border-top: 1px solid var(--line);
+      font-size: 0.82rem;
+      color: var(--ink-soft);
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero" id="hero">
+      <h1 class="brand"><span>語彙工房</span>Kotoba Kobo</h1>
+      <p class="hero-lead">
+        Kho từ vựng bạn đã thu thập — sắp theo chủ đề, kèm câu ví dụ đời sống &amp; công việc —
+        gắn với plan luyện nói BrSE trên Notion (chủ đề × thể loại).
+      </p>
+      <div class="cta-row">
+        <button class="btn btn-primary" data-go="kaiwa">Kaiwa BrSE · tuần này</button>
+        <button class="btn btn-ghost" data-go="themes">Xem theo chủ đề</button>
+        <button class="btn btn-ghost" data-go="flash">Lật thẻ ngay</button>
+      </div>
+      <p class="stats-line" id="heroStats">Đang tải kho từ…</p>
+    </header>
+
+    <nav class="topnav" id="topnav" aria-label="Chế độ học">
+      <button class="nav-btn" data-go="kaiwa">Kaiwa BrSE</button>
+      <button class="nav-btn active" data-go="themes">Chủ đề</button>
+      <button class="nav-btn" data-go="browse">Danh sách</button>
+      <button class="nav-btn" data-go="flash">Flashcard</button>
+      <button class="nav-btn" data-go="quiz">Quiz</button>
+      <button class="nav-btn" data-go="progress">Tiến độ</button>
+    </nav>
+
+    <!-- Kaiwa BrSE -->
+    <section class="panel" id="panel-kaiwa">
+      <h2 class="section-title">Kaiwa BrSE — gắn plan Notion</h2>
+      <p class="section-sub" id="kaiwaTip"></p>
+      <div class="kaiwa-hero-box" id="kaiwaLinks"></div>
+      <div class="toolbar">
+        <label class="chip" for="kaiwaWeek">Tuần</label>
+        <select class="select" id="kaiwaWeek"></select>
+        <button class="btn btn-primary" id="kaiwaStudyVocab">Ôn từ liên quan</button>
+        <button class="btn btn-ghost" id="kaiwaFlash">Flashcard tuần này</button>
+        <button class="btn btn-ghost" id="kaiwaQuiz">Quiz tuần này</button>
+      </div>
+      <div class="week-pills" id="kaiwaPills"></div>
+      <div class="kaiwa-grid">
+        <article class="kaiwa-card" id="kaiwaTopicCard"></article>
+        <article class="kaiwa-card" id="kaiwaGenreCard"></article>
+      </div>
+      <div class="kaiwa-card" id="kaiwaLoopCard" style="margin-bottom:16px"></div>
+      <div class="kaiwa-card" id="kaiwaVocabPreview">
+        <div class="label">Từ gợi ý từ kho của bạn</div>
+        <div id="kaiwaVocabChips" class="week-pills" style="margin:8px 0 0"></div>
+        <p style="margin:10px 0 0;color:var(--ink-soft);font-size:.9rem" id="kaiwaVocabCount"></p>
+      </div>
+    </section>
+
+    <!-- Themes -->
+    <section class="panel active" id="panel-themes">
+      <h2 class="section-title">Phân loại theo chủ đề</h2>
+      <p class="section-sub">Chọn một nhóm để học tập trung. Số liệu lấy từ Apple Notes của bạn.</p>
+      <div class="theme-grid" id="themeGrid"></div>
+    </section>
+
+    <!-- Browse -->
+    <section class="panel" id="panel-browse">
+      <h2 class="section-title">Danh sách từ &amp; câu ví dụ</h2>
+      <p class="section-sub">Tìm kiếm, lọc chủ đề, mở từng từ để xem 5 câu ví dụ kinh điển.</p>
+      <div class="toolbar">
+        <input class="search" id="searchInput" type="search" placeholder="Tìm kanji, kana, nghĩa…" />
+        <select class="select" id="themeFilter"></select>
+        <span class="chip" id="listCount">0 từ</span>
+      </div>
+      <div class="split">
+        <div class="word-list" id="wordList"></div>
+        <aside class="detail empty" id="detailPane">
+          <div>Chọn một từ bên trái để xem nghĩa và câu ví dụ.</div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- Flash -->
+    <section class="panel" id="panel-flash">
+      <h2 class="section-title">Flashcard</h2>
+      <p class="section-sub">Nhìn mặt trước → nhớ nghĩa → lật thẻ. Đánh dấu Đã thuộc / Học lại (lưu trên máy bạn).</p>
+      <div class="toolbar">
+        <select class="select" id="flashTheme"></select>
+        <button class="btn btn-ghost" id="flashShuffle">Xáo trộn</button>
+        <span class="chip" id="flashPos">0 / 0</span>
+      </div>
+      <div class="progress-bar"><i id="flashProg"></i></div>
+      <div class="card-stage">
+        <div class="flashcard" id="flashcard" title="Nhấn để lật">
+          <div class="face front">
+            <p class="big" id="flashFront">—</p>
+            <p class="sub" id="flashFrontSub"></p>
+          </div>
+          <div class="face back">
+            <p class="big" id="flashBack" style="font-family:var(--font-body);font-size:1.35rem;">—</p>
+            <p class="sub" id="flashBackSub"></p>
+          </div>
+        </div>
+      </div>
+      <div class="flash-controls">
+        <button class="btn btn-ghost" id="flashPrev">← Trước</button>
+        <button class="speak-btn" id="flashSpeak">Phát âm</button>
+        <button class="btn btn-again" id="flashAgain">Học lại</button>
+        <button class="btn btn-ok" id="flashKnow">Đã thuộc</button>
+        <button class="btn btn-ghost" id="flashNext">Sau →</button>
+      </div>
+    </section>
+
+    <!-- Quiz -->
+    <section class="panel" id="panel-quiz">
+      <h2 class="section-title">Quiz vận dụng</h2>
+      <p class="section-sub">Chọn đúng nghĩa tiếng Việt. Sau mỗi câu có thể xem ví dụ mẫu.</p>
+      <div class="toolbar">
+        <select class="select" id="quizTheme"></select>
+        <select class="select" id="quizMode">
+          <option value="jp2vi">Nhật → Việt</option>
+          <option value="vi2jp">Việt → Nhật</option>
+        </select>
+        <button class="btn btn-primary" id="quizStart">Bắt đầu / Câu mới</button>
+        <span class="chip" id="quizScore">0 đúng / 0 câu</span>
+      </div>
+      <div class="quiz-box" id="quizBox">
+        <div style="color:var(--ink-soft)">Nhấn “Bắt đầu” để nhận câu hỏi.</div>
+      </div>
+    </section>
+
+    <!-- Progress -->
+    <section class="panel" id="panel-progress">
+      <h2 class="section-title">Tiến độ trên máy này</h2>
+      <p class="section-sub">Trạng thái “Đã thuộc” được lưu bằng localStorage — không cần đăng nhập.</p>
+      <div class="theme-grid" id="progressGrid"></div>
+      <div class="toolbar" style="margin-top:20px">
+        <button class="btn btn-ghost" id="exportProgress">Xuất tiến độ (JSON)</button>
+        <button class="btn btn-ghost" id="resetProgress">Xóa tiến độ</button>
+      </div>
+    </section>
+
+    <footer class="note">
+      Nguồn từ: Apple Notes · Plan nói:
+      <a href="https://www.notion.so/3fccc809f7eb8154b712d2c5f8ac068f" target="_blank" rel="noopener">Kaiwa không khó (Notion)</a>.
+      Câu ví dụ ưu tiên ngữ cảnh công việc và đời sống tại Nhật.
+      Mở <code>index.html</code> hoặc chạy <code>python3 -m http.server 8765</code> trong thư mục này.
+    </footer>
+  </div>
+
+  <script src="vocab-data.js"></script>
+  <script src="examples-data.js"></script>
+  <script src="kaiwa-plan-data.js"></script>
+  <script>
+    (function () {
+      const DATA = window.VOCAB_DATA || { themes: [], items: [], total: 0 };
+      const EXAMPLES = window.EXAMPLES_DATA || {};
+      const PLAN = window.KAIWA_PLAN || null;
+      const STORAGE_KEY = "kotoba-kobo-mastered-v1";
+      const KAIWA_WEEK_KEY = "kotoba-kobo-kaiwa-week";
+
+      const themeName = Object.fromEntries(DATA.themes.map((t) => [t.id, t.name]));
+      let mastered = loadMastered();
+      let browseTheme = "all";
+      let selectedId = null;
+      let flashDeck = [];
+      let flashIndex = 0;
+      let quizCorrect = 0;
+      let quizTotal = 0;
+      let quizLocked = false;
+      let kaiwaWeek = Number(localStorage.getItem(KAIWA_WEEK_KEY) || "1");
+      let kaiwaThemeFilter = null; // array of theme ids when studying a week
+
+      const $ = (id) => document.getElementById(id);
+
+      function loadMastered() {
+        try {
+          return new Set(JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]"));
+        } catch {
+          return new Set();
+        }
+      }
+      function saveMastered() {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify([...mastered]));
+      }
+
+      function getExamples(item) {
+        const fromFile = EXAMPLES[item.id];
+        if (Array.isArray(fromFile) && fromFile.length) return fromFile.slice(0, 5);
+        if (item.seed && item.seed.length) {
+          const base = item.seed.slice();
+          while (base.length < 5) {
+            base.push(makeFallbackExample(item, base.length));
+          }
+          return base.slice(0, 5);
+        }
+        return Array.from({ length: 5 }, (_, i) => makeFallbackExample(item, i));
+      }
+
+      function makeFallbackExample(item, i) {
+        const w = item.w;
+        const patterns = [
+          { ja: `今日の会議で「${w}」という言葉が出てきました。`, vi: `Trong cuộc họp hôm nay xuất hiện từ 「${w}」.` },
+          { ja: `この場面では${w}という表現がよく使われます。`, vi: `Trong tình huống này, cách nói ${w} thường được dùng.` },
+          { ja: `${w}について、もう少し詳しく説明していただけますか。`, vi: `Bạn có thể giải thích kỹ hơn về ${w} không?` },
+          { ja: `仕事でも日常生活でも、${w}は覚えておくと便利です。`, vi: `Dù công việc hay đời sống, nhớ ${w} sẽ rất tiện.` },
+          { ja: `例文を作りながら、${w}の使い方を定着させましょう。`, vi: `Hãy luyện cách dùng ${w} bằng cách đặt câu.` },
+        ];
+        return patterns[i % patterns.length];
+      }
+
+      function highlightWord(ja, word) {
+        if (!word) return escapeHtml(ja);
+        const esc = word.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+        try {
+          return escapeHtml(ja).replace(new RegExp(esc, "g"), (m) => `<mark>${m}</mark>`);
+        } catch {
+          return escapeHtml(ja);
+        }
+      }
+      function escapeHtml(s) {
+        return String(s)
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;");
+      }
+
+      function speak(text) {
+        if (!window.speechSynthesis || !text) return;
+        window.speechSynthesis.cancel();
+        const u = new SpeechSynthesisUtterance(text);
+        u.lang = "ja-JP";
+        u.rate = 0.92;
+        window.speechSynthesis.speak(u);
+      }
+
+      function filteredItems(themeId, q) {
+        const query = (q || "").trim().toLowerCase();
+        return DATA.items.filter((it) => {
+          if (kaiwaThemeFilter && kaiwaThemeFilter.length) {
+            if (!kaiwaThemeFilter.includes(it.t)) return false;
+          } else if (themeId && themeId !== "all" && it.t !== themeId) {
+            return false;
+          }
+          if (!query) return true;
+          return (
+            it.w.toLowerCase().includes(query) ||
+            (it.r && it.r.toLowerCase().includes(query)) ||
+            it.m.toLowerCase().includes(query)
+          );
+        });
+      }
+
+      function weekThemes(week) {
+        if (!PLAN) return [];
+        const topic = PLAN.topics.find((t) => t.week === week);
+        const genre = PLAN.genres.find((g) => g.week === week);
+        return [...new Set([...(topic?.vocabThemes || []), ...(genre?.vocabThemes || [])])];
+      }
+
+      function itemsForWeek(week) {
+        const themes = weekThemes(week);
+        return DATA.items.filter((it) => themes.includes(it.t));
+      }
+
+      function renderKaiwa() {
+        if (!PLAN) {
+          $("kaiwaTip").textContent = "Chưa tải được plan Notion.";
+          return;
+        }
+        $("kaiwaTip").textContent = PLAN.tip;
+        $("kaiwaLinks").innerHTML = `
+          Liên kết Notion:
+          <a href="${PLAN.hubUrl}" target="_blank" rel="noopener">Kaiwa không khó</a> ·
+          <a href="${PLAN.topicsUrl}" target="_blank" rel="noopener">12 chủ đề</a> ·
+          <a href="${PLAN.genresUrl}" target="_blank" rel="noopener">12 thể loại (BrSE)</a>
+          <div style="margin-top:8px;font-size:.9rem">Cụm cứu hộ mọi bài: ${PLAN.rescuePhrases.map(escapeHtml).join(" · ")}</div>
+        `;
+
+        const sel = $("kaiwaWeek");
+        if (!sel.options.length) {
+          PLAN.topics.forEach((t) => {
+            const o = document.createElement("option");
+            o.value = String(t.week);
+            o.textContent = `Tuần ${t.week} — ${t.title} / ${PLAN.genres.find((g) => g.week === t.week)?.title || ""}`;
+            sel.appendChild(o);
+          });
+          sel.addEventListener("change", () => {
+            kaiwaWeek = Number(sel.value);
+            localStorage.setItem(KAIWA_WEEK_KEY, String(kaiwaWeek));
+            renderKaiwa();
+          });
+        }
+        sel.value = String(kaiwaWeek);
+
+        $("kaiwaPills").innerHTML = PLAN.topics
+          .map(
+            (t) =>
+              `<button type="button" class="week-pill ${t.week === kaiwaWeek ? "active" : ""}" data-week="${t.week}">T${t.week}</button>`
+          )
+          .join("");
+        $("kaiwaPills").querySelectorAll("[data-week]").forEach((btn) => {
+          btn.addEventListener("click", () => {
+            kaiwaWeek = Number(btn.getAttribute("data-week"));
+            localStorage.setItem(KAIWA_WEEK_KEY, String(kaiwaWeek));
+            renderKaiwa();
+          });
+        });
+
+        const topic = PLAN.topics.find((t) => t.week === kaiwaWeek);
+        const genre = PLAN.genres.find((g) => g.week === kaiwaWeek);
+        const themes = weekThemes(kaiwaWeek);
+        const pool = itemsForWeek(kaiwaWeek);
+
+        $("kaiwaTopicCard").innerHTML = `
+          <div class="label">Chủ đề (chất liệu) · Tháng ${topic.month}</div>
+          <h3>Tuần ${topic.week}. ${escapeHtml(topic.title)}</h3>
+          <p style="margin:0 0 8px;color:var(--ink-soft)">${escapeHtml(topic.focus)}</p>
+          <p style="margin:0;font-size:.9rem"><strong>Áp dụng:</strong> ${escapeHtml(topic.apply)}</p>
+          <ul class="phrase-list">${topic.phrases.map((p) => `<li>${escapeHtml(p)}</li>`).join("")}</ul>
+          <div class="link-row">
+            <a class="btn btn-ghost" href="${topic.notionUrl}" target="_blank" rel="noopener">Mở tuần trên Notion</a>
+          </div>
+        `;
+
+        $("kaiwaGenreCard").innerHTML = `
+          <div class="label">Thể loại (khung nói) · core BrSE</div>
+          <h3>Bài ${genre.week}. ${escapeHtml(genre.title)}</h3>
+          <p style="margin:0 0 8px"><strong>Khung:</strong> ${escapeHtml(genre.frame)}</p>
+          <p style="margin:0;font-size:.9rem;color:var(--ink-soft)">${escapeHtml(genre.tip)}</p>
+          <ul class="phrase-list">${genre.phrases.map((p) => `<li>${escapeHtml(p)}</li>`).join("")}</ul>
+          <div class="prompt-box"><strong>Prompt nói hôm nay:</strong> ${escapeHtml(genre.speakPrompt)}</div>
+        `;
+
+        $("kaiwaLoopCard").innerHTML = `
+          <div class="label">Vòng luyện tập tuần này</div>
+          <h3>Checklist (giống Notion)</h3>
+          <ul class="phrase-list" style="font-family:var(--font-body);font-size:.92rem">
+            ${PLAN.loop.map((s) => `<li>${escapeHtml(s)}</li>`).join("")}
+          </ul>
+        `;
+
+        const sample = pool.slice().sort(() => Math.random() - 0.5).slice(0, 12);
+        $("kaiwaVocabChips").innerHTML = sample
+          .map((it) => `<span class="week-pill" title="${escapeHtml(it.m)}">${escapeHtml(it.w)}</span>`)
+          .join("");
+        $("kaiwaVocabCount").textContent =
+          `${pool.length} từ trong kho khớp chủ đề tuần này (${themes.map((t) => themeName[t] || t).join(" · ")}). Ôn 15–25 từ rồi nói theo khung.`;
+      }
+
+      function openWeekStudy(mode) {
+        const themes = weekThemes(kaiwaWeek);
+        kaiwaThemeFilter = themes;
+        if (mode === "browse") {
+          $("themeFilter").value = "all";
+          $("searchInput").value = "";
+          go("browse");
+          renderList();
+        } else if (mode === "flash") {
+          go("flash");
+          flashDeck = itemsForWeek(kaiwaWeek).slice();
+          flashIndex = 0;
+          showFlash(false);
+          $("flashPos").textContent = flashDeck.length
+            ? `${flashIndex + 1} / ${flashDeck.length} (tuần ${kaiwaWeek})`
+            : "0 / 0";
+        } else if (mode === "quiz") {
+          go("quiz");
+          // temporarily override quiz pool via kaiwaThemeFilter + start
+          startQuiz();
+        }
+      }
+
+      function go(panel) {
+        document.querySelectorAll(".panel").forEach((p) => p.classList.remove("active"));
+        document.querySelectorAll(".nav-btn").forEach((b) => b.classList.remove("active"));
+        const el = $("panel-" + panel);
+        if (el) el.classList.add("active");
+        document.querySelectorAll(`[data-go="${panel}"]`).forEach((b) => {
+          if (b.classList.contains("nav-btn")) b.classList.add("active");
+        });
+        if (panel !== "hero") {
+          $("topnav").scrollIntoView({ behavior: "smooth", block: "start" });
+        }
+      }
+
+      document.querySelectorAll("[data-go]").forEach((btn) => {
+        btn.addEventListener("click", () => go(btn.getAttribute("data-go")));
+      });
+
+      // Hero stats
+      const exCount = Object.keys(EXAMPLES).length;
+      $("heroStats").innerHTML =
+        `<strong>${DATA.total.toLocaleString()}</strong> từ · ` +
+        `<strong>${DATA.themes.length}</strong> chủ đề · ` +
+        `<strong>${exCount.toLocaleString()}</strong> từ × 5 câu ví dụ`;
+
+      // Theme selects
+      function fillThemeSelect(sel, withAll) {
+        sel.innerHTML = "";
+        if (withAll) {
+          const o = document.createElement("option");
+          o.value = "all";
+          o.textContent = "Tất cả chủ đề";
+          sel.appendChild(o);
+        }
+        DATA.themes.forEach((t) => {
+          const o = document.createElement("option");
+          o.value = t.id;
+          o.textContent = `${t.name} (${t.count})`;
+          sel.appendChild(o);
+        });
+      }
+      fillThemeSelect($("themeFilter"), true);
+      fillThemeSelect($("flashTheme"), true);
+      fillThemeSelect($("quizTheme"), true);
+
+      // Theme grid
+      function renderThemes() {
+        const grid = $("themeGrid");
+        grid.innerHTML = DATA.themes
+          .map(
+            (t) => `
+          <button class="theme-tile" data-theme="${t.id}">
+            <div class="count">${t.count}</div>
+            <div class="name">${escapeHtml(t.name)}</div>
+            <div class="hint">Nhấn để mở danh sách</div>
+          </button>`
+          )
+          .join("");
+        grid.querySelectorAll("[data-theme]").forEach((btn) => {
+          btn.addEventListener("click", () => {
+            browseTheme = btn.getAttribute("data-theme");
+            $("themeFilter").value = browseTheme;
+            go("browse");
+            renderList();
+          });
+        });
+      }
+      renderThemes();
+
+      // Browse list + detail
+      function renderList() {
+        const q = $("searchInput").value;
+        const theme = $("themeFilter").value;
+        browseTheme = theme;
+        const items = filteredItems(theme, q);
+        $("listCount").textContent = `${items.length} từ`;
+        const list = $("wordList");
+        const limit = 400;
+        const slice = items.slice(0, limit);
+        list.innerHTML = slice
+          .map((it) => {
+            const isM = mastered.has(it.id);
+            return `
+            <button class="word-row ${selectedId === it.id ? "active" : ""} ${isM ? "mastered" : ""}" data-id="${it.id}">
+              <div>
+                <div class="word-jp">${escapeHtml(it.w)}${it.r ? `<span class="word-reading">${escapeHtml(it.r)}</span>` : ""}</div>
+                <div class="word-meaning">${escapeHtml(it.m)}</div>
+              </div>
+              <span class="badge">${escapeHtml(themeName[it.t] || it.t)}</span>
+            </button>`;
+          })
+          .join("");
+        if (items.length > limit) {
+          list.innerHTML += `<div style="padding:10px;color:var(--ink-soft);font-size:.9rem">Hiển thị ${limit}/${items.length}. Hãy thu hẹp tìm kiếm hoặc chọn chủ đề.</div>`;
+        }
+        list.querySelectorAll("[data-id]").forEach((row) => {
+          row.addEventListener("click", () => {
+            selectedId = row.getAttribute("data-id");
+            renderList();
+            renderDetail(selectedId);
+          });
+        });
+      }
+
+      function renderDetail(id) {
+        const item = DATA.items.find((x) => x.id === id);
+        const pane = $("detailPane");
+        if (!item) {
+          pane.className = "detail empty";
+          pane.innerHTML = "<div>Chọn một từ bên trái để xem nghĩa và câu ví dụ.</div>";
+          return;
+        }
+        const examples = getExamples(item);
+        pane.className = "detail";
+        pane.innerHTML = `
+          <h3 class="detail-word">${escapeHtml(item.w)}</h3>
+          ${item.r ? `<p class="detail-reading">${escapeHtml(item.r)}</p>` : ""}
+          <p class="detail-meaning">${escapeHtml(item.m)}</p>
+          <div class="detail-meta">
+            <span class="chip">${escapeHtml(themeName[item.t] || "")}</span>
+            ${item.s ? `<span class="chip">${escapeHtml(item.s)}</span>` : ""}
+            ${mastered.has(item.id) ? `<span class="chip" style="background:rgba(47,125,74,.15);color:var(--ok)">Đã thuộc</span>` : ""}
+          </div>
+          <h4 style="margin:0 0 10px;font-family:var(--font-ui);font-size:.95rem;">5 câu ví dụ</h4>
+          <div class="examples">
+            ${examples
+              .map(
+                (ex, i) => `
+              <div class="ex-item">
+                <p class="ex-ja">${i + 1}. ${highlightWord(ex.ja, item.w)}</p>
+                <p class="ex-vi">${escapeHtml(ex.vi || "")}</p>
+              </div>`
+              )
+              .join("")}
+          </div>
+          <div class="detail-actions">
+            <button class="speak-btn" id="detailSpeak">Phát âm từ</button>
+            <button class="btn btn-ghost" id="detailToggleMaster">${mastered.has(item.id) ? "Bỏ đánh dấu thuộc" : "Đánh dấu đã thuộc"}</button>
+          </div>
+        `;
+        $("detailSpeak")?.addEventListener("click", () => speak(item.w));
+        $("detailToggleMaster")?.addEventListener("click", () => {
+          if (mastered.has(item.id)) mastered.delete(item.id);
+          else mastered.add(item.id);
+          saveMastered();
+          renderDetail(item.id);
+          renderList();
+          renderProgress();
+        });
+      }
+
+      $("searchInput").addEventListener("input", renderList);
+      $("themeFilter").addEventListener("change", renderList);
+
+      // Flashcards
+      function buildFlashDeck() {
+        const theme = $("flashTheme").value;
+        flashDeck = filteredItems(theme, "");
+        flashIndex = 0;
+        showFlash(false);
+      }
+      function showFlash(keepFlip) {
+        const card = $("flashcard");
+        if (!keepFlip) card.classList.remove("flipped");
+        if (!flashDeck.length) {
+          $("flashFront").textContent = "Không có từ";
+          $("flashFrontSub").textContent = "";
+          $("flashBack").textContent = "—";
+          $("flashBackSub").textContent = "";
+          $("flashPos").textContent = "0 / 0";
+          $("flashProg").style.width = "0%";
+          return;
+        }
+        flashIndex = Math.max(0, Math.min(flashIndex, flashDeck.length - 1));
+        const it = flashDeck[flashIndex];
+        $("flashFront").textContent = it.w;
+        $("flashFrontSub").textContent = it.r || "Nhấn để xem nghĩa";
+        $("flashBack").textContent = it.m;
+        $("flashBackSub").textContent = themeName[it.t] || "";
+        $("flashPos").textContent = `${flashIndex + 1} / ${flashDeck.length}`;
+        $("flashProg").style.width = `${((flashIndex + 1) / flashDeck.length) * 100}%`;
+      }
+      $("flashcard").addEventListener("click", () => $("flashcard").classList.toggle("flipped"));
+      $("flashTheme").addEventListener("change", buildFlashDeck);
+      $("flashShuffle").addEventListener("click", () => {
+        for (let i = flashDeck.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [flashDeck[i], flashDeck[j]] = [flashDeck[j], flashDeck[i]];
+        }
+        flashIndex = 0;
+        showFlash(false);
+      });
+      $("flashPrev").addEventListener("click", () => {
+        flashIndex = (flashIndex - 1 + flashDeck.length) % Math.max(flashDeck.length, 1);
+        showFlash(false);
+      });
+      $("flashNext").addEventListener("click", () => {
+        flashIndex = (flashIndex + 1) % Math.max(flashDeck.length, 1);
+        showFlash(false);
+      });
+      $("flashSpeak").addEventListener("click", () => {
+        if (flashDeck[flashIndex]) speak(flashDeck[flashIndex].w);
+      });
+      $("flashKnow").addEventListener("click", () => {
+        const it = flashDeck[flashIndex];
+        if (!it) return;
+        mastered.add(it.id);
+        saveMastered();
+        flashIndex = Math.min(flashIndex + 1, flashDeck.length - 1);
+        showFlash(false);
+        renderProgress();
+      });
+      $("flashAgain").addEventListener("click", () => {
+        const it = flashDeck[flashIndex];
+        if (!it) return;
+        mastered.delete(it.id);
+        saveMastered();
+        flashIndex = Math.min(flashIndex + 1, flashDeck.length - 1);
+        showFlash(false);
+        renderProgress();
+      });
+
+      // Quiz
+      function startQuiz() {
+        quizLocked = false;
+        const theme = $("quizTheme").value;
+        const mode = $("quizMode").value;
+        const pool = filteredItems(theme, "");
+        if (pool.length < 4) {
+          $("quizBox").innerHTML = "<div>Cần ít nhất 4 từ trong chủ đề để làm quiz.</div>";
+          return;
+        }
+        const answer = pool[Math.floor(Math.random() * pool.length)];
+        const options = new Set([answer]);
+        while (options.size < 4) {
+          options.add(pool[Math.floor(Math.random() * pool.length)]);
+        }
+        const opts = [...options].sort(() => Math.random() - 0.5);
+        const prompt = mode === "jp2vi" ? answer.w : answer.m;
+        const promptSub = mode === "jp2vi" ? answer.r || "" : themeName[answer.t] || "";
+        const label = (it) => (mode === "jp2vi" ? it.m : it.w);
+
+        $("quizBox").innerHTML = `
+          <div style="font-size:.85rem;color:var(--ink-soft)">Chọn đáp án đúng</div>
+          <div class="quiz-prompt">${escapeHtml(prompt)}</div>
+          <div style="color:var(--sea)">${escapeHtml(promptSub)}</div>
+          <div class="quiz-options">
+            ${opts
+              .map(
+                (it) =>
+                  `<button class="quiz-opt" data-id="${it.id}">${escapeHtml(label(it))}</button>`
+              )
+              .join("")}
+          </div>
+          <div id="quizFeedback" style="margin-top:14px"></div>
+        `;
+        $("quizBox").querySelectorAll(".quiz-opt").forEach((btn) => {
+          btn.addEventListener("click", () => {
+            if (quizLocked) return;
+            quizLocked = true;
+            quizTotal += 1;
+            const ok = btn.getAttribute("data-id") === answer.id;
+            if (ok) quizCorrect += 1;
+            $("quizScore").textContent = `${quizCorrect} đúng / ${quizTotal} câu`;
+            $("quizBox").querySelectorAll(".quiz-opt").forEach((b) => {
+              b.disabled = true;
+              if (b.getAttribute("data-id") === answer.id) b.classList.add("correct");
+            });
+            if (!ok) btn.classList.add("wrong");
+            const ex = getExamples(answer)[0];
+            $("quizFeedback").innerHTML = `
+              <div class="ex-item">
+                <p class="ex-ja">${highlightWord(ex.ja, answer.w)}</p>
+                <p class="ex-vi">${escapeHtml(ex.vi || "")}</p>
+              </div>
+              <button class="btn btn-primary" style="margin-top:12px" id="quizAgain">Câu tiếp</button>
+            `;
+            $("quizAgain").addEventListener("click", startQuiz);
+          });
+        });
+      }
+      $("quizStart").addEventListener("click", startQuiz);
+
+      // Progress
+      function renderProgress() {
+        const grid = $("progressGrid");
+        const totalM = mastered.size;
+        grid.innerHTML = `
+          <div class="theme-tile" style="cursor:default">
+            <div class="count">${totalM}</div>
+            <div class="name">Từ đã đánh dấu thuộc</div>
+            <div class="hint">/ ${DATA.total} tổng kho</div>
+          </div>
+        ` +
+          DATA.themes
+            .map((t) => {
+              const ids = DATA.items.filter((i) => i.t === t.id).map((i) => i.id);
+              const m = ids.filter((id) => mastered.has(id)).length;
+              const pct = ids.length ? Math.round((m / ids.length) * 100) : 0;
+              return `
+              <div class="theme-tile" style="cursor:default">
+                <div class="count">${pct}%</div>
+                <div class="name">${escapeHtml(t.name)}</div>
+                <div class="hint">${m} / ${ids.length} từ</div>
+              </div>`;
+            })
+            .join("");
+      }
+      $("exportProgress").addEventListener("click", () => {
+        const blob = new Blob([JSON.stringify([...mastered], null, 2)], { type: "application/json" });
+        const a = document.createElement("a");
+        a.href = URL.createObjectURL(blob);
+        a.download = "kotoba-kobo-progress.json";
+        a.click();
+      });
+      $("resetProgress").addEventListener("click", () => {
+        if (!confirm("Xóa toàn bộ tiến độ trên máy này?")) return;
+        mastered = new Set();
+        saveMastered();
+        renderProgress();
+        renderList();
+      });
+
+      // Sticky nav border
+      const nav = $("topnav");
+      const io = new IntersectionObserver(
+        ([e]) => nav.classList.toggle("stuck", e.intersectionRatio < 1),
+        { threshold: [1], rootMargin: "-1px 0px 0px 0px" }
+      );
+      io.observe(nav);
+
+      // When leaving kaiwa-filtered study via normal theme select, clear filter
+      $("themeFilter").addEventListener("change", () => {
+        kaiwaThemeFilter = null;
+      });
+      $("flashTheme").addEventListener("change", () => {
+        kaiwaThemeFilter = null;
+      });
+      $("quizTheme").addEventListener("change", () => {
+        kaiwaThemeFilter = null;
+      });
+
+      $("kaiwaStudyVocab")?.addEventListener("click", () => openWeekStudy("browse"));
+      $("kaiwaFlash")?.addEventListener("click", () => openWeekStudy("flash"));
+      $("kaiwaQuiz")?.addEventListener("click", () => openWeekStudy("quiz"));
+
+      // init
+      renderKaiwa();
+      renderList();
+      buildFlashDeck();
+      renderProgress();
+    })();
+  </script>
+</body>
+</html>
