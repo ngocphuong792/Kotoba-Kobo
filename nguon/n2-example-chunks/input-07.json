@@ -1,0 +1,512 @@
+[
+  {
+    "id": "v5016",
+    "w": "中継",
+    "r": "ちゅうけい",
+    "m": "truyền hình trực tiếp"
+  },
+  {
+    "id": "v5017",
+    "w": "主人公",
+    "r": "しゅじんこう",
+    "m": "nhân vật chính"
+  },
+  {
+    "id": "v5018",
+    "w": "講師",
+    "r": "こうし",
+    "m": "giảng viên"
+  },
+  {
+    "id": "v5019",
+    "w": "交渉",
+    "r": "",
+    "m": "đàm phán, thương lượng, trao đổi để đi đến thỏa thuận."
+  },
+  {
+    "id": "v5020",
+    "w": "飲食店",
+    "r": "いんしょくてん",
+    "m": "quán ăn"
+  },
+  {
+    "id": "v5021",
+    "w": "手頃な",
+    "r": "てごろな",
+    "m": "phù hợp, vừa phải"
+  },
+  {
+    "id": "v5022",
+    "w": "一体",
+    "r": "いったい",
+    "m": "NHẤT THỂ; Rốt cuộc là do đâu?"
+  },
+  {
+    "id": "v5023",
+    "w": "手を抜く",
+    "r": "てをぬく",
+    "m": "THỦ – BẠT; Làm qua loa, không dốc hết sức"
+  },
+  {
+    "id": "v5024",
+    "w": "単純明快",
+    "r": "たんじゅんめいかい",
+    "m": "ĐƠN THUẦN MINH KHOÁI; Đơn giản và rõ ràng"
+  },
+  {
+    "id": "v5025",
+    "w": "経営する",
+    "r": "けいえいする",
+    "m": "KINH DOANH; Quản lý, điều hành kinh doanh"
+  },
+  {
+    "id": "v5026",
+    "w": "材料費, 光熱費",
+    "r": "こうねつひ",
+    "m": "QUANG NHIỆT PHÍ; Chi phí điện, gas, nước và năng lượng"
+  },
+  {
+    "id": "v5027",
+    "w": "抑える",
+    "r": "おさえる",
+    "m": "ỨC; Kiềm chế, cắt giảm"
+  },
+  {
+    "id": "v5028",
+    "w": "絞る",
+    "r": "しぼる",
+    "m": "GIẢO; Thu hẹp, giới hạn"
+  },
+  {
+    "id": "v5029",
+    "w": "抽象的",
+    "r": "",
+    "m": "Mang tính trừu tượng"
+  },
+  {
+    "id": "v5030",
+    "w": "返却",
+    "r": "",
+    "m": "へんきゃく PHẢN KHƯỚC hoàn trả vật đã mượn, thường dùng trong ngữ cảnh sách thư viện, tài liệu hoặc đồ dù"
+  },
+  {
+    "id": "v5031",
+    "w": "針",
+    "r": "",
+    "m": "はり CHÂM Cây kim; kim đồng hồ"
+  },
+  {
+    "id": "v5032",
+    "w": "撮影する",
+    "r": "",
+    "m": "さつえいする TOÁT ẢNH Chụp ảnh, quay phim"
+  },
+  {
+    "id": "v5033",
+    "w": "破片",
+    "r": "",
+    "m": "はへん PHÁ PHIẾN Mảnh vỡ, mảnh vụn"
+  },
+  {
+    "id": "v5034",
+    "w": "参る",
+    "r": "",
+    "m": "đi/đến hoặc đến viếng, với sắc thái khiêm nhường"
+  },
+  {
+    "id": "v5035",
+    "w": "収穫",
+    "r": "",
+    "m": "しゅうかく THU HOẠCH; Thu hoạch"
+  },
+  {
+    "id": "v5036",
+    "w": "餌",
+    "r": "",
+    "m": "えさ NHĨ; Thức ăn cho động vật"
+  },
+  {
+    "id": "v5037",
+    "w": "勢い",
+    "r": "",
+    "m": "いきおい THẾ Đà, sức mạnh, khí thế, tốc độ mạnh mẽ"
+  },
+  {
+    "id": "v5038",
+    "w": "彼（かれ）はすごい勢いで走っていった。",
+    "r": "",
+    "m": "Anh ấy chạy đi với tốc độ cực n"
+  },
+  {
+    "id": "v5039",
+    "w": "荒い",
+    "r": "",
+    "m": "dữ dội, thô bạo, mạnh.; sóng dữ."
+  },
+  {
+    "id": "v5040",
+    "w": "組織",
+    "r": "",
+    "m": "そしき TỔ CHỨC Tổ chức, cơ cấu tổ chức"
+  },
+  {
+    "id": "v5041",
+    "w": "至るところ",
+    "r": "いたるところ",
+    "m": "CHÍ Khắp nơi, mọi nơi"
+  },
+  {
+    "id": "v5042",
+    "w": "真夜中",
+    "r": "",
+    "m": "nửa đêm, giữa đêm"
+  },
+  {
+    "id": "v5043",
+    "w": "投票",
+    "r": "",
+    "m": "とうひょう ĐẦU PHIẾU Bỏ phiếu"
+  },
+  {
+    "id": "v5044",
+    "w": "投票率",
+    "r": "とうひょうりつ",
+    "m": "Theo bảng chữ cái"
+  },
+  {
+    "id": "v5045",
+    "w": "半透明",
+    "r": "はんとうめい",
+    "m": "BÁN THẤU MINH; Bán trong suốt"
+  },
+  {
+    "id": "v5046",
+    "w": "日本流",
+    "r": "",
+    "m": "にほんりゅう NHẬT BẢN LƯU; Phong cách, cách làm kiểu Nhật Bản"
+  },
+  {
+    "id": "v5047",
+    "w": "偏る",
+    "r": "かたよる",
+    "m": "mất cân bằng"
+  },
+  {
+    "id": "v5048",
+    "w": "省く",
+    "r": "",
+    "m": "có nghĩa là lược bỏ, loại bỏ phần không cần thiết."
+  },
+  {
+    "id": "v5049",
+    "w": "外す",
+    "r": "",
+    "m": "có nghĩa là tháo ra, bỏ ra hoặc loại khỏi một vị trí, danh sách."
+  },
+  {
+    "id": "v5050",
+    "w": "傾く",
+    "r": "",
+    "m": "thường chỉ sự nghiêng về mặt vật lý hoặc sự suy giảm, mất cân bằng"
+  },
+  {
+    "id": "v5051",
+    "w": "着々と",
+    "r": "",
+    "m": "ちゃくちゃくと TRƯỚC TRƯỚC Từng bước chắc chắn, thuận lợi"
+  },
+  {
+    "id": "v5052",
+    "w": "建設",
+    "r": "",
+    "m": "けんせつ KIẾN THIẾT Xây dựng"
+  },
+  {
+    "id": "v5053",
+    "w": "ダム",
+    "r": "",
+    "m": "Đập nước"
+  },
+  {
+    "id": "v5054",
+    "w": "すらすら",
+    "r": "",
+    "m": "trôi chảy, dễ dàng; Dùng khi thực hiện một việc mà không gặp trở ngại, chẳng hạn đọc, nói hoặc giải b"
+  },
+  {
+    "id": "v5055",
+    "w": "続々",
+    "r": "",
+    "m": "— liên tiếp, lần lượt không ngừng; Dùng khi nhiều người hoặc sự vật xuất hiện, đến hoặc xảy ra"
+  },
+  {
+    "id": "v5056",
+    "w": "渋滞",
+    "r": "じゅうたい",
+    "m": "bực bội, sốt ruột, khó chịu"
+  },
+  {
+    "id": "v5057",
+    "w": "すっきり",
+    "r": "",
+    "m": "nhẹ nhõm, sảng khoái, thông thoáng; Diễn tả cảm giác thoải mái sau khi giải quyết được vấn đề hoặc tr"
+  },
+  {
+    "id": "v5058",
+    "w": "うっかり",
+    "r": "",
+    "m": "Sơ ý, lỡ đãng, vô tình quên hoặc làm sai."
+  },
+  {
+    "id": "v5059",
+    "w": "愚痴",
+    "r": "",
+    "m": "Lời than vãn, lời càu nhàu; một người liên tục than thở về những điều khiến mình không"
+  },
+  {
+    "id": "v5060",
+    "w": "憂鬱",
+    "r": "",
+    "m": "Buồn bã, u sầu, chán nản"
+  },
+  {
+    "id": "v5061",
+    "w": "苦情",
+    "r": "",
+    "m": "Khiếu nại, lời phàn nàn; thường dùng khi chính thức phản ánh sự không hài lòng về m"
+  },
+  {
+    "id": "v5062",
+    "w": "非難",
+    "r": "",
+    "m": "Chỉ trích, lên án; 非難 diễn tả việc chỉ trích ai đó vì cho rằng họ đã làm sai hoặ"
+  },
+  {
+    "id": "v5063",
+    "w": "再会",
+    "r": "さいかい",
+    "m": "gặp lại nhau sau 1 tg dài"
+  },
+  {
+    "id": "v5064",
+    "w": "場面",
+    "r": "",
+    "m": "Cảnh, phân cảnh"
+  },
+  {
+    "id": "v5065",
+    "w": "要所",
+    "r": "",
+    "m": "Điểm quan trọng, vị trí then chốt; vai trò quan trọng trong một sự việc, kế hoạch hay"
+  },
+  {
+    "id": "v5066",
+    "w": "名所",
+    "r": "",
+    "m": "Danh lam thắng cảnh, địa điểm nổi tiếng"
+  },
+  {
+    "id": "v5067",
+    "w": "画面",
+    "r": "",
+    "m": "Màn hình, hình ảnh hiển thị"
+  },
+  {
+    "id": "v5068",
+    "w": "大企業",
+    "r": "",
+    "m": "だいきぎょう ĐẠI XÍ NGHIỆP Doanh nghiệp lớn"
+  },
+  {
+    "id": "v5069",
+    "w": "成長",
+    "r": "",
+    "m": "Phát triển, lớn mạnh; 成長 dùng để diễn tả sự phát triển về quy mô, năng lực hoặ"
+  },
+  {
+    "id": "v5070",
+    "w": "発達",
+    "r": "",
+    "m": "Phát triển; năng lực, chức năng, kỹ năng"
+  },
+  {
+    "id": "v5071",
+    "w": "- 医学（いがく）が発達（はったつ）した。",
+    "r": "",
+    "m": "Y học đã phát tr"
+  },
+  {
+    "id": "v5072",
+    "w": "展開",
+    "r": "",
+    "m": "Triển khai, mở rộng, phát triển diễn biến; triển khai hoạt động, mở rộng kinh doa"
+  },
+  {
+    "id": "v5073",
+    "w": "適度な",
+    "r": "",
+    "m": "Vừa phải, ở mức độ phù hợp"
+  },
+  {
+    "id": "v5074",
+    "w": "簡略な",
+    "r": "",
+    "m": "Đơn giản hóa, giản lược"
+  },
+  {
+    "id": "v5075",
+    "w": "手続（てつづ）きを簡略（かんりゃく）にする。",
+    "r": "",
+    "m": "Đơn giản hóa thủ tục."
+  },
+  {
+    "id": "v5076",
+    "w": "対等",
+    "r": "",
+    "m": "Bình đẳng, ngang hàng"
+  },
+  {
+    "id": "v5077",
+    "w": "追加する",
+    "r": "",
+    "m": "có nghĩa là bổ sung, thêm vào.; 足す có nghĩa là thêm vào, cộng thêm."
+  },
+  {
+    "id": "v5078",
+    "w": "足す",
+    "r": "",
+    "m": "足す có nghĩa là thêm vào, cộng thêm."
+  },
+  {
+    "id": "v5079",
+    "w": "載せる",
+    "r": "",
+    "m": "có nghĩa là đăng hoặc đưa thông tin lên báo, website, tài liệu…"
+  },
+  {
+    "id": "v5080",
+    "w": "相当",
+    "r": "",
+    "m": "そうとう TƯƠNG ĐƯƠNG Khá, tương đối nhiều, đáng kể"
+  },
+  {
+    "id": "v5081",
+    "w": "かなり",
+    "r": "どうせ",
+    "m": "đằng nào thì, dù sao thì"
+  },
+  {
+    "id": "v5082",
+    "w": "やはり",
+    "r": "",
+    "m": "quả nhiên, đúng như dự đoán, vẫn"
+  },
+  {
+    "id": "v5083",
+    "w": "じっと",
+    "r": "",
+    "m": "Yên, bất động, không cử động"
+  },
+  {
+    "id": "v5084",
+    "w": "誤る",
+    "r": "",
+    "m": ", mang nghĩa “sai, nhầm lẫn”"
+  },
+  {
+    "id": "v5085",
+    "w": "かさかさ",
+    "r": "",
+    "m": "Khô ráp, sần sùi; thường dùng cho da"
+  },
+  {
+    "id": "v5086",
+    "w": "冷える",
+    "r": "",
+    "m": "ひえる LÃNH Lạnh đi, trở nên lạnh"
+  },
+  {
+    "id": "v5087",
+    "w": "しびれる",
+    "r": "",
+    "m": "Tê, mất cảm giác"
+  },
+  {
+    "id": "v5088",
+    "w": "廃止",
+    "r": "",
+    "m": "Bãi bỏ, hủy bỏ một chế độ, quy định, hệ thống hoặc tổ chức đã tồn tại."
+  },
+  {
+    "id": "v5089",
+    "w": "現状",
+    "r": "",
+    "m": "— HIỆN TRẠNG; Ý nghĩa: Hiện trạng, tình hình hiện tại, trạng thái thực tế đang diễn ra."
+  },
+  {
+    "id": "v5090",
+    "w": "終了",
+    "r": "",
+    "m": "— CHUNG LIỄU kết thúc; hội nghị, cuộc họp"
+  },
+  {
+    "id": "v5091",
+    "w": "中断",
+    "r": "ちゅうだん",
+    "m": "Sự gián đoạn, tạm dừng một hoạt động đang diễn ra."
+  },
+  {
+    "id": "v5092",
+    "w": "作業（さぎょう）を中断（ちゅうだん）した。",
+    "r": "",
+    "m": "Tôi đã tạm dừng công việc."
+  },
+  {
+    "id": "v5093",
+    "w": "心強い",
+    "r": "",
+    "m": "vững tâm, an tâm, cảm thấy có chỗ dựa tinh thần vì có người hỗ trợ hoặc có điều; 気丈な hoặc 強い.; Kiên cường, mạnh mẽ về mặt tinh thần"
+  },
+  {
+    "id": "v5094",
+    "w": "さっさと",
+    "r": "",
+    "m": "Nhanh chóng, mau lên, làm ngay không chần chừ. Từ này thường dùng khi thúc giục ai đó hành động nhan"
+  },
+  {
+    "id": "v5095",
+    "w": "塞ぐ",
+    "r": "ふさぐ",
+    "m": "TẮC: Bịt, lấp, che kín một lỗ hổng hoặc lối mở để không cho thứ gì đi qua"
+  },
+  {
+    "id": "v5096",
+    "w": "種",
+    "r": "",
+    "m": "Hạt giống."
+  },
+  {
+    "id": "v5097",
+    "w": "まく",
+    "r": "",
+    "m": "Gieo hạt"
+  },
+  {
+    "id": "v5098",
+    "w": "被せる",
+    "r": "かぶせる",
+    "m": "BỊ: Phủ lên, trùm lên."
+  },
+  {
+    "id": "v5099",
+    "w": "種（たね）をまいたら、土（つち）をかぶせて水（みず）をやってください。",
+    "r": "",
+    "m": "Sau khi gieo hạt, hãy phủ đất lên"
+  },
+  {
+    "id": "v5100",
+    "w": "セロテープ",
+    "r": "",
+    "m": "băng dính"
+  }
+]

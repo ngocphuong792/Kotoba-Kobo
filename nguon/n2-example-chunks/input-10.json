@@ -1,0 +1,512 @@
+[
+  {
+    "id": "v5271",
+    "w": "目覚ましい",
+    "r": "",
+    "m": "Đáng kinh ngạc, nổi bật, vượt bậc, tiến bộ rõ rệt.; Cách dùng: Dùng để diễn tả sự phát triển, tiến"
+  },
+  {
+    "id": "v5272",
+    "w": "急速",
+    "r": "",
+    "m": "- Nhanh chóng, cấp tốc, với tốc độ nhanh.; phát triển, thay đổi, tăng giảm hoặc tiến bộ."
+  },
+  {
+    "id": "v5273",
+    "w": "かすか",
+    "r": "",
+    "m": "mờ nhạt, lờ mờ, thoang thoảng, rất nhẹ"
+  },
+  {
+    "id": "v5274",
+    "w": "船に乗って1時間たつと、遠くに島がかすかに見えてきた。",
+    "r": "",
+    "m": "Dịch: Sau khi đi thuyền được một"
+  },
+  {
+    "id": "v5275",
+    "w": "催促",
+    "r": "",
+    "m": "sự thúc giục, nhắc nhở yêu cầu ai đó thực hiện việc gì"
+  },
+  {
+    "id": "v5276",
+    "w": "30度を超える",
+    "r": "こえる",
+    "m": "Vượt quá, vượt qua"
+  },
+  {
+    "id": "v5277",
+    "w": "すっかり",
+    "r": "",
+    "m": "hoàn thoàn"
+  },
+  {
+    "id": "v5278",
+    "w": "食欲",
+    "r": "",
+    "m": "cảm giác thèm ăn, khẩu vị."
+  },
+  {
+    "id": "v5279",
+    "w": "物足りない・ものたりない",
+    "r": "",
+    "m": "Chưa đủ, chưa thỏa mãn, cảm thấy thiếu một điều gì đó nên chưa hài lòng."
+  },
+  {
+    "id": "v5280",
+    "w": "優れる",
+    "r": "すぐれる",
+    "m": "Vượt trội, xuất sắc"
+  },
+  {
+    "id": "v5281",
+    "w": "メーカー",
+    "r": "",
+    "m": "Nhà sản xuất, hãng"
+  },
+  {
+    "id": "v5282",
+    "w": "ヘルメット",
+    "r": "",
+    "m": "Mũ bảo hiểm"
+  },
+  {
+    "id": "v5283",
+    "w": "受講料",
+    "r": "",
+    "m": "じゅこうりょう THỤ GIẢNG LIỆU Học phí, phí tham gia khóa học"
+  },
+  {
+    "id": "v5284",
+    "w": "~に達する",
+    "r": "",
+    "m": "たっする ĐẠT Đạt đến; Đạt đến 5000 người"
+  },
+  {
+    "id": "v5285",
+    "w": "広告宣伝",
+    "r": "",
+    "m": "こうこくせんでん QUẢNG CÁO TUYÊN TRUYỀN Quảng cáo, tuyên truyền"
+  },
+  {
+    "id": "v5286",
+    "w": "定着する",
+    "r": "",
+    "m": "ていちゃくする ĐỊNH TRƯỚC Trở nên phổ biến, ăn sâu thành thói quen"
+  },
+  {
+    "id": "v5287",
+    "w": "散らし",
+    "r": "ちらし",
+    "m": "tờ rơi"
+  },
+  {
+    "id": "v5288",
+    "w": "一応",
+    "r": "いちおう",
+    "m": "tạm thời, trước mắt"
+  },
+  {
+    "id": "v5289",
+    "w": "気になる",
+    "r": "きになる",
+    "m": "Để ý, tò mò, bận tâm về một người hoặc sự vật."
+  },
+  {
+    "id": "v5290",
+    "w": "気に入る",
+    "r": "きにいる",
+    "m": "Thích, ưng ý với một người hoặc sự vật."
+  },
+  {
+    "id": "v5291",
+    "w": "気にする",
+    "r": "きにする",
+    "m": "Chủ động để tâm, lo lắng hoặc coi trọng điều gì đó."
+  },
+  {
+    "id": "v5292",
+    "w": "崩れる",
+    "r": "",
+    "m": "くずれる BĂNG Sụp đổ, đổ sập, mất hình dạng, bị phá vỡ"
+  },
+  {
+    "id": "v5293",
+    "w": "（ゆれる）— DAO",
+    "r": "",
+    "m": "Nghĩa: Rung lắc, lay động, đung đưa; dao động, lung lay."
+  },
+  {
+    "id": "v5294",
+    "w": "用意します",
+    "r": "",
+    "m": "chuẩn bị"
+  },
+  {
+    "id": "v5295",
+    "w": "折り返す",
+    "r": "",
+    "m": "おりかえす CHIẾT PHẢN Gọi lại, liên lạc lại"
+  },
+  {
+    "id": "v5296",
+    "w": "留守",
+    "r": "るす",
+    "m": "Vắng mặt, vắng nhà"
+  },
+  {
+    "id": "v5297",
+    "w": "伝言",
+    "r": "",
+    "m": "TRUYỀN NGÔN Lời nhắn"
+  },
+  {
+    "id": "v5298",
+    "w": "幼稚",
+    "r": "",
+    "m": "ようち ẤU TRĨ Non nớt, trẻ con, thiếu chín chắn"
+  },
+  {
+    "id": "v5299",
+    "w": "圧勝",
+    "r": "",
+    "m": "あっしょう ÁP THẮNG Thắng áp đảo"
+  },
+  {
+    "id": "v5300",
+    "w": "傷む",
+    "r": "",
+    "m": "いたむ THƯƠNG Bị hỏng, ôi thiu"
+  },
+  {
+    "id": "v5301",
+    "w": "泡",
+    "r": "",
+    "m": "あわ BÀO Bọt"
+  },
+  {
+    "id": "v5302",
+    "w": "汗",
+    "r": "",
+    "m": "あせ HÃN Mồ hôi"
+  },
+  {
+    "id": "v5303",
+    "w": "逆らう",
+    "r": "",
+    "m": "NGHỊCH Chống lại, đi ngược lại"
+  },
+  {
+    "id": "v5304",
+    "w": "拒む",
+    "r": "",
+    "m": "CỰ Từ chối, khước từ"
+  },
+  {
+    "id": "v5305",
+    "w": "争う",
+    "r": "",
+    "m": "TRANH Tranh giành, tranh cãi"
+  },
+  {
+    "id": "v5306",
+    "w": "競う",
+    "r": "",
+    "m": "きそう CẠNH Thi đua, ganh đua"
+  },
+  {
+    "id": "v5307",
+    "w": "戦う",
+    "r": "",
+    "m": "たたかう CHIẾN Chiến đấu, chiến đấu chống lại"
+  },
+  {
+    "id": "v5308",
+    "w": "競争する",
+    "r": "",
+    "m": "きょうそうする CẠNH TRANH Cạnh tranh, thi đua"
+  },
+  {
+    "id": "v5309",
+    "w": "戦争",
+    "r": "",
+    "m": "せんそう CHIẾN TRANH Chiến tranh"
+  },
+  {
+    "id": "v5310",
+    "w": "批判",
+    "r": "",
+    "m": "ひはん PHÊ PHÁN Phê phán, chỉ trích"
+  },
+  {
+    "id": "v5311",
+    "w": "劣る",
+    "r": "",
+    "m": "おとる LIỆT Kém hơn, thua kém"
+  },
+  {
+    "id": "v5312",
+    "w": "負う",
+    "r": "",
+    "m": "PHỤ Gánh chịu, mang trên mình"
+  },
+  {
+    "id": "v5313",
+    "w": "乏しい",
+    "r": "",
+    "m": "PHẠM Nghèo nàn, thiếu thốn"
+  },
+  {
+    "id": "v5314",
+    "w": "収める",
+    "r": "",
+    "m": "おさめる THU Thu thập, đưa vào, lưu giữ"
+  },
+  {
+    "id": "v5315",
+    "w": "作品集",
+    "r": "",
+    "m": "さくひんしゅう TÁC PHẨM TẬP Tuyển tập tác phẩm"
+  },
+  {
+    "id": "v5316",
+    "w": "線路（せんろ）沿（ぞ）い",
+    "r": "",
+    "m": "dọc đường ray"
+  },
+  {
+    "id": "v5317",
+    "w": "電車賃",
+    "r": "",
+    "m": "でんしゃちん ĐIỆN XA NHẪM Tiền vé tàu điện"
+  },
+  {
+    "id": "v5318",
+    "w": "入場料",
+    "r": "",
+    "m": "— phí vào cửa"
+  },
+  {
+    "id": "v5319",
+    "w": "電気代",
+    "r": "",
+    "m": "— tiền điện"
+  },
+  {
+    "id": "v5320",
+    "w": "交通費",
+    "r": "",
+    "m": "— chi phí đi lại"
+  },
+  {
+    "id": "v5321",
+    "w": "一色",
+    "r": "",
+    "m": "いっしょく NHẤT SẮC Một màu; tràn ngập một trạng thái hoặc bầu không khí"
+  },
+  {
+    "id": "v5322",
+    "w": "ムード",
+    "r": "",
+    "m": "bầu không khí"
+  },
+  {
+    "id": "v5323",
+    "w": "腹を立てる",
+    "r": "",
+    "m": "はらをたてる PHÚC LẬP Nổi giận"
+  },
+  {
+    "id": "v5324",
+    "w": "いたずら",
+    "r": "",
+    "m": "Trò nghịch ngợm, trò phá phách"
+  },
+  {
+    "id": "v5325",
+    "w": "いちいち",
+    "r": "",
+    "m": "Từng chuyện một, chuyện gì cũng"
+  },
+  {
+    "id": "v5326",
+    "w": "頭にくる",
+    "r": "",
+    "m": "tức điên lên"
+  },
+  {
+    "id": "v5327",
+    "w": "導入",
+    "r": "",
+    "m": "どうにゅうする ĐẠO NHẬP Đưa vào sử dụng, triển khai"
+  },
+  {
+    "id": "v5328",
+    "w": "引用",
+    "r": "",
+    "m": "いんよう — DẪN DỤNG; Nghĩa: trích dẫn lời nói, văn bản hoặc tài liệu của người khác."
+  },
+  {
+    "id": "v5329",
+    "w": "吸収",
+    "r": "",
+    "m": "— HẤP THU; Nghĩa: hấp thụ, tiếp thu; trong kinh doanh còn có nghĩa là sáp nhập"
+  },
+  {
+    "id": "v5330",
+    "w": "移行",
+    "r": "",
+    "m": "— DI HÀNH; Nghĩa: chuyển đổi, chuyển sang một hệ thống hoặc trạng thái khác"
+  },
+  {
+    "id": "v5331",
+    "w": "やかましい",
+    "r": "",
+    "m": "Ồn ào, inh ỏi; khắt khe, hay phàn nàn"
+  },
+  {
+    "id": "v5332",
+    "w": "しつこい",
+    "r": "",
+    "m": "dai dẳng"
+  },
+  {
+    "id": "v5333",
+    "w": "ずうずうしい",
+    "r": "",
+    "m": "không biết xấu hổ, mặt dày, trơ tráo; Anh ta trơ tráo đi vay tiền người khác"
+  },
+  {
+    "id": "v5334",
+    "w": "パンク",
+    "r": "",
+    "m": "puncture; Thủng lốp, xì lốp"
+  },
+  {
+    "id": "v5335",
+    "w": "ストライキ",
+    "r": "",
+    "m": "Đình công"
+  },
+  {
+    "id": "v5336",
+    "w": "ダウン",
+    "r": "",
+    "m": "Suy sụp, ngừng hoạt động, bị hỏng"
+  },
+  {
+    "id": "v5337",
+    "w": "抜ける",
+    "r": "",
+    "m": "thoát ra, bị mất"
+  },
+  {
+    "id": "v5338",
+    "w": "遅くとも",
+    "r": "",
+    "m": "Muộn nhất là"
+  },
+  {
+    "id": "v5339",
+    "w": "あらかじめ",
+    "r": "",
+    "m": "Trước; Photo trước tài liệu này"
+  },
+  {
+    "id": "v5340",
+    "w": "先々",
+    "r": "",
+    "m": "【TIÊN TIÊN】 — Sau này, trong tương lai"
+  },
+  {
+    "id": "v5341",
+    "w": "柔道",
+    "r": "",
+    "m": "じゅうどう NHU ĐẠO Judo, nhu đạo"
+  },
+  {
+    "id": "v5342",
+    "w": "がっしりした",
+    "r": "",
+    "m": "Vạm vỡ, chắc khỏe, rắn rỏi"
+  },
+  {
+    "id": "v5343",
+    "w": "体格",
+    "r": "",
+    "m": "たいかく THỂ CÁCH Vóc dáng, thể hình"
+  },
+  {
+    "id": "v5344",
+    "w": "差し支える",
+    "r": "",
+    "m": "さしつかえる SAI CHI Gây trở ngại, ảnh hưởng không tốt"
+  },
+  {
+    "id": "v5345",
+    "w": "関わり合う",
+    "r": "",
+    "m": "có quan hệ hoặc dính líu với nhau"
+  },
+  {
+    "id": "v5346",
+    "w": "引っかかる",
+    "r": "",
+    "m": "Mắc vào, vướng vào"
+  },
+  {
+    "id": "v5347",
+    "w": "そろえる",
+    "r": "",
+    "m": "TỀ Làm cho đồng đều, thống nhất"
+  },
+  {
+    "id": "v5348",
+    "w": "買い占める",
+    "r": "",
+    "m": "かいしめる MÃI CHIẾM Mua gom, mua hết một lượng lớn"
+  },
+  {
+    "id": "v5349",
+    "w": "間際",
+    "r": "",
+    "m": "まぎわ GIAN TẾ Ngay sát thời điểm, ngay trước lúc; 直前【TRỰC TIỀN】 — Ngay trước"
+  },
+  {
+    "id": "v5350",
+    "w": "たちまち",
+    "r": "",
+    "m": "ngay lập tức"
+  },
+  {
+    "id": "v5351",
+    "w": "お勘定を済ます",
+    "r": "おかんじょうをすます",
+    "m": "thanh toán hóa đơn xong.; thanh toán, hóa đơn"
+  },
+  {
+    "id": "v5352",
+    "w": "頑丈",
+    "r": "",
+    "m": "chắc chắn, bền chắc, cứng cáp; đồ vật, công trình"
+  },
+  {
+    "id": "v5353",
+    "w": "金庫",
+    "r": "",
+    "m": "két sắt."
+  },
+  {
+    "id": "v5354",
+    "w": "厳重",
+    "r": "",
+    "m": "quản lý nghiêm ngặt."
+  },
+  {
+    "id": "v5355",
+    "w": "乱暴",
+    "r": "",
+    "m": "thô bạo, mạnh tay, cẩu thả."
+  }
+]

@@ -23,8 +23,8 @@ Trình duyệt mở: http://localhost:8765
 | File | Vai trò |
 |------|---------|
 | `index.html` | Giao diện: Chủ đề · Danh sách · Flashcard · Quiz · Kaiwa BrSE |
-| `vocab-data.js` | Kho từ (~4500) + phân chủ đề |
-| `examples-data.js` | 5 câu ví dụ JP+VN / từ |
+| `vocab-data.js` | Kho từ (~5500) + phân chủ đề (gồm JLPT N1/N2) |
+| `examples-data.js` | 5 câu ví dụ JP+VN / từ (đủ bộ Từ vựng N2) |
 | `kaiwa-plan-data.js` | Map 12 tuần Notion ↔ nhóm từ |
 | `start.sh` / `Mở-Kotoba-Kobo.command` | Chạy máy chủ cục bộ |
 | `nguon/vocab.json` | Nguồn JSON (không bắt buộc để mở web) |

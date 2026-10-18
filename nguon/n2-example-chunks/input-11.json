@@ -1,0 +1,512 @@
+[
+  {
+    "id": "v5356",
+    "w": "強固（きょうこ）な信頼関係",
+    "r": "しんらいかんけい",
+    "m": "mối quan hệ tin cậy vững chắc"
+  },
+  {
+    "id": "v5357",
+    "w": "器用",
+    "r": "",
+    "m": "khéo léo."
+  },
+  {
+    "id": "v5358",
+    "w": "鶴",
+    "r": "",
+    "m": "chim hạc."
+  },
+  {
+    "id": "v5359",
+    "w": "腕",
+    "r": "",
+    "m": "cánh tay"
+  },
+  {
+    "id": "v5360",
+    "w": "腕を組む",
+    "r": "",
+    "m": "【TÝ TỔ】; khoanh tay"
+  },
+  {
+    "id": "v5361",
+    "w": "合図",
+    "r": "",
+    "m": "tín hiệu, hiệu lệnh"
+  },
+  {
+    "id": "v5362",
+    "w": "器具",
+    "r": "",
+    "m": "dụng cụ, thiết bị."
+  },
+  {
+    "id": "v5363",
+    "w": "点検",
+    "r": "",
+    "m": "kiểm tra, kiểm định; kiểm tra máy móc, thiết bị"
+  },
+  {
+    "id": "v5364",
+    "w": "跡",
+    "r": "あと",
+    "m": "dấu vết; 足跡 dấu chân"
+  },
+  {
+    "id": "v5365",
+    "w": "こつこつ",
+    "r": "",
+    "m": "phó từ diễn tả việc kiên trì, chăm chỉ, đều đặn từng chút một để đạt được mục tiêu"
+  },
+  {
+    "id": "v5366",
+    "w": "舌",
+    "r": "",
+    "m": "lưỡi"
+  },
+  {
+    "id": "v5367",
+    "w": "火傷",
+    "r": "",
+    "m": "bỏng."
+  },
+  {
+    "id": "v5368",
+    "w": "資格をとる",
+    "r": "",
+    "m": "bằng cấp, chứng chỉ."
+  },
+  {
+    "id": "v5369",
+    "w": "縮む",
+    "r": "",
+    "m": "co lại, bị thu nhỏ kích thước, ngắn lại"
+  },
+  {
+    "id": "v5370",
+    "w": "セーター、距離、寿命",
+    "r": "じゅみょう",
+    "m": ""
+  },
+  {
+    "id": "v5371",
+    "w": "積み重ねる",
+    "r": "つみかさねる",
+    "m": "xếp chồng"
+  },
+  {
+    "id": "v5372",
+    "w": "鉛筆",
+    "r": "",
+    "m": "bút chì."
+  },
+  {
+    "id": "v5373",
+    "w": "ニコニコ",
+    "r": "",
+    "m": "cười rạng rõ"
+  },
+  {
+    "id": "v5374",
+    "w": "サラリーマン",
+    "r": "",
+    "m": "Người làm công ăn lương, nhân viên văn phòng"
+  },
+  {
+    "id": "v5375",
+    "w": "取り込む",
+    "r": "",
+    "m": "Sự nỗ lực"
+  },
+  {
+    "id": "v5376",
+    "w": "照明",
+    "r": "",
+    "m": "しょうめい CHIẾU MINH Đèn chiếu sáng, ánh sáng"
+  },
+  {
+    "id": "v5377",
+    "w": "ちり",
+    "r": "",
+    "m": "hạt bụi"
+  },
+  {
+    "id": "v5378",
+    "w": "当たる",
+    "r": "",
+    "m": "あたる ĐƯƠNG Chiếu vào, va vào, trúng"
+  },
+  {
+    "id": "v5379",
+    "w": "公害",
+    "r": "",
+    "m": "こうがい CÔNG HẠI Ô nhiễm môi trường"
+  },
+  {
+    "id": "v5380",
+    "w": "光害",
+    "r": "",
+    "m": "ひかりがい QUANG HẠI Ô nhiễm ánh sáng"
+  },
+  {
+    "id": "v5381",
+    "w": "登場",
+    "r": "",
+    "m": "とうじょう ĐĂNG TRƯỜNG Sự xuất hiện; một người, nhân vật, sự vật hoặc công nghệ xuất hiện"
+  },
+  {
+    "id": "v5382",
+    "w": "自然",
+    "r": "",
+    "m": "しぜん TỰ NHIÊN Tự nhiên"
+  },
+  {
+    "id": "v5383",
+    "w": "植物",
+    "r": "",
+    "m": "しょくぶつ THỰC VẬT Thực vật"
+  },
+  {
+    "id": "v5384",
+    "w": "環境省",
+    "r": "",
+    "m": "かんきょうしょう HOÀN CẢNH TỈNH Bộ Môi trường"
+  },
+  {
+    "id": "v5385",
+    "w": "定める",
+    "r": "",
+    "m": "さだめる ĐỊNH Quy định, đặt ra"
+  },
+  {
+    "id": "v5386",
+    "w": "すでに。。。",
+    "r": "",
+    "m": "Đã, rồi; Một hoạt động đã và đang được thực hiện"
+  },
+  {
+    "id": "v5387",
+    "w": "照らす",
+    "r": "",
+    "m": "【CHIẾU】; Ý nghĩa: Chiếu sáng, soi sáng, rọi sáng."
+  },
+  {
+    "id": "v5388",
+    "w": "上方向",
+    "r": "",
+    "m": "うえほうこう THƯỢNG PHƯƠNG HƯỚNG Hướng lên phía trên"
+  },
+  {
+    "id": "v5389",
+    "w": "常に",
+    "r": "",
+    "m": "つねに THƯỜNG Luôn luôn"
+  },
+  {
+    "id": "v5390",
+    "w": "適切",
+    "r": "",
+    "m": "てきせつ THÍCH THIẾT Thích hợp"
+  },
+  {
+    "id": "v5391",
+    "w": "グラフ値",
+    "r": "グラフあたい",
+    "m": "Các giá trị trong biểu đồ"
+  },
+  {
+    "id": "v5392",
+    "w": "食器",
+    "r": "",
+    "m": "しょっき THỰC KHÍ Bát đĩa, đồ dùng ăn uống"
+  },
+  {
+    "id": "v5393",
+    "w": "継続",
+    "r": "",
+    "m": "けいぞく KẾ TỤC Tiếp tục, kéo dài"
+  },
+  {
+    "id": "v5394",
+    "w": "除く",
+    "r": "",
+    "m": "のぞく TRỪ Loại trừ, bỏ ra"
+  },
+  {
+    "id": "v5395",
+    "w": "貿易",
+    "r": "",
+    "m": "ぼうえき MẬU DỊCH Thương mại, ngoại thương"
+  },
+  {
+    "id": "v5396",
+    "w": "盛ん",
+    "r": "",
+    "m": "さかん THỊNH Sôi nổi, phát triển mạnh; Hoạt động"
+  },
+  {
+    "id": "v5397",
+    "w": "削れる",
+    "r": "",
+    "m": "TƯỚC Bị bào mòn, bị gọt mất một phần"
+  },
+  {
+    "id": "v5398",
+    "w": "拾う",
+    "r": "ひろう",
+    "m": "tính nguy hiểm, nguy cơ"
+  },
+  {
+    "id": "v5399",
+    "w": "期限切れ",
+    "r": "",
+    "m": "hết hạn."
+  },
+  {
+    "id": "v5400",
+    "w": "高性能",
+    "r": "",
+    "m": "hiệu năng cao, tính năng vượt trội."
+  },
+  {
+    "id": "v5401",
+    "w": "映像",
+    "r": "",
+    "m": "hình ảnh, video.; Khoảng thời gian + おきに; cách một ngày, tức hai ngày một lần."
+  },
+  {
+    "id": "v5402",
+    "w": "思い切る",
+    "r": "",
+    "m": "mạnh dạn, lấy can đảm, quyết tâm"
+  },
+  {
+    "id": "v5403",
+    "w": "知らず知らず",
+    "r": "",
+    "m": "lúc nào không hay, một cách vô thức, không nhận ra."
+  },
+  {
+    "id": "v5404",
+    "w": "原稿",
+    "r": "",
+    "m": "bản thảo, bản viết trước khi xuất bản."
+  },
+  {
+    "id": "v5405",
+    "w": "誤り",
+    "r": "",
+    "m": "lỗi, sai sót."
+  },
+  {
+    "id": "v5406",
+    "w": "交換",
+    "r": "",
+    "m": "— GIAO HOÁN; trao đổi quà với bạn, đổi vỉ"
+  },
+  {
+    "id": "v5407",
+    "w": "改訂",
+    "r": "",
+    "m": "— CẢI ĐỊNH; Sửa đổi sách giáo khoa"
+  },
+  {
+    "id": "v5408",
+    "w": "捉える",
+    "r": "とらえる",
+    "m": "nắm bắt, bắt lấy; hiểu hoặc nhận thức một sự việc."
+  },
+  {
+    "id": "v5409",
+    "w": "見張る",
+    "r": "みはる",
+    "m": "canh chừng, theo dõi"
+  },
+  {
+    "id": "v5410",
+    "w": "一気に",
+    "r": "いっきに",
+    "m": "một mạch, liên tục, không ngừng giữa chừng; đọc 1 mạch đến hết"
+  },
+  {
+    "id": "v5411",
+    "w": "一時的に",
+    "r": "いちじてきに",
+    "m": "tạm thời"
+  },
+  {
+    "id": "v5412",
+    "w": "一方的に",
+    "r": "いっぽうてきに",
+    "m": "một chiều, đơn phương; đơn phương chấm dứt hđ, quyết định"
+  },
+  {
+    "id": "v5413",
+    "w": "希望",
+    "r": "",
+    "m": "きぼう HY VỌNG Mong muốn, nguyện vọng"
+  },
+  {
+    "id": "v5414",
+    "w": "職",
+    "r": "",
+    "m": "しょく CHỨC Công việc, nghề nghiệp"
+  },
+  {
+    "id": "v5415",
+    "w": "就く",
+    "r": "",
+    "m": "つく TỰU làm việc"
+  },
+  {
+    "id": "v5416",
+    "w": "蓄える",
+    "r": "",
+    "m": "たくわえる SÚC Tích lũy, tích trữ"
+  },
+  {
+    "id": "v5417",
+    "w": "知識",
+    "r": "うとうと",
+    "m": "Gật gù, thiu thiu ngủ, ngủ gật"
+  },
+  {
+    "id": "v5418",
+    "w": "たまたま",
+    "r": "",
+    "m": "tình cờ, ngẫu nhiên"
+  },
+  {
+    "id": "v5419",
+    "w": "明らかな",
+    "r": "",
+    "m": "rõ ràng, minh bạch, hiển nhiên."
+  },
+  {
+    "id": "v5420",
+    "w": "証拠",
+    "r": "しょうこ",
+    "m": "Bằng chứng"
+  },
+  {
+    "id": "v5421",
+    "w": "用心",
+    "r": "ようじん",
+    "m": "cẩn thận, đề phòng, cảnh giác."
+  },
+  {
+    "id": "v5422",
+    "w": "騒々しい",
+    "r": "",
+    "m": "ồn ào, huyên náo."
+  },
+  {
+    "id": "v5423",
+    "w": "会見",
+    "r": "かいけん",
+    "m": "buổi họp báo để phát biểu và trả lời câu hỏi của giới truyền thông."
+  },
+  {
+    "id": "v5424",
+    "w": "支持",
+    "r": "",
+    "m": "ủng hộ, tán thành (bới ng dân); 支持を集める nhận được sự ủng hộ."
+  },
+  {
+    "id": "v5425",
+    "w": "歓迎",
+    "r": "かんげい",
+    "m": "HOAN NGHÊNH, nghĩa là chào đón, hoan nghênh."
+  },
+  {
+    "id": "v5426",
+    "w": "妥当",
+    "r": "だとう",
+    "m": "THỎA ĐƯƠNG: thích đáng, hợp lý; Mức giá hợp lí"
+  },
+  {
+    "id": "v5427",
+    "w": "歌詞",
+    "r": "",
+    "m": "lời bài hát."
+  },
+  {
+    "id": "v5428",
+    "w": "言い訳",
+    "r": "",
+    "m": "biện minh, viện cớ để che đậy lỗi"
+  },
+  {
+    "id": "v5429",
+    "w": "道具",
+    "r": "",
+    "m": "dụng cụ."
+  },
+  {
+    "id": "v5430",
+    "w": "手軽に",
+    "r": "てがる",
+    "m": "thực hiện 1 cách dễ dàng"
+  },
+  {
+    "id": "v5431",
+    "w": "お互い",
+    "r": "",
+    "m": "lẫn nhau.; Giúp đỡ lẫn nhau"
+  },
+  {
+    "id": "v5432",
+    "w": "服装",
+    "r": "ふくそう",
+    "m": "trang phục"
+  },
+  {
+    "id": "v5433",
+    "w": "気軽",
+    "r": "",
+    "m": "きがる thoải mái, không câu nệ.; mặc thoải mái"
+  },
+  {
+    "id": "v5434",
+    "w": "企画する",
+    "r": "きかくする",
+    "m": "Lên kế hoạch"
+  },
+  {
+    "id": "v5435",
+    "w": "拘る",
+    "r": "",
+    "m": "Coi trọng, chú trọng, khắt khe về một điều gì đó"
+  },
+  {
+    "id": "v5436",
+    "w": "素材",
+    "r": "そざい",
+    "m": "nguyên liệu, chất liệu, vật liệu gốc"
+  },
+  {
+    "id": "v5437",
+    "w": "精神",
+    "r": "",
+    "m": "— TINH THẦN"
+  },
+  {
+    "id": "v5438",
+    "w": "活かす",
+    "r": "いかす",
+    "m": "Vận dụng, phát huy"
+  },
+  {
+    "id": "v5439",
+    "w": "省略",
+    "r": "しょうりゃく",
+    "m": "Chỗ này có thể lược bỏ cũng không sao."
+  },
+  {
+    "id": "v5440",
+    "w": "研修",
+    "r": "けんしゅう",
+    "m": "Đào tạo, tập huấn"
+  }
+]

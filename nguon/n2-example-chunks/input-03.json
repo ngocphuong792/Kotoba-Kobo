@@ -1,0 +1,512 @@
+[
+  {
+    "id": "v4676",
+    "w": "花粉症",
+    "r": "かふんしょう",
+    "m": "dị ứng phấn hoa / bệnh dị ứng phấn hoa"
+  },
+  {
+    "id": "v4677",
+    "w": "侵入者",
+    "r": "しんにゅうしゃ",
+    "m": "kẻ xâm nhập, người đột nhập"
+  },
+  {
+    "id": "v4678",
+    "w": "ガードマン",
+    "r": "",
+    "m": "guardman; ｎgười bảo vệ"
+  },
+  {
+    "id": "v4679",
+    "w": "抗体",
+    "r": "こうたい",
+    "m": "kháng thể"
+  },
+  {
+    "id": "v4680",
+    "w": "蓄積する",
+    "r": "ちくせきする",
+    "m": "tích lũy, tích tụ"
+  },
+  {
+    "id": "v4681",
+    "w": "疲労・ストレス・経験・知識・データ・情報・ゴミ",
+    "r": "",
+    "m": "mệt mỏi, stress, kinh nghiệm, kiến thức, dữ liệu,"
+  },
+  {
+    "id": "v4682",
+    "w": "水準",
+    "r": "すいじゅん",
+    "m": "mức độ, tiêu chuẩn"
+  },
+  {
+    "id": "v4683",
+    "w": "症状",
+    "r": "しょうじょう",
+    "m": "triệu chứng, biểu hiện của bệnh"
+  },
+  {
+    "id": "v4684",
+    "w": "現れます",
+    "r": "あわれます",
+    "m": "xuất hiện"
+  },
+  {
+    "id": "v4685",
+    "w": "快適に",
+    "r": "かいてきに",
+    "m": "một cách thoải mái, dễ chịu, tiện nghi, thuận tiện"
+  },
+  {
+    "id": "v4686",
+    "w": "努める",
+    "r": "つとめる",
+    "m": "cố gắng, nỗ lực, ra sức, cố làm gì đó"
+  },
+  {
+    "id": "v4687",
+    "w": "健康を維持するように努める。",
+    "r": "けんこうを いじするように つとめる",
+    "m": "Cố gắng duy trì sức"
+  },
+  {
+    "id": "v4688",
+    "w": "外出",
+    "r": "がいしゅつ",
+    "m": "Ra ngoài"
+  },
+  {
+    "id": "v4689",
+    "w": "防ぐ",
+    "r": "ふせぐ",
+    "m": "phòng ngừa, ngăn chặn, ngăn không cho xảy ra"
+  },
+  {
+    "id": "v4690",
+    "w": "帰宅",
+    "r": "きたく",
+    "m": "Về nhà"
+  },
+  {
+    "id": "v4691",
+    "w": "接する",
+    "r": "せっする",
+    "m": "tiếp xúc"
+  },
+  {
+    "id": "v4692",
+    "w": "空間",
+    "r": "くうかん",
+    "m": "ｋhông gian, khoảng không"
+  },
+  {
+    "id": "v4693",
+    "w": "不思議",
+    "r": "ふしぎ",
+    "m": "kì lạ, khó hiểu"
+  },
+  {
+    "id": "v4694",
+    "w": "敗れる",
+    "r": "やぶれる",
+    "m": "thất bại, thua, bị đánh bại, thua trận"
+  },
+  {
+    "id": "v4695",
+    "w": "潰れる",
+    "r": "つぶれる",
+    "m": "ｂị bẹp, bị nghiền nát, phá sản"
+  },
+  {
+    "id": "v4696",
+    "w": "要求する",
+    "r": "ようきゅうする",
+    "m": "Yêu cầu"
+  },
+  {
+    "id": "v4697",
+    "w": "祝う",
+    "r": "いわう",
+    "m": "Chúc mừng"
+  },
+  {
+    "id": "v4698",
+    "w": "祈る",
+    "r": "いのる",
+    "m": "Cầu nguyện"
+  },
+  {
+    "id": "v4699",
+    "w": "占う",
+    "r": "うらなう",
+    "m": "bói, xem bói, dự đoán"
+  },
+  {
+    "id": "v4700",
+    "w": "調節",
+    "r": "ちょうせつ",
+    "m": "Điều tiết, điều chỉnh cho phù hợp"
+  },
+  {
+    "id": "v4701",
+    "w": "至急",
+    "r": "しきゅう",
+    "m": "khẩn cấp, gấp, càng sớm càng tốt"
+  },
+  {
+    "id": "v4702",
+    "w": "象徴",
+    "r": "しょうちょう",
+    "m": "biểu tượng"
+  },
+  {
+    "id": "v4703",
+    "w": "激しい",
+    "r": "はげしい",
+    "m": "dữ dội, mạnh, khốc liệt, mãnh liệt"
+  },
+  {
+    "id": "v4704",
+    "w": "険しい",
+    "r": "けわしい",
+    "m": "hiểm trở, dốc đứng; cũng có thể chỉ nét mặt nghiêm nghị hoặc tình hình căng thẳng"
+  },
+  {
+    "id": "v4705",
+    "w": "厳しい",
+    "r": "きびしい",
+    "m": "Khắc nghiệt, nghiêm trọng, khó khăn"
+  },
+  {
+    "id": "v4706",
+    "w": "悔しい",
+    "r": "くやしい",
+    "m": "tiếc nuối, ấm ức, cay cú, tức vì không cam lòng"
+  },
+  {
+    "id": "v4707",
+    "w": "詳しい",
+    "r": "くわしい",
+    "m": "chi tiết, kỹ lưỡng; am hiểu, rành về một lĩnh vực"
+  },
+  {
+    "id": "v4708",
+    "w": "登録",
+    "r": "とうろく",
+    "m": "đăng ký, lưu, ghi vào hệ thống"
+  },
+  {
+    "id": "v4709",
+    "w": "誘う",
+    "r": "さそう",
+    "m": "rủ, mời, mời tham gia"
+  },
+  {
+    "id": "v4710",
+    "w": "招く",
+    "r": "まねく",
+    "m": "rủ, mời đến nơi, sự kiện"
+  },
+  {
+    "id": "v4711",
+    "w": "勧める",
+    "r": "すすめる",
+    "m": "khuyên, đề xuất ai đó làm gì"
+  },
+  {
+    "id": "v4712",
+    "w": "請う",
+    "r": "こう",
+    "m": "thỉnh cầu, cầu xin"
+  },
+  {
+    "id": "v4713",
+    "w": "変更",
+    "r": "へんこう",
+    "m": "thay đổi, điều chỉnh, đổi sang một nội dung/thời gian khác"
+  },
+  {
+    "id": "v4714",
+    "w": "変換",
+    "r": "へんかん",
+    "m": "chuyển đổi; ファイル形式を変換する → chuyển đổi định dạng file"
+  },
+  {
+    "id": "v4715",
+    "w": "医学界",
+    "r": "いがくかい",
+    "m": "Giới ý học"
+  },
+  {
+    "id": "v4716",
+    "w": "温暖帯",
+    "r": "おんだんたい",
+    "m": "Vùng khí hậu ẩm"
+  },
+  {
+    "id": "v4717",
+    "w": "決勝戦",
+    "r": "",
+    "m": "trận chung kết"
+  },
+  {
+    "id": "v4718",
+    "w": "準優勝",
+    "r": "じゅんゆうしょう",
+    "m": "á quân, hạng nhì; 準 → á-/bán-"
+  },
+  {
+    "id": "v4719",
+    "w": "現段階",
+    "r": "げんだんかい",
+    "m": "Giai đoạn hiện tại"
+  },
+  {
+    "id": "v4720",
+    "w": "詳細",
+    "r": "しょうさい",
+    "m": "chi tiết, chi tiết cụ thể"
+  },
+  {
+    "id": "v4721",
+    "w": "訪問",
+    "r": "ほうもん",
+    "m": "thăm, chuyến thăm"
+  },
+  {
+    "id": "v4722",
+    "w": "非公式",
+    "r": "ひこうしき",
+    "m": "không chính thức; 非公開→ không công khai; 非常識→ thiếu hiểu biết thông thường / vô lý; 不 không, bất ~; bất an → lo lắng, bất an; bất khả → không thể; bất tiện → bất tiện"
+  },
+  {
+    "id": "v4723",
+    "w": "不完全（ふかんぜん",
+    "r": "",
+    "m": "未＝ chưa, vị ~; vị hoàn thành → chưa hoàn thành; vị kinh nghiệm → chưa có kinh nghiệm"
+  },
+  {
+    "id": "v4724",
+    "w": "未定（みてい）：v",
+    "r": "",
+    "m": "無＝ không có, vô ~; vô liệu → miễn phí; vô lý → không thể, quá sức; vô ý nghĩa → vô nghĩa"
+  },
+  {
+    "id": "v4725",
+    "w": "総売上",
+    "r": "そううりあげ",
+    "m": "Tổng doanh thu; tổng, toàn bộ"
+  },
+  {
+    "id": "v4726",
+    "w": "上回る",
+    "r": "うわまわる",
+    "m": "vượt quá, cao hơn"
+  },
+  {
+    "id": "v4727",
+    "w": "分析",
+    "r": "ぶんせき",
+    "m": "Phân tích"
+  },
+  {
+    "id": "v4728",
+    "w": "視察",
+    "r": "しさつ",
+    "m": "thị sát, kiểm tra thực tế"
+  },
+  {
+    "id": "v4729",
+    "w": "検査",
+    "r": "けんさ",
+    "m": "kiểm tra, xét nghiệm"
+  },
+  {
+    "id": "v4730",
+    "w": "血液を検査する。",
+    "r": "",
+    "m": "Xét nghiệm máu."
+  },
+  {
+    "id": "v4731",
+    "w": "製品を検査する。",
+    "r": "",
+    "m": "Kiểm tra sản phẩm."
+  },
+  {
+    "id": "v4732",
+    "w": "明らか",
+    "r": "あきらか",
+    "m": "rõ ràng, sáng tỏ"
+  },
+  {
+    "id": "v4733",
+    "w": "ぶらぶら",
+    "r": "",
+    "m": "đi lang thang, đi loanh quanh không có mục đích; hoặc đung đưa/lủng lẳng"
+  },
+  {
+    "id": "v4734",
+    "w": "ぐらぐら",
+    "r": "",
+    "m": "lắc lư, chao đảo, không vững"
+  },
+  {
+    "id": "v4735",
+    "w": "がらがら",
+    "r": "",
+    "m": "trống rỗng / lạch cạch / mở toang"
+  },
+  {
+    "id": "v4736",
+    "w": "電車ががらがらだった。",
+    "r": "",
+    "m": "Tàu điện vắng tanh."
+  },
+  {
+    "id": "v4737",
+    "w": "ばらばら",
+    "r": "",
+    "m": "rời rạc, tách rời, mỗi người một nơi"
+  },
+  {
+    "id": "v4738",
+    "w": "みんなばらばらに帰った。",
+    "r": "",
+    "m": "Mọi người về riêng từng người."
+  },
+  {
+    "id": "v4739",
+    "w": "活気",
+    "r": "かっき",
+    "m": "sức sống, sinh khí, không khí sôi động"
+  },
+  {
+    "id": "v4740",
+    "w": "街が活気にあふれている。",
+    "r": "",
+    "m": "Thành phố tràn đầy sức sống."
+  },
+  {
+    "id": "v4741",
+    "w": "活発",
+    "r": "かっぱつ",
+    "m": "năng động, hoạt bát, tích cực; Thường dùng để mô tả hoạt động hoặc người"
+  },
+  {
+    "id": "v4742",
+    "w": "活躍",
+    "r": "かつやく",
+    "m": "hoạt động tích cực, phát huy năng lực, tỏa sáng; Cầu thủ, ng nổi tiếng hoạt động tích cực"
+  },
+  {
+    "id": "v4743",
+    "w": "活動",
+    "r": "かつどう",
+    "m": "就職活動 → hoạt động tìm việc / xin việc"
+  },
+  {
+    "id": "v4744",
+    "w": "詰まる",
+    "r": "つまる",
+    "m": "bị tắc, bị kẹt, bị nghẽn"
+  },
+  {
+    "id": "v4745",
+    "w": "潜る",
+    "r": "",
+    "m": "もぐる → lặn, chui vào"
+  },
+  {
+    "id": "v4746",
+    "w": "水に潜る。",
+    "r": "",
+    "m": "Lặn xuống nước."
+  },
+  {
+    "id": "v4747",
+    "w": "沈む",
+    "r": "",
+    "m": "しずむ → chìm, lặn xuống"
+  },
+  {
+    "id": "v4748",
+    "w": "船が海に沈む。",
+    "r": "",
+    "m": "Con tàu chìm xuống biển."
+  },
+  {
+    "id": "v4749",
+    "w": "埋まる",
+    "r": "",
+    "m": "うまる → bị lấp đầy, bị chôn, được lấp"
+  },
+  {
+    "id": "v4750",
+    "w": "穴が埋まる。",
+    "r": "あな",
+    "m": "Cái hố được lấp lại."
+  },
+  {
+    "id": "v4751",
+    "w": "反映",
+    "r": "はんえい",
+    "m": "phản ánh, thể hiện, phản chiếu; Thường dùng khi một thứ thể hiện đặc điểm/tình hình/ý kiến của m"
+  },
+  {
+    "id": "v4752",
+    "w": "放映",
+    "r": "ほうえい",
+    "m": "phát sóng, chiếu trên truyền hình"
+  },
+  {
+    "id": "v4753",
+    "w": "引用",
+    "r": "いんよう",
+    "m": "trích dẫn"
+  },
+  {
+    "id": "v4754",
+    "w": "本から文章を引用する。",
+    "r": "",
+    "m": "Trích dẫn một đoạn văn từ sách."
+  },
+  {
+    "id": "v4755",
+    "w": "採用",
+    "r": "さいよう",
+    "m": "tuyển dụng; áp dụng, chấp nhận"
+  },
+  {
+    "id": "v4756",
+    "w": "新しい社員を採用する。",
+    "r": "",
+    "m": "Tuyển nhân viên mới."
+  },
+  {
+    "id": "v4757",
+    "w": "新しい方法を採用する。",
+    "r": "",
+    "m": "Áp dụng phươn"
+  },
+  {
+    "id": "v4758",
+    "w": "ぼんやり",
+    "r": "",
+    "m": "lơ đãng, thẫn thờ, mơ màng; không tập trung.; phỏng cảnh hiện ra mờ"
+  },
+  {
+    "id": "v4759",
+    "w": "ふんわり",
+    "r": "",
+    "m": "nhẹ nhàng, mềm mại, bồng bềnh"
+  },
+  {
+    "id": "v4760",
+    "w": "うっすら",
+    "r": "",
+    "m": "mờ nhạt, hơi, thoang thoảng"
+  }
+]

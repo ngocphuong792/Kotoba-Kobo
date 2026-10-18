@@ -1,0 +1,512 @@
+[
+  {
+    "id": "v4931",
+    "w": "焦点",
+    "r": "",
+    "m": "trọng tâm, tiêu điểm"
+  },
+  {
+    "id": "v4932",
+    "w": "環境問題（かんきょうもんだい）が議論の焦点になった。",
+    "r": "",
+    "m": "Vấn đề môi trường đã trở t"
+  },
+  {
+    "id": "v4933",
+    "w": "包装",
+    "r": "",
+    "m": "ほうそう; bao trang（包装）; Nghĩa: đóng gói, bao bì, việc bao bọc sản phẩm"
+  },
+  {
+    "id": "v4934",
+    "w": "暖房",
+    "r": "",
+    "m": "だんぼう; noãn phòng（暖房）; Nghĩa: sưởi ấm, hệ thống/thiết bị sưởi"
+  },
+  {
+    "id": "v4935",
+    "w": "略す",
+    "r": "",
+    "m": "rút gọn, viết tắt"
+  },
+  {
+    "id": "v4936",
+    "w": "就活",
+    "r": "",
+    "m": "— cách nói rút gọn của 就職活動"
+  },
+  {
+    "id": "v4937",
+    "w": "導く",
+    "r": "",
+    "m": "dẫn dắt, dẫn đường, đưa đến"
+  },
+  {
+    "id": "v4938",
+    "w": "招く",
+    "r": "",
+    "m": "mời, chiêu mời"
+  },
+  {
+    "id": "v4939",
+    "w": "友達（ともだち）を家（いえ）に招（まね）く。",
+    "r": "",
+    "m": "Mời bạn đến nhà."
+  },
+  {
+    "id": "v4940",
+    "w": "伴う",
+    "r": "",
+    "m": "— BẠN; Nghĩa: đi kèm, kéo theo, phát sinh cùng với một sự việc khác"
+  },
+  {
+    "id": "v4941",
+    "w": "扱う",
+    "r": "",
+    "m": "xử lý, sử dụng, đối xử, cầm nắm"
+  },
+  {
+    "id": "v4942",
+    "w": "こわれやすいので、丁寧にあつかってください。",
+    "r": "",
+    "m": "Vì dễ hỏng nên hãy xử lý/cầ"
+  },
+  {
+    "id": "v4943",
+    "w": "拠る",
+    "r": "",
+    "m": "dựa vào, căn cứ vào."
+  },
+  {
+    "id": "v4944",
+    "w": "～に拠って",
+    "r": "",
+    "m": "dựa vào ~, căn cứ vào ~"
+  },
+  {
+    "id": "v4945",
+    "w": "吸う",
+    "r": "すう",
+    "m": "hút"
+  },
+  {
+    "id": "v4946",
+    "w": "処理",
+    "r": "しょり",
+    "m": "xử lí"
+  },
+  {
+    "id": "v4947",
+    "w": "ゼミ",
+    "r": "",
+    "m": "seminar"
+  },
+  {
+    "id": "v4948",
+    "w": "抵抗",
+    "r": "ていこう",
+    "m": "Hán Việt: để kháng; Sự chống cự, kháng cự"
+  },
+  {
+    "id": "v4949",
+    "w": "肩",
+    "r": "かた",
+    "m": "Vai"
+  },
+  {
+    "id": "v4950",
+    "w": "腰",
+    "r": "こし",
+    "m": "eo / thắt lưng"
+  },
+  {
+    "id": "v4951",
+    "w": "腹",
+    "r": "はら",
+    "m": "Bụng"
+  },
+  {
+    "id": "v4952",
+    "w": "背",
+    "r": "せ",
+    "m": "lưng, chiêu cao"
+  },
+  {
+    "id": "v4953",
+    "w": "最初のうち",
+    "r": "",
+    "m": "trong thời gian đầu"
+  },
+  {
+    "id": "v4954",
+    "w": "ビジネスマン風の男",
+    "r": "",
+    "m": "người đàn ông có vẻ ngoài/phong cách giống doanh nhân"
+  },
+  {
+    "id": "v4955",
+    "w": "国際色",
+    "r": "",
+    "m": "— QUỐC TẾ SẮC; 国際色 = tính quốc tế, màu sắc quốc tế, đặc trưng thể hiện sự đa dạng quốc"
+  },
+  {
+    "id": "v4956",
+    "w": "豊か",
+    "r": "ゆたか",
+    "m": "phong phú"
+  },
+  {
+    "id": "v4957",
+    "w": "諸外国",
+    "r": "しょがいこく",
+    "m": "諸— CHƯ = nhiều, các, những..."
+  },
+  {
+    "id": "v4958",
+    "w": "数人",
+    "r": "",
+    "m": "một vài người."
+  },
+  {
+    "id": "v4959",
+    "w": "多数",
+    "r": "たすう",
+    "m": "số đông, số lượng lớn."
+  },
+  {
+    "id": "v4960",
+    "w": "総人口",
+    "r": "そうじんこう",
+    "m": "tổng dân số"
+  },
+  {
+    "id": "v4961",
+    "w": "低価格",
+    "r": "ていかかく",
+    "m": "giá thấp"
+  },
+  {
+    "id": "v4962",
+    "w": "仮採用",
+    "r": "かりさいよう",
+    "m": "tạm thời, chưa chính thức; 仮採用 = tuyển dụng tạm thời / tuyển dụng thử, chưa chính thứ; 小規模 — TIỂU QUY MÔ; ...."
+  },
+  {
+    "id": "v4963",
+    "w": "散らかる",
+    "r": "",
+    "m": "bừa bộn, ngổn ngang, vương vãi"
+  },
+  {
+    "id": "v4964",
+    "w": "飛び起きる",
+    "r": "",
+    "m": "bật dậy, đứng bật dậy."
+  },
+  {
+    "id": "v4965",
+    "w": "朝、驚いて飛び起きた。",
+    "r": "",
+    "m": "Buổi sáng, tôi giật mình bật dậy."
+  },
+  {
+    "id": "v4966",
+    "w": "見渡す",
+    "r": "",
+    "m": "nhìn bao quát, nhìn khắp."
+  },
+  {
+    "id": "v4967",
+    "w": "落ち込む",
+    "r": "",
+    "m": "おちこむ） — LẠC NHẬP; rơi xuống, tụt xuống; buồn bã, suy sụp."
+  },
+  {
+    "id": "v4968",
+    "w": "辞退する",
+    "r": "じたい",
+    "m": "từ chối, xin rút, chủ động không tham gia dù đã được chọn/mời."
+  },
+  {
+    "id": "v4969",
+    "w": "代表を辞退する",
+    "r": "だいひょうをじたいする",
+    "m": "xin rút kh"
+  },
+  {
+    "id": "v4970",
+    "w": "避難",
+    "r": "",
+    "m": "— TỊ NAN; lánh nạn, sơ tán."
+  },
+  {
+    "id": "v4971",
+    "w": "逃避",
+    "r": "",
+    "m": "— ĐÀO TỊ; trốn tránh, chạy trốn khỏi thực tế/vấn đề."
+  },
+  {
+    "id": "v4972",
+    "w": "退場",
+    "r": "",
+    "m": "— THOÁI TRƯỜNG; Ý nghĩa: rời khỏi địa điểm tổ chức sự kiện, sân đấu, sân khấu hoặc hội trường"
+  },
+  {
+    "id": "v4973",
+    "w": "得た結果",
+    "r": "えた",
+    "m": "kết quả có dc"
+  },
+  {
+    "id": "v4974",
+    "w": "握る",
+    "r": "にぎる",
+    "m": "nắm, cầm trong tay"
+  },
+  {
+    "id": "v4975",
+    "w": "挟む",
+    "r": "はさむ",
+    "m": "kẹp, chèn vào giữa."
+  },
+  {
+    "id": "v4976",
+    "w": "本にしおりを挟む。",
+    "r": "",
+    "m": "Kẹp dấu trang vào sách."
+  },
+  {
+    "id": "v4977",
+    "w": "込める",
+    "r": "",
+    "m": "= dồn vào, chứa đựng, đặt vào."
+  },
+  {
+    "id": "v4978",
+    "w": "気持ちを込める。",
+    "r": "",
+    "m": "Gửi gắm/dồn tình cảm vào."
+  },
+  {
+    "id": "v4979",
+    "w": "力を込める。",
+    "r": "",
+    "m": "Dồn sức."
+  },
+  {
+    "id": "v4980",
+    "w": "抱く",
+    "r": "だく",
+    "m": "ôm"
+  },
+  {
+    "id": "v4981",
+    "w": "抱く",
+    "r": "",
+    "m": "thường mang nghĩa ấp ủ, mang trong lòng cảm xúc/suy nghĩ."
+  },
+  {
+    "id": "v4982",
+    "w": "ぎもんを いだく。",
+    "r": "",
+    "m": "Nảy sinh/ôm trong"
+  },
+  {
+    "id": "v4983",
+    "w": "抱きしめる",
+    "r": "",
+    "m": "ôm chặt, siết chặt vào lòng."
+  },
+  {
+    "id": "v4984",
+    "w": "改正",
+    "r": "",
+    "m": "— CẢI CHÍNH; 改正する = sửa đổi, cải chính luật lệ, quy định, chế độ... theo hướng chính thức."
+  },
+  {
+    "id": "v4985",
+    "w": "改造",
+    "r": "",
+    "m": "— CẢI TẠO; cải tạo, thay đổi cấu tạo/cấu trúc của đồ vật, máy móc, xe cộ..."
+  },
+  {
+    "id": "v4986",
+    "w": "転換",
+    "r": "てんかん",
+    "m": "Thay đổi cách suy nghĩ/góc nhìn."
+  },
+  {
+    "id": "v4987",
+    "w": "交換",
+    "r": "こうかん",
+    "m": "trao đổi, thay thế."
+  },
+  {
+    "id": "v4988",
+    "w": "名刺を交換する。",
+    "r": "",
+    "m": "Trao đổi danh thiếp."
+  },
+  {
+    "id": "v4989",
+    "w": "でんちを こうかんする。",
+    "r": "",
+    "m": "Thay pin."
+  },
+  {
+    "id": "v4990",
+    "w": "申請方法",
+    "r": "しんせいほうほう",
+    "m": "phương thức đăng ký/nộp đơn"
+  },
+  {
+    "id": "v4991",
+    "w": "大幅",
+    "r": "おおはば",
+    "m": "đáng kể, tăng mạnh, tăng lớn"
+  },
+  {
+    "id": "v4992",
+    "w": "夢中になる",
+    "r": "",
+    "m": "say mê, mải mê"
+  },
+  {
+    "id": "v4993",
+    "w": "好調に",
+    "r": "",
+    "m": "— HẢO ĐIỀU; 好調 = thuận lợi, tiến triển tốt, phong độ tốt."
+  },
+  {
+    "id": "v4994",
+    "w": "売上（うりあげ）が好調（こうちょう）だ。",
+    "r": "",
+    "m": "Doanh thu"
+  },
+  {
+    "id": "v4995",
+    "w": "頑固",
+    "r": "",
+    "m": "— NGOAN CỐ; ngoan cố, cứng đầu, bảo thủ."
+  },
+  {
+    "id": "v4996",
+    "w": "強引",
+    "r": "",
+    "m": "= cưỡng ép, ép buộc, làm theo ý mình một cách mạnh mẽ/bất chấp ý kiến người khác.; Thường dùng"
+  },
+  {
+    "id": "v4997",
+    "w": "覚める",
+    "r": "さめる",
+    "m": "tỉnh giấc"
+  },
+  {
+    "id": "v4998",
+    "w": "ごろごろ",
+    "r": "",
+    "m": "nằm ườn, ko làm gì cả"
+  },
+  {
+    "id": "v4999",
+    "w": "ゆらゆら",
+    "r": "",
+    "m": "đung đưa, lắc lư nhẹ nhàng."
+  },
+  {
+    "id": "v5000",
+    "w": "木の葉がゆらゆら揺れている。",
+    "r": "",
+    "m": "Lá cây đang đung đưa."
+  },
+  {
+    "id": "v5001",
+    "w": "うろうろ",
+    "r": "",
+    "m": "đi loanh quanh, không biết làm gì"
+  },
+  {
+    "id": "v5002",
+    "w": "ただちに",
+    "r": "すぐに",
+    "m": ""
+  },
+  {
+    "id": "v5003",
+    "w": "奇妙",
+    "r": "きみょう",
+    "m": "奇妙な = kỳ lạ, khác thường, quái lạ."
+  },
+  {
+    "id": "v5004",
+    "w": "仕上げる",
+    "r": "",
+    "m": "— SĨ THƯỢNG; hoàn thành, hoàn thiện, làm cho xong."
+  },
+  {
+    "id": "v5005",
+    "w": "日中",
+    "r": "",
+    "m": "ban ngày, khoảng thời gian từ sáng đến chiều."
+  },
+  {
+    "id": "v5006",
+    "w": "昼間",
+    "r": "ひるま",
+    "m": ""
+  },
+  {
+    "id": "v5007",
+    "w": "湿る",
+    "r": "しめる",
+    "m": "Ẩm ướt"
+  },
+  {
+    "id": "v5008",
+    "w": "乏しい",
+    "r": "とぼしい",
+    "m": "thiếu, khan hiếm, không đủ, nghèo nàn.; sự thiếu hụt về tài nguyên, kiến thức, kinh ng"
+  },
+  {
+    "id": "v5009",
+    "w": "天然資源",
+    "r": "",
+    "m": "tài nguyên thiên nhiên."
+  },
+  {
+    "id": "v5010",
+    "w": "音量",
+    "r": "",
+    "m": "âm lượng."
+  },
+  {
+    "id": "v5011",
+    "w": "矛盾",
+    "r": "",
+    "m": "– MÂU THUẪN; mâu thuẫn, trái ngược nhau, không nhất quán."
+  },
+  {
+    "id": "v5012",
+    "w": "穏やか",
+    "r": "",
+    "m": "— ÔN; Ý nghĩa: Êm dịu, yên bình, ôn hòa, nhẹ nhàng. Từ này thường dùng để miêu tả thời tiết, bi"
+  },
+  {
+    "id": "v5013",
+    "w": "問い合わせる",
+    "r": "",
+    "m": "– VẤN HỢP; Ý nghĩa: hỏi để xác nhận thông tin, liên hệ hỏi thông tin, thắc mắc và yêu cầu giả"
+  },
+  {
+    "id": "v5014",
+    "w": "交代",
+    "r": "",
+    "m": "thay phiên, đổi người, thay thế người này bằng người khác để tiếp tục công việc hoặc nhiệm v"
+  },
+  {
+    "id": "v5015",
+    "w": "合同",
+    "r": "",
+    "m": "cùng nhau, chung, kết hợp nhiều tổ chức hoặc nhóm để cùng thực hiện một hoạt động."
+  }
+]

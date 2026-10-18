@@ -1,0 +1,512 @@
+[
+  {
+    "id": "v5101",
+    "w": "ラップをかける",
+    "r": "",
+    "m": "Bọc bằng màng bọc thực phẩm."
+  },
+  {
+    "id": "v5102",
+    "w": "冷静",
+    "r": "",
+    "m": "Bình tĩnh, giữ được sự tỉnh táo"
+  },
+  {
+    "id": "v5103",
+    "w": "経済状態",
+    "r": "けいざいじょうたい",
+    "m": "Sự cố"
+  },
+  {
+    "id": "v5104",
+    "w": "慌てる",
+    "r": "",
+    "m": "Hoảng hốt, cuống quýt."
+  },
+  {
+    "id": "v5105",
+    "w": "繰り返す",
+    "r": "",
+    "m": "Lặp lại, tái diễn"
+  },
+  {
+    "id": "v5106",
+    "w": "持参",
+    "r": "",
+    "m": "【TRÌNH THAM】; Ý nghĩa: Mang theo, đem theo"
+  },
+  {
+    "id": "v5107",
+    "w": "必要（ひつよう）な書類（しょるい）を持参（じさん）してください。",
+    "r": "",
+    "m": "Vui lòng mang theo"
+  },
+  {
+    "id": "v5108",
+    "w": "食卓",
+    "r": "",
+    "m": "【THỰC TRÁC】; Ý nghĩa: Bàn ăn, bàn dùng để ăn cơm."
+  },
+  {
+    "id": "v5109",
+    "w": "緩む",
+    "r": "",
+    "m": "ゆるむ – HOÃN Dịu đi, giảm bớt"
+  },
+  {
+    "id": "v5110",
+    "w": "陽気",
+    "r": "",
+    "m": "ようき – DƯƠNG KHÍ Thời tiết ấm áp, không khí dễ chịu; Người cởi mở, ấm áp"
+  },
+  {
+    "id": "v5111",
+    "w": "重要",
+    "r": "",
+    "m": "【TRỌNG YẾU】; Ý nghĩa: Quan trọng, trọng yếu."
+  },
+  {
+    "id": "v5112",
+    "w": "開花",
+    "r": "",
+    "m": "かいか – KHAI HOA Nở hoa"
+  },
+  {
+    "id": "v5113",
+    "w": "芽",
+    "r": "",
+    "m": "め – NHA Mầm, chồi"
+  },
+  {
+    "id": "v5114",
+    "w": "花芽",
+    "r": "",
+    "m": "はなめ・かが – HOA NHA Mầm hoa, nụ hoa đã hình thành"
+  },
+  {
+    "id": "v5115",
+    "w": "仕組み",
+    "r": "",
+    "m": "しくみ – SĨ TỔ Cơ chế, cấu trúc hoạt động của một sự vật hoặc hệ thống"
+  },
+  {
+    "id": "v5116",
+    "w": "～かというと",
+    "r": "",
+    "m": "Nếu nói về việc… thì…; Nếu hỏi tại sao tôi"
+  },
+  {
+    "id": "v5117",
+    "w": "前後",
+    "r": "",
+    "m": "ぜんご – TIỀN HẬU Khoảng, xấp xỉ"
+  },
+  {
+    "id": "v5118",
+    "w": "再開",
+    "r": "",
+    "m": "さいかい – TÁI KHAI Sự bắt đầu lại, tái khởi động"
+  },
+  {
+    "id": "v5119",
+    "w": "気づく",
+    "r": "",
+    "m": "【KHÍ】; Nghĩa: Nhận ra, nhận thấy, chợt nhận ra điều gì đó mà trước đó chưa chú ý"
+  },
+  {
+    "id": "v5120",
+    "w": "去る",
+    "r": "",
+    "m": "Qua đi; Thời gian qua đi; Mùa đông qua đi"
+  },
+  {
+    "id": "v5121",
+    "w": "世の中",
+    "r": "",
+    "m": "Thế giới, xã hội, thế sự."
+  },
+  {
+    "id": "v5122",
+    "w": "勧誘",
+    "r": "",
+    "m": "Mời gọi, vận động người khác tham gia một tổ chức, nhóm hoặc hoạt động."
+  },
+  {
+    "id": "v5123",
+    "w": "改める",
+    "r": "",
+    "m": "CẢI: Một lần nữa, lại; thực hiện lại theo cách chính thức hoặc vào một dịp khác"
+  },
+  {
+    "id": "v5124",
+    "w": "拡充",
+    "r": "",
+    "m": "Mở rộng và tăng cường quy mô, năng lực hoặc nội dung"
+  },
+  {
+    "id": "v5125",
+    "w": "模範",
+    "r": "",
+    "m": "Tấm gương, hình mẫu để noi theo."
+  },
+  {
+    "id": "v5126",
+    "w": "生徒",
+    "r": "",
+    "m": "Học sinh"
+  },
+  {
+    "id": "v5127",
+    "w": "削る",
+    "r": "",
+    "m": "Cắt, gọt; cắt giảm chi phí, ngân sách hoặc thời gian."
+  },
+  {
+    "id": "v5128",
+    "w": "講義",
+    "r": "",
+    "m": "Bài giảng, giờ giảng ở trường đại học."
+  },
+  {
+    "id": "v5129",
+    "w": "地震（じしん）で電柱（でんちゅう）が傾（かたむ）いた。",
+    "r": "",
+    "m": "Cột điện bị nghiêng do độn"
+  },
+  {
+    "id": "v5130",
+    "w": "果たす",
+    "r": "",
+    "m": "Hoàn thành nhiệm vụ, trách nhiệm hoặc lời hứa."
+  },
+  {
+    "id": "v5131",
+    "w": "例：責任（せきにん）を果（は）たす。",
+    "r": "",
+    "m": "Hoàn thành trách"
+  },
+  {
+    "id": "v5132",
+    "w": "務める",
+    "r": "",
+    "m": "Đảm nhận một vai trò hoặc thực hiện nhiệm vụ."
+  },
+  {
+    "id": "v5133",
+    "w": "例：司会（しかい）を務（つと）める。",
+    "r": "",
+    "m": "Đảm nhận vai trò n"
+  },
+  {
+    "id": "v5134",
+    "w": "担う",
+    "r": "",
+    "m": "Gánh vác, đảm nhận trách nhiệm."
+  },
+  {
+    "id": "v5135",
+    "w": "例：会社（かいしゃ）の将来（しょうらい）を担（にな）う。",
+    "r": "",
+    "m": "Gánh vác tương lai của"
+  },
+  {
+    "id": "v5136",
+    "w": "任せる",
+    "r": "",
+    "m": "Giao phó công việc cho người khác."
+  },
+  {
+    "id": "v5137",
+    "w": "例：この仕事（しごと）は彼（かれ）に任（まか）せる。",
+    "r": "",
+    "m": "Giao công việc này"
+  },
+  {
+    "id": "v5138",
+    "w": "招待",
+    "r": "",
+    "m": "mời ai đó tham dự một sự kiện, bữa tiệc hoặc đến nhà."
+  },
+  {
+    "id": "v5139",
+    "w": "準決勝",
+    "r": "",
+    "m": "vòng bán kết."
+  },
+  {
+    "id": "v5140",
+    "w": "親子連れ",
+    "r": "おやこづれ",
+    "m": "cha mẹ đi cùng con cái"
+  },
+  {
+    "id": "v5141",
+    "w": "経済（けいざい）の成長（せいちょう）に伴（ともな）って",
+    "r": "",
+    "m": "付き— PHÓ"
+  },
+  {
+    "id": "v5142",
+    "w": "ドリンク付きのランチ",
+    "r": "",
+    "m": "Bữa trưa có kèm đồ uống"
+  },
+  {
+    "id": "v5143",
+    "w": "薄暗い",
+    "r": "",
+    "m": "tối lờ mờ, hơi tối."
+  },
+  {
+    "id": "v5144",
+    "w": "～気味",
+    "r": "ぎみ",
+    "m": "Ý nghĩa: hơi…, có dấu hiệu…, có xu hướng rơi vào trạng thái nào đó."
+  },
+  {
+    "id": "v5145",
+    "w": "食器類",
+    "r": "",
+    "m": "chỉ các loại đồ dùng ăn uống nói chung, chẳng hạn như bát, đĩa, cốc, đũa."
+  },
+  {
+    "id": "v5146",
+    "w": "呼び止める",
+    "r": "",
+    "m": "gọi lại"
+  },
+  {
+    "id": "v5147",
+    "w": "見分ける",
+    "r": "",
+    "m": "— KIẾN PHÂN; Ý nghĩa: phân biệt, nhận ra sự khác nhau giữa người hoặc vật; nhận diện được cái n"
+  },
+  {
+    "id": "v5148",
+    "w": "解散",
+    "r": "",
+    "m": "— GIẢI TÁN"
+  },
+  {
+    "id": "v5149",
+    "w": "解放",
+    "r": "",
+    "m": "かいほう GIẢI PHÓNG; giải phóng, thả tự do, giải thoát ai đó khỏi sự ràng buộc hoặc áp lực."
+  },
+  {
+    "id": "v5150",
+    "w": "退出",
+    "r": "",
+    "m": "たいしゅつ THOÁI XUẤT Rời khỏi phòng hoặc địa điểm; rời khỏi phòng, căn phòng, cuộc họp hoặc một hệ thống"
+  },
+  {
+    "id": "v5151",
+    "w": "司会",
+    "r": "",
+    "m": "người điều hành chương trình, dẫn chương trình."
+  },
+  {
+    "id": "v5152",
+    "w": "話し合い",
+    "r": "",
+    "m": "cuộc thảo luận, việc trao đổi ý kiến."
+  },
+  {
+    "id": "v5153",
+    "w": "スムーズ",
+    "r": "",
+    "m": "một cách suôn sẻ"
+  },
+  {
+    "id": "v5154",
+    "w": "シンプル",
+    "r": "",
+    "m": "đơn giản"
+  },
+  {
+    "id": "v5155",
+    "w": "ソフト",
+    "r": "",
+    "m": "nhẹ nhàng, mềm mỏng"
+  },
+  {
+    "id": "v5156",
+    "w": "相手（あいて）にソフトに伝（つた）える。",
+    "r": "",
+    "m": "Truyền đạt với đối phương một cách nhẹ nhàng."
+  },
+  {
+    "id": "v5157",
+    "w": "クリアに",
+    "r": "",
+    "m": "một cách rõ ràng"
+  },
+  {
+    "id": "v5158",
+    "w": "辛い",
+    "r": "つらい",
+    "m": "đau khổ, buồn bã hoặc khó chịu về mặt tinh thần hay thể chất."
+  },
+  {
+    "id": "v5159",
+    "w": "重苦しい",
+    "r": "",
+    "m": "— nặng nề, ngột ngạt"
+  },
+  {
+    "id": "v5160",
+    "w": "意欲",
+    "r": "",
+    "m": "ý muốn, sự nhiệt tình, động lực làm việc."
+  },
+  {
+    "id": "v5161",
+    "w": "根気",
+    "r": "",
+    "m": "tính kiên trì, nhẫn nại"
+  },
+  {
+    "id": "v5162",
+    "w": "意図",
+    "r": "",
+    "m": "ý định, mục đích"
+  },
+  {
+    "id": "v5163",
+    "w": "専念",
+    "r": "",
+    "m": "chuyên tâm, tập trung toàn bộ tâm trí vào một việc."
+  },
+  {
+    "id": "v5164",
+    "w": "特定",
+    "r": "",
+    "m": "xác định, chỉ đích danh; Dùng khi xác định rõ một đối tượng hoặc một phạm vi cụ thể"
+  },
+  {
+    "id": "v5165",
+    "w": "統一",
+    "r": "",
+    "m": "thống nhất, đồng nhất; Dùng khi làm cho nhiều thứ trở nên thống nhất về hình thức"
+  },
+  {
+    "id": "v5166",
+    "w": "格好",
+    "r": "",
+    "m": "dáng vẻ, cách ăn mặc, trang phục"
+  },
+  {
+    "id": "v5167",
+    "w": "容姿",
+    "r": "",
+    "m": "dung mạo, diện mạo bên ngoài (người)"
+  },
+  {
+    "id": "v5168",
+    "w": "外見",
+    "r": "",
+    "m": "vẻ ngoài, bề ngoài (con người, sự vật)"
+  },
+  {
+    "id": "v5169",
+    "w": "済ます",
+    "r": "",
+    "m": "hoàn thành"
+  },
+  {
+    "id": "v5170",
+    "w": "りっぱ",
+    "r": "",
+    "m": "LẬP PHÁI: xuất sắc, đáng ngưỡng mộ, đàng hoàng"
+  },
+  {
+    "id": "v5171",
+    "w": "彼（かれ）は立派（りっぱ）な人（ひと）だ。",
+    "r": "",
+    "m": "Anh ấy là một người đáng kính"
+  },
+  {
+    "id": "v5172",
+    "w": "情けない",
+    "r": "",
+    "m": "đáng thương, đáng thất vọng, hèn kém"
+  },
+  {
+    "id": "v5173",
+    "w": "失敗（しっぱい）して、自分（じぶん）が情（なさ）けなくなった。",
+    "r": "",
+    "m": "Sau khi thất bạ"
+  },
+  {
+    "id": "v5174",
+    "w": "思いがけない",
+    "r": "",
+    "m": "điều không ngờ tới, bất ngờ"
+  },
+  {
+    "id": "v5175",
+    "w": "自ら",
+    "r": "",
+    "m": "tự mình, chính bản thân mình."
+  },
+  {
+    "id": "v5176",
+    "w": "揃う",
+    "r": "",
+    "m": "đầy đủ, tập hợp đông đủ."
+  },
+  {
+    "id": "v5177",
+    "w": "掲示",
+    "r": "",
+    "m": "niêm yết, đăng hoặc dán thông báo để mọi người nhìn thấy."
+  },
+  {
+    "id": "v5178",
+    "w": "試しに",
+    "r": "",
+    "m": "thử xem, thử một lần."
+  },
+  {
+    "id": "v5179",
+    "w": "快い",
+    "r": "",
+    "m": "dễ chịu, thoải mái, vui lòng, sẵn lòng.; Sẵn lòng giúp; Vui vẻ nhận lời nhờ vả"
+  },
+  {
+    "id": "v5180",
+    "w": "要らない",
+    "r": "",
+    "m": "không cần."
+  },
+  {
+    "id": "v5181",
+    "w": "分野",
+    "r": "",
+    "m": "lĩnh vực"
+  },
+  {
+    "id": "v5182",
+    "w": "保証",
+    "r": "",
+    "m": "bảo hành, bảo đảm."
+  },
+  {
+    "id": "v5183",
+    "w": "生き生き",
+    "r": "",
+    "m": "いきいきthể hiện sự vui vẻ, năng động và có sức sống.; người"
+  },
+  {
+    "id": "v5184",
+    "w": "隔てる",
+    "r": "",
+    "m": "ngăn cách, chia cách"
+  },
+  {
+    "id": "v5185",
+    "w": "川（かわ）が二（ふた）つの町（まち）を隔（へだ）てている。",
+    "r": "",
+    "m": "Một con sông ngăn cách hai thị"
+  }
+]

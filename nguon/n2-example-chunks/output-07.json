@@ -1,0 +1,597 @@
+{
+  "v5016": [
+    {"ja": "今夜の試合はテレビで生中継される予定だ。", "vi": "Trận đấu tối nay dự kiến sẽ được truyền hình trực tiếp."},
+    {"ja": "駅前の大型ビジョンでコンサートの中継を見ていた。", "vi": "Tôi đang xem truyền hình trực tiếp buổi hòa nhạc trên màn hình lớn trước ga."},
+    {"ja": "ニュースの中継で事故現場の様子が伝えられた。", "vi": "Qua bản tin trực tiếp, tình hình hiện trường tai nạn được truyền đi."},
+    {"ja": "ラジオ中継で試合の実況を聞いている。", "vi": "Tôi đang nghe tường thuật trận đấu qua phát thanh trực tiếp."},
+    {"ja": "海外の式典を衛星中継で視聴した。", "vi": "Tôi đã xem buổi lễ ở nước ngoài qua truyền hình vệ tinh trực tiếp."}
+  ],
+  "v5017": [
+    {"ja": "この小説の主人公は若い会社員だ。", "vi": "Nhân vật chính của tiểu thuyết này là một nhân viên công ty trẻ."},
+    {"ja": "映画の主人公に感情移入してしまった。", "vi": "Tôi đã đồng cảm mạnh với nhân vật chính trong phim."},
+    {"ja": "主人公の成長が物語の魅力になっている。", "vi": "Sự trưởng thành của nhân vật chính chính là sức hấp dẫn của câu chuyện."},
+    {"ja": "ドラマの主人公を誰が演じるか話題になっている。", "vi": "Ai sẽ đóng nhân vật chính trong drama đang trở thành chủ đề bàn tán."},
+    {"ja": "子供の頃、物語の主人公に憧れていた。", "vi": "Hồi nhỏ tôi từng ngưỡng mộ nhân vật chính trong chuyện."}
+  ],
+  "v5018": [
+    {"ja": "セミナーの講師として社内で講演した。", "vi": "Tôi đã thuyết trình trong công ty với tư cách giảng viên của buổi hội thảo."},
+    {"ja": "有名な講師を招いて研修を行う予定だ。", "vi": "Dự kiến sẽ mời giảng viên nổi tiếng để tổ chức khóa bồi dưỡng."},
+    {"ja": "語学学校の講師は説明がとても分かりやすい。", "vi": "Giảng viên trường ngoại ngữ giải thích rất dễ hiểu."},
+    {"ja": "講師の経験を生かして分かりやすい授業を心がけている。", "vi": "Tôi tận dụng kinh nghiệm giảng viên để cố gắng dạy dễ hiểu."},
+    {"ja": "オンライン講座の講師に質問を送った。", "vi": "Tôi đã gửi câu hỏi cho giảng viên khóa học trực tuyến."}
+  ],
+  "v5019": [
+    {"ja": "取引先と価格について交渉している。", "vi": "Tôi đang đàm phán với đối tác về giá cả."},
+    {"ja": "契約条件の交渉に時間がかかった。", "vi": "Việc thương lượng điều kiện hợp đồng đã mất nhiều thời gian."},
+    {"ja": "給料交渉は事前に資料を準備しておくとよい。", "vi": "Thương lượng lương nên chuẩn bị tài liệu trước thì tốt hơn."},
+    {"ja": "双方が歩み寄って交渉がまとまった。", "vi": "Hai bên nhượng bộ lẫn nhau và cuộc đàm phán đã đi đến thỏa thuận."},
+    {"ja": "難しい交渉でも冷静に話すことが大切だ。", "vi": "Dù đàm phán khó khăn, việc nói chuyện bình tĩnh vẫn rất quan trọng."}
+  ],
+  "v5020": [
+    {"ja": "駅前に新しい飲食店がオープンした。", "vi": "Một quán ăn mới đã khai trương trước ga."},
+    {"ja": "この通りは飲食店が多くて賑やかだ。", "vi": "Con phố này có nhiều quán ăn nên rất nhộn nhịp."},
+    {"ja": "友人と近所の飲食店で夕食をとった。", "vi": "Tôi dùng bữa tối với bạn ở quán ăn gần nhà."},
+    {"ja": "飲食店のアルバイトを探している。", "vi": "Tôi đang tìm việc làm thêm ở quán ăn."},
+    {"ja": "週末は人気の飲食店が混みやすい。", "vi": "Cuối tuần các quán ăn nổi tiếng dễ đông."}
+  ],
+  "v5021": [
+    {"ja": "手頃な価格のホテルを予約した。", "vi": "Tôi đã đặt khách sạn với giá vừa phải."},
+    {"ja": "この店は手頃な値段で美味しいランチが食べられる。", "vi": "Quán này có thể ăn trưa ngon với giá hợp túi tiền."},
+    {"ja": "手頃なサイズの鞄を探している。", "vi": "Tôi đang tìm chiếc túi có kích cỡ vừa phải."},
+    {"ja": "初めての一人暮らしには手頃な家具が便利だ。", "vi": "Với lần đầu sống một mình, đồ nội thất vừa túi tiền rất tiện."},
+    {"ja": "手頃な料金で英会話レッスンを受けられる。", "vi": "Có thể học nói tiếng Anh với mức phí vừa phải."}
+  ],
+  "v5022": [
+    {"ja": "一体何が起こったのか、まだ分からない。", "vi": "Rốt cuộc chuyện gì đã xảy ra, tôi vẫn chưa hiểu."},
+    {"ja": "一体どこに置いたのか思い出せない。", "vi": "Rốt cuộc để ở đâu rồi, tôi không nhớ ra."},
+    {"ja": "彼は一体何時に来るつもりなのだろう。", "vi": "Rốt cuộc anh ấy định đến lúc mấy giờ đây?"},
+    {"ja": "一体全体、誰がそんなことを言ったのか。", "vi": "Rốt cuộc thì ai đã nói chuyện như vậy?"},
+    {"ja": "結果を見て、一体どうすればよいか考え込んだ。", "vi": "Nhìn kết quả, tôi trầm ngâm không biết rốt cuộc nên làm thế nào."}
+  ],
+  "v5023": [
+    {"ja": "報告書の作成で手を抜くわけにはいかない。", "vi": "Không thể làm qua loa khi viết báo cáo."},
+    {"ja": "接客で手を抜くとお客様にすぐ気づかれる。", "vi": "Nếu phục vụ qua loa, khách sẽ nhận ra ngay."},
+    {"ja": "忙しいときほど手を抜かず確認した方がいい。", "vi": "Càng bận càng nên kiểm tra kỹ, đừng làm ẩu."},
+    {"ja": "掃除を手を抜いてしたら後で後悔した。", "vi": "Dọn dẹp qua loa rồi sau đó tôi lại hối hận."},
+    {"ja": "重要な仕事では絶対に手を抜かない。", "vi": "Với công việc quan trọng, tôi tuyệt đối không làm qua loa."}
+  ],
+  "v5024": [
+    {"ja": "彼の説明は単純明快で誰にでも分かる。", "vi": "Cách giải thích của anh ấy đơn giản rõ ràng, ai cũng hiểu được."},
+    {"ja": "ルールは単純明快な方が守りやすい。", "vi": "Quy tắc càng đơn giản rõ ràng thì càng dễ tuân thủ."},
+    {"ja": "単純明快な結論にまとめて発表した。", "vi": "Tôi tổng hợp thành kết luận đơn giản rõ ràng rồi trình bày."},
+    {"ja": "このマニュアルは単純明快に書かれている。", "vi": "Sổ tay hướng dẫn này được viết rất đơn giản và rõ ràng."},
+    {"ja": "複雑な話を単純明快に伝えるのは難しい。", "vi": "Truyền đạt chuyện phức tạp một cách đơn giản rõ ràng thật khó."}
+  ],
+  "v5025": [
+    {"ja": "兄は小さなカフェを経営している。", "vi": "Anh trai tôi đang điều hành một quán cà phê nhỏ."},
+    {"ja": "飲食店を経営するには資金計画が欠かせない。", "vi": "Để kinh doanh quán ăn thì kế hoạch vốn là không thể thiếu."},
+    {"ja": "彼女は十年以上この会社を経営してきた。", "vi": "Cô ấy đã điều hành công ty này hơn mười năm."},
+    {"ja": "実家の店を継いで経営する決断をした。", "vi": "Tôi quyết định tiếp quản và điều hành cửa hàng của nhà."},
+    {"ja": "オンラインショップを経営する人が増えている。", "vi": "Ngày càng nhiều người kinh doanh cửa hàng trực tuyến."}
+  ],
+  "v5026": [
+    {"ja": "冬は光熱費が高くなりやすい。", "vi": "Mùa đông chi phí điện nước gas dễ tăng cao."},
+    {"ja": "材料費が上がったのでメニュー価格を見直した。", "vi": "Vì chi phí nguyên liệu tăng nên chúng tôi xem lại giá menu."},
+    {"ja": "節約のため、光熱費を毎月確認している。", "vi": "Để tiết kiệm, tôi kiểm tra chi phí điện nước gas hàng tháng."},
+    {"ja": "材料費と光熱費を抑える工夫が必要だ。", "vi": "Cần có cách để cắt giảm chi phí nguyên liệu và điện nước gas."},
+    {"ja": "店の収支では材料費の割合が大きい。", "vi": "Trong thu chi của quán, tỷ trọng chi phí nguyên liệu khá lớn."}
+  ],
+  "v5027": [
+    {"ja": "コストを抑えるために在庫を見直した。", "vi": "Để cắt giảm chi phí, tôi đã xem lại tồn kho."},
+    {"ja": "感情を抑えて冷静に話し合った。", "vi": "Tôi kiềm chế cảm xúc và trao đổi một cách bình tĩnh."},
+    {"ja": "電気の使用量を抑えて光熱費を減らしたい。", "vi": "Tôi muốn hạn chế lượng điện dùng để giảm chi phí tiện ích."},
+    {"ja": "咳を抑える薬を薬局で買った。", "vi": "Tôi mua thuốc giảm ho ở hiệu thuốc."},
+    {"ja": "声の大きさを抑えて会議室で話した。", "vi": "Tôi nói nhỏ lại khi nói chuyện trong phòng họp."}
+  ],
+  "v5028": [
+    {"ja": "候補を三つに絞ってから決めよう。", "vi": "Hãy thu hẹp còn ba lựa chọn rồi mới quyết định."},
+    {"ja": "会議の議題を今日の案件に絞った。", "vi": "Tôi đã thu hẹp chương trình họp vào các vấn đề hôm nay."},
+    {"ja": "検索条件を絞ると目的の情報が見つかりやすい。", "vi": "Thu hẹp điều kiện tìm kiếm thì dễ tìm ra thông tin cần."},
+    {"ja": "タオルを絞ってから干した。", "vi": "Tôi vắt khăn rồi mới phơi."},
+    {"ja": "重点を絞って説明する方が伝わりやすい。", "vi": "Giải thích khi đã thu hẹp trọng điểm thì dễ truyền đạt hơn."}
+  ],
+  "v5029": [
+    {"ja": "その説明は抽象的すぎてイメージしにくい。", "vi": "Lời giải thích đó quá trừu tượng nên khó hình dung."},
+    {"ja": "抽象的な概念を具体例で説明した。", "vi": "Tôi giải thích khái niệm trừu tượng bằng ví dụ cụ thể."},
+    {"ja": "抽象的な話ばかりでは実務に役立たない。", "vi": "Chỉ toàn chuyện trừu tượng thì không hữu ích cho công việc thực tế."},
+    {"ja": "彼の意見は抽象的だが方向性は正しい。", "vi": "Ý kiến của anh ấy mang tính trừu tượng nhưng hướng đi thì đúng."},
+    {"ja": "抽象的な目標よりも測定できる目標の方がいい。", "vi": "Mục tiêu có thể đo được tốt hơn mục tiêu trừu tượng."}
+  ],
+  "v5030": [
+    {"ja": "図書館の本は来週までに返却してください。", "vi": "Xin hoàn trả sách thư viện trước tuần sau."},
+    {"ja": "借りた傘を駅の窓口に返却した。", "vi": "Tôi đã trả cây dù đã mượn ở quầy nhà ga."},
+    {"ja": "DVDの返却期限が今日までだった。", "vi": "Hạn trả DVD là đến hôm nay."},
+    {"ja": "会社の備品は使用後すぐに返却すること。", "vi": "Đồ dùng công ty phải trả ngay sau khi dùng xong."},
+    {"ja": "返却ボックスに書類を入れておいた。", "vi": "Tôi đã bỏ giấy tờ vào hộp hoàn trả."}
+  ],
+  "v5031": [
+    {"ja": "時計の針が十二時を指している。", "vi": "Kim đồng hồ đang chỉ đúng mười hai giờ."},
+    {"ja": "裁縫で針に糸を通すのに手間取った。", "vi": "Khi may, tôi mất công luồn chỉ vào kim."},
+    {"ja": "針の穴のような細かい作業が得意だ。", "vi": "Tôi giỏi những thao tác tỉ mỉ như lỗ kim."},
+    {"ja": "注射の針を見て少し緊張した。", "vi": "Nhìn thấy kim tiêm tôi hơi căng thẳng."},
+    {"ja": "コンパスの針が北を向いている。", "vi": "Kim la bàn đang hướng về phía bắc."}
+  ],
+  "v5032": [
+    {"ja": "観光地で記念写真を撮影した。", "vi": "Tôi đã chụp ảnh kỷ niệm ở điểm du lịch."},
+    {"ja": "会議の様子を動画で撮影する許可をもらった。", "vi": "Tôi đã được phép quay video buổi họp."},
+    {"ja": "商品紹介用の写真をスタジオで撮影する。", "vi": "Chúng tôi chụp ảnh giới thiệu sản phẩm ở studio."},
+    {"ja": "夜間はフラッシュを使って撮影した方がよい。", "vi": "Ban đêm nên dùng đèn flash khi chụp thì tốt hơn."},
+    {"ja": "卒業式の様子を家族が撮影してくれた。", "vi": "Gia đình đã quay lại cảnh lễ tốt nghiệp giúp tôi."}
+  ],
+  "v5033": [
+    {"ja": "割れたコップの破片を慎重に片付けた。", "vi": "Tôi cẩn thận dọn các mảnh vỡ của chiếc cốc."},
+    {"ja": "ガラスの破片で足を切らないよう注意した。", "vi": "Tôi chú ý để không bị cắt chân bởi mảnh thủy tinh."},
+    {"ja": "事故現場には車の破片が散らばっていた。", "vi": "Hiện trường tai nạn có mảnh vỡ xe rải rác."},
+    {"ja": "破片が見つからないか床をよく確認した。", "vi": "Tôi kiểm tra kỹ sàn xem còn mảnh vỡ nào không."},
+    {"ja": "考古学の発掘で土器の破片が出てきた。", "vi": "Khi khai quật khảo cổ đã tìm thấy mảnh đồ gốm."}
+  ],
+  "v5034": [
+    {"ja": "明日の打ち合わせに参ります。", "vi": "Tôi sẽ đến buổi trao đổi ngày mai."},
+    {"ja": "週末に先祖の墓へ参りました。", "vi": "Cuối tuần tôi đã đến viếng mộ tổ tiên."},
+    {"ja": "ご案内に従って会場へ参りました。", "vi": "Tôi đã đến hội trường theo hướng dẫn."},
+    {"ja": "本日は遠くからお参りいただきありがとうございます。", "vi": "Hôm nay cảm ơn quý vị đã từ xa đến viếng."},
+    {"ja": "この暑さには参りました。", "vi": "Cái nóng này làm tôi chịu không nổi."}
+  ],
+  "v5035": [
+    {"ja": "今年は米の収穫が多かった。", "vi": "Năm nay thu hoạch lúa gạo được nhiều."},
+    {"ja": "秋になると畑で収穫の季節が始まる。", "vi": "Khi vào thu, mùa thu hoạch trên ruộng bắt đầu."},
+    {"ja": "週末に友人の農園で野菜を収穫した。", "vi": "Cuối tuần tôi hái rau tại nông trại của bạn."},
+    {"ja": "努力の収穫として資格を取得できた。", "vi": "Như thành quả của nỗ lực, tôi đã lấy được chứng chỉ."},
+    {"ja": "雨続きで収穫に影響が出ないか心配だ。", "vi": "Tôi lo mưa kéo dài sẽ ảnh hưởng đến thu hoạch."}
+  ],
+  "v5036": [
+    {"ja": "毎朝犬に餌をあげている。", "vi": "Mỗi sáng tôi cho chó ăn."},
+    {"ja": "魚の餌を買いにペットショップへ行った。", "vi": "Tôi đến cửa hàng thú cưng mua thức ăn cho cá."},
+    {"ja": "猫が餌の時間になると鳴き始める。", "vi": "Đến giờ ăn mèo bắt đầu kêu."},
+    {"ja": "野鳥のために庭に餌を置いてみた。", "vi": "Tôi thử để thức ăn trong sân cho chim trời."},
+    {"ja": "餌の量を調節してペットの健康を管理する。", "vi": "Điều chỉnh lượng thức ăn để quản lý sức khỏe thú cưng."}
+  ],
+  "v5037": [
+    {"ja": "売上が勢いよく伸びている。", "vi": "Doanh số đang tăng với đà rất mạnh."},
+    {"ja": "勢い余って大きな声を出してしまった。", "vi": "Vì quá hăng tôi đã vô tình nói to."},
+    {"ja": "そのチームは今勢いがある。", "vi": "Đội đó hiện đang có khí thế."},
+    {"ja": "水の勢いで汚れがきれいに落ちた。", "vi": "Nhờ lực nước mạnh mà bẩn được làm sạch."},
+    {"ja": "若いうちの勢いを大切にしたい。", "vi": "Tôi muốn trân trọng khí thế khi còn trẻ."}
+  ],
+  "v5038": [
+    {"ja": "彼はすごい勢いで走っていった。", "vi": "Anh ấy chạy đi với tốc độ cực nhanh."},
+    {"ja": "子供がすごい勢いで玄関に飛び込んできた。", "vi": "Đứa trẻ lao vào cửa với đà rất mạnh."},
+    {"ja": "雨がすごい勢いで降り始めた。", "vi": "Mưa bắt đầu rơi với cường độ rất mạnh."},
+    {"ja": "試合終盤、選手たちはすごい勢いで攻めた。", "vi": "Cuối trận, các cầu thủ tấn công với khí thế mãnh liệt."},
+    {"ja": "新商品がすごい勢いで売り切れた。", "vi": "Sản phẩm mới bán hết với tốc độ chóng mặt."}
+  ],
+  "v5039": [
+    {"ja": "今日は波が荒いので泳がない方がいい。", "vi": "Hôm nay sóng dữ nên tốt hơn là đừng bơi."},
+    {"ja": "運転が荒い人の車には乗りたくない。", "vi": "Tôi không muốn lên xe của người lái thô bạo."},
+    {"ja": "荒い口調で話すと相手を傷つけてしまう。", "vi": "Nói với giọng thô lỗ sẽ làm tổn thương đối phương."},
+    {"ja": "この川は流れが荒いので注意が必要だ。", "vi": "Dòng sông này chảy dữ nên cần thận trọng."},
+    {"ja": "肌が荒いときは保湿をしっかりする。", "vi": "Khi da khô ráp hãy dưỡng ẩm kỹ."}
+  ],
+  "v5040": [
+    {"ja": "会社の組織改革が来月から始まる。", "vi": "Cải tổ tổ chức công ty sẽ bắt đầu từ tháng sau."},
+    {"ja": "このプロジェクトは複数の部署で組織されている。", "vi": "Dự án này được tổ chức bởi nhiều phòng ban."},
+    {"ja": "ボランティア組織に参加して活動している。", "vi": "Tôi tham gia tổ chức tình nguyện và đang hoạt động."},
+    {"ja": "組織の一員としての責任を自覚している。", "vi": "Tôi ý thức trách nhiệm với tư cách thành viên tổ chức."},
+    {"ja": "新しい組織図が社内に公開された。", "vi": "Sơ đồ tổ chức mới đã được công bố trong công ty."}
+  ],
+  "v5041": [
+    {"ja": "桜の季節になると至るところで花見が行われている。", "vi": "Mùa hoa anh đào, khắp nơi đều có ngắm hoa."},
+    {"ja": "セールの張り紙が街の至るところに貼ってある。", "vi": "Tờ quảng cáo giảm giá được dán khắp nơi trên phố."},
+    {"ja": "災害の影響は至るところに及んだ。", "vi": "Ảnh hưởng của thiên tai lan tới khắp nơi."},
+    {"ja": "観光地の至るところで外国人旅行者を見かけた。", "vi": "Tôi thấy du khách nước ngoài ở khắp nơi trong khu du lịch."},
+    {"ja": "至るところで工事が行われていて道が混んでいる。", "vi": "Khắp nơi đang thi công nên đường rất đông."}
+  ],
+  "v5042": [
+    {"ja": "真夜中に電話がかかってきて驚いた。", "vi": "Điện thoại reo giữa đêm làm tôi giật mình."},
+    {"ja": "真夜中まで仕事をして疲れてしまった。", "vi": "Làm việc đến nửa đêm khiến tôi mệt mỏi."},
+    {"ja": "真夜中の電車は乗客がほとんどいない。", "vi": "Tàu điện nửa đêm hầu như không có hành khách."},
+    {"ja": "真夜中に起きて水を飲みに行った。", "vi": "Tôi thức dậy giữa đêm đi uống nước."},
+    {"ja": "真夜中でも営業している店がある。", "vi": "Có những quán vẫn mở cửa cả nửa đêm."}
+  ],
+  "v5043": [
+    {"ja": "選挙の日に投票所へ行った。", "vi": "Ngày bầu cử tôi đã đến nơi bỏ phiếu."},
+    {"ja": "社内アンケートに投票してください。", "vi": "Xin hãy bỏ phiếu cho khảo sát nội bộ công ty."},
+    {"ja": "オンラインで簡単に投票できる仕組みだ。", "vi": "Đây là cơ chế có thể bỏ phiếu dễ dàng trực tuyến."},
+    {"ja": "投票の結果は明日発表される予定だ。", "vi": "Kết quả bỏ phiếu dự kiến công bố ngày mai."},
+    {"ja": "どの案に投票するかまだ迷っている。", "vi": "Tôi vẫn phân vân sẽ bỏ phiếu cho phương án nào."}
+  ],
+  "v5044": [
+    {"ja": "今回の選挙は投票率が高かった。", "vi": "Kỳ bầu cử lần này tỷ lệ bỏ phiếu khá cao."},
+    {"ja": "若者の投票率が低いことが課題だ。", "vi": "Tỷ lệ bỏ phiếu của người trẻ thấp đang là vấn đề."},
+    {"ja": "天候が悪いと投票率が下がることがある。", "vi": "Khi thời tiết xấu, tỷ lệ bỏ phiếu đôi khi giảm."},
+    {"ja": "投票率を上げるための啓発活動が行われた。", "vi": "Đã có chiến dịch tuyên truyền để nâng tỷ lệ bỏ phiếu."},
+    {"ja": "前回より投票率が五パーセント上がった。", "vi": "Tỷ lệ bỏ phiếu tăng năm phần trăm so với lần trước."}
+  ],
+  "v5045": [
+    {"ja": "半透明のカーテンで部屋に柔らかい光が入る。", "vi": "Rèm bán trong suốt để ánh sáng dịu vào phòng."},
+    {"ja": "半透明のケースに名刺を入れている。", "vi": "Tôi để danh thiếp trong hộp bán trong suốt."},
+    {"ja": "この袋は半透明なので中身が少し見える。", "vi": "Túi này bán trong suốt nên có thể thấy một chút đồ bên trong."},
+    {"ja": "半透明のガラスがプライバシーを保ってくれる。", "vi": "Kính bán trong suốt giúp bảo vệ sự riêng tư."},
+    {"ja": "デザインに半透明の素材を使ってみた。", "vi": "Tôi thử dùng chất liệu bán trong suốt cho thiết kế."}
+  ],
+  "v5046": [
+    {"ja": "この会社は日本流の丁寧な接客を大切にしている。", "vi": "Công ty này coi trọng cách phục vụ lịch sự kiểu Nhật."},
+    {"ja": "海外でも日本流の品質管理が評価されている。", "vi": "Ngay cả ở nước ngoài, quản lý chất lượng kiểu Nhật cũng được đánh giá cao."},
+    {"ja": "日本流の会議は事前準備を重視する。", "vi": "Cuộc họp kiểu Nhật coi trọng việc chuẩn bị trước."},
+    {"ja": "彼は日本流の礼儀作法を外国人に教えている。", "vi": "Anh ấy dạy phép lịch sự kiểu Nhật cho người nước ngoài."},
+    {"ja": "日本流にアレンジした料理が人気だ。", "vi": "Món ăn biến tấu theo kiểu Nhật đang được ưa chuộng."}
+  ],
+  "v5047": [
+    {"ja": "栄養が偏らないようバランスよく食べる。", "vi": "Ăn cân bằng để dinh dưỡng không bị lệch."},
+    {"ja": "意見が一部に偏ると公正な判断ができない。", "vi": "Nếu ý kiến lệch về một phía thì không thể phán đoán công bằng."},
+    {"ja": "仕事の負担が特定の人に偏っている。", "vi": "Gánh nặng công việc đang lệch về một số người nhất định."},
+    {"ja": "報道が偏っていると感じる人もいる。", "vi": "Có người cảm thấy tin tức bị thiên lệch."},
+    {"ja": "趣味がゲームに偏りすぎないよう気をつけている。", "vi": "Tôi chú ý để sở thích không lệch quá nhiều về game."}
+  ],
+  "v5048": [
+    {"ja": "説明を省いて結論だけ伝えるのは避けたい。", "vi": "Tôi muốn tránh việc lược bỏ giải thích mà chỉ nói kết luận."},
+    {"ja": "時間がないので細かい手順は省こう。", "vi": "Vì không có thời gian nên hãy lược bỏ các bước chi tiết."},
+    {"ja": "不要な項目を省いて資料を短くした。", "vi": "Tôi lược bỏ mục không cần thiết để rút ngắn tài liệu."},
+    {"ja": "挨拶を省いて本題に入るのは失礼だ。", "vi": "Bỏ qua lời chào mà vào thẳng chủ đề là thất lễ."},
+    {"ja": "手間を省くためにテンプレートを使っている。", "vi": "Tôi dùng mẫu sẵn để giảm bớt công đoạn."}
+  ],
+  "v5049": [
+    {"ja": "メガネを外してコンタクトレンズに替えた。", "vi": "Tôi tháo kính rồi đổi sang kính áp tròng."},
+    {"ja": "予定表からその会議を外した。", "vi": "Tôi đã bỏ cuộc họp đó khỏi lịch trình."},
+    {"ja": "靴を外してから家に上がってください。", "vi": "Xin tháo giày rồi hãy vào nhà."},
+    {"ja": "候補者リストから彼の名前を外すことになった。", "vi": "Tên anh ấy bị loại khỏi danh sách ứng viên."},
+    {"ja": "チャンスを外してしまい後悔している。", "vi": "Tôi bỏ lỡ cơ hội và đang hối hận."}
+  ],
+  "v5050": [
+    {"ja": "地震で本棚が少し傾いた。", "vi": "Do động đất mà giá sách hơi nghiêng."},
+    {"ja": "景気が傾いているというニュースが増えた。", "vi": "Tin tức nói nền kinh tế đang suy giảm ngày càng nhiều."},
+    {"ja": "花瓶が傾いているので直しておいた。", "vi": "Bình hoa đang nghiêng nên tôi chỉnh lại."},
+    {"ja": "意見が反対側に傾きつつある。", "vi": "Ý kiến đang dần nghiêng về phía đối lập."},
+    {"ja": "夕日に向かって木の影が長く傾いている。", "vi": "Bóng cây nghiêng dài về phía hoàng hôn."}
+  ],
+  "v5051": [
+    {"ja": "工事が着々と進んでいる。", "vi": "Công trình đang tiến triển từng bước chắc chắn."},
+    {"ja": "新製品の開発が着々と形になってきた。", "vi": "Việc phát triển sản phẩm mới dần định hình vững chắc."},
+    {"ja": "貯金が着々と増えて目標に近づいている。", "vi": "Tiền tiết kiệm tăng đều và đang gần mục tiêu."},
+    {"ja": "準備が着々と整い、本番が楽しみだ。", "vi": "Chuẩn bị đang hoàn tất từng bước, tôi mong chờ ngày chính thức."},
+    {"ja": "改革案が着々と実行に移されている。", "vi": "Phương án cải cách đang được triển khai từng bước chắc chắn."}
+  ],
+  "v5052": [
+    {"ja": "駅前に新しいビルの建設が始まった。", "vi": "Việc xây dựng tòa nhà mới trước ga đã bắt đầu."},
+    {"ja": "道路建設のため一時的に通行止めになる。", "vi": "Vì xây dựng đường nên tạm thời cấm lưu thông."},
+    {"ja": "建設現場では安全確認が毎日行われている。", "vi": "Tại công trường xây dựng, kiểm tra an toàn được thực hiện mỗi ngày."},
+    {"ja": "この地域では住宅の建設が増えている。", "vi": "Ở khu vực này, việc xây nhà ở đang tăng."},
+    {"ja": "建設会社で現場監督として働いている。", "vi": "Tôi làm giám sát công trường tại công ty xây dựng."}
+  ],
+  "v5053": [
+    {"ja": "ダムの見学ツアーに参加した。", "vi": "Tôi tham gia tour tham quan đập nước."},
+    {"ja": "ダムの水位が雨で急に上がった。", "vi": "Mực nước đập tăng đột ngột vì mưa."},
+    {"ja": "このダムは発電にも利用されている。", "vi": "Đập này cũng được dùng để phát điện."},
+    {"ja": "ダム建設の計画について住民説明会が開かれた。", "vi": "Đã tổ chức họp giải thích với dân về kế hoạch xây đập."},
+    {"ja": "夏でもダム湖の水は冷たい。", "vi": "Ngay cả mùa hè nước hồ đập vẫn lạnh."}
+  ],
+  "v5054": [
+    {"ja": "彼女は日本語をすらすら話す。", "vi": "Cô ấy nói tiếng Nhật rất trôi chảy."},
+    {"ja": "難しい文章でもすらすら読めるようになった。", "vi": "Tôi đã có thể đọc trôi chảy cả đoạn văn khó."},
+    {"ja": "自己紹介がすらすら出てこない。", "vi": "Tôi chưa nói được tự giới thiệu một cách trôi chảy."},
+    {"ja": "答えがすらすら書けたので自信がついた。", "vi": "Vì viết đáp án trôi chảy nên tôi có thêm tự tin."},
+    {"ja": "練習のおかげでピアノがすらすら弾けるようになった。", "vi": "Nhờ luyện tập tôi đã chơi piano trôi chảy hơn."}
+  ],
+  "v5055": [
+    {"ja": "開店と同時に客が続々と入ってきた。", "vi": "Ngay khi mở cửa, khách liên tục đổ vào."},
+    {"ja": "新商品に注文が続々と寄せられている。", "vi": "Đơn hàng cho sản phẩm mới đang liên tục đổ về."},
+    {"ja": "駅に列車が続々と到着している。", "vi": "Các chuyến tàu liên tục đến ga."},
+    {"ja": "応募者が続々と会場に集まってきた。", "vi": "Người đăng ký lần lượt tụ họp tại hội trường."},
+    {"ja": "話題の店には観光客が続々と訪れる。", "vi": "Quán đang nổi tiếng có du khách liên tục đến thăm."}
+  ],
+  "v5056": [
+    {"ja": "朝の通勤ラッシュで道が渋滞している。", "vi": "Đường đang tắc vì giờ cao điểm đi làm buổi sáng."},
+    {"ja": "事故の影響で高速道路が大渋滞だ。", "vi": "Do tai nạn nên đường cao tốc tắc nghiêm trọng."},
+    {"ja": "渋滞を避けるため早めに出発した。", "vi": "Tôi xuất phát sớm để tránh tắc đường."},
+    {"ja": "週末の観光地周辺は渋滞しやすい。", "vi": "Khu vực quanh điểm du lịch cuối tuần dễ bị tắc."},
+    {"ja": "ナビが渋滞情報を知らせてくれた。", "vi": "Thiết bị định vị đã báo thông tin tắc đường cho tôi."}
+  ],
+  "v5057": [
+    {"ja": "部屋を片付けたら気持ちがすっきりした。", "vi": "Dọn phòng xong lòng tôi thấy nhẹ nhõm."},
+    {"ja": "悩みを相談してすっきりした気分だ。", "vi": "Sau khi tâm sự nỗi lo, tôi thấy sảng khoái."},
+    {"ja": "髪を切ったら頭がすっきりした。", "vi": "Cắt tóc xong đầu óc thấy thông thoáng."},
+    {"ja": "運動の後は体がすっきりする。", "vi": "Sau khi tập thể dục cơ thể thấy nhẹ nhàng."},
+    {"ja": "説明を聞いて疑問がすっきり解消した。", "vi": "Nghe giải thích xong thắc mắc được giải tỏa hoàn toàn."}
+  ],
+  "v5058": [
+    {"ja": "うっかり電車の定期を家に忘れてきた。", "vi": "Tôi sơ ý để quên thẻ tháng tàu ở nhà."},
+    {"ja": "うっかり送信ボタンを押してしまった。", "vi": "Tôi vô tình nhấn nút gửi mất rồi."},
+    {"ja": "うっかり約束の時間を間違えていた。", "vi": "Tôi sơ ý nhầm giờ hẹn."},
+    {"ja": "名前をうっかり聞き逃してしまった。", "vi": "Tôi đã lỡ quên nghe tên."},
+    {"ja": "うっかり飲み物をキーボードにこぼした。", "vi": "Tôi vô tình đổ đồ uống lên bàn phím."}
+  ],
+  "v5059": [
+    {"ja": "仕事の愚痴ばかり言うのはよくない。", "vi": "Chỉ toàn than vãn về công việc thì không tốt."},
+    {"ja": "友人に愚痴を聞いてもらって楽になった。", "vi": "Được bạn lắng nghe lời càu nhàu, tôi thấy dễ chịu hơn."},
+    {"ja": "愚痴を言うより解決策を考えたい。", "vi": "Tôi muốn nghĩ cách giải quyết hơn là than vãn."},
+    {"ja": "飲み会で上司の愚痴が出てしまった。", "vi": "Trong buổi nhậu tôi đã lỡ than về cấp trên."},
+    {"ja": "同じ愚痴を繰り返しても状況は変わらない。", "vi": "Lặp lại cùng một lời than cũng chẳng đổi được tình hình."}
+  ],
+  "v5060": [
+    {"ja": "雨の日は気分が憂鬱になりやすい。", "vi": "Ngày mưa tâm trạng dễ trở nên u sầu."},
+    {"ja": "長い連休明けは少し憂鬱だ。", "vi": "Sau kỳ nghỉ dài tôi hơi buồn chán."},
+    {"ja": "失敗が続いて憂鬱な気持ちになった。", "vi": "Thất bại liên tiếp khiến tôi cảm thấy u ám."},
+    {"ja": "憂鬱な顔をしていると周囲も心配する。", "vi": "Nếu mặt buồn rầu thì mọi người xung quanh cũng lo."},
+    {"ja": "好きな音楽を聴いて憂鬱な気分を晴らした。", "vi": "Tôi nghe nhạc yêu thích để xua tan tâm trạng u sầu."}
+  ],
+  "v5061": [
+    {"ja": "騒音について管理会社に苦情を入れた。", "vi": "Tôi gửi khiếu nại về tiếng ồn tới công ty quản lý."},
+    {"ja": "店に味についての苦情が届いた。", "vi": "Quán nhận được lời phàn nàn về hương vị."},
+    {"ja": "苦情に対しては迅速に対応することが大切だ。", "vi": "Với khiếu nại, việc xử lý nhanh chóng rất quan trọng."},
+    {"ja": "配達の遅れに苦情の電話があった。", "vi": "Có cuộc gọi phàn nàn về việc giao hàng chậm."},
+    {"ja": "お客様の苦情を記録して改善につなげる。", "vi": "Ghi lại khiếu nại của khách để cải thiện."}
+  ],
+  "v5062": [
+    {"ja": "彼の発言は多くの非難を浴びた。", "vi": "Phát ngôn của anh ấy nhận nhiều chỉ trích."},
+    {"ja": "一方的に非難するだけでは解決しない。", "vi": "Chỉ một mực lên án thì không giải quyết được."},
+    {"ja": "ミスをした部下を人前で非難すべきではない。", "vi": "Không nên chỉ trích cấp dưới trước mặt mọi người vì lỗi lầm."},
+    {"ja": "SNS上で激しい非難が広がった。", "vi": "Trên mạng xã hội, lời chỉ trích gay gắt lan rộng."},
+    {"ja": "非難を恐れず正しいことを主張した。", "vi": "Tôi khẳng định điều đúng mà không sợ bị chỉ trích."}
+  ],
+  "v5063": [
+    {"ja": "十年ぶりに旧友と再会した。", "vi": "Sau mười năm tôi gặp lại bạn cũ."},
+    {"ja": "空港で家族と再会できて嬉しかった。", "vi": "Được gặp lại gia đình ở sân bay khiến tôi vui."},
+    {"ja": "同窓会でかつての同級生と再会した。", "vi": "Ở họp lớp tôi gặp lại bạn cùng lớp ngày xưa."},
+    {"ja": "再会の約束をしてそれぞれ帰国した。", "vi": "Chúng tôi hẹn gặp lại rồi ai về nước nấy."},
+    {"ja": "偶然の再会が新しい仕事につながった。", "vi": "Cuộc gặp lại tình cờ dẫn đến công việc mới."}
+  ],
+  "v5064": [
+    {"ja": "映画の感動的な場面で涙が出た。", "vi": "Ở cảnh cảm động trong phim tôi đã khóc."},
+    {"ja": "会議の重要な場面で発言できなかった。", "vi": "Ở thời điểm quan trọng của cuộc họp tôi không nói được."},
+    {"ja": "この場面では丁寧な言葉遣いが求められる。", "vi": "Trong tình huống này cần cách nói lịch sự."},
+    {"ja": "ドラマのクライマックスの場面が印象に残った。", "vi": "Cảnh cao trào của drama để lại ấn tượng."},
+    {"ja": "日常の場面でも敬語を使う練習をしている。", "vi": "Tôi đang luyện dùng kính ngữ ngay cả trong tình huống đời thường."}
+  ],
+  "v5065": [
+    {"ja": "説明の要所をノートにまとめた。", "vi": "Tôi ghi chú các điểm then chốt của phần giải thích."},
+    {"ja": "警備の要所にカメラを設置した。", "vi": "Chúng tôi lắp camera tại các vị trí then chốt của an ninh."},
+    {"ja": "議論の要所を押さえておくことが大切だ。", "vi": "Việc nắm các điểm quan trọng của cuộc thảo luận rất cần thiết."},
+    {"ja": "計画の要所で確認ミスが起きやすい。", "vi": "Ở khâu then chốt của kế hoạch dễ xảy ra lỗi kiểm tra."},
+    {"ja": "要所要所で上司に進捗を報告している。", "vi": "Tôi báo cáo tiến độ cho cấp trên ở từng điểm quan trọng."}
+  ],
+  "v5066": [
+    {"ja": "京都には歴史的な名所が多い。", "vi": "Kyoto có nhiều danh lam thắng cảnh lịch sử."},
+    {"ja": "地元の名所を友人に案内した。", "vi": "Tôi dẫn bạn đi thăm các địa điểm nổi tiếng ở địa phương."},
+    {"ja": "旅行で有名な名所を回りたい。", "vi": "Trong chuyến đi tôi muốn ghé các danh thắng nổi tiếng."},
+    {"ja": "この神社は紅葉の名所として知られている。", "vi": "Đền này nổi tiếng là nơi ngắm lá đỏ."},
+    {"ja": "名所の写真をSNSに投稿した。", "vi": "Tôi đăng ảnh danh thắng lên mạng xã hội."}
+  ],
+  "v5067": [
+    {"ja": "パソコンの画面が急に真っ暗になった。", "vi": "Màn hình máy tính đột nhiên tối đen."},
+    {"ja": "画面共有しながらオンライン会議を進めた。", "vi": "Chúng tôi tiến hành họp trực tuyến trong khi chia sẻ màn hình."},
+    {"ja": "スマホの画面を大きくして文字を読んだ。", "vi": "Tôi phóng to màn hình điện thoại để đọc chữ."},
+    {"ja": "映画の画面が美しくて見入ってしまった。", "vi": "Hình ảnh trên màn hình phim đẹp khiến tôi mải mê xem."},
+    {"ja": "画面の明るさを夜間モードに切り替えた。", "vi": "Tôi chuyển độ sáng màn hình sang chế độ ban đêm."}
+  ],
+  "v5068": [
+    {"ja": "大学卒業後、大企業に就職した。", "vi": "Sau khi tốt nghiệp đại học, tôi vào làm ở doanh nghiệp lớn."},
+    {"ja": "大企業でも人手不足が課題になっている。", "vi": "Ngay cả doanh nghiệp lớn cũng đang gặp vấn đề thiếu nhân sự."},
+    {"ja": "大企業の福利厚生は充実していることが多い。", "vi": "Phúc lợi của doanh nghiệp lớn thường khá đầy đủ."},
+    {"ja": "取引先は国内外に拠点を持つ大企業だ。", "vi": "Đối tác là doanh nghiệp lớn có cơ sở trong và ngoài nước."},
+    {"ja": "大企業から中小企業へ転職する人もいる。", "vi": "Cũng có người chuyển từ doanh nghiệp lớn sang doanh nghiệp vừa và nhỏ."}
+  ],
+  "v5069": [
+    {"ja": "会社の売上が着実に成長している。", "vi": "Doanh số công ty đang tăng trưởng vững chắc."},
+    {"ja": "子供の成長は驚くほど早い。", "vi": "Sự lớn lên của trẻ em nhanh đến mức kinh ngạc."},
+    {"ja": "この仕事を通じて自分自身が成長できた。", "vi": "Qua công việc này bản thân tôi đã trưởng thành."},
+    {"ja": "成長市場に参入する企業が増えている。", "vi": "Ngày càng nhiều doanh nghiệp gia nhập thị trường tăng trưởng."},
+    {"ja": "失敗を経験することが成長につながる。", "vi": "Trải qua thất bại sẽ dẫn đến sự phát triển."}
+  ],
+  "v5070": [
+    {"ja": "この地域は交通網が発達している。", "vi": "Khu vực này có mạng lưới giao thông phát triển."},
+    {"ja": "子供の言語能力は急速に発達する。", "vi": "Năng lực ngôn ngữ của trẻ phát triển rất nhanh."},
+    {"ja": "技術が発達して遠隔会議が普通になった。", "vi": "Công nghệ phát triển khiến họp từ xa trở thành chuyện bình thường."},
+    {"ja": "筋肉を発達させるには継続した訓練が必要だ。", "vi": "Để cơ bắp phát triển cần luyện tập đều đặn."},
+    {"ja": "通信技術の発達で海外とのやり取りが容易になった。", "vi": "Nhờ sự phát triển của công nghệ thông tin, trao đổi với nước ngoài trở nên dễ dàng."}
+  ],
+  "v5071": [
+    {"ja": "医学が発達したおかげで治療の選択肢が増えた。", "vi": "Nhờ y học phát triển, các lựa chọn điều trị đã tăng lên."},
+    {"ja": "医学の発達により平均寿命が延びている。", "vi": "Nhờ sự phát triển của y học, tuổi thọ trung bình đang kéo dài."},
+    {"ja": "現代医学が発達しても予防は大切だ。", "vi": "Dù y học hiện đại phát triển, phòng bệnh vẫn quan trọng."},
+    {"ja": "医学が発達した国では検診制度が整っている。", "vi": "Ở các nước y học phát triển, hệ thống khám định kỳ khá hoàn chỉnh."},
+    {"ja": "医学の発達を支える研究資金が必要だ。", "vi": "Cần vốn nghiên cứu để hỗ trợ sự phát triển của y học."}
+  ],
+  "v5072": [
+    {"ja": "物語は予想外の展開を見せた。", "vi": "Câu chuyện có diễn biến ngoài dự đoán."},
+    {"ja": "海外市場への展開を検討している。", "vi": "Chúng tôi đang xem xét mở rộng sang thị trường nước ngoài."},
+    {"ja": "会議では具体的な展開案が示された。", "vi": "Trong cuộc họp đã đưa ra phương án triển khai cụ thể."},
+    {"ja": "試合は終盤になって面白い展開になった。", "vi": "Trận đấu đến cuối trở nên thú vị về diễn biến."},
+    {"ja": "新サービスの全国展開が来月から始まる。", "vi": "Việc triển khai dịch vụ mới trên toàn quốc bắt đầu từ tháng sau."}
+  ],
+  "v5073": [
+    {"ja": "適度な運動は健康維持に役立つ。", "vi": "Vận động vừa phải có ích cho việc giữ sức khỏe."},
+    {"ja": "適度な休息を取らないと効率が下がる。", "vi": "Nếu không nghỉ ngơi vừa phải thì hiệu suất sẽ giảm."},
+    {"ja": "塩分は適度な量を心がけたい。", "vi": "Tôi muốn chú ý dùng muối ở mức vừa phải."},
+    {"ja": "適度な緊張感があると集中しやすい。", "vi": "Có chút căng thẳng vừa phải thì dễ tập trung hơn."},
+    {"ja": "適度な値段で品質の良い商品を選んだ。", "vi": "Tôi chọn sản phẩm chất lượng tốt với giá vừa phải."}
+  ],
+  "v5074": [
+    {"ja": "簡略な説明だけで理解してもらえた。", "vi": "Chỉ với lời giải thích giản lược mà vẫn được hiểu."},
+    {"ja": "簡略な形式で報告書を提出してよい。", "vi": "Có thể nộp báo cáo theo hình thức giản lược."},
+    {"ja": "時間がないので簡略な挨拶で済ませた。", "vi": "Vì không có thời gian nên tôi chỉ chào giản lược."},
+    {"ja": "簡略な図を使って流れを示した。", "vi": "Tôi dùng sơ đồ giản lược để chỉ ra quy trình."},
+    {"ja": "簡略なメモでも要点は残しておく。", "vi": "Dù chỉ ghi chú giản lược cũng nên giữ lại điểm chính."}
+  ],
+  "v5075": [
+    {"ja": "手続きを簡略にして待ち時間を減らした。", "vi": "Đơn giản hóa thủ tục để giảm thời gian chờ."},
+    {"ja": "申請の手続きを簡略化する改革が進んでいる。", "vi": "Cải cách đơn giản hóa thủ tục đăng ký đang tiến triển."},
+    {"ja": "オンライン化で多くの手続きが簡略になった。", "vi": "Nhờ số hóa, nhiều thủ tục đã được giản lược."},
+    {"ja": "手続きを簡略にしすぎると確認が不十分になる。", "vi": "Đơn giản hóa thủ tục quá mức sẽ khiến việc kiểm tra thiếu sót."},
+    {"ja": "窓口で手続きを簡略にする方法を案内された。", "vi": "Ở quầy tôi được hướng dẫn cách làm thủ tục đơn giản hơn."}
+  ],
+  "v5076": [
+    {"ja": "上司とも対等な立場で意見を述べたい。", "vi": "Tôi muốn nêu ý kiến với cấp trên trên tư thế ngang hàng."},
+    {"ja": "両国は対等な関係を築こうとしている。", "vi": "Hai nước đang cố xây dựng quan hệ bình đẳng."},
+    {"ja": "パートナーとは対等に話し合える関係が理想だ。", "vi": "Quan hệ lý tưởng với đối tác là có thể trao đổi ngang hàng."},
+    {"ja": "待遇が対等でなければ不満が出やすい。", "vi": "Nếu đãi ngộ không ngang bằng thì dễ phát sinh bất mãn."},
+    {"ja": "年齢に関係なく対等に接することが大切だ。", "vi": "Tiếp xúc bình đẳng bất kể tuổi tác là điều quan trọng."}
+  ],
+  "v5077": [
+    {"ja": "注文にサラダを追加した。", "vi": "Tôi đã thêm salad vào đơn hàng."},
+    {"ja": "予算に追加の費用が発生した。", "vi": "Ngân sách phát sinh thêm chi phí bổ sung."},
+    {"ja": "資料に最新データを追加して送った。", "vi": "Tôi bổ sung dữ liệu mới nhất vào tài liệu rồi gửi."},
+    {"ja": "会議の議題を一つ追加してもよろしいですか。", "vi": "Tôi có thể bổ sung thêm một mục vào chương trình họp không?"},
+    {"ja": "会員特典に新しいサービスが追加された。", "vi": "Ưu đãi thành viên được bổ sung dịch vụ mới."}
+  ],
+  "v5078": [
+    {"ja": "料理に塩を少し足してください。", "vi": "Xin thêm một chút muối vào món ăn."},
+    {"ja": "足りない分は後で足せばいい。", "vi": "Phần còn thiếu sau có thể cộng thêm."},
+    {"ja": "合計に送料を足して支払った。", "vi": "Tôi cộng phí ship vào tổng rồi thanh toán."},
+    {"ja": "説明に具体例を足すと分かりやすくなる。", "vi": "Thêm ví dụ cụ thể vào lời giải thích sẽ dễ hiểu hơn."},
+    {"ja": "二時間足してもまだ終わらない。", "vi": "Thêm hai tiếng nữa cũng vẫn chưa xong."}
+  ],
+  "v5079": [
+    {"ja": "会社のホームページに募集案内を載せた。", "vi": "Chúng tôi đã đăng thông báo tuyển dụng lên trang công ty."},
+    {"ja": "地域新聞にイベント情報が載せられた。", "vi": "Thông tin sự kiện đã được đăng trên báo địa phương."},
+    {"ja": "社内報にインタビュー記事を載せてもらった。", "vi": "Bài phỏng vấn của tôi được đăng trên báo nội bộ."},
+    {"ja": "カタログに新商品の写真を載せる予定だ。", "vi": "Dự kiến sẽ đưa ảnh sản phẩm mới lên catalogue."},
+    {"ja": "荷物を車の荷台に載せて運んだ。", "vi": "Tôi chất hành lý lên thùng xe rồi chở đi."}
+  ],
+  "v5080": [
+    {"ja": "この仕事には相当な経験が必要だ。", "vi": "Công việc này cần kinh nghiệm đáng kể."},
+    {"ja": "準備に相当な時間がかかった。", "vi": "Việc chuẩn bị mất khá nhiều thời gian."},
+    {"ja": "彼の実力はプロに相当すると言われている。", "vi": "Người ta nói năng lực của anh ấy tương đương chuyên nghiệp."},
+    {"ja": "相当安くなったので思い切って買った。", "vi": "Giá đã giảm khá nhiều nên tôi quyết định mua."},
+    {"ja": "残業が相当続いて体調を崩しそうだ。", "vi": "Làm thêm giờ kéo dài khá lâu, tôi sắp mất sức."}
+  ],
+  "v5081": [
+    {"ja": "今日はかなり寒いのでコートを着た。", "vi": "Hôm nay khá lạnh nên tôi mặc áo khoác."},
+    {"ja": "この問題はかなり難しいと感じた。", "vi": "Tôi cảm thấy bài này khá khó."},
+    {"ja": "締め切りまでかなり余裕がある。", "vi": "Đến hạn nộp vẫn còn khá dư thời gian."},
+    {"ja": "駅まで歩いたらかなり疲れた。", "vi": "Đi bộ đến ga khiến tôi khá mệt."},
+    {"ja": "かなり前からその計画を温めていた。", "vi": "Tôi đã ấp ủ kế hoạch đó từ khá lâu rồi."}
+  ],
+  "v5082": [
+    {"ja": "予想どおり、やはり彼が一番早かった。", "vi": "Đúng như dự đoán, quả nhiên anh ấy nhanh nhất."},
+    {"ja": "迷ったが、やはり地元の店を選んだ。", "vi": "Tôi phân vân nhưng vẫn chọn quán địa phương."},
+    {"ja": "休みの日でもやはり朝は早めに起きる。", "vi": "Ngày nghỉ tôi vẫn dậy sớm như thường."},
+    {"ja": "高い鞄だが、やはり品質が違う。", "vi": "Túi đắt nhưng quả nhiên chất lượng khác hẳn."},
+    {"ja": "説明を聞いてやはり自分の判断が正しかったと分かった。", "vi": "Nghe giải thích xong tôi thấy quả nhiên phán đoán của mình đúng."}
+  ],
+  "v5083": [
+    {"ja": "子供にじっと座っているように言った。", "vi": "Tôi bảo đứa trẻ ngồi yên."},
+    {"ja": "痛みが引くまでじっと我慢した。", "vi": "Tôi chịu đựng bất động cho đến khi hết đau."},
+    {"ja": "彼は画面をじっと見つめていた。", "vi": "Anh ấy nhìn chằm chằm vào màn hình."},
+    {"ja": "じっとしていられず席を立ってしまった。", "vi": "Tôi không ngồi yên được nên đã đứng dậy."},
+    {"ja": "注射の間はじっと動かないでください。", "vi": "Trong lúc tiêm xin hãy ngồi yên, đừng cử động."}
+  ],
+  "v5084": [
+    {"ja": "計算を誤って合計が合わなくなった。", "vi": "Tôi tính nhầm nên tổng không khớp."},
+    {"ja": "道を誤って反対方向へ歩いてしまった。", "vi": "Tôi đi nhầm đường và bước về hướng ngược lại."},
+    {"ja": "判断を誤ると大きな損失につながる。", "vi": "Phán đoán sai có thể dẫn đến tổn thất lớn."},
+    {"ja": "日付を誤って予約してしまった。", "vi": "Tôi đặt nhầm ngày."},
+    {"ja": "相手の意図を誤って解釈しないよう注意する。", "vi": "Tôi chú ý để không hiểu sai ý đối phương."}
+  ],
+  "v5085": [
+    {"ja": "冬は手がかさかさになりやすい。", "vi": "Mùa đông tay dễ bị khô ráp."},
+    {"ja": "唇がかさかさするのでクリームを塗った。", "vi": "Môi khô ráp nên tôi thoa kem."},
+    {"ja": "かさかさした肌を保湿でなめらかにした。", "vi": "Tôi dưỡng ẩm để da khô ráp trở nên mịn."},
+    {"ja": "洗いすぎると髪がかさかさになる。", "vi": "Gội quá nhiều sẽ khiến tóc khô ráp."},
+    {"ja": "乾燥した部屋では肌がかさかさしやすい。", "vi": "Trong phòng khô, da dễ bị sần sùi."}
+  ],
+  "v5086": [
+    {"ja": "夜になると急に体が冷える。", "vi": "Về đêm cơ thể đột nhiên lạnh đi."},
+    {"ja": "飲み物が冷えすぎないうちに飲んでください。", "vi": "Hãy uống trước khi đồ uống lạnh quá."},
+    {"ja": "エアコンで部屋が冷えすぎた。", "vi": "Phòng lạnh quá vì máy điều hòa."},
+    {"ja": "関係が冷え始めたと感じている。", "vi": "Tôi cảm thấy quan hệ bắt đầu nguội lạnh."},
+    {"ja": "足元が冷えるので靴下を履き替えた。", "vi": "Chân lạnh nên tôi đổi tất."}
+  ],
+  "v5087": [
+    {"ja": "長時間同じ姿勢で足がしびれた。", "vi": "Ngồi cùng một tư thế lâu khiến chân bị tê."},
+    {"ja": "寒さで指先がしびれる感じがする。", "vi": "Tôi cảm thấy đầu ngón tay tê vì lạnh."},
+    {"ja": "注射のあと腕が少ししびれた。", "vi": "Sau khi tiêm, cánh tay hơi tê."},
+    {"ja": "緊張で舌がしびれるようだった。", "vi": "Vì căng thẳng, lưỡi tôi như bị tê."},
+    {"ja": "しびれが取れないときは医師に相談した方がいい。", "vi": "Khi tê không hết thì nên hỏi bác sĩ."}
+  ],
+  "v5088": [
+    {"ja": "古い制度が来年度から廃止される。", "vi": "Chế độ cũ sẽ bị bãi bỏ từ năm tài chính tới."},
+    {"ja": "路線バスの一部区間が廃止になった。", "vi": "Một số đoạn tuyến xe buýt đã bị hủy bỏ."},
+    {"ja": "紙の申請書は廃止して電子化に切り替えた。", "vi": "Chúng tôi bãi bỏ đơn giấy và chuyển sang điện tử."},
+    {"ja": "廃止の決定に反対の声が上がっている。", "vi": "Có ý kiến phản đối quyết định bãi bỏ."},
+    {"ja": "不要な規則を廃止して業務を効率化した。", "vi": "Bãi bỏ quy định không cần thiết để nâng hiệu quả công việc."}
+  ],
+  "v5089": [
+    {"ja": "現状では人員が足りていない。", "vi": "Với hiện trạng thì nhân sự vẫn chưa đủ."},
+    {"ja": "現状を正しく把握してから対策を立てる。", "vi": "Nắm đúng hiện trạng rồi mới lập biện pháp."},
+    {"ja": "現状維持では競争に勝てない。", "vi": "Chỉ duy trì hiện trạng thì không thắng được cạnh tranh."},
+    {"ja": "プロジェクトの現状を上司に報告した。", "vi": "Tôi báo cáo hiện trạng dự án cho cấp trên."},
+    {"ja": "現状を打破するための改革が必要だ。", "vi": "Cần cải cách để phá vỡ hiện trạng."}
+  ],
+  "v5090": [
+    {"ja": "会議は予定どおり午後五時に終了した。", "vi": "Cuộc họp kết thúc đúng kế hoạch lúc năm giờ chiều."},
+    {"ja": "受付は正午で終了となります。", "vi": "Việc tiếp nhận sẽ kết thúc vào buổi trưa."},
+    {"ja": "研修の終了後にアンケートに答えた。", "vi": "Sau khi khóa bồi dưỡng kết thúc, tôi trả lời khảo sát."},
+    {"ja": "作業の終了報告をチャットで送った。", "vi": "Tôi gửi báo cáo hoàn thành công việc qua chat."},
+    {"ja": "イベント終了後は会場の片付けを手伝った。", "vi": "Sau khi sự kiện kết thúc, tôi giúp dọn hội trường."}
+  ],
+  "v5091": [
+    {"ja": "急用で作業を中断せざるを得なかった。", "vi": "Vì việc gấp tôi buộc phải tạm dừng công việc."},
+    {"ja": "停電で放送が中断された。", "vi": "Phát sóng bị gián đoạn vì mất điện."},
+    {"ja": "交渉は一度中断して再開することになった。", "vi": "Cuộc đàm phán tạm dừng một lần rồi sẽ tiếp tục."},
+    {"ja": "会議の途中で通信が中断して困った。", "vi": "Giữa cuộc họp kết nối bị đứt khiến tôi lúng túng."},
+    {"ja": "中断した作業を午前中に再開する。", "vi": "Tôi sẽ tiếp tục công việc đã tạm dừng vào buổi sáng."}
+  ],
+  "v5092": [
+    {"ja": "作業を中断して急ぎの電話に出た。", "vi": "Tôi tạm dừng công việc để nghe cuộc gọi gấp."},
+    {"ja": "雨が強くなり工事を中断した。", "vi": "Mưa lớn nên việc thi công bị tạm dừng."},
+    {"ja": "データ入力を中断する前に保存した。", "vi": "Trước khi tạm dừng nhập dữ liệu tôi đã lưu."},
+    {"ja": "急病人が出て会議が中断された。", "vi": "Có người đột ngột ốm nên cuộc họp bị gián đoạn."},
+    {"ja": "中断した作業の続きから始める。", "vi": "Tôi bắt đầu từ phần tiếp theo của công việc đã tạm dừng."}
+  ],
+  "v5093": [
+    {"ja": "経験豊富な先輩がいてとても心強い。", "vi": "Có đàn anh giàu kinh nghiệm khiến tôi rất vững tâm."},
+    {"ja": "家族の応援が心強い支えになっている。", "vi": "Sự cổ vũ của gia đình trở thành chỗ dựa tinh thần vững chắc."},
+    {"ja": "マニュアルが整っていて心強い。", "vi": "Sổ tay hướng dẫn đầy đủ khiến tôi an tâm."},
+    {"ja": "心強い味方がいると挑戦しやすい。", "vi": "Có đồng minh vững tâm thì dễ dám thử thách hơn."},
+    {"ja": "彼の一言が心強く感じられた。", "vi": "Một câu nói của anh ấy khiến tôi cảm thấy vững lòng."}
+  ],
+  "v5094": [
+    {"ja": "遅刻しそうなのでさっさと準備しよう。", "vi": "Sắp muộn rồi, mau chuẩn bị đi."},
+    {"ja": "用が済んだらさっさと帰宅した。", "vi": "Xong việc là tôi về nhà ngay."},
+    {"ja": "さっさと決断しないと機会を逃す。", "vi": "Không quyết nhanh sẽ bỏ lỡ cơ hội."},
+    {"ja": "子供にさっさと宿題を終わらせるよう促した。", "vi": "Tôi thúc con mau hoàn thành bài tập."},
+    {"ja": "雨が降りそうなのでさっさと店を出た。", "vi": "Vì sắp mưa tôi nhanh chóng ra khỏi quán."}
+  ],
+  "v5095": [
+    {"ja": "隙間風が入らないよう窓を塞いだ。", "vi": "Tôi bịt cửa sổ để gió lùa không vào."},
+    {"ja": "穴を塞いでからペンキを塗った。", "vi": "Tôi bịt lỗ rồi mới sơn."},
+    {"ja": "耳を塞いで大きな音から守った。", "vi": "Tôi bịt tai để tránh tiếng ồn lớn."},
+    {"ja": "排水口がゴミで塞がってしまった。", "vi": "Lỗ thoát nước bị rác bịt kín."},
+    {"ja": "道を車で塞がないでください。", "vi": "Xin đừng chắn đường bằng xe."}
+  ],
+  "v5096": [
+    {"ja": "春に花の種を買って庭に植えた。", "vi": "Mùa xuân tôi mua hạt giống hoa rồi trồng trong sân."},
+    {"ja": "この種は発芽しやすいと聞いた。", "vi": "Tôi nghe nói loại hạt giống này dễ nảy mầm."},
+    {"ja": "野菜の種を冷蔵庫で保管している。", "vi": "Tôi bảo quản hạt giống rau trong tủ lạnh."},
+    {"ja": "種から育てると成長を観察できて面白い。", "vi": "Trồng từ hạt thì quan sát sự lớn lên rất thú vị."},
+    {"ja": "スイカの種を取り除いてから切った。", "vi": "Tôi lấy hạt dưa hấu ra rồi mới cắt."}
+  ],
+  "v5097": [
+    {"ja": "畑に野菜の種をまく季節になった。", "vi": "Đã đến mùa gieo hạt rau trên ruộng."},
+    {"ja": "雨の前に種をまいておいた。", "vi": "Tôi đã gieo hạt trước khi mưa."},
+    {"ja": "均等に種をまくのが意外と難しい。", "vi": "Gieo hạt đều thật ra khá khó."},
+    {"ja": "週末にプランターへハーブの種をまいた。", "vi": "Cuối tuần tôi gieo hạt thảo mộc vào chậu."},
+    {"ja": "種をまいた後は水をやりすぎない方がいい。", "vi": "Sau khi gieo hạt tốt hơn là đừng tưới quá nhiều nước."}
+  ],
+  "v5098": [
+    {"ja": "鍋に蓋をかぶせて煮込んだ。", "vi": "Tôi đậy nắp nồi rồi ninh."},
+    {"ja": "布団をかぶせて子供を寝かしつけた。", "vi": "Tôi phủ chăn lên và ru con ngủ."},
+    {"ja": "料理にソースをかぶせて出した。", "vi": "Tôi chan sốt lên món rồi đem ra."},
+    {"ja": "責任を部下にかぶせるような言い方は避けたい。", "vi": "Tôi muốn tránh cách nói đổ trách nhiệm lên cấp dưới."},
+    {"ja": "荷物にシートをかぶせて雨を防いだ。", "vi": "Tôi phủ bạt lên hành lý để chắn mưa."}
+  ],
+  "v5099": [
+    {"ja": "種をまいたら、土をかぶせて水をやってください。", "vi": "Sau khi gieo hạt, hãy phủ đất lên rồi tưới nước."},
+    {"ja": "種に薄く土をかぶせてから静かに水をやる。", "vi": "Phủ một lớp đất mỏng lên hạt rồi tưới nước nhẹ."},
+    {"ja": "芽が出るまで土をかぶせたまま待つ。", "vi": "Đợi đến khi nảy mầm trong khi vẫn phủ đất."},
+    {"ja": "種をまいた後、乾かないよう土をかぶせておく。", "vi": "Sau khi gieo, phủ đất để hạt không bị khô."},
+    {"ja": "深すぎず浅すぎない厚さで土をかぶせる。", "vi": "Phủ đất với độ dày không quá sâu cũng không quá nông."}
+  ],
+  "v5100": [
+    {"ja": "破れた封筒をセロテープで直した。", "vi": "Tôi dán sửa phong bì rách bằng băng dính."},
+    {"ja": "ポスターの端がめくれないようセロテープで留めた。", "vi": "Tôi dán mép poster bằng băng dính để không bị bong."},
+    {"ja": "引き出しにセロテープを常備している。", "vi": "Tôi luôn để sẵn băng dính trong ngăn kéo."},
+    {"ja": "ラベルがはがれたのでセロテープで貼り直した。", "vi": "Nhãn bong nên tôi dán lại bằng băng dính."},
+    {"ja": "セロテープは文具コーナーで買える。", "vi": "Băng dính có thể mua ở quầy văn phòng phẩm."}
+  ]
+}

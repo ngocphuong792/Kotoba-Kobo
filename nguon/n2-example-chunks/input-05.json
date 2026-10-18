@@ -1,0 +1,512 @@
+[
+  {
+    "id": "v4846",
+    "w": "整備",
+    "r": "せいび",
+    "m": "chỉnh bị, bảo trì / chuẩn bị hoàn thiện ❌; Dùng với cơ sở vật chất, môi trường, hệ thống, điều"
+  },
+  {
+    "id": "v4847",
+    "w": "迫る",
+    "r": "せまる",
+    "m": "đến gần, áp sát; thời hạn sắp đến."
+  },
+  {
+    "id": "v4848",
+    "w": "締め切りが迫っている。",
+    "r": "",
+    "m": "Hạn chót đang đến gần."
+  },
+  {
+    "id": "v4849",
+    "w": "寄る",
+    "r": "よる",
+    "m": "ghé vào; tiến lại gần."
+  },
+  {
+    "id": "v4850",
+    "w": "至る",
+    "r": "いたる",
+    "m": "đạt đến, đi đến."
+  },
+  {
+    "id": "v4851",
+    "w": "現在に至るまで、この問題は解決していない。",
+    "r": "",
+    "m": "Cho đến hiện tại, vấn đề này vẫn chưa được giải quyết."
+  },
+  {
+    "id": "v4852",
+    "w": "割と",
+    "r": "わりと",
+    "m": "割と = tương đối, khá là, hơn mình tưởng.; Thường dùng khi kết quả thực tế khác với dự đoán."
+  },
+  {
+    "id": "v4853",
+    "w": "大して～ない",
+    "r": "",
+    "m": "không ... lắm / không đáng kể.; ⚠️ Thường đi với phủ định."
+  },
+  {
+    "id": "v4854",
+    "w": "大して時間はかからない。",
+    "r": "",
+    "m": "Không mất nhiều thời gian lắm"
+  },
+  {
+    "id": "v4855",
+    "w": "どうりで",
+    "r": "",
+    "m": "thảo nào, bảo sao, chẳng trách"
+  },
+  {
+    "id": "v4856",
+    "w": "よけい（余計）",
+    "r": "",
+    "m": "dư thừa; quá mức;"
+  },
+  {
+    "id": "v4857",
+    "w": "余計なことを言わないでください。",
+    "r": "",
+    "m": "Đừng nói những điều không cần thiết."
+  },
+  {
+    "id": "v4858",
+    "w": "視野",
+    "r": "しや",
+    "m": "tầm nhìn, phạm vi nhìn nhận; Ở đây không chỉ là \"nhìn bằng mắt\", mà là khả năng nhìn nhận vấn đề t"
+  },
+  {
+    "id": "v4859",
+    "w": "組織",
+    "r": "そしき",
+    "m": "tổ chức"
+  },
+  {
+    "id": "v4860",
+    "w": "視界",
+    "r": "しかい",
+    "m": "tầm nhìn, phạm vi nhìn thấy; 視界 = phạm vi mà mắt có thể nhìn thấy."
+  },
+  {
+    "id": "v4861",
+    "w": "視線",
+    "r": "しせん",
+    "m": "ánh mắt, hướng nhìn"
+  },
+  {
+    "id": "v4862",
+    "w": "さっぱり",
+    "r": "",
+    "m": "sảng khoái, nhẹ nhõm, sạch sẽ và dễ chịu; Sau khi tắm, gội đầu, vận động"
+  },
+  {
+    "id": "v4863",
+    "w": "さらさら",
+    "r": "",
+    "m": "róc rách, trôi chảy; chất lỏng chảy nhẹ hoặc tóc mềm mượt; Nước suối đang chảy róc rách."
+  },
+  {
+    "id": "v4864",
+    "w": "きらきら",
+    "r": "",
+    "m": "lấp lánh, long lanh; Mắt, ngôi sao"
+  },
+  {
+    "id": "v4865",
+    "w": "きっぱり",
+    "r": "",
+    "m": "dứt khoát, rõ ràng, không do dự"
+  },
+  {
+    "id": "v4866",
+    "w": "効力",
+    "r": "こうりょく",
+    "m": "hiệu lực, hiệu quả; Thường dùng với luật, thuốc, biện pháp, giấy tờ..."
+  },
+  {
+    "id": "v4867",
+    "w": "才能",
+    "r": "さいのう",
+    "m": "tài năng"
+  },
+  {
+    "id": "v4868",
+    "w": "機能",
+    "r": "きのう",
+    "m": "chức năng"
+  },
+  {
+    "id": "v4869",
+    "w": "いろいろな機能",
+    "r": "くたくた",
+    "m": "mệt rã rời, kiệt sức"
+  },
+  {
+    "id": "v4870",
+    "w": "汗をかく",
+    "r": "あせがかく",
+    "m": "đổ mồ hôi"
+  },
+  {
+    "id": "v4871",
+    "w": "わずかに",
+    "r": "",
+    "m": "một chút, rất ít"
+  },
+  {
+    "id": "v4872",
+    "w": "売上がわずかに増えた。",
+    "r": "",
+    "m": "Doanh thu tăng một chút."
+  },
+  {
+    "id": "v4873",
+    "w": "気温がわずかに下がった。",
+    "r": "",
+    "m": "Nhiệt độ giảm một chút."
+  },
+  {
+    "id": "v4874",
+    "w": "優秀",
+    "r": "ゆうしゅう",
+    "m": "ưu tú, xuất sắc; năng lực, thành tích, học tập hoặc công việc rất tốt"
+  },
+  {
+    "id": "v4875",
+    "w": "うつむく",
+    "r": "",
+    "m": "cúi đầu, cúi mặt xuống; thường vì xấu hổ, buồn, thất vọng..."
+  },
+  {
+    "id": "v4876",
+    "w": "下を向いて",
+    "r": "いきなり",
+    "m": "đột nhiên, bất ngờ"
+  },
+  {
+    "id": "v4877",
+    "w": "頭をかく",
+    "r": "",
+    "m": "gãi đầu"
+  },
+  {
+    "id": "v4878",
+    "w": "鼻をかく",
+    "r": "",
+    "m": "gãi mũi"
+  },
+  {
+    "id": "v4879",
+    "w": "つぎつぎ（次々）",
+    "r": "",
+    "m": "lần lượt, liên tiếp"
+  },
+  {
+    "id": "v4880",
+    "w": "いちどに（一度に）",
+    "r": "",
+    "m": "cùng một lúc, một lần"
+  },
+  {
+    "id": "v4881",
+    "w": "一度にたくさん食べないでください。",
+    "r": "",
+    "m": "Đừng ăn quá nhiều một lúc."
+  },
+  {
+    "id": "v4882",
+    "w": "世間",
+    "r": "せけん",
+    "m": "thế gian, xã hội, dư luận; thường chỉ xã hội nói chung / dư luận / mọi người trong xã hội."
+  },
+  {
+    "id": "v4883",
+    "w": "政党",
+    "r": "せいとう",
+    "m": "đảng chính trị"
+  },
+  {
+    "id": "v4884",
+    "w": "目指す",
+    "r": "めざす",
+    "m": "hướng đến một mục tiêu / đích mà mình muốn đạt được."
+  },
+  {
+    "id": "v4885",
+    "w": "事件",
+    "r": "じけん",
+    "m": "dùng để chỉ một sự việc xảy ra, đặc biệt là sự việc bất thường, nghiêm trọng, thường liên quan đ"
+  },
+  {
+    "id": "v4886",
+    "w": "実現",
+    "r": "じつげん",
+    "m": "thực hiện, hiện thực hóa; biến một ý tưởng, mục tiêu, mong muốn, kế hoạch... thành hiện thực"
+  },
+  {
+    "id": "v4887",
+    "w": "違反",
+    "r": "いはん",
+    "m": "vi phạm luật lệ, quy định, quy tắc, pháp luật..."
+  },
+  {
+    "id": "v4888",
+    "w": "反抗",
+    "r": "はんこう",
+    "m": "Chống đối bố mẹ."
+  },
+  {
+    "id": "v4889",
+    "w": "反対",
+    "r": "はんたい",
+    "m": ""
+  },
+  {
+    "id": "v4890",
+    "w": "予想",
+    "r": "よそう",
+    "m": "dự đoán"
+  },
+  {
+    "id": "v4891",
+    "w": "文章",
+    "r": "ぶんしょう",
+    "m": "Bài văn"
+  },
+  {
+    "id": "v4892",
+    "w": "簡潔（かんけつ）な文章",
+    "r": "",
+    "m": "Bài văn ngắn gọn, súc tích."
+  },
+  {
+    "id": "v4893",
+    "w": "とっくに",
+    "r": "",
+    "m": "đã từ lâu, đã lâu rồi"
+  },
+  {
+    "id": "v4894",
+    "w": "山田（やまだ）さんならとっくに帰（かえ）りましたよ。",
+    "r": "",
+    "m": "Nếu là anh/chị Yamada thì đã về từ lâu rồi."
+  },
+  {
+    "id": "v4895",
+    "w": "謝る",
+    "r": "あやまる",
+    "m": "xin lỗi"
+  },
+  {
+    "id": "v4896",
+    "w": "受け入れる",
+    "r": "",
+    "m": "tiếp nhận, chấp nhận; Tiếp nhận người/vật vào một nơi, tổ chức; Chấp nhận ý kiến, tình hình, sự thật.."
+  },
+  {
+    "id": "v4897",
+    "w": "受け付け",
+    "r": "",
+    "m": "Tiếp nhận"
+  },
+  {
+    "id": "v4898",
+    "w": "受け取る",
+    "r": "",
+    "m": "nhận lấy gì đó từ người khác"
+  },
+  {
+    "id": "v4899",
+    "w": "取り入れる",
+    "r": "",
+    "m": "đưa vào, áp dụng, tiếp thu"
+  },
+  {
+    "id": "v4900",
+    "w": "最新の技術を取り入れた製品",
+    "r": "",
+    "m": "sản phẩm áp dụng/đưa vào công nghệ mới nhất."
+  },
+  {
+    "id": "v4901",
+    "w": "野党",
+    "r": "やとう",
+    "m": "đảng đối lập"
+  },
+  {
+    "id": "v4902",
+    "w": "追及",
+    "r": "ついきゅう",
+    "m": "truy cứu, chất vấn, truy vấn; thường có sắc thái đào sâu, truy đến cùng để làm rõ"
+  },
+  {
+    "id": "v4903",
+    "w": "回答",
+    "r": "かいとう",
+    "m": "trả lời, câu trả lời"
+  },
+  {
+    "id": "v4904",
+    "w": "質問に回答する。",
+    "r": "",
+    "m": "Trả lời câu hỏi."
+  },
+  {
+    "id": "v4905",
+    "w": "計算する",
+    "r": "けいさんする",
+    "m": "tính toán, tính"
+  },
+  {
+    "id": "v4906",
+    "w": "開館時間",
+    "r": "かいかんじかん",
+    "m": "Thời gian mở cửa"
+  },
+  {
+    "id": "v4907",
+    "w": "夏期",
+    "r": "かき",
+    "m": "mùa hè"
+  },
+  {
+    "id": "v4908",
+    "w": "構成",
+    "r": "こうせい",
+    "m": "cấu trúc, bố cục, thành phần cấu thành"
+  },
+  {
+    "id": "v4909",
+    "w": "気がする",
+    "r": "",
+    "m": "cảm thấy, có cảm giác rằng"
+  },
+  {
+    "id": "v4910",
+    "w": "気にする",
+    "r": "",
+    "m": "để ý, bận tâm, quan tâm"
+  },
+  {
+    "id": "v4911",
+    "w": "しっかり",
+    "r": "",
+    "m": "chắc chắn, vững vàng, kỹ càng, đàng hoàng, nghiêm túc; việc làm gì đó một cách cẩn thận, có trách nhi"
+  },
+  {
+    "id": "v4912",
+    "w": "防げる",
+    "r": "ふせげる",
+    "m": "phòng tránh"
+  },
+  {
+    "id": "v4913",
+    "w": "事前に",
+    "r": "じぜんに",
+    "m": "Hãy kiểm tra trước."
+  },
+  {
+    "id": "v4914",
+    "w": "耐える",
+    "r": "たえる",
+    "m": "chịu đựng, chịu được, chịu đựng được; đau đớn, khó khăn, áp lực, gian khổ..."
+  },
+  {
+    "id": "v4915",
+    "w": "寿命",
+    "r": "じゅみょう",
+    "m": "THỌ MỆNH; Tuổi thọ"
+  },
+  {
+    "id": "v4916",
+    "w": "米国",
+    "r": "べいこく",
+    "m": "Mỹ"
+  },
+  {
+    "id": "v4917",
+    "w": "戦後",
+    "r": "せんご",
+    "m": "Sau chiến tranh"
+  },
+  {
+    "id": "v4918",
+    "w": "住宅",
+    "r": "じゅうたく",
+    "m": "nhà ở"
+  },
+  {
+    "id": "v4919",
+    "w": "特殊な",
+    "r": "とくしゅな",
+    "m": "đặc thù, đặc biệt; 特殊な事情 → hoàn cảnh đặc biệt / đặc thù; 特殊な技術 → kỹ thuật"
+  },
+  {
+    "id": "v4920",
+    "w": "余裕",
+    "r": "よゆう",
+    "m": "sự dư dả, dư dả về thời gian/tiền bạc/khả năng"
+  },
+  {
+    "id": "v4921",
+    "w": "求める",
+    "r": "もとめる",
+    "m": "tìm kiếm, mong muốn, yêu cầu"
+  },
+  {
+    "id": "v4922",
+    "w": "住宅観",
+    "r": "じゅうたくかん",
+    "m": "quan niệm về nhà ở"
+  },
+  {
+    "id": "v4923",
+    "w": "独立",
+    "r": "どくりつ",
+    "m": "độc lập, tự lập"
+  },
+  {
+    "id": "v4924",
+    "w": "装置",
+    "r": "",
+    "m": "そうち - TRANG - TRÍ; thiết bị, máy móc, hệ thống"
+  },
+  {
+    "id": "v4925",
+    "w": "占める",
+    "r": "しめる",
+    "m": "chiếm, chiếm giữ"
+  },
+  {
+    "id": "v4926",
+    "w": "詰める",
+    "r": "つめる",
+    "m": "Nhồi, nhét"
+  },
+  {
+    "id": "v4927",
+    "w": "攻める",
+    "r": "",
+    "m": "せめる — công / 攻; tấn công"
+  },
+  {
+    "id": "v4928",
+    "w": "責める",
+    "r": "せめる",
+    "m": "trách, chỉ trích, đổ lỗi"
+  },
+  {
+    "id": "v4929",
+    "w": "うめる　— mai / 埋",
+    "r": "",
+    "m": "chôn, lấp, điền vào chỗ trống"
+  },
+  {
+    "id": "v4930",
+    "w": "議論",
+    "r": "",
+    "m": "thảo luận, tranh luận"
+  }
+]
