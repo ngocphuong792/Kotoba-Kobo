@@ -1,0 +1,314 @@
+[
+  {
+    "draftId": 246,
+    "pattern": "～わけがない\tKhông thể",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 247,
+    "pattern": "～次第（しだい）",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": [
+      "\\["
+    ]
+  },
+  {
+    "draftId": 248,
+    "pattern": "Động từ thể ます bỏ ます + 次第",
+    "meaningDraft": "Ngay khi… thì sẽ… / ngay sau khi…",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 249,
+    "pattern": "以上（いじょう）",
+    "meaningDraft": "một khi đã… thì…",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 250,
+    "pattern": "～てもおかしくない",
+    "meaningDraft": "Làm gì cũng không có gì lạ, hoàn toàn có thể xảy ra.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 251,
+    "pattern": "Ví dụ: まだ熱があるなら、休んでもおかしくない。",
+    "meaningDraft": "Nếu vẫn còn sốt t",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 252,
+    "pattern": "～っこない",
+    "meaningDraft": "Tuyệt đối không, không đời nào. Là cách nói thân mật, nhấn mạnh sự phủ định.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 253,
+    "pattern": "Ví dụ: 彼がそんなことをするわけがない。",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 254,
+    "pattern": "～ほかない",
+    "meaningDraft": "Không còn cách nào khác ngoài việc làm gì đó.",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "電車が止まっているので、歩くほかない。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 255,
+    "pattern": "たびに",
+    "meaningDraft": "Mỗi lần… thì lại…",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 256,
+    "pattern": "- Động từ thể từ điển + たびに",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 257,
+    "pattern": "- Danh từ + の + たびに",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 258,
+    "pattern": "～みたい",
+    "meaningDraft": "Có vẻ",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 259,
+    "pattern": "それもあるかもしれません",
+    "meaningDraft": "Có lẽ điều đó cũng đúng / Có thể cũng có nguyên nhân đó.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 260,
+    "pattern": "そのつもりです",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "Tôi dự định như vậy\tそのつもり diễn tả dự định hoặc ý định",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 261,
+    "pattern": "に次いで（についで）",
+    "meaningDraft": "Tiếp sau A là B / Sau bóng đá thì có bóng chay cũng rất nổi tiếng",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 262,
+    "pattern": "～たきり",
+    "meaningDraft": "Kể từ khi làm việc gì đó thì không làm lại nữa",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 263,
+    "pattern": "～はもとより",
+    "meaningDraft": "Không chỉ… mà đương nhiên còn…; không những… mà cả…",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 264,
+    "pattern": "A はもとより B も～",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 265,
+    "pattern": "これだけ",
+    "meaningDraft": "nhiều đến mức này / chừng này / chỉ bấy nhiêu / nhấn mạnh số lượng hoặc mức độ lớn đến như vậy.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 266,
+    "pattern": "これだけ多く",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 267,
+    "pattern": "そのうえ",
+    "meaningDraft": "Hơn nữa",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "だが、。。。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 268,
+    "pattern": "Nhưng, tuy nhiên",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 269,
+    "pattern": "に沿って（にそって)",
+    "meaningDraft": "Theo, dựa theo; tuân theo một phương hướng hoặc kế hoạch",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 270,
+    "pattern": "にわたって",
+    "meaningDraft": "Suốt, trải dài trong một khoảng thời gian hoặc phạm vi",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "3時間（さんじかん）にわたって会議（かいぎ）が行（おこな）われた — Cuộc họp d",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 271,
+    "pattern": "Động từ thể khả năng + ものなら",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 272,
+    "pattern": "Nếu có thể… thì tôi cũng muốn…",
+    "meaningDraft": "Nếu có thể đến Nhật thì tôi cũng muốn đi tokyo",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 273,
+    "pattern": "Động từ thể từ điển + ものなら",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 274,
+    "pattern": "Nếu lỡ ... thì sẽ xảy ra 1 hậu quả xấu",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 275,
+    "pattern": "および",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 276,
+    "pattern": "Và, cũng như; dùng để liệt kê",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "氏名（しめい）および住所（じゅうしょ）を記入（きにゅう）してください。→ Hãy điền họ tên và địa chỉ.",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 277,
+    "pattern": "すなわち",
+    "meaningDraft": "Tức là, nói cách khác là",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 278,
+    "pattern": "あるいは",
+    "meaningDraft": "Hoặc, hay là; đôi khi mang nghĩa “có lẽ”",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 279,
+    "pattern": "～勢いだ（いきおいだ）",
+    "meaningDraft": "Có đà cho thấy… / tình hình đang phát triển mạnh",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 280,
+    "pattern": "次第だ",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "結果（けっか）は努力（どりょく）次第だ。→ Kết quả phụ thuộc vào nỗ lực.",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  }
+]

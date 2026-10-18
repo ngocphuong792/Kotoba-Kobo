@@ -1,0 +1,337 @@
+[
+  {
+    "draftId": 106,
+    "pattern": "N + すら + V",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 107,
+    "pattern": "のみ、だけ",
+    "meaningDraft": "Chỉ",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 108,
+    "pattern": "ほど",
+    "meaningDraft": "Càng, đến mức, khoảng cỡ",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "。。。とか言う",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 109,
+    "pattern": "Nói cái kiểu như là ...",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 110,
+    "pattern": "末に（すえに）",
+    "meaningDraft": "sau khi làm gì đó trong một thời gian dài, cuối cùng đi đến kết quả...",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "長い話し合いの末に、結論が出た。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 111,
+    "pattern": "さきに（先に）",
+    "meaningDraft": "trước, trước tiên",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "先に帰ってください。",
+        "vi": "Hãy về trước đi."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 112,
+    "pattern": "とおりに",
+    "meaningDraft": "theo như, đúng như",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "計画どおりに進む。",
+        "vi": "Tiến triển đúng như kế hoạch."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 113,
+    "pattern": "ところに",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 114,
+    "pattern": "Vたところ = vừa mới làm ~ thì...",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "家に帰ったところ、友達から電話が来た。",
+        "vi": "Vừa về đến nhà thì bạn gọi điện."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 115,
+    "pattern": "Vた・Nの　あげく",
+    "meaningDraft": "Sau 1 hồi làm gì đó và có kết quả ko tốt",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 116,
+    "pattern": "あるまい　＝　ないだろう",
+    "meaningDraft": "Có lẽ",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 117,
+    "pattern": "までもあるまい",
+    "meaningDraft": "Không đến mức",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 118,
+    "pattern": "しかあるまい",
+    "meaningDraft": "chỉ còn cách, đành phải",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 119,
+    "pattern": "こともない",
+    "meaningDraft": "không cần phải ~",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 120,
+    "pattern": "はずもない",
+    "meaningDraft": "không thể nào ~ / chắc chắn không ~",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 121,
+    "pattern": "AよりむしろB",
+    "meaningDraft": "B hơn là A / đúng hơn là B",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "日本語よりむしろ英語のほうが得意です。",
+        "vi": "Tôi giỏi tiếng Anh hơn là tiếng Nhật."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 122,
+    "pattern": "まさか",
+    "meaningDraft": "chẳng lẽ, không thể nào",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "まさか、そんなことはない。",
+        "vi": "Không thể nào, không có chuyện đó đâu."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 123,
+    "pattern": "たとえ...ても",
+    "meaningDraft": "dù cho, cho dù",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "たとえ雨が降っても、行きます。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 124,
+    "pattern": "～とも～とも",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "来るとも来ないとも言えない。",
+        "vi": "Không thể nói chắc là anh ấy sẽ đến hay không."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 125,
+    "pattern": "書いたか書かなかったか",
+    "meaningDraft": "đã viết hay chưa viết",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 126,
+    "pattern": "書いても書かなくてもどちらでもいい",
+    "meaningDraft": "viết hay không viết cũng được",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 127,
+    "pattern": "～とか～とか",
+    "meaningDraft": "nào là A, nào là B / như là A hay B.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 128,
+    "pattern": "～すぎずに",
+    "meaningDraft": "không nên làm quá ... mà nên / Đưa ra lời khuyên",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 129,
+    "pattern": "～にすぎず",
+    "meaningDraft": "chỉ là…, chẳng qua chỉ…, không hơn gì…",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "彼は学生にすぎず、まだ経験がない。",
+        "vi": "Anh ấy chỉ là sinh viên, vẫn chưa có kinh"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 130,
+    "pattern": "N + でしかないこと",
+    "meaningDraft": "chỉ là N mà thôi / chẳng qua chỉ là N",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 131,
+    "pattern": "世界のほんの小さな一部分でしかない",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 132,
+    "pattern": "にしかない",
+    "meaningDraft": "chỉ có ở ~ / chỉ tồn tại ở ~",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 133,
+    "pattern": "Vる + わけない",
+    "meaningDraft": "không thể nào ~ / làm gì có chuyện ~",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 134,
+    "pattern": "Vる + わけないじゃない",
+    "meaningDraft": "Chẳng phải là không thể V hay sao",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 135,
+    "pattern": "じゃない　ｃuối câu chỉ mang tính nhấn mạnh",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 136,
+    "pattern": "～わけじゃない（～わけではない）",
+    "meaningDraft": "không phải là ~",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 137,
+    "pattern": "と言ってもいいぐらいだ",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 138,
+    "pattern": "～ぐらい nhấn mạnh mức độ",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "毎日勉強していると言ってもいいぐらいだ。",
+        "vi": "Có thể nói là ngày nào tôi cũng học."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 139,
+    "pattern": "N +　にしたら",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 140,
+    "pattern": "Nếu mà ở vị trí N thì ...",
+    "meaningDraft": "Nếu mà ở vị trí anh ấy thì chắc chắn sẽ rất áp lực",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  }
+]

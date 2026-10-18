@@ -1,0 +1,339 @@
+[
+  {
+    "draftId": 71,
+    "pattern": "～といっても",
+    "meaningDraft": "Tuy nói là… nhưng thực ra / Nói là biết tiếng Nhật nhưng chỉ giao tiếp được những câu đơn giản.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 72,
+    "pattern": "～とともに",
+    "meaningDraft": "① Cùng với / cùng với ai đó / ② Cùng với sự thay đổi của A thì B cũng thay đổi / ③ Đồng thời / vừa… vừa…",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 73,
+    "pattern": "あげく",
+    "meaningDraft": "Sau một thời gian làm gì đó xong cuối cùng là kết quả ko tốt",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "何度も話し合ったあげく、結局、何も決まらなかった。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 74,
+    "pattern": "～あまり",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 75,
+    "pattern": "Vì quá... nên...",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "心配のあまり、眠れなかった。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 76,
+    "pattern": "上で",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 77,
+    "pattern": "Vた上で：Sau khi",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 78,
+    "pattern": "Vる上で：　trong khi",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "よく考えた上で、返事をします。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 79,
+    "pattern": "～であり",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 80,
+    "pattern": "Vừa ... vừa",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "彼は優秀なエンジニアであり、優れたリーダーでもある。",
+        "vi": "Anh ấy vừa là một kỹ sư xuất sắc, vừa là một nhà lãnh đạo g"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 81,
+    "pattern": "ように、みたいに",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 82,
+    "pattern": "Như thể là, giống như là, như là",
+    "meaningDraft": "Không thể nào",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "とても。。。ない",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 83,
+    "pattern": "とても食べられない: không thể nào ăn nổi",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 84,
+    "pattern": "仮に（かりに）",
+    "meaningDraft": "giả sử, nếu như, tạm giả định / Không bao giờ nữa, không lần nào nữa.",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "仮に宝くじが当たったとしたら、何を買いますか。",
+        "vi": ""
+      },
+      {
+        "ja": "かりに たからくじが あたったとしたら、なにを かいますか。",
+        "vi": "Giả sử trúng"
+      },
+      {
+        "ja": "二度と。。。ない",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 85,
+    "pattern": "～わけではない",
+    "meaningDraft": "Không hẳn là…, không có nghĩa là…, không phải hoàn toàn…",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 86,
+    "pattern": "必ずしも～とは限らない・わけではない・と言えない・のではない",
+    "meaningDraft": "Không hẳn là, chưa chắc là",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 87,
+    "pattern": "に違いない",
+    "meaningDraft": "Chắc chắn là…,",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 88,
+    "pattern": "～ようがない",
+    "meaningDraft": "không thể làm gì được、không thể",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "連絡先が分からないので、彼に連絡しようがない。",
+        "vi": ""
+      },
+      {
+        "ja": "（れんらくさきが わからないので、かれに れんらくしようがない。）",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 89,
+    "pattern": "Vì không b",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 90,
+    "pattern": "～てもかまわない",
+    "meaningDraft": "Dù có… cũng không sao",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 91,
+    "pattern": "おわび申し上げます",
+    "meaningDraft": "Khiêm nhường của xin lỗi. Hành động mình làm",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 92,
+    "pattern": "～てみないでしょうか",
+    "meaningDraft": "đề nghị hoặc rủ ai đó cùng làm một việc / Hay là thử làm… không?",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 93,
+    "pattern": "～としても",
+    "meaningDraft": "Dù cho…, cho dù…, giả sử có… thì cũng…",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 94,
+    "pattern": "～ものだ",
+    "meaningDraft": "Thường là…, vốn dĩ là… / Thật là…, đúng là… / Dùng để thể hiện cảm xúc, sự cảm thán.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 95,
+    "pattern": "Vるものだ = Nên…, phải…",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 96,
+    "pattern": "普通＋からこそ",
+    "meaningDraft": "Chính vì, bời vì",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "このように、。。。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 97,
+    "pattern": "Như vậy là ...、bằng cách như vậy",
+    "meaningDraft": "Mang tính kết luận",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 98,
+    "pattern": "一方で",
+    "meaningDraft": "Mặt khác",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 99,
+    "pattern": "ちなみに、ところで",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 100,
+    "pattern": "Nhân tiện, tiện thể",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 101,
+    "pattern": "それどころか",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 102,
+    "pattern": "A。それどころか、B。",
+    "meaningDraft": "Không phải A, mà ngược lại còn B.",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "彼は謝るどころか、それどころか私を責めた。",
+        "vi": "Anh ấy chẳng những không xin"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 103,
+    "pattern": "何人ものひと＝たくさん人",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 104,
+    "pattern": "さえ、すら",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 105,
+    "pattern": "Ngay cả",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  }
+]

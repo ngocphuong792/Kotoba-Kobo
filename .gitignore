@@ -2,3 +2,7 @@
 *.log
 .venv/
 __pycache__/
+
+# Local source dumps (not for commit)
+new-vocab.md
+ngu_phap_n2.md

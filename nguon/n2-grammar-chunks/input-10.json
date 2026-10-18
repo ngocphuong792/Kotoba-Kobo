@@ -1,0 +1,355 @@
+[
+  {
+    "draftId": 316,
+    "pattern": "だったり",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 317,
+    "pattern": "Nào là, lúc thì",
+    "meaningDraft": "Liệt kê",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 318,
+    "pattern": "Và",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "履歴書および職務経歴書を提出（ていしゅつ）してください。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 319,
+    "pattern": "際に（さいに）",
+    "meaningDraft": "Khi, vào dịp…",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "日本に来た際に、京都を訪れた。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 320,
+    "pattern": "～だけに",
+    "meaningDraft": "Chính vì… nên càng…",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 321,
+    "pattern": "とのことです",
+    "meaningDraft": "người đó nói rằng / truyền đạt thông tin / Ông ấy nhắn rằng muốn được liên lạc lại.",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "連絡がほしいとのことです。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 322,
+    "pattern": "ことになります",
+    "meaningDraft": "được quyết định là / Diễn tả một quyết định hoặc kết quả",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 323,
+    "pattern": "はずがない",
+    "meaningDraft": "làm gì có chuyện",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 324,
+    "pattern": "= わけがない",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 325,
+    "pattern": "Động từ dạng bỏ ます + がたい",
+    "meaningDraft": "khó lòng… / khá mà bỏ cuộc",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "信じがたい話だ。",
+        "vi": "Đó là một câu chuyện khó tin."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 326,
+    "pattern": "～という",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 327,
+    "pattern": "Nghe nói rằng",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 328,
+    "pattern": "～ては",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 329,
+    "pattern": "Nếu cứ… thì… (kết quả không tốt)",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 330,
+    "pattern": "V１ないでV2　＝＞　V１ずにV2",
+    "meaningDraft": "Không làm V1 mà V2. Có ý chí / Không cáu và hãy trả lời nhẹ nhàng",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 331,
+    "pattern": "どうせ～なら",
+    "meaningDraft": "Đằng nào cũng",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 332,
+    "pattern": "～わりには",
+    "meaningDraft": "So với… thì",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "彼は若いわりには、落ち着いている。→ So với tuổi còn trẻ thì anh ấy khá điềm tĩnh.",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 333,
+    "pattern": "Vます (bỏ ます)} + つつある",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "景気が回復しつつある。",
+        "vi": "Nền kinh tế đang dần phục hồi."
+      },
+      {
+        "ja": "とすると、。。。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 334,
+    "pattern": "Vậy thì ....",
+    "meaningDraft": "Hơn thế nữa / Có vẻ không…, xem ra không thể…",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "それどころか、。。。",
+        "vi": ""
+      },
+      {
+        "ja": "とても。。。そうにない",
+        "vi": ""
+      },
+      {
+        "ja": "この仕事は今日中には終わりそうにない。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 335,
+    "pattern": "今にも泣きそうだ",
+    "meaningDraft": "Trông như sắp khóc đến nơi",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 336,
+    "pattern": "～ほど",
+    "meaningDraft": "khoảng chừng",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 337,
+    "pattern": "３０分ほど",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 338,
+    "pattern": "おかげで",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 339,
+    "pattern": "Nhờ có…, nhờ vào…",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 340,
+    "pattern": "～以来",
+    "meaningDraft": "Kể từ… thì làm suốt gì đó",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "日本に来て以来、毎日日本語を勉強しています。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 341,
+    "pattern": "ものの",
+    "meaningDraft": "Tuy… nhưng…, mặc dù… nhưng…",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "日本語を勉強したものの、まだ会話が苦手です。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 342,
+    "pattern": "～ことはありません",
+    "meaningDraft": "không vần phải",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "心配することはありません。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 343,
+    "pattern": "～ずにはいられない",
+    "meaningDraft": "Không thể không…",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "その映画を見ると、泣かずにはいられません。",
+        "vi": "Xem bộ phim đó thì không thể không khóc."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 344,
+    "pattern": "～ないことには",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 345,
+    "pattern": "Nếu không… thì không thể…",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "応募しないことには、何も進みません。",
+        "vi": "Nếu không ứng tuyển thì chẳng có việc gì tiến triển c"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 346,
+    "pattern": "するのではなく",
+    "meaningDraft": "Không phải A mà là làm B",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 347,
+    "pattern": "～たいだけ～",
+    "meaningDraft": "Bạn hãy ăn bao nhiêu tùy thích. / Làm gì đó 1 thời gian / Không làm gì đó 1 thời gian",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "食べたいだけ食べてください。",
+        "vi": ""
+      },
+      {
+        "ja": "Vない bỏ い + ずにおこう, おこう＝おく(làm gì đó trong 1 tg)",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 348,
+    "pattern": "買わずにおこう",
+    "meaningDraft": "Không mua sách trong 1 thời gian",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 349,
+    "pattern": "かりに（仮に・かりに・GIẢ）",
+    "meaningDraft": "giả sử",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  }
+]

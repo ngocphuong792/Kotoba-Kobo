@@ -1,0 +1,317 @@
+[
+  {
+    "draftId": 281,
+    "pattern": "～Vるまでだ",
+    "meaningDraft": "Chỉ còn cách như vậy",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 282,
+    "pattern": "よりほかない",
+    "meaningDraft": "Chỉ còn cách là",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 283,
+    "pattern": "～ならともかく",
+    "meaningDraft": "Nếu là … thì còn có thể chấp nhận được, chứ … thì không",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 284,
+    "pattern": "にしては",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "初（はじ）めてにしては上手（じょうず）だ。→ So với lần đầu thì khá giỏi.",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 285,
+    "pattern": "としたら",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "行（い）くとしたら、明日（あした）だ。→ Nếu đi thì sẽ là ngày mai.",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 286,
+    "pattern": "からとはいえ",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "春（はる）になったからとはいえ、まだ寒（さむ）い。→ Dù đã sang xuân nhưng vẫn lạnh.",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 287,
+    "pattern": "～てしまいがち",
+    "meaningDraft": "thường vô tình làm gì đó, đôi khi mang sắc thái không tốt.",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "つい。。。てしまう",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 288,
+    "pattern": "～おそれ",
+    "meaningDraft": "có nguy cơ, e rằng điều xấu sẽ xảy ra.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 289,
+    "pattern": "～しかない",
+    "meaningDraft": "không còn cách nào khác ngoài…",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 290,
+    "pattern": "～に限る（にかぎる）",
+    "meaningDraft": "Tốt nhất là",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 291,
+    "pattern": "～のみならず",
+    "meaningDraft": "không chỉ ... mà còn",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 292,
+    "pattern": "～て初めて",
+    "meaningDraft": "Chỉ sau khi làm việc gì đó thì mới nhận ra hoặc hiểu được điều gì.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 293,
+    "pattern": "～にすら",
+    "meaningDraft": "Đến cả…, thậm chí ngay cả…; nhấn mạnh mức độ.",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "- 彼は自分の名前すら書けない。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 294,
+    "pattern": "今にも",
+    "meaningDraft": "Sắp sửa…, có vẻ như sắp",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 295,
+    "pattern": "それ以来",
+    "meaningDraft": "kể từ đó",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 296,
+    "pattern": "むしろ",
+    "meaningDraft": "Đúng hơn là, trái lại là / Công việc này không hẳn là vất vả, mà đúng hơn là thú vị.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 297,
+    "pattern": "要するに ようするに",
+    "meaningDraft": "Tóm lại, nói cách khác",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 298,
+    "pattern": "したがって",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 299,
+    "pattern": "Vì vậy, do đó",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 300,
+    "pattern": "とはいえ,...",
+    "meaningDraft": "Mặc dù nói vậy, tuy vậy",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 301,
+    "pattern": "もとで",
+    "meaningDraft": "dưới sự chỉ đạo, bảo hộ",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 302,
+    "pattern": "～にかけては",
+    "meaningDraft": "xét về…, nói về khoản…, khi nói đến lĩnh vực… thì đặc biệt giỏi.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 303,
+    "pattern": "～それなりに",
+    "meaningDraft": "theo cách riêng của nó / hoàn cảnh ko thuận lợi nhưng vẫn có giá trị riêng",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 304,
+    "pattern": "～でしょうがない、～てしかたがない",
+    "meaningDraft": "rất…, vô cùng…, không thể chịu nổi….",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 305,
+    "pattern": "そうにない",
+    "meaningDraft": "Có vẻ ko thể làm dc gì đó",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "Hay đi với thể khả năng bỏ ます",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 306,
+    "pattern": "からには",
+    "meaningDraft": "Một khi đã ... thì / Một khi đã đến Nhật, tôi muốn giỏi tiếng Nhật.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 307,
+    "pattern": "～してで、",
+    "meaningDraft": "Dù phải… cũng… / Bằng mọi giá để có dc mục tiêu",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 308,
+    "pattern": "=　また",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 309,
+    "pattern": "～のだろう",
+    "meaningDraft": "Không biết… nhỉ; tự hỏi…",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 310,
+    "pattern": "～気味",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 311,
+    "pattern": "ぎみ",
+    "meaningDraft": "hơi, có vẻ (ốm, mệt)",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 312,
+    "pattern": "を通じて（をつうじて）",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "友達（ともだち）を通（つう）じて彼（かれ）を知（し）った。",
+        "vi": "Tôi biết anh ấy thông qua một người bạn."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 313,
+    "pattern": "～だって",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 314,
+    "pattern": "Ngay cả… cũng",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 315,
+    "pattern": "くらいでも",
+    "meaningDraft": "Dù chỉ, dù khoảng",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  }
+]

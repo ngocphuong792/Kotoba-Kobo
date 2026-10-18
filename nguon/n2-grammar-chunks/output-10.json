@@ -1,0 +1,517 @@
+[
+  {
+    "draftId": 316,
+    "keep": true,
+    "pattern": "～だったり～だったり",
+    "structure": "名詞／な形容詞語幹＋だったり＋名詞／な形容詞語幹＋だったり／い形容詞＋かったり＋い形容詞＋かったり／動詞た形＋り＋動詞た形＋り",
+    "meaning": "Nào là… lúc thì…; vừa… vừa… (liệt kê một số trường hợp, trạng thái xen kẽ hoặc điển hình).",
+    "examples": [
+      {
+        "ja": "休みの日は映画を見たり、本を読んだりしています。",
+        "vi": "Ngày nghỉ tôi nào là xem phim, lúc thì đọc sách."
+      },
+      {
+        "ja": "この店の料理はおいしかったりまずかったりで、安定しない。",
+        "vi": "Món của quán này lúc thì ngon lúc thì dở, không ổn định."
+      }
+    ]
+  },
+  {
+    "draftId": 317,
+    "keep": false,
+    "pattern": "Nào là, lúc thì",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 318,
+    "keep": true,
+    "pattern": "および",
+    "structure": "名詞＋および＋名詞",
+    "meaning": "Và; cùng với (liệt kê trang trọng, thường dùng trong văn viết, thông báo, tài liệu).",
+    "examples": [
+      {
+        "ja": "履歴書および職務経歴書を提出してください。",
+        "vi": "Xin hãy nộp sơ yếu lý lịch và bảng kinh nghiệm công tác."
+      },
+      {
+        "ja": "氏名および住所を記入してください。",
+        "vi": "Xin hãy điền họ tên và địa chỉ."
+      }
+    ]
+  },
+  {
+    "draftId": 319,
+    "keep": true,
+    "pattern": "～際に（さいに）",
+    "structure": "動詞辞書形／た形＋際に／名詞＋の＋際に",
+    "meaning": "Khi; vào dịp… (diễn tả thời điểm xảy ra hành động, sắc thái trang trọng hơn とき).",
+    "examples": [
+      {
+        "ja": "日本に来た際に、京都を訪れた。",
+        "vi": "Khi đến Nhật, tôi đã thăm Kyoto."
+      },
+      {
+        "ja": "お帰りの際に、受付で鍵をお返しください。",
+        "vi": "Khi về, xin hãy trả chìa khóa ở quầy tiếp tân."
+      }
+    ]
+  },
+  {
+    "draftId": 320,
+    "keep": true,
+    "pattern": "～だけに",
+    "structure": "普通形＋だけに／名詞＋だけに",
+    "meaning": "Chính vì… nên càng…; vì là ～ nên đúng như mong đợi / càng thêm… (nhấn mạnh kết quả phù hợp với nguyên nhân).",
+    "examples": [
+      {
+        "ja": "期待していただけに、失望も大きかった。",
+        "vi": "Chính vì đã kỳ vọng nên sự thất vọng cũng lớn."
+      },
+      {
+        "ja": "ベテランだけに、仕事が早い。",
+        "vi": "Chính vì là người giàu kinh nghiệm nên làm việc nhanh."
+      }
+    ]
+  },
+  {
+    "draftId": 321,
+    "keep": true,
+    "pattern": "～とのことです",
+    "structure": "普通形＋とのことです／とのことだ",
+    "meaning": "Nghe nói rằng…; người đó nói rằng… (truyền đạt thông tin đã nhận được từ người khác, trang trọng).",
+    "examples": [
+      {
+        "ja": "連絡がほしいとのことです。",
+        "vi": "Ông ấy nhắn rằng muốn được liên lạc lại."
+      },
+      {
+        "ja": "会議は来週に延期されたとのことです。",
+        "vi": "Nghe nói cuộc họp đã được hoãn đến tuần sau."
+      }
+    ]
+  },
+  {
+    "draftId": 322,
+    "keep": true,
+    "pattern": "～ことになる",
+    "structure": "動詞辞書形／ない形＋ことになる",
+    "meaning": "Được quyết định là…; hóa ra là…; dẫn đến kết quả là… (diễn tả quyết định, quy định hoặc kết quả tất yếu).",
+    "examples": [
+      {
+        "ja": "来月から大阪へ転勤することになりました。",
+        "vi": "Tôi đã được quyết định chuyển công tác đến Osaka từ tháng sau."
+      },
+      {
+        "ja": "この条約に署名すると、両国は協力することになる。",
+        "vi": "Nếu ký hiệp ước này thì hai nước sẽ hợp tác với nhau."
+      }
+    ]
+  },
+  {
+    "draftId": 323,
+    "keep": true,
+    "pattern": "～はずがない",
+    "structure": "普通形＋はずがない",
+    "meaning": "Không đời nào…; làm gì có chuyện… (phủ định mạnh khả năng dựa trên lý do, niềm tin).",
+    "examples": [
+      {
+        "ja": "彼がそんなひどいことをするはずがない。",
+        "vi": "Anh ấy không đời nào làm chuyện tệ hại như thế."
+      },
+      {
+        "ja": "こんな簡単な問題がわからないはずがない。",
+        "vi": "Làm gì có chuyện không hiểu được bài toán đơn giản như thế này."
+      }
+    ]
+  },
+  {
+    "draftId": 324,
+    "keep": true,
+    "pattern": "～わけがない",
+    "structure": "普通形＋わけがない／わけはない",
+    "meaning": "Không lẽ…; không có lý nào… (phủ định mạnh, gần nghĩa với はずがない).",
+    "examples": [
+      {
+        "ja": "勉強しないで合格できるわけがない。",
+        "vi": "Không học mà đỗ được thì không có lý nào."
+      },
+      {
+        "ja": "プロの選手に素人の私が勝てるわけがない。",
+        "vi": "Tôi nghiệp dư làm sao thắng được vận động viên chuyên nghiệp."
+      }
+    ]
+  },
+  {
+    "draftId": 325,
+    "keep": true,
+    "pattern": "～がたい",
+    "structure": "動詞ます形（ますを取る）＋がたい",
+    "meaning": "Khó mà…; khó lòng… (khó thực hiện về mặt tâm lý, cảm xúc; văn viết).",
+    "examples": [
+      {
+        "ja": "信じがたい話だ。",
+        "vi": "Đó là một câu chuyện khó tin."
+      },
+      {
+        "ja": "彼の好意は忘れがたい。",
+        "vi": "Lòng tốt của anh ấy thật khó quên."
+      }
+    ]
+  },
+  {
+    "draftId": 326,
+    "keep": true,
+    "pattern": "～という",
+    "structure": "普通形＋という＋名詞／という話だ／ということだ",
+    "meaning": "Gọi là…; rằng…; nghe nói rằng… (định nghĩa tên gọi, truyền đạt nội dung hoặc tin tức).",
+    "examples": [
+      {
+        "ja": "富士山という山は日本で一番高い。",
+        "vi": "Ngọn núi gọi là Fuji là cao nhất ở Nhật Bản."
+      },
+      {
+        "ja": "来月結婚するという話を聞いた。",
+        "vi": "Tôi nghe nói rằng tháng sau sẽ kết hôn."
+      }
+    ]
+  },
+  {
+    "draftId": 327,
+    "keep": false,
+    "pattern": "Nghe nói rằng",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 328,
+    "keep": true,
+    "pattern": "～ては",
+    "structure": "動詞て形＋は／い形容詞くて＋は／名詞・な形容詞で＋は",
+    "meaning": "Nếu cứ… thì… (thường dẫn đến kết quả không tốt, không mong muốn).",
+    "examples": [
+      {
+        "ja": "そんなに食べては太ってしまいますよ。",
+        "vi": "Nếu cứ ăn nhiều như thế thì sẽ béo lên đấy."
+      },
+      {
+        "ja": "毎日遅くまで働いては、体を壊しますよ。",
+        "vi": "Nếu cứ làm việc đến khuya mỗi ngày thì sẽ hại sức khỏe đấy."
+      }
+    ]
+  },
+  {
+    "draftId": 329,
+    "keep": false,
+    "pattern": "Nếu cứ… thì… (kết quả không tốt)",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 330,
+    "keep": true,
+    "pattern": "～ずに",
+    "structure": "動詞ない形（ないを取る）＋ずに＋動詞",
+    "meaning": "Không làm V1 mà làm V2 (tương đương ないで, sắc thái văn viết hơn).",
+    "examples": [
+      {
+        "ja": "怒らずに、やさしく答えてください。",
+        "vi": "Đừng cáu, hãy trả lời nhẹ nhàng."
+      },
+      {
+        "ja": "辞書を見ずに日本語の新聞が読めるようになった。",
+        "vi": "Tôi đã có thể đọc báo tiếng Nhật mà không cần tra từ điển."
+      }
+    ]
+  },
+  {
+    "draftId": 331,
+    "keep": true,
+    "pattern": "どうせ～なら",
+    "structure": "どうせ＋普通形＋なら／どうせ＋名詞・な形容詞語幹＋なら",
+    "meaning": "Đằng nào cũng… thì…; nếu đã phải… thì hãy… (đã vậy thì chọn phương án tốt hơn).",
+    "examples": [
+      {
+        "ja": "どうせ行くなら、早く行ったほうがいい。",
+        "vi": "Đằng nào cũng đi thì nên đi sớm hơn."
+      },
+      {
+        "ja": "どうせ買うなら、品質のいいものを選びたい。",
+        "vi": "Đằng nào cũng mua thì tôi muốn chọn đồ chất lượng tốt."
+      }
+    ]
+  },
+  {
+    "draftId": 332,
+    "keep": true,
+    "pattern": "～わりには",
+    "structure": "普通形＋わりには／名詞＋の＋わりには",
+    "meaning": "So với… thì… (kết quả không tương xứng với điều kiện, mức độ được nêu).",
+    "examples": [
+      {
+        "ja": "彼は若いわりには、落ち着いている。",
+        "vi": "So với tuổi còn trẻ thì anh ấy khá điềm tĩnh."
+      },
+      {
+        "ja": "このレストランは値段のわりにはおいしい。",
+        "vi": "So với giá thì nhà hàng này khá ngon."
+      }
+    ]
+  },
+  {
+    "draftId": 333,
+    "keep": true,
+    "pattern": "～つつある",
+    "structure": "動詞ます形（ますを取る）＋つつある",
+    "meaning": "Đang dần…; đang trong quá trình… (diễn tả sự thay đổi đang diễn ra, văn viết).",
+    "examples": [
+      {
+        "ja": "景気が回復しつつある。",
+        "vi": "Nền kinh tế đang dần phục hồi."
+      },
+      {
+        "ja": "環境問題に対する関心が高まりつつある。",
+        "vi": "Sự quan tâm đối với vấn đề môi trường đang ngày càng tăng."
+      }
+    ]
+  },
+  {
+    "draftId": 334,
+    "keep": false,
+    "pattern": "Vậy thì ....",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 335,
+    "keep": true,
+    "pattern": "今にも～そうだ",
+    "structure": "今にも＋動詞ます形＋そうだ／い形容詞語幹＋そうだ",
+    "meaning": "Trông như sắp… đến nơi; gần như sắp xảy ra ngay (nhấn mạnh sắp diễn ra).",
+    "examples": [
+      {
+        "ja": "今にも泣きそうだ。",
+        "vi": "Trông như sắp khóc đến nơi."
+      },
+      {
+        "ja": "空が暗くなって、今にも雨が降りそうだ。",
+        "vi": "Bầu trời tối lại, trông như sắp mưa đến nơi."
+      }
+    ]
+  },
+  {
+    "draftId": 336,
+    "keep": true,
+    "pattern": "～ほど",
+    "structure": "数量詞＋ほど／普通形＋ほど",
+    "meaning": "Khoảng chừng…; cỡ…; đến mức… (ước lượng số lượng hoặc mức độ).",
+    "examples": [
+      {
+        "ja": "駅まで歩いて15分ほどかかります。",
+        "vi": "Đi bộ đến ga mất khoảng 15 phút."
+      },
+      {
+        "ja": "涙が出るほど感動した。",
+        "vi": "Tôi xúc động đến mức muốn khóc."
+      }
+    ]
+  },
+  {
+    "draftId": 337,
+    "keep": false,
+    "pattern": "３０分ほど",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 338,
+    "keep": true,
+    "pattern": "～おかげで",
+    "structure": "普通形＋おかげで／名詞＋の＋おかげで",
+    "meaning": "Nhờ có…; nhờ vào… (nêu nguyên nhân dẫn đến kết quả tốt).",
+    "examples": [
+      {
+        "ja": "先生のおかげで、試験に合格できた。",
+        "vi": "Nhờ có thầy cô mà tôi đã đỗ kỳ thi."
+      },
+      {
+        "ja": "皆さんの協力のおかげで、無事に終わった。",
+        "vi": "Nhờ sự hợp tác của mọi người mà công việc đã kết thúc suôn sẻ."
+      }
+    ]
+  },
+  {
+    "draftId": 339,
+    "keep": false,
+    "pattern": "Nhờ có…, nhờ vào…",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 340,
+    "keep": true,
+    "pattern": "～以来",
+    "structure": "動詞て形＋以来／名詞＋以来",
+    "meaning": "Kể từ… đến nay (từ một thời điểm trong quá khứ, trạng thái/hành động vẫn tiếp tục).",
+    "examples": [
+      {
+        "ja": "日本に来て以来、毎日日本語を勉強しています。",
+        "vi": "Kể từ khi đến Nhật, tôi học tiếng Nhật mỗi ngày."
+      },
+      {
+        "ja": "大学を卒業して以来、彼に会っていない。",
+        "vi": "Kể từ khi tốt nghiệp đại học, tôi chưa gặp lại anh ấy."
+      }
+    ]
+  },
+  {
+    "draftId": 341,
+    "keep": true,
+    "pattern": "～ものの",
+    "structure": "普通形＋ものの",
+    "meaning": "Tuy… nhưng…; mặc dù… nhưng… (nhượng bộ; thực tế khác với kỳ vọng).",
+    "examples": [
+      {
+        "ja": "日本語を勉強したものの、まだ会話が苦手です。",
+        "vi": "Tuy đã học tiếng Nhật nhưng tôi vẫn kém giao tiếp."
+      },
+      {
+        "ja": "新しいパソコンを買ったものの、使い方がわからない。",
+        "vi": "Tuy đã mua máy tính mới nhưng không biết cách dùng."
+      }
+    ]
+  },
+  {
+    "draftId": 342,
+    "keep": true,
+    "pattern": "～ことはない",
+    "structure": "動詞辞書形＋ことはない／ことはありません",
+    "meaning": "Không cần phải…; chẳng việc gì phải… (khuyên không cần làm điều gì đó).",
+    "examples": [
+      {
+        "ja": "心配することはありません。",
+        "vi": "Không cần phải lo lắng."
+      },
+      {
+        "ja": "謝ることはないよ。君は悪くない。",
+        "vi": "Không cần phải xin lỗi đâu. Bạn không có lỗi."
+      }
+    ]
+  },
+  {
+    "draftId": 343,
+    "keep": true,
+    "pattern": "～ずにはいられない",
+    "structure": "動詞ない形（ないを取る）＋ずにはいられない",
+    "meaning": "Không thể không…; không cầm được mà không… (bị thôi thúc phải làm).",
+    "examples": [
+      {
+        "ja": "その映画を見ると、泣かずにはいられません。",
+        "vi": "Xem bộ phim đó thì không thể không khóc."
+      },
+      {
+        "ja": "彼の話を聞くと、笑わずにはいられない。",
+        "vi": "Nghe chuyện của anh ấy thì không thể nhịn cười."
+      }
+    ]
+  },
+  {
+    "draftId": 344,
+    "keep": true,
+    "pattern": "～ないことには",
+    "structure": "動詞ない形＋ことには＋～ない",
+    "meaning": "Nếu không… thì không thể… (điều kiện tiên quyết; thiếu A thì B không xảy ra).",
+    "examples": [
+      {
+        "ja": "応募しないことには、何も進みません。",
+        "vi": "Nếu không ứng tuyển thì chẳng có việc gì tiến triển cả."
+      },
+      {
+        "ja": "実際に見ないことには、良し悪しが判断できない。",
+        "vi": "Nếu không xem tận mắt thì không thể đánh giá tốt xấu."
+      }
+    ]
+  },
+  {
+    "draftId": 345,
+    "keep": false,
+    "pattern": "Nếu không… thì không thể…",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 346,
+    "keep": true,
+    "pattern": "～のではなく",
+    "structure": "普通形＋のではなく／のではなくて＋～",
+    "meaning": "Không phải A mà là B (phủ định cách hiểu sai, khẳng định nội dung đúng).",
+    "examples": [
+      {
+        "ja": "彼は怒っているのではなく、ただ疲れているだけだ。",
+        "vi": "Anh ấy không phải đang giận mà chỉ đang mệt thôi."
+      },
+      {
+        "ja": "値段が高いのではなく、品質がいいのだ。",
+        "vi": "Không phải vì giá cao, mà vì chất lượng tốt."
+      }
+    ]
+  },
+  {
+    "draftId": 347,
+    "keep": true,
+    "pattern": "～たいだけ～",
+    "structure": "動詞ます形＋たいだけ＋動詞",
+    "meaning": "… bao nhiêu tùy thích; làm hết mức muốn (không giới hạn theo ý muốn).",
+    "examples": [
+      {
+        "ja": "食べたいだけ食べてください。",
+        "vi": "Bạn hãy ăn bao nhiêu tùy thích."
+      },
+      {
+        "ja": "休みの日は寝たいだけ寝られる。",
+        "vi": "Ngày nghỉ có thể ngủ bao nhiêu tùy thích."
+      }
+    ]
+  },
+  {
+    "draftId": 348,
+    "keep": true,
+    "pattern": "～ずにおく",
+    "structure": "動詞ない形（ないを取る）＋ずにおく／ないでおく",
+    "meaning": "Cố tình không làm… trong một thời gian; để đó không làm (chuẩn bị / duy trì trạng thái không làm).",
+    "examples": [
+      {
+        "ja": "しばらく本は買わずにおこう。",
+        "vi": "Một thời gian nữa hãy không mua sách nữa."
+      },
+      {
+        "ja": "この話は彼に言わずにおいた。",
+        "vi": "Tôi đã cố tình không nói chuyện này với anh ấy."
+      }
+    ]
+  },
+  {
+    "draftId": 349,
+    "keep": true,
+    "pattern": "仮に（かりに）",
+    "structure": "仮に＋普通形＋としたら／としても／なら",
+    "meaning": "Giả sử…; cho dù giả định là… (đưa ra tình huống giả định để suy luận).",
+    "examples": [
+      {
+        "ja": "仮に雨が降ったとしても、試合は行われます。",
+        "vi": "Giả sử trời mưa thì trận đấu vẫn được tổ chức."
+      },
+      {
+        "ja": "仮に私が社長だとしたら、どうするだろう。",
+        "vi": "Giả sử tôi là giám đốc thì sẽ làm thế nào đây."
+      }
+    ]
+  }
+]

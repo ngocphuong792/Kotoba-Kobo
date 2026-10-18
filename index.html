@@ -235,6 +235,29 @@
       font-size: 0.82rem;
       font-weight: 600;
     }
+    .flash-opt {
+      cursor: pointer;
+      user-select: none;
+      border: 1px solid transparent;
+    }
+    .flash-opt input {
+      accent-color: var(--sea-deep);
+      width: 14px;
+      height: 14px;
+      margin: 0;
+    }
+    .flash-opt:has(input:checked) {
+      background: rgba(31, 111, 122, 0.18);
+      border-color: rgba(31, 111, 122, 0.35);
+    }
+    .flash-reading {
+      margin: 0 0 6px;
+      font-family: var(--font-jp, inherit);
+      font-size: 1.05rem;
+      color: var(--sea-deep);
+      letter-spacing: 0.02em;
+    }
+    .flash-reading:empty { display: none; }
 
     /* Word list */
     .word-list {
@@ -374,7 +397,7 @@
     .flashcard {
       position: relative;
       width: 100%;
-      min-height: 280px;
+      min-height: 340px;
       transform-style: preserve-3d;
       transition: transform 0.55s cubic-bezier(.2,.8,.2,1);
       cursor: pointer;
@@ -399,6 +422,11 @@
     .face.back {
       background: #fffdf8;
       transform: rotateY(180deg);
+      place-content: start center;
+      align-content: center;
+      gap: 10px;
+      overflow: auto;
+      min-height: 320px;
     }
     .face .big {
       font-family: var(--font-jp);
@@ -407,6 +435,31 @@
       margin: 0;
     }
     .face .sub { margin-top: 10px; opacity: 0.85; }
+    .flash-examples {
+      width: 100%;
+      display: grid;
+      gap: 10px;
+      margin-top: 6px;
+      text-align: left;
+    }
+    .flash-ex {
+      padding: 10px 12px;
+      border-radius: 12px;
+      background: rgba(31, 111, 122, 0.06);
+      border: 1px solid rgba(31, 111, 122, 0.1);
+    }
+    .flash-ex .ex-ja {
+      font-family: var(--font-jp);
+      font-size: 0.95rem;
+      line-height: 1.45;
+      margin: 0 0 4px;
+    }
+    .flash-ex .ex-vi {
+      margin: 0;
+      font-size: 0.85rem;
+      color: var(--ink-soft);
+      line-height: 1.4;
+    }
     .flash-controls {
       display: flex;
       justify-content: center;
@@ -648,6 +701,10 @@
       <div class="toolbar">
         <select class="select" id="flashTheme"></select>
         <button class="btn btn-ghost" id="flashShuffle">Xáo trộn</button>
+        <label class="chip flash-opt" for="flashReadingBack" title="Ẩn cách đọc ở mặt trước, chỉ hiện khi lật thẻ">
+          <input type="checkbox" id="flashReadingBack" />
+          Cách đọc / cấu trúc ở mặt sau
+        </label>
         <span class="chip" id="flashPos">0 / 0</span>
       </div>
       <div class="progress-bar"><i id="flashProg"></i></div>
@@ -658,8 +715,9 @@
             <p class="sub" id="flashFrontSub"></p>
           </div>
           <div class="face back">
+            <p class="flash-reading" id="flashBackReading"></p>
             <p class="big" id="flashBack" style="font-family:var(--font-body);font-size:1.35rem;">—</p>
-            <p class="sub" id="flashBackSub"></p>
+            <div class="flash-examples" id="flashBackExamples"></div>
           </div>
         </div>
       </div>
@@ -719,6 +777,7 @@
       const PLAN = window.KAIWA_PLAN || null;
       const STORAGE_KEY = "kotoba-kobo-mastered-v1";
       const KAIWA_WEEK_KEY = "kotoba-kobo-kaiwa-week";
+      const FLASH_READING_BACK_KEY = "kotoba-kobo-flash-reading-back";
 
       const themeName = Object.fromEntries(DATA.themes.map((t) => [t.id, t.name]));
       let mastered = loadMastered();
@@ -726,6 +785,7 @@
       let selectedId = null;
       let flashDeck = [];
       let flashIndex = 0;
+      let flashReadingBack = localStorage.getItem(FLASH_READING_BACK_KEY) === "1";
       let quizCorrect = 0;
       let quizTotal = 0;
       let quizLocked = false;
@@ -1045,34 +1105,47 @@
           return;
         }
         const examples = getExamples(item);
+        const isGrammar = item.t === "n2_grammar";
+        const highlightKey = isGrammar
+          ? String(item.w).replace(/^[～~]/, "").split(/[／\/・]/)[0].trim()
+          : item.w;
         pane.className = "detail";
         pane.innerHTML = `
           <h3 class="detail-word">${escapeHtml(item.w)}</h3>
-          ${item.r ? `<p class="detail-reading">${escapeHtml(item.r)}</p>` : ""}
+          ${
+            item.r
+              ? `<p class="detail-reading">${
+                  isGrammar ? `<span class="chip" style="margin-right:8px">Cách kết hợp</span>` : ""
+                }${escapeHtml(item.r)}</p>`
+              : ""
+          }
           <p class="detail-meaning">${escapeHtml(item.m)}</p>
           <div class="detail-meta">
             <span class="chip">${escapeHtml(themeName[item.t] || "")}</span>
             ${item.s ? `<span class="chip">${escapeHtml(item.s)}</span>` : ""}
             ${mastered.has(item.id) ? `<span class="chip" style="background:rgba(47,125,74,.15);color:var(--ok)">Đã thuộc</span>` : ""}
           </div>
-          <h4 style="margin:0 0 10px;font-family:var(--font-ui);font-size:.95rem;">5 câu ví dụ</h4>
+          <h4 style="margin:0 0 10px;font-family:var(--font-ui);font-size:.95rem;">${examples.length} câu ví dụ</h4>
           <div class="examples">
             ${examples
               .map(
                 (ex, i) => `
               <div class="ex-item">
-                <p class="ex-ja">${i + 1}. ${highlightWord(ex.ja, item.w)}</p>
+                <p class="ex-ja">${i + 1}. ${highlightWord(ex.ja, highlightKey)}</p>
                 <p class="ex-vi">${escapeHtml(ex.vi || "")}</p>
               </div>`
               )
               .join("")}
           </div>
           <div class="detail-actions">
-            <button class="speak-btn" id="detailSpeak">Phát âm từ</button>
+            <button class="speak-btn" id="detailSpeak">${isGrammar ? "Phát âm ví dụ 1" : "Phát âm từ"}</button>
             <button class="btn btn-ghost" id="detailToggleMaster">${mastered.has(item.id) ? "Bỏ đánh dấu thuộc" : "Đánh dấu đã thuộc"}</button>
           </div>
         `;
-        $("detailSpeak")?.addEventListener("click", () => speak(item.w));
+        $("detailSpeak")?.addEventListener("click", () => {
+          if (isGrammar && examples[0]?.ja) speak(examples[0].ja);
+          else speak(item.w);
+        });
         $("detailToggleMaster")?.addEventListener("click", () => {
           if (mastered.has(item.id)) mastered.delete(item.id);
           else mastered.add(item.id);
@@ -1093,14 +1166,37 @@
         flashIndex = 0;
         showFlash(false);
       }
+      function renderFlashExamples(item) {
+        const box = $("flashBackExamples");
+        if (!box) return;
+        if (!item) {
+          box.innerHTML = "";
+          return;
+        }
+        const examples = getExamples(item).slice(0, 2);
+        const highlightKey =
+          item.t === "n2_grammar"
+            ? String(item.w).replace(/^[～~]/, "").split(/[／\/・]/)[0].trim()
+            : item.w;
+        box.innerHTML = examples
+          .map(
+            (ex, i) => `
+          <div class="flash-ex">
+            <p class="ex-ja">${i + 1}. ${highlightWord(ex.ja, highlightKey)}</p>
+            <p class="ex-vi">${escapeHtml(ex.vi || "")}</p>
+          </div>`
+          )
+          .join("");
+      }
       function showFlash(keepFlip) {
         const card = $("flashcard");
         if (!keepFlip) card.classList.remove("flipped");
         if (!flashDeck.length) {
           $("flashFront").textContent = "Không có từ";
           $("flashFrontSub").textContent = "";
+          $("flashBackReading").textContent = "";
           $("flashBack").textContent = "—";
-          $("flashBackSub").textContent = "";
+          renderFlashExamples(null);
           $("flashPos").textContent = "0 / 0";
           $("flashProg").style.width = "0%";
           return;
@@ -1108,11 +1204,26 @@
         flashIndex = Math.max(0, Math.min(flashIndex, flashDeck.length - 1));
         const it = flashDeck[flashIndex];
         $("flashFront").textContent = it.w;
-        $("flashFrontSub").textContent = it.r || "Nhấn để xem nghĩa";
+        if (flashReadingBack) {
+          $("flashFrontSub").textContent = "Nhấn để xem nghĩa";
+          $("flashBackReading").textContent = it.r || "";
+        } else {
+          $("flashFrontSub").textContent = it.r || "Nhấn để xem nghĩa";
+          $("flashBackReading").textContent = "";
+        }
         $("flashBack").textContent = it.m;
-        $("flashBackSub").textContent = themeName[it.t] || "";
+        renderFlashExamples(it);
         $("flashPos").textContent = `${flashIndex + 1} / ${flashDeck.length}`;
         $("flashProg").style.width = `${((flashIndex + 1) / flashDeck.length) * 100}%`;
+      }
+      const flashReadingBackEl = $("flashReadingBack");
+      if (flashReadingBackEl) {
+        flashReadingBackEl.checked = flashReadingBack;
+        flashReadingBackEl.addEventListener("change", () => {
+          flashReadingBack = flashReadingBackEl.checked;
+          localStorage.setItem(FLASH_READING_BACK_KEY, flashReadingBack ? "1" : "0");
+          showFlash(true);
+        });
       }
       $("flashcard").addEventListener("click", () => $("flashcard").classList.toggle("flipped"));
       $("flashTheme").addEventListener("change", buildFlashDeck);

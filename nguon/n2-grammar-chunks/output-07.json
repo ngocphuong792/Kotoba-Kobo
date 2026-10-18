@@ -1,0 +1,534 @@
+[
+  {
+    "draftId": 211,
+    "keep": true,
+    "pattern": "お越しくださいました",
+    "structure": "お越し＋くださいました",
+    "meaning": "Kính ngữ lịch sự: cảm ơn / chào mừng quý khách đã đến (tôn trọng người đến thăm).",
+    "examples": [
+      {
+        "ja": "本日はお忙しい中、お越しくださいましてありがとうございます。",
+        "vi": "Hôm nay, trong lúc bận rộn quý vị vẫn đến, xin chân thành cảm ơn."
+      },
+      {
+        "ja": "遠くからお越しくださいましたお客様に、心より御礼申し上げます。",
+        "vi": "Xin gửi lời cảm ơn chân thành tới quý khách đã đến từ xa."
+      }
+    ]
+  },
+  {
+    "draftId": 212,
+    "keep": true,
+    "pattern": "伺う（うかがう）",
+    "structure": "場所／人＋に／へ＋伺う　／　話・意見など＋を＋伺う",
+    "meaning": "Khiêm nhường ngữ của 行く／訪ねる (đi đến, ghé thăm) và của 聞く／尋ねる (hỏi, nghe).",
+    "examples": [
+      {
+        "ja": "明日、ご自宅に伺ってもよろしいでしょうか。",
+        "vi": "Ngày mai tôi đến nhà anh/chị được không ạ?"
+      },
+      {
+        "ja": "先生のご意見を伺いたいのですが。",
+        "vi": "Tôi muốn xin ý kiến của thầy/cô ạ."
+      }
+    ]
+  },
+  {
+    "draftId": 213,
+    "keep": true,
+    "pattern": "～へと",
+    "structure": "名詞＋へと＋動詞（広がる／向かう／移る など）",
+    "meaning": "Hướng đến…; tiến về phía…; mở rộng / chuyển dịch tới… (nhấn mạnh hướng chuyển động).",
+    "examples": [
+      {
+        "ja": "日本の文化が世界へと広がっている。",
+        "vi": "Văn hóa Nhật Bản đang lan rộng ra toàn thế giới."
+      },
+      {
+        "ja": "若者たちは大都市へと集まっていく。",
+        "vi": "Giới trẻ đang đổ dồn về các thành phố lớn."
+      }
+    ]
+  },
+  {
+    "draftId": 214,
+    "keep": true,
+    "pattern": "～限り（かぎり）",
+    "structure": "動詞る形／ない形／名詞の＋限り",
+    "meaning": "Chừng nào còn…; trong phạm vi…; miễn là… (giới hạn điều kiện hoặc phạm vi).",
+    "examples": [
+      {
+        "ja": "生きている限り、勉強をやめないつもりだ。",
+        "vi": "Chừng nào còn sống, tôi vẫn không định bỏ việc học."
+      },
+      {
+        "ja": "力の限り戦ったが、負けてしまった。",
+        "vi": "Tôi đã chiến đấu hết sức mình, nhưng vẫn thua."
+      }
+    ]
+  },
+  {
+    "draftId": 215,
+    "keep": true,
+    "pattern": "～ない限り",
+    "structure": "動詞ない形＋限り",
+    "meaning": "Trừ khi…; miễn là không…; nếu không… thì không… (chỉ khi điều kiện phủ định mới thay đổi kết quả).",
+    "examples": [
+      {
+        "ja": "雨が降らない限り、試合は行われる。",
+        "vi": "Trừ khi trời mưa, trận đấu sẽ được tổ chức."
+      },
+      {
+        "ja": "本人が同意しない限り、その情報は公開できない。",
+        "vi": "Trừ khi chính đương sự đồng ý, không thể công khai thông tin đó."
+      }
+    ]
+  },
+  {
+    "draftId": 216,
+    "keep": false,
+    "pattern": "Nếu không… thì không…",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 217,
+    "keep": true,
+    "pattern": "～限りでは",
+    "structure": "動詞る形／た形／知っている・見る など＋限りでは",
+    "meaning": "Theo những gì…; trong phạm vi (biết/thấy/nghe)… thì… (đưa phán đoán dựa trên thông tin hạn chế).",
+    "examples": [
+      {
+        "ja": "私が知っている限りでは、彼はまだ独身です。",
+        "vi": "Theo những gì tôi biết, anh ấy vẫn còn độc thân."
+      },
+      {
+        "ja": "見た限りでは、機械に異常はないようだ。",
+        "vi": "Trong phạm vi quan sát được, máy móc có vẻ không có gì bất thường."
+      }
+    ]
+  },
+  {
+    "draftId": 218,
+    "keep": false,
+    "pattern": "～知っている限りでは: theo những gì tôi biết",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 219,
+    "keep": true,
+    "pattern": "VるだけVる",
+    "structure": "動詞る形＋だけ＋同じ動詞る形／た形",
+    "meaning": "Làm hết mức có thể; ít nhất cũng làm cho đủ phần… (dù khó vẫn cố làm tối đa).",
+    "examples": [
+      {
+        "ja": "やるだけやってみよう。結果は気にしない。",
+        "vi": "Cứ làm hết sức đã. Đừng bận tâm kết quả."
+      },
+      {
+        "ja": "話し合えるだけ話し合ったが、合意には至らなかった。",
+        "vi": "Đã bàn bạc hết mức có thể, nhưng vẫn không đi đến thỏa thuận."
+      }
+    ]
+  },
+  {
+    "draftId": 220,
+    "keep": true,
+    "pattern": "ただし",
+    "structure": "文。ただし、＋文",
+    "meaning": "Tuy nhiên; nhưng; với điều kiện là… (bổ sung điều kiện, ngoại lệ hoặc hạn chế cho nội dung vừa nói).",
+    "examples": [
+      {
+        "ja": "この部屋は自由に使っていいです。ただし、飲食は禁止です。",
+        "vi": "Bạn có thể dùng phòng này tự do. Tuy nhiên, cấm ăn uống."
+      },
+      {
+        "ja": "参加費は無料です。ただし、事前予約が必要です。",
+        "vi": "Phí tham gia miễn phí. Nhưng cần đặt chỗ trước."
+      }
+    ]
+  },
+  {
+    "draftId": 221,
+    "keep": true,
+    "pattern": "～に限らず",
+    "structure": "名詞＋に限らず",
+    "meaning": "Không chỉ giới hạn ở…; không riêng gì…; không chỉ… mà cả…",
+    "examples": [
+      {
+        "ja": "日本に限らず、世界中で環境問題が深刻になっている。",
+        "vi": "Không chỉ Nhật Bản, vấn đề môi trường đang trở nên nghiêm trọng trên toàn thế giới."
+      },
+      {
+        "ja": "子供に限らず、大人も楽しめます。",
+        "vi": "Không riêng trẻ em, người lớn cũng có thể thưởng thức."
+      }
+    ]
+  },
+  {
+    "draftId": 222,
+    "keep": true,
+    "pattern": "～らしい",
+    "structure": "文／名詞／い形語幹／な形語幹＋らしい",
+    "meaning": "1) Nghe nói / có vẻ là… (phán đoán dựa trên thông tin thu thập). 2) Đúng là… có khác; mang đặc trưng của…",
+    "examples": [
+      {
+        "ja": "田中さんは明日引っ越しするらしい。",
+        "vi": "Nghe nói anh Tanaka ngày mai sẽ chuyển nhà."
+      },
+      {
+        "ja": "今日は春らしい穏やかな天気だ。",
+        "vi": "Hôm nay là thời tiết êm dịu đúng kiểu mùa xuân."
+      }
+    ]
+  },
+  {
+    "draftId": 223,
+    "keep": true,
+    "pattern": "～において",
+    "structure": "名詞＋において／における＋名詞",
+    "meaning": "Tại…; trong…; xét về (khía cạnh)… (chỉ địa điểm, lĩnh vực hoặc hoàn cảnh, mang tính trang trọng).",
+    "examples": [
+      {
+        "ja": "この問題については、次回の会議において話し合いましょう。",
+        "vi": "Về vấn đề này, hãy thảo luận tại cuộc họp lần sau."
+      },
+      {
+        "ja": "教育において最も大切なのは、子供の自主性を尊重することだ。",
+        "vi": "Trong giáo dục, điều quan trọng nhất là tôn trọng tính tự chủ của trẻ."
+      }
+    ]
+  },
+  {
+    "draftId": 224,
+    "keep": true,
+    "pattern": "Vさせてほしい",
+    "structure": "動詞使役形て形＋ほしい",
+    "meaning": "Muốn được phép làm…; xin hãy cho (tôi) làm… (chủ ngữ là người muốn được cho phép).",
+    "examples": [
+      {
+        "ja": "この仕事は私にやらせてほしいです。",
+        "vi": "Tôi muốn được giao việc này."
+      },
+      {
+        "ja": "もう少し考えさせてほしい。",
+        "vi": "Xin hãy cho tôi suy nghĩ thêm một chút."
+      }
+    ]
+  },
+  {
+    "draftId": 225,
+    "keep": true,
+    "pattern": "Vてほしい",
+    "structure": "動詞て形＋ほしい",
+    "meaning": "Muốn ai đó làm…; mong người khác thực hiện hành động (thường kèm に chỉ đối tượng).",
+    "examples": [
+      {
+        "ja": "母に早く元気になってほしい。",
+        "vi": "Tôi muốn mẹ mau khỏe lại."
+      },
+      {
+        "ja": "静かにしてほしいんですが。",
+        "vi": "Tôi muốn bạn giữ yên lặng một chút."
+      }
+    ]
+  },
+  {
+    "draftId": 226,
+    "keep": false,
+    "pattern": "Nhấn mạnh cảm xúc",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 227,
+    "keep": false,
+    "pattern": "Nếu mà có dịch vụ đó thì tốt bao nhiêu",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 228,
+    "keep": false,
+    "pattern": "Nếu ... thì tốt",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 229,
+    "keep": true,
+    "pattern": "いずれにしても",
+    "structure": "いずれにしても、＋文",
+    "meaning": "Dù thế nào đi nữa; dù sao thì; dù trường hợp nào cũng…",
+    "examples": [
+      {
+        "ja": "結果がどうなるか分からないが、いずれにしても最善を尽くす。",
+        "vi": "Không biết kết quả sẽ ra sao, nhưng dù thế nào tôi cũng sẽ cố hết sức."
+      },
+      {
+        "ja": "いずれにしても、明日までに返事をください。",
+        "vi": "Dù sao thì cũng xin hãy trả lời trước ngày mai."
+      }
+    ]
+  },
+  {
+    "draftId": 230,
+    "keep": true,
+    "pattern": "～に欠かせない",
+    "structure": "名詞＋に欠かせない＋名詞",
+    "meaning": "Không thể thiếu đối với…; thiết yếu cho việc / lĩnh vực gì đó.",
+    "examples": [
+      {
+        "ja": "水は人間の生活に欠かせないものだ。",
+        "vi": "Nước là thứ không thể thiếu trong đời sống con người."
+      },
+      {
+        "ja": "コミュニケーション能力は仕事に欠かせない。",
+        "vi": "Khả năng giao tiếp là điều không thể thiếu trong công việc."
+      }
+    ]
+  },
+  {
+    "draftId": 231,
+    "keep": true,
+    "pattern": "一斉に（いっせいに）",
+    "structure": "一斉に＋動詞",
+    "meaning": "Đồng loạt; cùng một lúc (nhiều người/vật cùng thực hiện).",
+    "examples": [
+      {
+        "ja": "信号が青になると、車が一斉に走り出した。",
+        "vi": "Khi đèn xanh, xe cộ đồng loạt chạy đi."
+      },
+      {
+        "ja": "春になると、桜が一斉に咲く。",
+        "vi": "Khi mùa xuân đến, hoa anh đào nở đồng loạt."
+      }
+    ]
+  },
+  {
+    "draftId": 232,
+    "keep": false,
+    "pattern": "いっせいに",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 233,
+    "keep": true,
+    "pattern": "～せいで",
+    "structure": "名詞の／動詞普通形＋せいで",
+    "meaning": "Chỉ tại…; vì… (thường mang sắc thái trách móc, kết quả xấu).",
+    "examples": [
+      {
+        "ja": "電車が遅れたせいで、会議に間に合わなかった。",
+        "vi": "Chỉ tại tàu đến muộn mà tôi không kịp họp."
+      },
+      {
+        "ja": "彼のうっかりミスのせいで、プロジェクト全体が遅れてしまった。",
+        "vi": "Vì sơ suất của anh ấy, cả dự án bị chậm lại."
+      }
+    ]
+  },
+  {
+    "draftId": 234,
+    "keep": true,
+    "pattern": "～に上る（にのぼる）",
+    "structure": "数量＋に上る",
+    "meaning": "Lên tới; đạt tới (một con số lớn, thường dùng trong văn viết / tin tức).",
+    "examples": [
+      {
+        "ja": "被害総額は1億円に上る見込みだ。",
+        "vi": "Tổng thiệt hại dự kiến lên tới 100 triệu yên."
+      },
+      {
+        "ja": "参加者は5000人に上った。",
+        "vi": "Số người tham gia đã lên tới 5000 người."
+      }
+    ]
+  },
+  {
+    "draftId": 235,
+    "keep": true,
+    "pattern": "～の末に（のすえに）",
+    "structure": "名詞の／動詞た形＋末に／末",
+    "meaning": "Sau một quá trình dài… cuối cùng… (sau nhiều thời gian, nỗ lực, khó khăn mới đạt kết quả).",
+    "examples": [
+      {
+        "ja": "長い議論の末に、ようやく結論が出た。",
+        "vi": "Sau cuộc thảo luận dài, cuối cùng cũng đưa ra được kết luận."
+      },
+      {
+        "ja": "苦労した末に、合格を勝ち取った。",
+        "vi": "Sau bao gian khổ, cuối cùng đã giành được đỗ."
+      }
+    ]
+  },
+  {
+    "draftId": 236,
+    "keep": true,
+    "pattern": "～をめぐって／をめぐり",
+    "structure": "名詞＋をめぐって／をめぐり＋文",
+    "meaning": "Xoay quanh…; liên quan đến… (vấn đề đang gây tranh luận, bất đồng hoặc quan tâm).",
+    "examples": [
+      {
+        "ja": "新しい法案をめぐって、国会で激しい議論が続いている。",
+        "vi": "Xoay quanh dự luật mới, quốc hội đang tranh luận gay gắt."
+      },
+      {
+        "ja": "遺産の相続をめぐり、家族の間でトラブルが起きた。",
+        "vi": "Liên quan đến việc thừa kế di sản, trong gia đình đã xảy ra rắc rối."
+      }
+    ]
+  },
+  {
+    "draftId": 237,
+    "keep": true,
+    "pattern": "～を込めて",
+    "structure": "名詞＋を込めて＋動詞",
+    "meaning": "Gửi gắm…; đặt vào…; dồn… (tình cảm, ý chí, tâm huyết) vào hành động.",
+    "examples": [
+      {
+        "ja": "感謝の気持ちを込めて、手紙を書いた。",
+        "vi": "Tôi đã viết thư với tấm lòng biết ơn."
+      },
+      {
+        "ja": "母は愛情を込めて弁当を作ってくれた。",
+        "vi": "Mẹ đã làm cơm hộp với đầy tình thương."
+      }
+    ]
+  },
+  {
+    "draftId": 238,
+    "keep": true,
+    "pattern": "～ばかり",
+    "structure": "名詞＋ばかり　／　動詞て形＋ばかりいる　／　動詞た形＋ばかりだ",
+    "meaning": "Chỉ toàn…; cứ suốt…; vừa mới… (nhiều nghĩa tùy cấu trúc đứng trước).",
+    "examples": [
+      {
+        "ja": "最近は忙しいばかりで、全然休めない。",
+        "vi": "Dạo này cứ bận rộn mãi, chẳng nghỉ được chút nào."
+      },
+      {
+        "ja": "文句ばかり言っていないで、自分も手伝ってよ。",
+        "vi": "Đừng có chỉ toàn phàn nàn, bản thân cũng hãy giúp một tay đi."
+      }
+    ]
+  },
+  {
+    "draftId": 239,
+    "keep": true,
+    "pattern": "Nばかり",
+    "structure": "名詞＋ばかり",
+    "meaning": "Toàn là…; chỉ toàn… (nhấn mạnh rằng hầu như chỉ có thứ đó).",
+    "examples": [
+      {
+        "ja": "この店の客は外国人ばかりだ。",
+        "vi": "Khách của quán này toàn là người nước ngoài."
+      },
+      {
+        "ja": "机の上には書類ばかりが積んである。",
+        "vi": "Trên bàn chỉ toàn giấy tờ chất đống."
+      }
+    ]
+  },
+  {
+    "draftId": 240,
+    "keep": true,
+    "pattern": "Vてばかりいる",
+    "structure": "動詞て形＋ばかりいる",
+    "meaning": "Cứ suốt ngày làm…; chỉ toàn làm… (phê bình việc lặp lại quá nhiều một hành động).",
+    "examples": [
+      {
+        "ja": "遊んでばかりいないで、少しは勉強しなさい。",
+        "vi": "Đừng cứ suốt ngày chơi, hãy học một chút đi."
+      },
+      {
+        "ja": "彼は文句を言ってばかりいる。",
+        "vi": "Anh ấy chỉ toàn phàn nàn."
+      }
+    ]
+  },
+  {
+    "draftId": 241,
+    "keep": true,
+    "pattern": "Vたばかりだ",
+    "structure": "動詞た形＋ばかりだ",
+    "meaning": "Vừa mới làm… (nhấn mạnh hành động vừa xảy ra không lâu).",
+    "examples": [
+      {
+        "ja": "日本に来たばかりなので、まだ慣れていません。",
+        "vi": "Tôi mới đến Nhật nên vẫn chưa quen."
+      },
+      {
+        "ja": "昼ごはんを食べたばかりなのに、もうお腹が空いた。",
+        "vi": "Mới ăn trưa xong vậy mà đã đói rồi."
+      }
+    ]
+  },
+  {
+    "draftId": 242,
+    "keep": false,
+    "pattern": "Vた +",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 243,
+    "keep": true,
+    "pattern": "～わけ",
+    "structure": "動詞／い形／な形＋わけだ／わけではない／わけがない など",
+    "meaning": "Lý do / lẽ đương nhiên / kết luận logic từ tình huống (dùng trong nhiều mẫu như わけだ, わけではない…).",
+    "examples": [
+      {
+        "ja": "疲れていたわけだ。昨日は夜遅くまで働いていたから。",
+        "vi": "Thảo nào mệt. Vì hôm qua đã làm việc đến khuya."
+      },
+      {
+        "ja": "お金がないからといって、楽しめないわけではない。",
+        "vi": "Không phải vì không có tiền mà không thể vui được."
+      }
+    ]
+  },
+  {
+    "draftId": 244,
+    "keep": true,
+    "pattern": "～わけだ",
+    "structure": "普通形＋わけだ",
+    "meaning": "Thảo nào…; hóa ra…; đương nhiên là… (kết luận hợp lý từ thông tin đã biết).",
+    "examples": [
+      {
+        "ja": "毎日練習しているんだから、上手になるわけだ。",
+        "vi": "Vì luyện tập mỗi ngày nên đương nhiên sẽ giỏi lên."
+      },
+      {
+        "ja": "道が混んでいたわけだ。事故があったらしい。",
+        "vi": "Thảo nào đường tắc. Nghe nói đã có tai nạn."
+      }
+    ]
+  },
+  {
+    "draftId": 245,
+    "keep": true,
+    "pattern": "～わけではない",
+    "structure": "普通形＋わけではない／わけでもない",
+    "meaning": "Không có nghĩa là…; không hẳn là… (phủ định một phần, tránh hiểu tuyệt đối).",
+    "examples": [
+      {
+        "ja": "嫌いなわけではないが、得意ではない。",
+        "vi": "Không phải là ghét, nhưng cũng không giỏi."
+      },
+      {
+        "ja": "お金持ちがみな幸せなわけではない。",
+        "vi": "Không phải người giàu nào cũng hạnh phúc."
+      }
+    ]
+  }
+]

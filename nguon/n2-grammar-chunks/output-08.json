@@ -1,0 +1,489 @@
+[
+  {
+    "draftId": 246,
+    "keep": true,
+    "pattern": "～わけがない",
+    "structure": "普通形＋わけがない／わけはない",
+    "meaning": "Không thể nào…; không đời nào… (phủ định mạnh, khẳng định điều đó không thể xảy ra).",
+    "examples": [
+      {
+        "ja": "そんなに簡単に合格できるわけがない。",
+        "vi": "Không thể nào đỗ một cách dễ dàng như vậy được."
+      },
+      {
+        "ja": "彼が嘘をつくわけがない。",
+        "vi": "Anh ấy không đời nào nói dối cả."
+      }
+    ]
+  },
+  {
+    "draftId": 247,
+    "keep": true,
+    "pattern": "～次第（しだい）",
+    "structure": "動詞ます形＋次第",
+    "meaning": "Ngay khi… thì sẽ…; vừa… xong là… (hành động tiếp theo diễn ra ngay sau khi điều kiện hoàn thành).",
+    "examples": [
+      {
+        "ja": "詳しい情報が入り次第、ご連絡します。",
+        "vi": "Ngay khi có thông tin chi tiết, tôi sẽ liên lạc."
+      },
+      {
+        "ja": "準備ができ次第、出発しましょう。",
+        "vi": "Chuẩn bị xong là chúng ta xuất phát nhé."
+      }
+    ]
+  },
+  {
+    "draftId": 248,
+    "keep": false,
+    "pattern": "Động từ thể ます bỏ ます + 次第",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 249,
+    "keep": true,
+    "pattern": "～以上（いじょう）",
+    "structure": "動詞普通形／名詞＋である／の＋以上",
+    "meaning": "Một khi đã… thì…; đã… rồi thì phải… (nhấn mạnh trách nhiệm hoặc kết luận tất yếu sau khi thừa nhận sự việc).",
+    "examples": [
+      {
+        "ja": "約束した以上、守るべきだ。",
+        "vi": "Một khi đã hứa thì phải giữ lời."
+      },
+      {
+        "ja": "この仕事を引き受けた以上、最後までやり遂げるつもりだ。",
+        "vi": "Đã nhận công việc này rồi thì tôi định làm đến cùng."
+      }
+    ]
+  },
+  {
+    "draftId": 250,
+    "keep": true,
+    "pattern": "～てもおかしくない",
+    "structure": "動詞て形＋もおかしくない／い形容詞くて＋もおかしくない",
+    "meaning": "Không có gì lạ nếu…; hoàn toàn có thể xảy ra… (đánh giá khả năng cao).",
+    "examples": [
+      {
+        "ja": "まだ熱があるなら、休んでもおかしくない。",
+        "vi": "Nếu vẫn còn sốt thì nghỉ cũng chẳng có gì lạ."
+      },
+      {
+        "ja": "あのスピードなら、事故を起こしてもおかしくない。",
+        "vi": "Với tốc độ đó thì gây tai nạn cũng chẳng lạ."
+      }
+    ]
+  },
+  {
+    "draftId": 251,
+    "keep": false,
+    "pattern": "Ví dụ: まだ熱があるなら、休んでもおかしくない。",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 252,
+    "keep": true,
+    "pattern": "～っこない",
+    "structure": "動詞ます形＋っこない",
+    "meaning": "Tuyệt đối không…; không đời nào… (cách nói thân mật, nhấn mạnh phủ định mạnh).",
+    "examples": [
+      {
+        "ja": "こんな難しい問題、僕に解けっこない。",
+        "vi": "Bài khó như thế này, mình không đời nào giải được."
+      },
+      {
+        "ja": "あの人に頼みっこないよ。",
+        "vi": "Không đời nào mình nhờ người đó đâu."
+      }
+    ]
+  },
+  {
+    "draftId": 253,
+    "keep": false,
+    "pattern": "Ví dụ: 彼がそんなことをするわけがない。",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 254,
+    "keep": true,
+    "pattern": "～ほかない",
+    "structure": "動詞辞書形＋ほかない／よりほかない",
+    "meaning": "Không còn cách nào khác ngoài việc…; đành phải…",
+    "examples": [
+      {
+        "ja": "電車が止まっているので、歩くほかない。",
+        "vi": "Tàu điện đang dừng nên đành phải đi bộ."
+      },
+      {
+        "ja": "謝るほかないだろう。",
+        "vi": "Chỉ còn cách xin lỗi thôi nhỉ."
+      }
+    ]
+  },
+  {
+    "draftId": 255,
+    "keep": true,
+    "pattern": "～たびに",
+    "structure": "動詞辞書形＋たびに／名詞＋の＋たびに",
+    "meaning": "Mỗi lần… thì lại… (hành động hoặc trạng thái lặp lại mỗi khi điều kiện xảy ra).",
+    "examples": [
+      {
+        "ja": "この歌を聞くたびに、学生時代を思い出す。",
+        "vi": "Mỗi lần nghe bài hát này, tôi lại nhớ đến thời sinh viên."
+      },
+      {
+        "ja": "出張のたびに新しい発見がある。",
+        "vi": "Mỗi lần đi công tác lại có phát hiện mới."
+      }
+    ]
+  },
+  {
+    "draftId": 256,
+    "keep": false,
+    "pattern": "- Động từ thể từ điển + たびに",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 257,
+    "keep": false,
+    "pattern": "- Danh từ + の + たびに",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 258,
+    "keep": true,
+    "pattern": "～みたい",
+    "structure": "名詞／動詞普通形／い形容詞＋みたいだ",
+    "meaning": "Có vẻ như…; giống như… (suy đoán hoặc so sánh dựa trên ấn tượng; cách nói thân mật).",
+    "examples": [
+      {
+        "ja": "今日は雨みたいだね。",
+        "vi": "Hôm nay có vẻ như mưa nhỉ."
+      },
+      {
+        "ja": "彼は何も知らないみたいだ。",
+        "vi": "Anh ấy có vẻ như chẳng biết gì cả."
+      }
+    ]
+  },
+  {
+    "draftId": 259,
+    "keep": false,
+    "pattern": "それもあるかもしれません",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 260,
+    "keep": true,
+    "pattern": "そのつもりだ／そのつもりです",
+    "structure": "そのつもりだ／そのつもりです",
+    "meaning": "Tôi dự định như vậy; ý định là như thế (xác nhận hoặc bày tỏ ý định đã có).",
+    "examples": [
+      {
+        "ja": "来年日本へ留学するつもりです。そのつもりで準備を進めています。",
+        "vi": "Tôi định năm sau đi du học Nhật. Đang chuẩn bị với ý định đó."
+      },
+      {
+        "ja": "彼は会社を辞めるつもりらしい。",
+        "vi": "Hình như anh ấy định nghỉ việc ở công ty."
+      }
+    ]
+  },
+  {
+    "draftId": 261,
+    "keep": true,
+    "pattern": "～に次いで（についで）",
+    "structure": "名詞＋に次いで",
+    "meaning": "Tiếp sau…; đứng thứ hai sau… (xếp hạng hoặc mức độ chỉ kém hơn A).",
+    "examples": [
+      {
+        "ja": "サッカーに次いで、野球も人気がある。",
+        "vi": "Tiếp sau bóng đá, bóng chày cũng rất được yêu thích."
+      },
+      {
+        "ja": "東京に次いで人口が多い都市は横浜だ。",
+        "vi": "Thành phố có dân số nhiều thứ hai sau Tokyo là Yokohama."
+      }
+    ]
+  },
+  {
+    "draftId": 262,
+    "keep": true,
+    "pattern": "～たきり",
+    "structure": "動詞た形＋きり（＋～ない）",
+    "meaning": "Kể từ khi… thì (không… nữa); làm một lần rồi không tiếp tục / không còn liên lạc.",
+    "examples": [
+      {
+        "ja": "彼は朝出かけたきり、まだ帰ってこない。",
+        "vi": "Anh ấy đi từ sáng đến giờ vẫn chưa về."
+      },
+      {
+        "ja": "三年前に一度会ったきり、連絡がない。",
+        "vi": "Gặp một lần cách đây ba năm rồi không còn liên lạc."
+      }
+    ]
+  },
+  {
+    "draftId": 263,
+    "keep": true,
+    "pattern": "～はもとより",
+    "structure": "名詞＋はもとより＋名詞＋も",
+    "meaning": "Không chỉ… mà đương nhiên còn…; A đã vậy, cả B cũng… (A là điều hiển nhiên, nhấn mạnh thêm B).",
+    "examples": [
+      {
+        "ja": "彼は英語はもとより、中国語も話せる。",
+        "vi": "Anh ấy không chỉ nói được tiếng Anh mà cả tiếng Trung cũng nói được."
+      },
+      {
+        "ja": "休日はもとより、平日も混んでいる。",
+        "vi": "Ngày nghỉ đã vậy, cả ngày thường cũng đông."
+      }
+    ]
+  },
+  {
+    "draftId": 264,
+    "keep": false,
+    "pattern": "A はもとより B も～",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 265,
+    "keep": true,
+    "pattern": "これだけ",
+    "structure": "これだけ＋動詞／形容詞／名詞",
+    "meaning": "Chừng này; nhiều thể này; đến mức này (nhấn mạnh số lượng hoặc mức độ đã nêu).",
+    "examples": [
+      {
+        "ja": "これだけ努力したのだから、きっとうまくいく。",
+        "vi": "Đã nỗ lực nhiều đến thế này thì nhất định sẽ suôn sẻ."
+      },
+      {
+        "ja": "これだけあれば十分だ。",
+        "vi": "Có chừng này là đủ rồi."
+      }
+    ]
+  },
+  {
+    "draftId": 266,
+    "keep": false,
+    "pattern": "これだけ多く",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 267,
+    "keep": true,
+    "pattern": "そのうえ",
+    "structure": "文。そのうえ＋文",
+    "meaning": "Hơn nữa; thêm vào đó (bổ sung thêm thông tin, thường cùng hướng tích cực hoặc tiêu cực).",
+    "examples": [
+      {
+        "ja": "この店は安い。そのうえ、味もいい。",
+        "vi": "Cửa hàng này rẻ. Hơn nữa, hương vị cũng ngon."
+      },
+      {
+        "ja": "道に迷った。そのうえ、雨まで降ってきた。",
+        "vi": "Tôi bị lạc đường. Hơn nữa, trời còn đổ mưa."
+      }
+    ]
+  },
+  {
+    "draftId": 268,
+    "keep": false,
+    "pattern": "Nhưng, tuy nhiên",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 269,
+    "keep": true,
+    "pattern": "～に沿って（にそって）",
+    "structure": "名詞＋に沿って／に沿い",
+    "meaning": "Theo; dọc theo; tuân theo (phương hướng, kế hoạch, quy định, dòng chảy).",
+    "examples": [
+      {
+        "ja": "川に沿って歩くと、駅に着きます。",
+        "vi": "Đi dọc theo sông thì sẽ tới nhà ga."
+      },
+      {
+        "ja": "計画に沿って作業を進めてください。",
+        "vi": "Hãy tiến hành công việc theo đúng kế hoạch."
+      }
+    ]
+  },
+  {
+    "draftId": 270,
+    "keep": true,
+    "pattern": "～にわたって",
+    "structure": "期間／範囲を表す名詞＋にわたって／にわたる",
+    "meaning": "Suốt; trải dài trong (khoảng thời gian, phạm vi không gian hoặc lĩnh vực).",
+    "examples": [
+      {
+        "ja": "3時間にわたって会議が行われた。",
+        "vi": "Cuộc họp đã diễn ra suốt 3 tiếng."
+      },
+      {
+        "ja": "全国にわたって被害が出た。",
+        "vi": "Thiệt hại xảy ra trên toàn quốc."
+      }
+    ]
+  },
+  {
+    "draftId": 271,
+    "keep": true,
+    "pattern": "～ものなら",
+    "structure": "動詞可能形＋ものなら",
+    "meaning": "Nếu có thể… thì (cũng muốn)… (ước muốn khó thực hiện; thường kèm ý ‘giá mà được’).",
+    "examples": [
+      {
+        "ja": "行けるものなら、今すぐ日本へ行きたい。",
+        "vi": "Nếu có thể đi được thì tôi muốn sang Nhật ngay bây giờ."
+      },
+      {
+        "ja": "戻れるものなら、学生時代に戻りたい。",
+        "vi": "Nếu có thể quay lại được thì tôi muốn trở về thời sinh viên."
+      }
+    ]
+  },
+  {
+    "draftId": 272,
+    "keep": false,
+    "pattern": "Nếu có thể… thì tôi cũng muốn…",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 273,
+    "keep": true,
+    "pattern": "～ものなら（仮定）",
+    "structure": "動詞辞書形＋ものなら",
+    "meaning": "Nếu lỡ… thì… (giả định việc không mong muốn xảy ra, kèm hậu quả xấu).",
+    "examples": [
+      {
+        "ja": "そんなことを言おうものなら、ひどく怒られるよ。",
+        "vi": "Nếu lỡ nói chuyện như thế thì sẽ bị mắng nặng đó."
+      },
+      {
+        "ja": "遅刻でもしようものなら、上司に叱られる。",
+        "vi": "Nếu lỡ đến muộn thì sẽ bị cấp trên mắng."
+      }
+    ]
+  },
+  {
+    "draftId": 274,
+    "keep": false,
+    "pattern": "Nếu lỡ ... thì sẽ xảy ra 1 hậu quả xấu",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 275,
+    "keep": true,
+    "pattern": "および",
+    "structure": "名詞＋および＋名詞",
+    "meaning": "Và; cũng như (liệt kê trang trọng, thường dùng trong văn viết).",
+    "examples": [
+      {
+        "ja": "氏名および住所を記入してください。",
+        "vi": "Hãy điền họ tên và địa chỉ."
+      },
+      {
+        "ja": "本校および分校で説明会を行います。",
+        "vi": "Sẽ tổ chức buổi giải thích tại trường chính và các phân hiệu."
+      }
+    ]
+  },
+  {
+    "draftId": 276,
+    "keep": false,
+    "pattern": "Và, cũng như; dùng để liệt kê",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 277,
+    "keep": true,
+    "pattern": "すなわち",
+    "structure": "文／名詞、すなわち＋言い換え",
+    "meaning": "Tức là; nói cách khác là (diễn giải lại bằng cách khác, mang sắc thái trang trọng).",
+    "examples": [
+      {
+        "ja": "彼は私の叔父、すなわち母の兄だ。",
+        "vi": "Ông ấy là chú tôi, tức là anh của mẹ."
+      },
+      {
+        "ja": "来るべき日が来た。すなわち、判決の日だ。",
+        "vi": "Ngày phải đến đã tới. Tức là ngày tuyên án."
+      }
+    ]
+  },
+  {
+    "draftId": 278,
+    "keep": true,
+    "pattern": "あるいは",
+    "structure": "A、あるいは＋B／あるいは＋文",
+    "meaning": "Hoặc; hay là. Đôi khi mang nghĩa ‘có lẽ’ khi nêu khả năng.",
+    "examples": [
+      {
+        "ja": "電車、あるいはバスで行ってください。",
+        "vi": "Hãy đi bằng tàu điện hoặc xe buýt."
+      },
+      {
+        "ja": "あるいは彼の言うとおりかもしれない。",
+        "vi": "Có lẽ đúng như anh ấy nói cũng nên."
+      }
+    ]
+  },
+  {
+    "draftId": 279,
+    "keep": true,
+    "pattern": "～勢いだ（いきおいだ）",
+    "structure": "動詞辞書形＋勢いだ",
+    "meaning": "Có đà…; đang trên đà… (tình hình phát triển mạnh đến mức sắp dẫn tới kết quả đó).",
+    "examples": [
+      {
+        "ja": "このままでは倒産する勢いだ。",
+        "vi": "Cứ thế này thì đang trên đà phá sản."
+      },
+      {
+        "ja": "観客は席を立って帰る勢いだった。",
+        "vi": "Khán giả có vẻ sắp đứng dậy ra về."
+      }
+    ]
+  },
+  {
+    "draftId": 280,
+    "keep": true,
+    "pattern": "～次第だ",
+    "structure": "名詞＋次第だ",
+    "meaning": "Tùy thuộc vào…; phụ thuộc vào… (kết quả thay đổi theo điều kiện nêu).",
+    "examples": [
+      {
+        "ja": "結果は努力次第だ。",
+        "vi": "Kết quả phụ thuộc vào nỗ lực."
+      },
+      {
+        "ja": "行くかどうかは天気次第です。",
+        "vi": "Đi hay không tùy thuộc vào thời tiết."
+      }
+    ]
+  }
+]

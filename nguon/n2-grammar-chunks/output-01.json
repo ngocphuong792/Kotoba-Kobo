@@ -1,0 +1,534 @@
+[
+  {
+    "draftId": 1,
+    "keep": true,
+    "pattern": "～くらい／ぐらい",
+    "structure": "数量詞＋くらい／普通形＋くらい",
+    "meaning": "1) Khoảng chừng (ước lượng số lượng/thời gian). 2) Đến mức… (mức độ cao đến nỗi…).",
+    "examples": [
+      {
+        "ja": "10分くらい休みましょう。",
+        "vi": "Hãy nghỉ khoảng 10 phút."
+      },
+      {
+        "ja": "立っていられないくらい疲れた。",
+        "vi": "Tôi mệt đến mức không còn đứng nổi."
+      }
+    ]
+  },
+  {
+    "draftId": 2,
+    "keep": true,
+    "pattern": "～に違いない",
+    "structure": "普通形＋に違いない",
+    "meaning": "Chắc chắn là… / nhất định là… (suy đoán có độ tin cậy cao dựa trên bằng chứng hoặc lý do).",
+    "examples": [
+      {
+        "ja": "彼は日本に10年も住んでいるから、日本語が上手なに違いない。",
+        "vi": "Anh ấy đã sống ở Nhật tận 10 năm rồi, nên chắc chắn tiếng Nhật rất giỏi."
+      },
+      {
+        "ja": "鍵がない。どこかに落としたに違いない。",
+        "vi": "Không thấy chìa khóa. Chắc chắn là đã đánh rơi đâu đó rồi."
+      }
+    ]
+  },
+  {
+    "draftId": 3,
+    "keep": true,
+    "pattern": "～たとしても",
+    "structure": "動詞た形＋としても／普通形＋としても",
+    "meaning": "Cho dù… thì cũng… (giả định một tình huống, nhưng kết quả/ý định vẫn không đổi).",
+    "examples": [
+      {
+        "ja": "明日雨が降ったとしても、試合は行われます。",
+        "vi": "Cho dù ngày mai có mưa, trận đấu vẫn được tổ chức."
+      },
+      {
+        "ja": "給料が上がったとしても、この会社を辞めるつもりだ。",
+        "vi": "Cho dù lương có tăng, tôi vẫn định nghỉ việc ở công ty này."
+      }
+    ]
+  },
+  {
+    "draftId": 4,
+    "keep": true,
+    "pattern": "～なんか",
+    "structure": "名詞／普通形＋なんか",
+    "meaning": "Những thứ như… (đưa ra ví dụ kèm sắc thái xem nhẹ, coi thường hoặc hạ thấp).",
+    "examples": [
+      {
+        "ja": "そんな仕事なんか簡単ですよ。",
+        "vi": "Công việc như thế thì dễ mà."
+      },
+      {
+        "ja": "お金なんか欲しくない。家族の健康が一番だ。",
+        "vi": "Tiền bạc gì đó tôi chẳng muốn. Sức khỏe gia đình mới là quan trọng nhất."
+      }
+    ]
+  },
+  {
+    "draftId": 5,
+    "keep": true,
+    "pattern": "いったい",
+    "structure": "いったい＋疑問詞／疑問文",
+    "meaning": "Rốt cuộc / đúng là… (nhấn mạnh sự ngạc nhiên, khó hiểu, bực mình hoặc muốn biết rõ).",
+    "examples": [
+      {
+        "ja": "いったい何をしているの？",
+        "vi": "Rốt cuộc đang làm cái gì vậy?"
+      },
+      {
+        "ja": "この書類、いったいどこへ行ったんだろう。",
+        "vi": "Cái tài liệu này rốt cuộc đã đi đâu mất rồi nhỉ."
+      }
+    ]
+  },
+  {
+    "draftId": 6,
+    "keep": false,
+    "pattern": "いったい何をしているの？",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 7,
+    "keep": true,
+    "pattern": "～るか～ないかのうちに",
+    "structure": "動詞辞書形＋か＋同じ動詞ない形＋かのうちに",
+    "meaning": "Vừa mới… / chưa kịp… thì đã… (hành động tiếp theo xảy ra ngay khi hành động trước vừa mới bắt đầu hoặc chưa xong).",
+    "examples": [
+      {
+        "ja": "昼ご飯を食べ終わるか食べ終わらないかのうちに、電話がかかってきた。",
+        "vi": "Chưa kịp ăn xong bữa trưa thì điện thoại đã reo."
+      },
+      {
+        "ja": "家に着くか着かないかのうちに、雨が降り出した。",
+        "vi": "Vừa mới về tới nhà thì trời đã bắt đầu mưa."
+      }
+    ]
+  },
+  {
+    "draftId": 8,
+    "keep": true,
+    "pattern": "～ということは～ということだ",
+    "structure": "普通形＋ということは＋普通形＋ということだ",
+    "meaning": "Việc… có nghĩa là… / điều đó đồng nghĩa với… (giải thích hoặc suy ra ý nghĩa từ một sự việc).",
+    "examples": [
+      {
+        "ja": "「今日は休み」ということは、会社に行かなくてもいいということだ。",
+        "vi": "“Hôm nay nghỉ” có nghĩa là không cần đến công ty."
+      },
+      {
+        "ja": "彼が来ないということは、何かあったということだろう。",
+        "vi": "Việc anh ấy không đến có lẽ có nghĩa là đã xảy ra chuyện gì đó."
+      }
+    ]
+  },
+  {
+    "draftId": 9,
+    "keep": true,
+    "pattern": "～はずはない",
+    "structure": "普通形＋はずはない／はずがない",
+    "meaning": "Không thể nào… / chắc chắn không… / không có lý nào… (phủ định mạnh dựa trên lý lẽ hoặc kỳ vọng).",
+    "examples": [
+      {
+        "ja": "こんなに簡単な問題を彼が間違えるはずはない。",
+        "vi": "Không lẽ anh ấy lại sai một bài dễ như thế này."
+      },
+      {
+        "ja": "約束したのだから、彼が来ないはずはない。",
+        "vi": "Đã hẹn rồi nên anh ấy không thể nào không đến."
+      }
+    ]
+  },
+  {
+    "draftId": 10,
+    "keep": true,
+    "pattern": "～わけがない",
+    "structure": "普通形＋わけがない／わけはない",
+    "meaning": "Không thể nào… / làm sao mà… được / chắc chắn không… (phủ định mạnh, cho rằng điều đó vô lý).",
+    "examples": [
+      {
+        "ja": "勉強せずに試験でいい点が取れるわけがない。",
+        "vi": "Không học mà đạt điểm cao trong kỳ thi thì không thể nào."
+      },
+      {
+        "ja": "あんなに忙しいのに、彼が暇なわけがない。",
+        "vi": "Bận đến thế kia, anh ấy làm sao mà rảnh được."
+      }
+    ]
+  },
+  {
+    "draftId": 11,
+    "keep": false,
+    "pattern": "勉強せずに試験でいい点が取れるわけがない",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 12,
+    "keep": true,
+    "pattern": "～得る／得ない",
+    "structure": "動詞ます形（ますを取る）＋得る／得ない",
+    "meaning": "Có thể xảy ra / có thể làm được (得る); không thể xảy ra / không thể làm được (得ない). Thường dùng trong văn viết hoặc cách nói trang trọng.",
+    "examples": [
+      {
+        "ja": "交通事故はいつでも起こり得ることなので、常に注意しなければならない。",
+        "vi": "Tai nạn giao thông lúc nào cũng có thể xảy ra, nên phải luôn chú ý."
+      },
+      {
+        "ja": "会社には理解し得ないルールがたくさんある。",
+        "vi": "Ở công ty có rất nhiều quy tắc khó lòng hiểu nổi."
+      }
+    ]
+  },
+  {
+    "draftId": 13,
+    "keep": false,
+    "pattern": "交通事故はいつでも起こり得ることなので、常に注意しなければならない",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 14,
+    "keep": true,
+    "pattern": "～もしない",
+    "structure": "動詞ます形（ますを取る）＋もしない",
+    "meaning": "Đến cả… cũng không… / chẳng thèm… (nhấn mạnh rằng thậm chí hành động tối thiểu cũng không làm).",
+    "examples": [
+      {
+        "ja": "彼は挨拶もしないで部屋を出て行った。",
+        "vi": "Anh ấy đi ra khỏi phòng mà đến cả chào cũng không."
+      },
+      {
+        "ja": "説明書を読みもしないで組み立てようとするな。",
+        "vi": "Đừng cố lắp mà đến cả đọc hướng dẫn cũng chẳng thèm."
+      }
+    ]
+  },
+  {
+    "draftId": 15,
+    "keep": true,
+    "pattern": "～にとどまる",
+    "structure": "名詞＋にとどまる／普通形＋にとどまる",
+    "meaning": "Chỉ dừng ở… / chỉ giới hạn ở… / không vượt quá…",
+    "examples": [
+      {
+        "ja": "被害者は10人にとどまった。",
+        "vi": "Số người bị thiệt hại chỉ dừng ở 10 người."
+      },
+      {
+        "ja": "今回の値上げは5パーセントにとどまる見通しだ。",
+        "vi": "Đợt tăng giá lần này dự kiến chỉ dừng ở mức 5 phần trăm."
+      }
+    ]
+  },
+  {
+    "draftId": 16,
+    "keep": true,
+    "pattern": "～一方（で）",
+    "structure": "普通形＋一方（で）／文。一方（で）、文。",
+    "meaning": "Một mặt…, mặt khác… / trong khi… thì… (đối chiếu hai mặt trái ngược hoặc hai khía cạnh khác nhau).",
+    "examples": [
+      {
+        "ja": "都会は便利な一方で、物価が高い。",
+        "vi": "Thành phố tiện lợi, nhưng mặt khác giá cả lại cao."
+      },
+      {
+        "ja": "兄はよく勉強する。一方、弟は遊んでばかりいる。",
+        "vi": "Anh trai học hành chăm chỉ. Trong khi đó, em trai thì chỉ chơi suốt."
+      }
+    ]
+  },
+  {
+    "draftId": 17,
+    "keep": true,
+    "pattern": "～に達する",
+    "structure": "名詞（数量・程度）＋に達する",
+    "meaning": "Đạt tới / lên tới / đạt mức… (số lượng, mức độ, mục tiêu).",
+    "examples": [
+      {
+        "ja": "被害額は100億円に達した。",
+        "vi": "Số tiền thiệt hại đã lên tới 10 tỷ yên."
+      },
+      {
+        "ja": "気温は午後には35度に達する見込みだ。",
+        "vi": "Nhiệt độ chiều nay dự kiến sẽ đạt tới 35 độ."
+      }
+    ]
+  },
+  {
+    "draftId": 18,
+    "keep": true,
+    "pattern": "～ほど",
+    "structure": "名詞／普通形＋ほど",
+    "meaning": "Càng… thì càng… / đến mức… (biểu thị tỷ lệ thuận hoặc mức độ cao).",
+    "examples": [
+      {
+        "ja": "嫌なことほど早く終わらせたい。",
+        "vi": "Việc càng không thích thì càng muốn làm xong sớm."
+      },
+      {
+        "ja": "経験を積むほど、仕事が楽しくなる。",
+        "vi": "Càng tích lũy kinh nghiệm thì công việc càng trở nên thú vị."
+      }
+    ]
+  },
+  {
+    "draftId": 19,
+    "keep": false,
+    "pattern": "嫌なことほど早く終わらせたい",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 20,
+    "keep": true,
+    "pattern": "～つつ",
+    "structure": "動詞ます形（ますを取る）＋つつ",
+    "meaning": "Vừa… vừa… (hai hành động diễn ra đồng thời; mang sắc thái văn viết hơn ながら).",
+    "examples": [
+      {
+        "ja": "音楽を聞きつつ、勉強する。",
+        "vi": "Vừa nghe nhạc vừa học."
+      },
+      {
+        "ja": "悪いと知りつつ、嘘をついてしまった。",
+        "vi": "Dù biết là sai vẫn nói dối mất rồi."
+      }
+    ]
+  },
+  {
+    "draftId": 21,
+    "keep": true,
+    "pattern": "～なり～なり",
+    "structure": "名詞／動詞辞書形＋なり＋名詞／動詞辞書形＋なり",
+    "meaning": "Nào là A, nào là B / A hay B chẳng hạn (đưa ra vài lựa chọn ví dụ để nghe chọn).",
+    "examples": [
+      {
+        "ja": "電話なりメールなりで連絡してください。",
+        "vi": "Hãy liên lạc bằng điện thoại hoặc email gì đó."
+      },
+      {
+        "ja": "行くなり帰るなり、早く決めてください。",
+        "vi": "Đi hay về thì cũng xin quyết định sớm đi."
+      }
+    ]
+  },
+  {
+    "draftId": 22,
+    "keep": false,
+    "pattern": "電話なりメールなりで連絡してくださ",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 23,
+    "keep": true,
+    "pattern": "～末（に）",
+    "structure": "名詞＋の末（に）／動詞た形＋末（に）",
+    "meaning": "Sau khi trải qua một quá trình dài / cuối cùng thì… (kết quả sau nhiều nỗ lực, suy nghĩ hoặc khó khăn).",
+    "examples": [
+      {
+        "ja": "長い議論の末に、やっと結論が出た。",
+        "vi": "Sau cuộc thảo luận dài, cuối cùng cũng đi đến kết luận."
+      },
+      {
+        "ja": "いろいろ考えた末に、転職することにした。",
+        "vi": "Sau khi suy nghĩ nhiều, cuối cùng tôi quyết định chuyển việc."
+      }
+    ]
+  },
+  {
+    "draftId": 24,
+    "keep": true,
+    "pattern": "～であれ",
+    "structure": "名詞＋であれ（＋名詞＋であれ）",
+    "meaning": "Dù là… / cho dù là… / bất kể là… (không phân biệt loại nào cũng vậy).",
+    "examples": [
+      {
+        "ja": "大人であれ子供であれ、ルールを守らなければならない。",
+        "vi": "Dù là người lớn hay trẻ em, đều phải tuân thủ quy tắc."
+      },
+      {
+        "ja": "理由が何であれ、遅刻は許されない。",
+        "vi": "Dù lý do là gì đi nữa, đến muộn cũng không được chấp nhận."
+      }
+    ]
+  },
+  {
+    "draftId": 25,
+    "keep": true,
+    "pattern": "～たところ",
+    "structure": "動詞た形＋ところ",
+    "meaning": "Sau khi làm… thì (phát hiện/kết quả là)… / đã thử làm… và kết quả là… (nêu kết quả thực tế sau khi thực hiện).",
+    "examples": [
+      {
+        "ja": "先生に相談したところ、いいアドバイスをもらえた。",
+        "vi": "Tôi hỏi ý kiến thầy thì được lời khuyên rất hay."
+      },
+      {
+        "ja": "窓を開けたところ、涼しい風が入ってきた。",
+        "vi": "Tôi mở cửa sổ thì gió mát tràn vào."
+      }
+    ]
+  },
+  {
+    "draftId": 26,
+    "keep": true,
+    "pattern": "～ものの",
+    "structure": "普通形＋ものの",
+    "meaning": "Mặc dù… nhưng… / tuy… nhưng… (thừa nhận một sự thật, rồi nêu kết quả trái với kỳ vọng).",
+    "examples": [
+      {
+        "ja": "日本に来たものの、まだ日本語があまり話せません。",
+        "vi": "Mặc dù đã đến Nhật, nhưng tôi vẫn chưa nói được nhiều tiếng Nhật."
+      },
+      {
+        "ja": "新しいパソコンを買ったものの、使い方がよく分からない。",
+        "vi": "Tuy đã mua máy tính mới, nhưng vẫn chưa hiểu rõ cách dùng."
+      }
+    ]
+  },
+  {
+    "draftId": 27,
+    "keep": true,
+    "pattern": "～かねない",
+    "structure": "動詞ます形（ますを取る）＋かねない",
+    "meaning": "Có nguy cơ sẽ… / có thể sẽ… (theo hướng xấu, không mong muốn).",
+    "examples": [
+      {
+        "ja": "このままでは、事故が起こりかねない。",
+        "vi": "Cứ tiếp tục như thế này thì có nguy cơ xảy ra tai nạn."
+      },
+      {
+        "ja": "無理をすると、病気になりかねない。",
+        "vi": "Cố quá sức thì có thể sẽ bị bệnh."
+      }
+    ]
+  },
+  {
+    "draftId": 28,
+    "keep": true,
+    "pattern": "いずれにしても／せよ／しろ",
+    "structure": "いずれにしても／いずれにせよ／いずれにしろ＋文",
+    "meaning": "Dù thế nào đi nữa / dù sao đi nữa (không phụ thuộc vào tình huống nào, kết luận vẫn giữ nguyên).",
+    "examples": [
+      {
+        "ja": "まだ結果は分かりませんが、いずれにせよ、頑張るしかありません。",
+        "vi": "Kết quả vẫn chưa rõ, nhưng dù sao cũng chỉ còn cách cố gắng."
+      },
+      {
+        "ja": "行くか行かないか迷っているが、いずれにしても早めに決めたい。",
+        "vi": "Tôi đang phân vân đi hay không, nhưng dù sao cũng muốn quyết định sớm."
+      }
+    ]
+  },
+  {
+    "draftId": 29,
+    "keep": true,
+    "pattern": "～でも",
+    "structure": "名詞＋でも",
+    "meaning": "… chẳng hạn / lấy ví dụ… (đưa ra gợi ý hoặc một lựa chọn ví dụ nhẹ nhàng).",
+    "examples": [
+      {
+        "ja": "分からないことがあったら、先生にでも聞いてください。",
+        "vi": "Nếu có điều gì không hiểu thì hãy hỏi giáo viên chẳng hạn."
+      },
+      {
+        "ja": "疲れているなら、お茶でも飲んで休みましょう。",
+        "vi": "Nếu mệt thì uống trà gì đó rồi nghỉ đi."
+      }
+    ]
+  },
+  {
+    "draftId": 30,
+    "keep": true,
+    "pattern": "～に対して",
+    "structure": "名詞＋に対して／普通形＋の＋に対して",
+    "meaning": "Đối với… / trái với… / trái lại… (hướng tới đối tượng, hoặc đối chiếu hai điều trái ngược).",
+    "examples": [
+      {
+        "ja": "兄はよく話すのに対して、弟は静かです。",
+        "vi": "Anh trai nói nhiều, trái lại em trai thì trầm lặng."
+      },
+      {
+        "ja": "暖かくなるという予報に対し、寒い日が続いている。",
+        "vi": "Trái với dự báo trời sẽ ấm, những ngày lạnh vẫn tiếp diễn."
+      }
+    ]
+  },
+  {
+    "draftId": 31,
+    "keep": false,
+    "pattern": "暖かくなるという予報に対し、寒い日が続いている",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 32,
+    "keep": true,
+    "pattern": "～向き",
+    "structure": "名詞＋向き",
+    "meaning": "Dành cho… / phù hợp với… (chỉ đối tượng phù hợp).",
+    "examples": [
+      {
+        "ja": "この本は中学生向きです。",
+        "vi": "Cuốn sách này dành cho học sinh trung học cơ sở."
+      },
+      {
+        "ja": "この仕事は初心者向きではない。",
+        "vi": "Công việc này không phù hợp với người mới bắt đầu."
+      }
+    ]
+  },
+  {
+    "draftId": 33,
+    "keep": true,
+    "pattern": "～に向けて",
+    "structure": "名詞＋に向けて",
+    "meaning": "Hướng tới… / nhằm vào… (mục tiêu, sự kiện, đối tượng trong tương lai).",
+    "examples": [
+      {
+        "ja": "来週のスピーチ大会に向けて、毎日1時間以上練習している。",
+        "vi": "Hướng tới cuộc thi phát biểu tuần sau, tôi luyện mỗi ngày hơn một tiếng."
+      },
+      {
+        "ja": "新商品の発売に向けて、宣伝活動を始めました。",
+        "vi": "Hướng tới ngày ra mắt sản phẩm mới, chúng tôi đã bắt đầu hoạt động quảng bá."
+      }
+    ]
+  },
+  {
+    "draftId": 34,
+    "keep": false,
+    "pattern": "来週のスピーチ大会に向けて、毎日1時間以上練習している",
+    "structure": "",
+    "meaning": "",
+    "examples": []
+  },
+  {
+    "draftId": 35,
+    "keep": true,
+    "pattern": "～わけにはいかない",
+    "structure": "動詞辞書形／ない形＋わけにはいかない",
+    "meaning": "Không thể… được (vì trách nhiệm, hoàn cảnh, quy tắc hoặc đạo đức nên không thể làm).",
+    "examples": [
+      {
+        "ja": "約束した以上、行かないわけにはいかない。",
+        "vi": "Đã hẹn rồi thì không thể nào không đi."
+      },
+      {
+        "ja": "今日は大事な会議があるので、休むわけにはいかない。",
+        "vi": "Hôm nay có cuộc họp quan trọng nên không thể nghỉ được."
+      }
+    ]
+  }
+]

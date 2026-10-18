@@ -1,0 +1,312 @@
+[
+  {
+    "draftId": 211,
+    "pattern": "お越しくださいました（おこしくださいました）",
+    "meaningDraft": "cách nói kính ngữ, thể hiện sự tôn trọng đối với người đến thăm. / Chào mừng quý khách đã đến",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 212,
+    "pattern": "伺う（うかがう",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "khiêm nhường ngữ của 行く（いく）/ 訪ねる（たずねる）, nghĩa là đi đến hoặc ghé thăm; cũng có nghĩa là hỏi, nghe.",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 213,
+    "pattern": "～へと",
+    "meaningDraft": "hướng đến…, tiến về phía…, mở rộng đến…",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "日本の文化（ぶんか）が世界へと広がっている。",
+        "vi": "Văn hóa Nhật Bản đang lan rộng ra t"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 214,
+    "pattern": "～限り（かぎり）",
+    "meaningDraft": "Chừng nào còn…",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 215,
+    "pattern": "～ない限り",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 216,
+    "pattern": "Nếu không… thì không…",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 217,
+    "pattern": "～限りでは",
+    "meaningDraft": "Theo những gì… / Trong phạm vi…",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 218,
+    "pattern": "～知っている限りでは: theo những gì tôi biết",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 219,
+    "pattern": "Vる１だけVる１",
+    "meaningDraft": "Mặc dù là khó nhưng vẫn sẽ thử làm, làm hết sức có thể",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 220,
+    "pattern": "...ただし,....",
+    "meaningDraft": "Tuy nhiên, nhưng, với điều kiện là / dùng để bổ sung điều kiện hoặc ngoại lệ cho nội dung vừa nói.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 221,
+    "pattern": "にかぎらず",
+    "meaningDraft": "Không chỉ giới hạn ở…; không riêng gì…; không chỉ…",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "日本（にほん）に限（かぎ）らず、世界中（せかいじゅう）で環境問題（かんきょうもんだい）が深刻（しん",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 222,
+    "pattern": "～らしい",
+    "meaningDraft": "Nghe nói / có vẻ là: phán đoán dựa trên thông tin thu thập được. / Đúng là… có khác: thể hiện đặc điểm",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 223,
+    "pattern": "において",
+    "meaningDraft": "Tại…, trong…, xét về (khía cạnh) / Chỉ địa điểm, lĩnh vực hoặc hoàn cảnh mang tính trang trọng. Ví dụ:",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 224,
+    "pattern": "Vさせてほしい",
+    "meaningDraft": "Muốn được phép làm gì / Chủ ngữ là người làm",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 225,
+    "pattern": "Vてほしい",
+    "meaningDraft": "Muốn ai đó làm gì / Biết bao nhiêu",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "どれだけ。。。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 226,
+    "pattern": "Nhấn mạnh cảm xúc",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 227,
+    "pattern": "Nếu mà có dịch vụ đó thì tốt bao nhiêu",
+    "meaningDraft": "Cấu trúc cố định",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "たら。。。よかった",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 228,
+    "pattern": "Nếu ... thì tốt",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 229,
+    "pattern": "いずれにしても",
+    "meaningDraft": "Dù thế nào đi nữa",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 230,
+    "pattern": "のに欠かせない（かかせない）",
+    "meaningDraft": "không thể thiếu trong việc gì đó",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 231,
+    "pattern": "一斉に",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 232,
+    "pattern": "いっせいに",
+    "meaningDraft": "đồng loạt / Hoa nở đồng loạt",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 233,
+    "pattern": "せいで",
+    "meaningDraft": "Chỉ tại / Mang tính trách móc / Để ... thì ...",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "...には。。。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 234,
+    "pattern": "～に上る（にのぼる）",
+    "meaningDraft": "lên tới, đạt tới một con số",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 235,
+    "pattern": "～の末に（のすえに）",
+    "meaningDraft": "sau một quá trình dài, cuối cùng đạt đến một kết quả nào đó. / Dùng khi sau nhiều thời gian, nỗ lực, t",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 236,
+    "pattern": "をめぐり",
+    "meaningDraft": "xoay quanh, liên quan đến một vấn đề đang gây tranh luận hoặc bất đồng.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 237,
+    "pattern": "を込めて",
+    "meaningDraft": "gửi gắm, đặt vào, dồn vào tình cảm hoặc ý chí.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 238,
+    "pattern": "～ばかり",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 239,
+    "pattern": "N + ばかり\tToàn là…, chỉ toàn…",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 240,
+    "pattern": "Vて + ばかりいる\tCứ suốt ngày làm…, chỉ toàn làm…",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 241,
+    "pattern": "Vた + ばかりだ\tVừa mới làm…",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 242,
+    "pattern": "Vた +",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 243,
+    "pattern": "～わけ",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 244,
+    "pattern": "～わけだ\tThảo nào…, hóa ra…, đương nhiên là…",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 245,
+    "pattern": "～わけではない\tKhông có nghĩa là…, không hẳn là…",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  }
+]

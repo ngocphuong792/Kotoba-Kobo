@@ -1,0 +1,386 @@
+[
+  {
+    "draftId": 1,
+    "pattern": "～くらい",
+    "meaningDraft": "1. Khoảng / 2. Đến mức",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "10分くらい休みましょう。",
+        "vi": "Hãy nghỉ khoảng 10 phút."
+      },
+      {
+        "ja": "立っていられないくらい疲れた。",
+        "vi": "Tôi mệt đến mức khôn"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 2,
+    "pattern": "～に違いない",
+    "meaningDraft": "Chắc chắn là, nhất định là",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "彼は日本に10年も住んでいるから、日本語が上手なに違いない。",
+        "vi": "Anh ấy đã sống ở Nhật 10 năm, chắc chắn"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 3,
+    "pattern": "～Vたとしても",
+    "meaningDraft": "Cho dù ... thì kết quả cũng ko đổi",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "明日雨が降ったとしても、試合は行われます。",
+        "vi": "Cho dù ngày mai có mưa, trận đấu vẫn được"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 4,
+    "pattern": "～なんか",
+    "meaningDraft": "Đưa ra ví dụ như có chút xem thường",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "そんな仕事なんか簡単ですよ。",
+        "vi": "Công việc như thế thì dễ mà."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 5,
+    "pattern": "いったい",
+    "meaningDraft": "nhấn mạnh sự ngạc nhiên, khó hiểu, bực mình hoặc muốn biết rõ.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 6,
+    "pattern": "いったい何をしているの？",
+    "meaningDraft": "Rốt cuộc đang làm cái",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 7,
+    "pattern": "V１かV1ないか",
+    "meaningDraft": "Chưa kịp làm V thì ...",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "昼ご飯を食べ終わるか食べ終わらないかのうちに、電話がかかってきた。",
+        "vi": "Chưa kịp ăn xong bữa trưa thì điện thoại"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 8,
+    "pattern": "～ということは...ということだ",
+    "meaningDraft": "Điều đó có nghĩa là",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "「今日は休み」ということは、会社に行かなくてもいいということだ。",
+        "vi": "“Hôm nay nghỉ” có nghĩa là không cần đến công"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 9,
+    "pattern": "～はずはない",
+    "meaningDraft": "không thể nào… / chắc chắn không… / không có lý nào…",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "こんなに簡単な問題を彼が間違えるはずはない。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 10,
+    "pattern": "～わけがない",
+    "meaningDraft": "không thể nào… / làm sao mà… được / chắc chắn không…",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 11,
+    "pattern": "勉強せずに試験でいい点が取れるわけがない",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 12,
+    "pattern": "～得る・得ない",
+    "meaningDraft": "Có thể /  không thể",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 13,
+    "pattern": "交通事故はいつでも起こり得ることなので、常に注意しなければならない",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "会社には理解し得ないルールがたくさんある",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 14,
+    "pattern": "～もしない",
+    "meaningDraft": "đến cả ～ cũng không… / hoàn toàn không… / chẳng thèm… / nhấn mạnh rằng một hành động thậm chí còn khôn",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 15,
+    "pattern": "Nにとどまる",
+    "meaningDraft": "chỉ dừng ở N / chỉ giới hạn ở N / không vượt quá N",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "被害者は10人にとどまった。",
+        "vi": "Số người bị thiệt hại chỉ dừng ở"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 16,
+    "pattern": "一方（で）",
+    "meaningDraft": "Một mặt A, mặt khác B / trong khi A thì B / Dùng để đối chiếu hai mặt trái ngược hoặc k",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "1. ～A。一方（で）、B。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 17,
+    "pattern": "N + に達する",
+    "meaningDraft": "đạt tới / lên tới / đạt mức…",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "被害額は100億円に達した。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 18,
+    "pattern": "N　ほど",
+    "meaningDraft": "Càng ... thì",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 19,
+    "pattern": "嫌なことほど早く終わらせたい",
+    "meaningDraft": "Những việc càng không thích thì càng muốn làm cho xong sớm.",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 20,
+    "pattern": "～つつ",
+    "meaningDraft": "vừa V vừa… / Dùng khi hai hành động diễn ra đồng thời.",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "音楽を聞きつつ、勉強する。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 21,
+    "pattern": "～なり～なり",
+    "meaningDraft": "Nào là A, nào là B / A hay B chẳng hạn / hãy chọn một trong những thứ như A hoặc B",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 22,
+    "pattern": "電話なりメールなりで連絡してくださ",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 23,
+    "pattern": "～すえ（に）",
+    "meaningDraft": "sau khi trải qua một quá trình dài / sau cùng, cuối cùng thì… / Dùng khi một người trải qua nhiều việc",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 24,
+    "pattern": "～であれ",
+    "meaningDraft": "dù là… / cho dù là… / bất kể là…",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "大人であれ子供であれ、ルールを守らなければならない。",
+        "vi": "Dù là người lớn hay trẻ em, đều phải t"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 25,
+    "pattern": "～Vたところ",
+    "meaningDraft": "Sau khi làm V thì phát hiện / kết quả là… / Tôi đã thử làm V, và kết quả là… / Dùng khi thực hiện một",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 26,
+    "pattern": "～ものの",
+    "meaningDraft": "mặc dù… nhưng… / tuy… nhưng… / khác với điều người ta thường kỳ vọng.",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "日本に来たものの、まだ日本語があまり話せません。",
+        "vi": "Mặc d"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 27,
+    "pattern": "～かねない",
+    "meaningDraft": "có nguy cơ sẽ… / có thể sẽ… (theo hướng xấu, không mong muốn)",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "このままでは、事故が起こりかねない。",
+        "vi": "Cứ tiếp tục như t"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 28,
+    "pattern": "いずれにしても・せよ・しろ",
+    "meaningDraft": "Dù thế nào đi nữa",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "まだ結果は分かりませんが、いずれにせよ、頑張るしかありません。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 29,
+    "pattern": "～でも",
+    "meaningDraft": "Đưa ra gợi ý, ví dụ",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "分からないことがあったら、先生にでも聞いてください。",
+        "vi": "Nếu có điều gì không hiểu thì hãy hỏi giáo viên chẳ"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 30,
+    "pattern": "～にたいして",
+    "meaningDraft": "Đối với, trái với, trái lại",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "兄はよく話すのに対して、弟は静かです。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 31,
+    "pattern": "暖かくなるという予報に対し、寒い日が続いている",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 32,
+    "pattern": "～向き",
+    "meaningDraft": "Dành cho, phù hợp với",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "この本は中学生向きです。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 33,
+    "pattern": "～に向けて",
+    "meaningDraft": "nhằm vào、 hướng đến (mục tiêu)",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "最近、中高年のパソコン教室が増えてきた。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 34,
+    "pattern": "来週のスピーチ大会に向けて、毎日1時間以上練習している",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 35,
+    "pattern": "～わけにはいかない",
+    "meaningDraft": "không thể…, không thể nào làm… được / Vì trách nhiệm, hoàn cảnh, quy tắc, đạo đức nên không thể làm",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  }
+]

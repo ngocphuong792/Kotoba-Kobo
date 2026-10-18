@@ -1,0 +1,383 @@
+[
+  {
+    "draftId": 141,
+    "pattern": "Vさせてやります",
+    "meaningDraft": "Cho ai đó làm gì / Chỉ khi có ... thì",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "。。。があって初めて。。。",
+        "vi": ""
+      },
+      {
+        "ja": "国民の、政治に対する信頼があって初めて政治家は指導力を発揮できるのだ。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 142,
+    "pattern": "それほど",
+    "meaningDraft": "đến mức đó, như thế, không đến mức đó",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 143,
+    "pattern": "どのように",
+    "meaningDraft": "như thế nào, bằng cách nào",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 144,
+    "pattern": "それでも",
+    "meaningDraft": "dù vậy, mặc dù thế",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 145,
+    "pattern": "～に代わって（にかわって）",
+    "meaningDraft": "thay cho, thay mặt cho, đại diện cho ~ / Dùng khi A thay thế A/người/vật khác để thực hiện một hành độ",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 146,
+    "pattern": "V-た + 上で",
+    "meaningDraft": "Làm A trước, sau đó mới làm B / (Hãy ký tên sau khi đã xác nhận lại hợp đồng.)",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "契約書を確認した上で、サインをしてください。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 147,
+    "pattern": "V-る + 上で",
+    "meaningDraft": "(Khi / Để làm A thì...) / (Khi sống ở Nhật, rào cản ngôn ngữ là một vấn đề lớn.)",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "日本に住む上で、言葉の壁は大きな問題だ。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 148,
+    "pattern": "N + の上では",
+    "meaningDraft": "Theo / Trên phương diện... / (Trên dữ liệu/Theo số liệu, doanh thu năm nay đang t",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "データの上では、今年の売上が伸びている。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 149,
+    "pattern": "～どころか、～すら～ない",
+    "meaningDraft": "Không những không A, mà đến cả B cũng không...",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 150,
+    "pattern": "N + くらいに思う",
+    "meaningDraft": "nghĩ rằng chỉ là ~ thôi / chẳng qua chỉ là ~",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 151,
+    "pattern": "子供の遊びくらいに思っていた",
+    "meaningDraft": "= nghĩ rằng đó chẳng qua chỉ là trò tr",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 152,
+    "pattern": "～抜き",
+    "meaningDraft": "bỏ qua, không có, loại bỏ",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "朝食抜きで学校へ行った。",
+        "vi": "Đi học mà không ăn sáng."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 153,
+    "pattern": "どうも",
+    "meaningDraft": "Hình như, có vẻ như",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "表の数字がどうも間違っていたようなんです。",
+        "vi": "Có vẻ như hình như / dường như các con số trong bảng đã"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 154,
+    "pattern": "どうか",
+    "meaningDraft": "làm ơn / mong rằng",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "どうかお願いします。",
+        "vi": "Làm ơn, xin hãy giúp tôi."
+      },
+      {
+        "ja": "どうか無事でありますように。",
+        "vi": "Mong rằng mọi chuyện sẽ b"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 155,
+    "pattern": "どうにか",
+    "meaningDraft": "Thường mang ý dù khó khăn nhưng cuối cùng cũng làm được.",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "どうにか間に合った。",
+        "vi": "Bằng cách nào đó cuối cùng cũn"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 156,
+    "pattern": "どうでも",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "どうでもいい = thế nào cũng được, không quan trọng",
+        "vi": ""
+      },
+      {
+        "ja": "もう一度計算して出して。",
+        "vi": "Hãy tính lại một lần nữa rồi nộp."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 157,
+    "pattern": "こたえて（応えて）",
+    "meaningDraft": "đáp lại, đáp ứng mong muốn, kỳ vọng, yêu cầu, tiếng nói...",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 158,
+    "pattern": "至って（いたって）",
+    "meaningDraft": "cực kỳ, hết sức, rất",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 159,
+    "pattern": "至って簡単",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "② ～に至って（いたって）＝ đến mức / đến khi / đến giai đoạn...",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 160,
+    "pattern": "問題が深刻な状況に至って、ようやく対策を始",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 161,
+    "pattern": "に関わる(かかわって)",
+    "meaningDraft": "liên quan đến, dính líu đến",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 162,
+    "pattern": "～うちに",
+    "meaningDraft": "trong khi..., trong quá trình..., dần dần trong lúc làm gì đó / Dùng khi trong quá trình một trạng thá",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 163,
+    "pattern": "なかに（中に）",
+    "meaningDraft": "",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "話し合いの中で決めた。",
+        "vi": "Đã quyết định trong quá trình thảo luận."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 164,
+    "pattern": "ついでに",
+    "meaningDraft": "nhân tiện, tiện thể",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 165,
+    "pattern": "とたんに（途端に）",
+    "meaningDraft": "ngay khi vừa... thì...",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "家を出たとたんに、雨が降り始めた。",
+        "vi": "Vừa ra khỏi nhà thì trời bắt đầu mưa."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 166,
+    "pattern": "Nによらず",
+    "meaningDraft": "bất kể N",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "年齢によらず、誰でも参加できます。",
+        "vi": "Bất kể tuổi tác, ai cũng có thể tham gia."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 167,
+    "pattern": "Nをのぞき（を除き）",
+    "meaningDraft": "ngoại trừ",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "日曜日を除き、毎日営業しています。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 168,
+    "pattern": "ふくめず",
+    "meaningDraft": "không bao gồm",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "送料を含めず、商品の価格だけを表示しています。",
+        "vi": "Không bao gồm phí vận chuyển, chỉ hiển thị giá sản phẩm."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 169,
+    "pattern": "Nに限り",
+    "meaningDraft": "chỉ / giới hạn ở",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "本日に限り、全商品20％引きです。",
+        "vi": ""
+      },
+      {
+        "ja": "ほんじつにかぎり、ぜんしょうひん20％びきです。",
+        "vi": "Chỉ trong hôm nay, tất cả sản phẩm giả"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 170,
+    "pattern": "～することはない",
+    "meaningDraft": "Ko cần làm",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 171,
+    "pattern": "～するよりほかない",
+    "meaningDraft": "không còn cách nào khác ngoài việc",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 172,
+    "pattern": "～のではない",
+    "meaningDraft": "Thường dùng để phủ định một cách giải thích/nhận định:",
+    "structureDraft": "",
+    "exampleDrafts": [
+      {
+        "ja": "行きたくないのではない。",
+        "vi": "Không phải là tôi không muốn đ"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "draftId": 173,
+    "pattern": "～ないでもない",
+    "meaningDraft": "không phải là không / thừa nhận một phần, nhưng mức độ không mạnh",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 174,
+    "pattern": "問題がある気がしないでもない",
+    "meaningDraft": "Cũng không phải là",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  },
+  {
+    "draftId": 175,
+    "pattern": "しとかなくちゃ = しておかなくちゃ",
+    "meaningDraft": "phải làm trước / phải chuẩn bị sẵn",
+    "structureDraft": "",
+    "exampleDrafts": [],
+    "notes": []
+  }
+]

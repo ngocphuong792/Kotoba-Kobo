@@ -1,0 +1,3598 @@
+[
+  {
+    "pattern": "～くらい",
+    "meanings": [
+      "1. Khoảng",
+      "2. Đến mức"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "10分くらい休みましょう。",
+        "vi": "Hãy nghỉ khoảng 10 phút."
+      },
+      {
+        "ja": "立っていられないくらい疲れた。",
+        "vi": "Tôi mệt đến mức khôn"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～に違いない",
+    "meanings": [
+      "Chắc chắn là, nhất định là"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "彼は日本に10年も住んでいるから、日本語が上手なに違いない。",
+        "vi": "Anh ấy đã sống ở Nhật 10 năm, chắc chắn"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～Vたとしても",
+    "meanings": [
+      "Cho dù ... thì kết quả cũng ko đổi"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "明日雨が降ったとしても、試合は行われます。",
+        "vi": "Cho dù ngày mai có mưa, trận đấu vẫn được"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～なんか",
+    "meanings": [
+      "Đưa ra ví dụ như có chút xem thường"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "そんな仕事なんか簡単ですよ。",
+        "vi": "Công việc như thế thì dễ mà."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "いったい",
+    "meanings": [
+      "nhấn mạnh sự ngạc nhiên, khó hiểu, bực mình hoặc muốn biết rõ."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "いったい何をしているの？",
+    "meanings": [
+      "Rốt cuộc đang làm cái"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "V１かV1ないか",
+    "meanings": [
+      "Chưa kịp làm V thì ..."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "昼ご飯を食べ終わるか食べ終わらないかのうちに、電話がかかってきた。",
+        "vi": "Chưa kịp ăn xong bữa trưa thì điện thoại"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～ということは...ということだ",
+    "meanings": [
+      "Điều đó có nghĩa là"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "「今日は休み」ということは、会社に行かなくてもいいということだ。",
+        "vi": "“Hôm nay nghỉ” có nghĩa là không cần đến công"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～はずはない",
+    "meanings": [
+      "không thể nào… / chắc chắn không… / không có lý nào…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "こんなに簡単な問題を彼が間違えるはずはない。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～わけがない",
+    "meanings": [
+      "không thể nào… / làm sao mà… được / chắc chắn không…"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "勉強せずに試験でいい点が取れるわけがない",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～得る・得ない",
+    "meanings": [
+      "Có thể /  không thể"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "交通事故はいつでも起こり得ることなので、常に注意しなければならない",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "会社には理解し得ないルールがたくさんある",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～もしない",
+    "meanings": [
+      "đến cả ～ cũng không… / hoàn toàn không… / chẳng thèm…",
+      "nhấn mạnh rằng một hành động thậm chí còn khôn"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Nにとどまる",
+    "meanings": [
+      "chỉ dừng ở N / chỉ giới hạn ở N / không vượt quá N"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "被害者は10人にとどまった。",
+        "vi": "Số người bị thiệt hại chỉ dừng ở"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "一方（で）",
+    "meanings": [
+      "Một mặt A, mặt khác B / trong khi A thì B",
+      "Dùng để đối chiếu hai mặt trái ngược hoặc k"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "1. ～A。一方（で）、B。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "N + に達する",
+    "meanings": [
+      "đạt tới / lên tới / đạt mức…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "被害額は100億円に達した。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "N　ほど",
+    "meanings": [
+      "Càng ... thì"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "嫌なことほど早く終わらせたい",
+    "meanings": [
+      "Những việc càng không thích thì càng muốn làm cho xong sớm."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～つつ",
+    "meanings": [
+      "vừa V vừa…",
+      "Dùng khi hai hành động diễn ra đồng thời."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "音楽を聞きつつ、勉強する。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～なり～なり",
+    "meanings": [
+      "Nào là A, nào là B / A hay B chẳng hạn / hãy chọn một trong những thứ như A hoặc B"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "電話なりメールなりで連絡してくださ",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～すえ（に）",
+    "meanings": [
+      "sau khi trải qua một quá trình dài / sau cùng, cuối cùng thì…",
+      "Dùng khi một người trải qua nhiều việc"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～であれ",
+    "meanings": [
+      "dù là… / cho dù là… / bất kể là…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "大人であれ子供であれ、ルールを守らなければならない。",
+        "vi": "Dù là người lớn hay trẻ em, đều phải t"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～Vたところ",
+    "meanings": [
+      "Sau khi làm V thì phát hiện / kết quả là…",
+      "Tôi đã thử làm V, và kết quả là…",
+      "Dùng khi thực hiện một"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～ものの",
+    "meanings": [
+      "mặc dù… nhưng… / tuy… nhưng…",
+      "khác với điều người ta thường kỳ vọng."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "日本に来たものの、まだ日本語があまり話せません。",
+        "vi": "Mặc d"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～かねない",
+    "meanings": [
+      "có nguy cơ sẽ… / có thể sẽ… (theo hướng xấu, không mong muốn)"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "このままでは、事故が起こりかねない。",
+        "vi": "Cứ tiếp tục như t"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "いずれにしても・せよ・しろ",
+    "meanings": [
+      "Dù thế nào đi nữa"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "まだ結果は分かりませんが、いずれにせよ、頑張るしかありません。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～でも",
+    "meanings": [
+      "Đưa ra gợi ý, ví dụ"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "分からないことがあったら、先生にでも聞いてください。",
+        "vi": "Nếu có điều gì không hiểu thì hãy hỏi giáo viên chẳ"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～にたいして",
+    "meanings": [
+      "Đối với, trái với, trái lại"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "兄はよく話すのに対して、弟は静かです。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "暖かくなるという予報に対し、寒い日が続いている",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～向き",
+    "meanings": [
+      "Dành cho, phù hợp với"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "この本は中学生向きです。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～に向けて",
+    "meanings": [
+      "nhằm vào、 hướng đến (mục tiêu)"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "最近、中高年のパソコン教室が増えてきた。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "来週のスピーチ大会に向けて、毎日1時間以上練習している",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～わけにはいかない",
+    "meanings": [
+      "không thể…, không thể nào làm… được",
+      "Vì trách nhiệm, hoàn cảnh, quy tắc, đạo đức nên không thể làm"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～ないわけにはいかない",
+    "meanings": [
+      "Đành phải làm, ko làm ko dc"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "明日は大事な試験なので、勉強しないわけにはいきません。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～れる・られる",
+    "meanings": [
+      "Tự nhiên nhớ ra"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "この歌を聞くと、子供のころのことが思い出される",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～かわり（に）",
+    "meanings": [
+      "１。Thay vì"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "車で来たので、ビールの代わりにジュースで乾杯します",
+    "meanings": [
+      "２．Đổi lại, bù lại"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Aさんにベトナム語を教えてもらう代わりに、日本語を教えてあげることにした。",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "給料が高い代わり",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～常に（つねに）",
+    "meanings": [
+      "luôn luôn, lúc nào cũng, thường xuyên trong mọi lúc."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "健康には常に気をつけています。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "突然",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "突然、雨が降ってきました。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～てたまらない",
+    "meanings": [
+      "… chịu không nổi, … vô cùng, rất…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "今日は暑くてたまりません。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "Vてならない",
+    "meanings": [
+      "không thể không…, cứ cảm thấy…, vô cùng…",
+      "Diễn tả cảm xúc hoặc cảm giác tự nhiên cứ xuất hiện, bản th"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "しばしば",
+    "meanings": [
+      "thường xuyên, hay, nhiều khi"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "日本ではしばしば地震が起こる。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "順調に",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "計画は順調に進んでいる",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vてみせる",
+    "meanings": [
+      "nhất định sẽ…, nhất định làm cho bằng được…",
+      "Dùng khi thể hiện ý chí mạnh mẽ, quyết tâm làm một việ"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～ばかりだ",
+    "meanings": [
+      "cứ ngày càng…, chỉ có… theo một chiều hướng.",
+      "Dùng khi một sự việc liên tục thay đổi theo một hướn"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "まったく",
+    "meanings": [
+      "Hoàn toàn"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "私の意見はあなたの意見とまったく同じです。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "明確に",
+    "meanings": [
+      "một cách rõ ràng, cụ thể, minh bạch."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "理由を明確に説明してください。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "もともと",
+    "meanings": [
+      "vốn dĩ, nguyên bản, từ trước vốn đã…"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "ここはもともと、祖父の土地だ",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～ものだ・ではない",
+    "meanings": [],
+    "structures": [
+      "② ～ものではな"
+    ],
+    "examples": [
+      {
+        "ja": "① ～ものだ：đáng lẽ / vốn dĩ / thường là",
+        "vi": ""
+      },
+      {
+        "ja": "人は失敗から学ぶものです。",
+        "vi": "Con người vốn phải học hỏi từ thất bại."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "さほど～ない",
+    "meanings": [
+      "không … lắm / không đến mức …"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "この仕事はさほど難しくありません。",
+        "vi": "Công việc này không khó lắm."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "まさに",
+    "meanings": [
+      "１．xác là…, đúng là…, quả thật là",
+      "2. Đúng vào lúc, ngay kh"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "彼はまさに天才です。",
+        "vi": "Anh ấy đúng là một thiên tài."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～ながら（も）",
+    "meanings": [
+      "mặc dù…, tuy… nhưng…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "忙しいながらも、毎日日本語を勉強しています。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～に決まっている",
+    "meanings": [
+      "Chắc chắn là",
+      "Dùng khi người nói tin chắc một điều, dựa trên suy nghĩ hoặc phán đoán của mình."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "こんなに練習",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～とか",
+    "meanings": [
+      "nghe nói là…, hình như là…, nghe đâu là…",
+      "Dùng khi truyền đạt lại thông tin mình nghe được, nhưng k"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vるところに / Vているところに / Vたところに",
+    "meanings": [
+      "đúng lúc đang… thì / đúng lúc vừa… thì có sự việc khác xảy ra"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～とすると、～ / ～とすれば、～",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Nếu giả sử A là đúng, thì B",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "とはいえ",
+    "meanings": [
+      "Tuy nói là… nhưng… / Mặc dù vậy… / Dù thế đi nữa…",
+      "Dùng khi thừa nhận điều vừa nói ở trước,"
+    ],
+    "structures": [
+      "＝しかし、ところが"
+    ],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～にすぎない",
+    "meanings": [
+      "chỉ là… / không hơn gì… / chẳng qua chỉ là…",
+      "Dùng để hạ mức độ, giới hạn hoặc đánh giá một sự việc ở"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vたはずだ",
+    "meanings": [
+      "Đáng lẽ là ... nhưng lại"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "のではないか",
+    "meanings": [],
+    "structures": [
+      "＝　と思う"
+    ],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "のだろうか",
+    "meanings": [
+      "Liệu rằng"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vたところ",
+    "meanings": [
+      "Sau khi"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～といっても",
+    "meanings": [
+      "Tuy nói là… nhưng thực ra",
+      "Nói là biết tiếng Nhật nhưng chỉ giao tiếp được những câu đơn giản."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～とともに",
+    "meanings": [
+      "① Cùng với / cùng với ai đó",
+      "② Cùng với sự thay đổi của A thì B cũng thay đổi",
+      "③ Đồng thời / vừa… vừa…"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "あげく",
+    "meanings": [
+      "Sau một thời gian làm gì đó xong cuối cùng là kết quả ko tốt"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "何度も話し合ったあげく、結局、何も決まらなかった。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～あまり",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vì quá... nên...",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "心配のあまり、眠れなかった。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "上で",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vた上で：Sau khi",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vる上で：　trong khi",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "よく考えた上で、返事をします。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～であり",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vừa ... vừa",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "彼は優秀なエンジニアであり、優れたリーダーでもある。",
+        "vi": "Anh ấy vừa là một kỹ sư xuất sắc, vừa là một nhà lãnh đạo g"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "ように、みたいに",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Như thể là, giống như là, như là",
+    "meanings": [
+      "Không thể nào"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "とても。。。ない",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "とても食べられない: không thể nào ăn nổi",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "仮に（かりに）",
+    "meanings": [
+      "giả sử, nếu như, tạm giả định",
+      "Không bao giờ nữa, không lần nào nữa."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "仮に宝くじが当たったとしたら、何を買いますか。",
+        "vi": ""
+      },
+      {
+        "ja": "かりに たからくじが あたったとしたら、なにを かいますか。",
+        "vi": "Giả sử trúng"
+      },
+      {
+        "ja": "二度と。。。ない",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～わけではない",
+    "meanings": [
+      "Không hẳn là…, không có nghĩa là…, không phải hoàn toàn…"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "必ずしも～とは限らない・わけではない・と言えない・のではない",
+    "meanings": [
+      "Không hẳn là, chưa chắc là"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "に違いない",
+    "meanings": [
+      "Chắc chắn là…,"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～ようがない",
+    "meanings": [
+      "không thể làm gì được、không thể"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "連絡先が分からないので、彼に連絡しようがない。",
+        "vi": ""
+      },
+      {
+        "ja": "（れんらくさきが わからないので、かれに れんらくしようがない。）",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "Vì không b",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～てもかまわない",
+    "meanings": [
+      "Dù có… cũng không sao"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "おわび申し上げます",
+    "meanings": [
+      "Khiêm nhường của xin lỗi. Hành động mình làm"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～てみないでしょうか",
+    "meanings": [
+      "đề nghị hoặc rủ ai đó cùng làm một việc",
+      "Hay là thử làm… không?"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～としても",
+    "meanings": [
+      "Dù cho…, cho dù…, giả sử có… thì cũng…"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～ものだ",
+    "meanings": [
+      "Thường là…, vốn dĩ là…",
+      "Thật là…, đúng là…",
+      "Dùng để thể hiện cảm xúc, sự cảm thán."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vるものだ = Nên…, phải…",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "普通＋からこそ",
+    "meanings": [
+      "Chính vì, bời vì"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "このように、。。。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "Như vậy là ...、bằng cách như vậy",
+    "meanings": [
+      "Mang tính kết luận"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "一方で",
+    "meanings": [
+      "Mặt khác"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "ちなみに、ところで",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Nhân tiện, tiện thể",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "それどころか",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "A。それどころか、B。",
+    "meanings": [
+      "Không phải A, mà ngược lại còn B."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "彼は謝るどころか、それどころか私を責めた。",
+        "vi": "Anh ấy chẳng những không xin"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "何人ものひと＝たくさん人",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "さえ、すら",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Ngay cả",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "N + すら + V",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "のみ、だけ",
+    "meanings": [
+      "Chỉ"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "ほど",
+    "meanings": [
+      "Càng, đến mức, khoảng cỡ"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "。。。とか言う",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "Nói cái kiểu như là ...",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "末に（すえに）",
+    "meanings": [
+      "sau khi làm gì đó trong một thời gian dài, cuối cùng đi đến kết quả..."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "長い話し合いの末に、結論が出た。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "さきに（先に）",
+    "meanings": [
+      "trước, trước tiên"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "先に帰ってください。",
+        "vi": "Hãy về trước đi."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "とおりに",
+    "meanings": [
+      "theo như, đúng như"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "計画どおりに進む。",
+        "vi": "Tiến triển đúng như kế hoạch."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "ところに",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vたところ = vừa mới làm ~ thì...",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "家に帰ったところ、友達から電話が来た。",
+        "vi": "Vừa về đến nhà thì bạn gọi điện."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "Vた・Nの　あげく",
+    "meanings": [
+      "Sau 1 hồi làm gì đó và có kết quả ko tốt"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "あるまい　＝　ないだろう",
+    "meanings": [
+      "Có lẽ"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "までもあるまい",
+    "meanings": [
+      "Không đến mức"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "しかあるまい",
+    "meanings": [
+      "chỉ còn cách, đành phải"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "こともない",
+    "meanings": [
+      "không cần phải ~"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "はずもない",
+    "meanings": [
+      "không thể nào ~ / chắc chắn không ~"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "AよりむしろB",
+    "meanings": [
+      "B hơn là A / đúng hơn là B"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "日本語よりむしろ英語のほうが得意です。",
+        "vi": "Tôi giỏi tiếng Anh hơn là tiếng Nhật."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "まさか",
+    "meanings": [
+      "chẳng lẽ, không thể nào"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "まさか、そんなことはない。",
+        "vi": "Không thể nào, không có chuyện đó đâu."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "たとえ...ても",
+    "meanings": [
+      "dù cho, cho dù"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "たとえ雨が降っても、行きます。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～とも～とも",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "来るとも来ないとも言えない。",
+        "vi": "Không thể nói chắc là anh ấy sẽ đến hay không."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "書いたか書かなかったか",
+    "meanings": [
+      "đã viết hay chưa viết"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "書いても書かなくてもどちらでもいい",
+    "meanings": [
+      "viết hay không viết cũng được"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～とか～とか",
+    "meanings": [
+      "nào là A, nào là B / như là A hay B."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～すぎずに",
+    "meanings": [
+      "không nên làm quá ... mà nên",
+      "Đưa ra lời khuyên"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～にすぎず",
+    "meanings": [
+      "chỉ là…, chẳng qua chỉ…, không hơn gì…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "彼は学生にすぎず、まだ経験がない。",
+        "vi": "Anh ấy chỉ là sinh viên, vẫn chưa có kinh"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "N + でしかないこと",
+    "meanings": [
+      "chỉ là N mà thôi / chẳng qua chỉ là N"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "世界のほんの小さな一部分でしかない",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "にしかない",
+    "meanings": [
+      "chỉ có ở ~ / chỉ tồn tại ở ~"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vる + わけない",
+    "meanings": [
+      "không thể nào ~ / làm gì có chuyện ~"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vる + わけないじゃない",
+    "meanings": [
+      "Chẳng phải là không thể V hay sao"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "じゃない　ｃuối câu chỉ mang tính nhấn mạnh",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～わけじゃない（～わけではない）",
+    "meanings": [
+      "không phải là ~"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "と言ってもいいぐらいだ",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～ぐらい nhấn mạnh mức độ",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "毎日勉強していると言ってもいいぐらいだ。",
+        "vi": "Có thể nói là ngày nào tôi cũng học."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "N +　にしたら",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Nếu mà ở vị trí N thì ...",
+    "meanings": [
+      "Nếu mà ở vị trí anh ấy thì chắc chắn sẽ rất áp lực"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vさせてやります",
+    "meanings": [
+      "Cho ai đó làm gì",
+      "Chỉ khi có ... thì"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "。。。があって初めて。。。",
+        "vi": ""
+      },
+      {
+        "ja": "国民の、政治に対する信頼があって初めて政治家は指導力を発揮できるのだ。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "それほど",
+    "meanings": [
+      "đến mức đó, như thế, không đến mức đó"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "どのように",
+    "meanings": [
+      "như thế nào, bằng cách nào"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "それでも",
+    "meanings": [
+      "dù vậy, mặc dù thế"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～に代わって（にかわって）",
+    "meanings": [
+      "thay cho, thay mặt cho, đại diện cho ~",
+      "Dùng khi A thay thế A/người/vật khác để thực hiện một hành độ"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "V-た + 上で",
+    "meanings": [
+      "Làm A trước, sau đó mới làm B",
+      "(Hãy ký tên sau khi đã xác nhận lại hợp đồng.)"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "契約書を確認した上で、サインをしてください。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "V-る + 上で",
+    "meanings": [
+      "(Khi / Để làm A thì...)",
+      "(Khi sống ở Nhật, rào cản ngôn ngữ là một vấn đề lớn.)"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "日本に住む上で、言葉の壁は大きな問題だ。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "N + の上では",
+    "meanings": [
+      "Theo / Trên phương diện...",
+      "(Trên dữ liệu/Theo số liệu, doanh thu năm nay đang t"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "データの上では、今年の売上が伸びている。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～どころか、～すら～ない",
+    "meanings": [
+      "Không những không A, mà đến cả B cũng không..."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "N + くらいに思う",
+    "meanings": [
+      "nghĩ rằng chỉ là ~ thôi / chẳng qua chỉ là ~"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "子供の遊びくらいに思っていた",
+    "meanings": [
+      "= nghĩ rằng đó chẳng qua chỉ là trò tr"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～抜き",
+    "meanings": [
+      "bỏ qua, không có, loại bỏ"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "朝食抜きで学校へ行った。",
+        "vi": "Đi học mà không ăn sáng."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "どうも",
+    "meanings": [
+      "Hình như, có vẻ như"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "表の数字がどうも間違っていたようなんです。",
+        "vi": "Có vẻ như hình như / dường như các con số trong bảng đã"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "どうか",
+    "meanings": [
+      "làm ơn / mong rằng"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "どうかお願いします。",
+        "vi": "Làm ơn, xin hãy giúp tôi."
+      },
+      {
+        "ja": "どうか無事でありますように。",
+        "vi": "Mong rằng mọi chuyện sẽ b"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "どうにか",
+    "meanings": [
+      "Thường mang ý dù khó khăn nhưng cuối cùng cũng làm được."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "どうにか間に合った。",
+        "vi": "Bằng cách nào đó cuối cùng cũn"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "どうでも",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "どうでもいい = thế nào cũng được, không quan trọng",
+        "vi": ""
+      },
+      {
+        "ja": "もう一度計算して出して。",
+        "vi": "Hãy tính lại một lần nữa rồi nộp."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "こたえて（応えて）",
+    "meanings": [
+      "đáp lại, đáp ứng mong muốn, kỳ vọng, yêu cầu, tiếng nói..."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "至って（いたって）",
+    "meanings": [
+      "cực kỳ, hết sức, rất"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "至って簡単",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "② ～に至って（いたって）＝ đến mức / đến khi / đến giai đoạn...",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "問題が深刻な状況に至って、ようやく対策を始",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "に関わる(かかわって)",
+    "meanings": [
+      "liên quan đến, dính líu đến"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～うちに",
+    "meanings": [
+      "trong khi..., trong quá trình..., dần dần trong lúc làm gì đó",
+      "Dùng khi trong quá trình một trạng thá"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "なかに（中に）",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "話し合いの中で決めた。",
+        "vi": "Đã quyết định trong quá trình thảo luận."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "ついでに",
+    "meanings": [
+      "nhân tiện, tiện thể"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "とたんに（途端に）",
+    "meanings": [
+      "ngay khi vừa... thì..."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "家を出たとたんに、雨が降り始めた。",
+        "vi": "Vừa ra khỏi nhà thì trời bắt đầu mưa."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "Nによらず",
+    "meanings": [
+      "bất kể N"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "年齢によらず、誰でも参加できます。",
+        "vi": "Bất kể tuổi tác, ai cũng có thể tham gia."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "Nをのぞき（を除き）",
+    "meanings": [
+      "ngoại trừ"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "日曜日を除き、毎日営業しています。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "ふくめず",
+    "meanings": [
+      "không bao gồm"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "送料を含めず、商品の価格だけを表示しています。",
+        "vi": "Không bao gồm phí vận chuyển, chỉ hiển thị giá sản phẩm."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "Nに限り",
+    "meanings": [
+      "chỉ / giới hạn ở"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "本日に限り、全商品20％引きです。",
+        "vi": ""
+      },
+      {
+        "ja": "ほんじつにかぎり、ぜんしょうひん20％びきです。",
+        "vi": "Chỉ trong hôm nay, tất cả sản phẩm giả"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～することはない",
+    "meanings": [
+      "Ko cần làm"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～するよりほかない",
+    "meanings": [
+      "không còn cách nào khác ngoài việc"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～のではない",
+    "meanings": [
+      "Thường dùng để phủ định một cách giải thích/nhận định:"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "行きたくないのではない。",
+        "vi": "Không phải là tôi không muốn đ"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～ないでもない",
+    "meanings": [
+      "không phải là không",
+      "thừa nhận một phần, nhưng mức độ không mạnh"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "問題がある気がしないでもない",
+    "meanings": [
+      "Cũng không phải là"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "しとかなくちゃ = しておかなくちゃ",
+    "meanings": [
+      "phải làm trước / phải chuẩn bị sẵn"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vたら Vたで",
+    "meanings": [
+      "Dù có làm V thì cũng lại có vấn đề khác / làm rồi thì lại...",
+      "Không làm cũng bị phàn nàn, mà làm rồi"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～ざるを得ない",
+    "meanings": [
+      "buộc phải"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "事故が起きたので、計画を変更せざるを得ません。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "Vない → Vざるを得ない",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～ないわけではない",
+    "meanings": [
+      "không phải là không... / không hẳn là không..."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "行きたくないわけではない。",
+        "vi": "Không phải là tôi không muốn đi."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～はずもない",
+    "meanings": [
+      "chắc chắn ko"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～すべきではない",
+    "meanings": [
+      "không nên"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "お～になります",
+    "meanings": [
+      "tông kính ngữ"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "お～します",
+    "meanings": [
+      "khiêm nhường"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "まるで ～ようだ / ～みたいだ / ～かのようだ",
+    "meanings": [
+      "cứ như là…, giống như là…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "彼はまるで何も知らないかのようで、平気な顔をしていた。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～さえ～ば",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "お金がありさえすれば、買える。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "としても",
+    "meanings": [
+      "dù cho…, cho dù…, ngay cả nếu…"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "V thể thường + としても",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "N + だとしても",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "なA + だとしても",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "仕方ない（仕方ない）",
+    "meanings": [
+      "Không còn cách nào khác, ko thể tránh khỏi"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "だって＝でも",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "どんな練習にだって耐えます。",
+        "vi": "Dù là bất kỳ buổi luyện tập nào tôi cũng chịu được."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～おかげだ",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Nhờ có",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "N + のおかげだ",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "V thể thường + おかげだ",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "いA + おかげだ",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "なA + な／だった + おかげだ",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "果たして（はたして）",
+    "meanings": [
+      "quả nhiên / liệu có thật sự…? / rốt cuộc…?",
+      "nhấn mạnh sự nghi vấn hoặc kết quả cuối cùng"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "果たして彼は本当に来るだ",
+    "meanings": [
+      "Bởi vì"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "なぜなら、。。。から",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "その結果,.....",
+    "meanings": [
+      "Kết quả là ..."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～を問わず（をとわず）",
+    "meanings": [
+      "bất kể…, không phân biệt…"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "を通して（をとおして）– THÔNG",
+    "meanings": [
+      "thông qua…, xuyên suốt…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "一年（いちねん）を通（とお）して、暖（あたた）かい気候（きこう）です。",
+        "vi": "Khí hậu ấm áp quanh năm."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "にもかかわらず",
+    "meanings": [
+      "mặc dù…, mặc cho…",
+      "Dùng khi kết quả xảy ra trái với điều được dự đoán từ tình huống phía trước."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "もっとも",
+    "meanings": [
+      "tuy nhiên, nói cho đúng thì, có điều là… Dùng để bổ sung một ý giới hạn hoặc điều chỉnh nhận định vừ"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "そのかわり",
+    "meanings": [
+      "thay vào đó, đổi lại, bù lại."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "それなら",
+    "meanings": [
+      "nếu vậy thì…, nếu là như thế thì…",
+      "Dùng khi đưa ra kết luận hoặc phản ứng dựa trên thông tin vừa được"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "しかも",
+    "meanings": [
+      "hơn nữa, vả lại, thêm vào đó",
+      "Dùng để bổ sung thông tin, thường làm tăng mức độ hoặc nhấn mạnh thêm ý"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "たまらない",
+    "meanings": [
+      "vô cùng…, không chịu nổi…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "日本（にほん）に行（い）きたくてたまらない。",
+        "vi": "Tôi vô cùng muốn đến Nhật Bản."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "わけがない",
+    "meanings": [
+      "không thể nào…, chắc chắn không…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "彼（かれ）がそんなことをするわけがない。",
+        "vi": "Anh ấy không thể nào làm chuyện như thế được"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～てならない",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "彼（かれ）のことが心配（しんぱい）でならない。",
+        "vi": "Tôi vô cùng lo lắng cho anh ấy."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "お越しくださいました（おこしくださいました）",
+    "meanings": [
+      "cách nói kính ngữ, thể hiện sự tôn trọng đối với người đến thăm.",
+      "Chào mừng quý khách đã đến"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "伺う（うかがう",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "khiêm nhường ngữ của 行く（いく）/ 訪ねる（たずねる）, nghĩa là đi đến hoặc ghé thăm; cũng có nghĩa là hỏi, nghe.",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～へと",
+    "meanings": [
+      "hướng đến…, tiến về phía…, mở rộng đến…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "日本の文化（ぶんか）が世界へと広がっている。",
+        "vi": "Văn hóa Nhật Bản đang lan rộng ra t"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～限り（かぎり）",
+    "meanings": [
+      "Chừng nào còn…"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～ない限り",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Nếu không… thì không…",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～限りでは",
+    "meanings": [
+      "Theo những gì… / Trong phạm vi…"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～知っている限りでは: theo những gì tôi biết",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vる１だけVる１",
+    "meanings": [
+      "Mặc dù là khó nhưng vẫn sẽ thử làm, làm hết sức có thể"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "...ただし,....",
+    "meanings": [
+      "Tuy nhiên, nhưng, với điều kiện là",
+      "dùng để bổ sung điều kiện hoặc ngoại lệ cho nội dung vừa nói."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "にかぎらず",
+    "meanings": [
+      "Không chỉ giới hạn ở…; không riêng gì…; không chỉ…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "日本（にほん）に限（かぎ）らず、世界中（せかいじゅう）で環境問題（かんきょうもんだい）が深刻（しん",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～らしい",
+    "meanings": [
+      "Nghe nói / có vẻ là: phán đoán dựa trên thông tin thu thập được.",
+      "Đúng là… có khác: thể hiện đặc điểm"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "において",
+    "meanings": [
+      "Tại…, trong…, xét về (khía cạnh)",
+      "Chỉ địa điểm, lĩnh vực hoặc hoàn cảnh mang tính trang trọng. Ví dụ:"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vさせてほしい",
+    "meanings": [
+      "Muốn được phép làm gì",
+      "Chủ ngữ là người làm"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vてほしい",
+    "meanings": [
+      "Muốn ai đó làm gì",
+      "Biết bao nhiêu"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "どれだけ。。。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "Nhấn mạnh cảm xúc",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Nếu mà có dịch vụ đó thì tốt bao nhiêu",
+    "meanings": [
+      "Cấu trúc cố định"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "たら。。。よかった",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "Nếu ... thì tốt",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "いずれにしても",
+    "meanings": [
+      "Dù thế nào đi nữa"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "のに欠かせない（かかせない）",
+    "meanings": [
+      "không thể thiếu trong việc gì đó"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "一斉に",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "いっせいに",
+    "meanings": [
+      "đồng loạt",
+      "Hoa nở đồng loạt"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "せいで",
+    "meanings": [
+      "Chỉ tại",
+      "Mang tính trách móc",
+      "Để ... thì ..."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "...には。。。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～に上る（にのぼる）",
+    "meanings": [
+      "lên tới, đạt tới một con số"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～の末に（のすえに）",
+    "meanings": [
+      "sau một quá trình dài, cuối cùng đạt đến một kết quả nào đó.",
+      "Dùng khi sau nhiều thời gian, nỗ lực, t"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "をめぐり",
+    "meanings": [
+      "xoay quanh, liên quan đến một vấn đề đang gây tranh luận hoặc bất đồng."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "を込めて",
+    "meanings": [
+      "gửi gắm, đặt vào, dồn vào tình cảm hoặc ý chí."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～ばかり",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "N + ばかり\tToàn là…, chỉ toàn…",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vて + ばかりいる\tCứ suốt ngày làm…, chỉ toàn làm…",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vた + ばかりだ\tVừa mới làm…",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vた +",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～わけ",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～わけだ\tThảo nào…, hóa ra…, đương nhiên là…",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～わけではない\tKhông có nghĩa là…, không hẳn là…",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～わけがない\tKhông thể",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～次第（しだい）",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": [
+      "\\["
+    ]
+  },
+  {
+    "pattern": "Động từ thể ます bỏ ます + 次第",
+    "meanings": [
+      "Ngay khi… thì sẽ… / ngay sau khi…"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "以上（いじょう）",
+    "meanings": [
+      "một khi đã… thì…"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～てもおかしくない",
+    "meanings": [
+      "Làm gì cũng không có gì lạ, hoàn toàn có thể xảy ra."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Ví dụ: まだ熱があるなら、休んでもおかしくない。",
+    "meanings": [
+      "Nếu vẫn còn sốt t"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～っこない",
+    "meanings": [
+      "Tuyệt đối không, không đời nào. Là cách nói thân mật, nhấn mạnh sự phủ định."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Ví dụ: 彼がそんなことをするわけがない。",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～ほかない",
+    "meanings": [
+      "Không còn cách nào khác ngoài việc làm gì đó."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "電車が止まっているので、歩くほかない。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "たびに",
+    "meanings": [
+      "Mỗi lần… thì lại…"
+    ],
+    "structures": [
+      ""
+    ],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "- Động từ thể từ điển + たびに",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "- Danh từ + の + たびに",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～みたい",
+    "meanings": [
+      "Có vẻ"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "それもあるかもしれません",
+    "meanings": [
+      "Có lẽ điều đó cũng đúng / Có thể cũng có nguyên nhân đó."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "そのつもりです",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "Tôi dự định như vậy\tそのつもり diễn tả dự định hoặc ý định",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "に次いで（についで）",
+    "meanings": [
+      "Tiếp sau A là B",
+      "Sau bóng đá thì có bóng chay cũng rất nổi tiếng"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～たきり",
+    "meanings": [
+      "Kể từ khi làm việc gì đó thì không làm lại nữa"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～はもとより",
+    "meanings": [
+      "Không chỉ… mà đương nhiên còn…; không những… mà cả…"
+    ],
+    "structures": [
+      ""
+    ],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "A はもとより B も～",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "これだけ",
+    "meanings": [
+      "nhiều đến mức này / chừng này / chỉ bấy nhiêu",
+      "nhấn mạnh số lượng hoặc mức độ lớn đến như vậy."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "これだけ多く",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "そのうえ",
+    "meanings": [
+      "Hơn nữa"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "だが、。。。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "Nhưng, tuy nhiên",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "に沿って（にそって)",
+    "meanings": [
+      "Theo, dựa theo; tuân theo một phương hướng hoặc kế hoạch"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "にわたって",
+    "meanings": [
+      "Suốt, trải dài trong một khoảng thời gian hoặc phạm vi"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "3時間（さんじかん）にわたって会議（かいぎ）が行（おこな）われた — Cuộc họp d",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "Động từ thể khả năng + ものなら",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Nếu có thể… thì tôi cũng muốn…",
+    "meanings": [
+      "Nếu có thể đến Nhật thì tôi cũng muốn đi tokyo"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Động từ thể từ điển + ものなら",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Nếu lỡ ... thì sẽ xảy ra 1 hậu quả xấu",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "および",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Và, cũng như; dùng để liệt kê",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "氏名（しめい）および住所（じゅうしょ）を記入（きにゅう）してください。→ Hãy điền họ tên và địa chỉ.",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "すなわち",
+    "meanings": [
+      "Tức là, nói cách khác là"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "あるいは",
+    "meanings": [
+      "Hoặc, hay là; đôi khi mang nghĩa “có lẽ”"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～勢いだ（いきおいだ）",
+    "meanings": [
+      "Có đà cho thấy…",
+      "tình hình đang phát triển mạnh"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "次第だ",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "結果（けっか）は努力（どりょく）次第だ。→ Kết quả phụ thuộc vào nỗ lực.",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～Vるまでだ",
+    "meanings": [
+      "Chỉ còn cách như vậy"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "よりほかない",
+    "meanings": [
+      "Chỉ còn cách là"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～ならともかく",
+    "meanings": [
+      "Nếu là … thì còn có thể chấp nhận được, chứ … thì không"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "にしては",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "初（はじ）めてにしては上手（じょうず）だ。→ So với lần đầu thì khá giỏi.",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "としたら",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "行（い）くとしたら、明日（あした）だ。→ Nếu đi thì sẽ là ngày mai.",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "からとはいえ",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "春（はる）になったからとはいえ、まだ寒（さむ）い。→ Dù đã sang xuân nhưng vẫn lạnh.",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～てしまいがち",
+    "meanings": [
+      "thường vô tình làm gì đó, đôi khi mang sắc thái không tốt."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "つい。。。てしまう",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～おそれ",
+    "meanings": [
+      "có nguy cơ, e rằng điều xấu sẽ xảy ra."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～しかない",
+    "meanings": [
+      "không còn cách nào khác ngoài…"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～に限る（にかぎる）",
+    "meanings": [
+      "Tốt nhất là"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～のみならず",
+    "meanings": [
+      "không chỉ ... mà còn"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～て初めて",
+    "meanings": [
+      "Chỉ sau khi làm việc gì đó thì mới nhận ra hoặc hiểu được điều gì."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～にすら",
+    "meanings": [
+      "Đến cả…, thậm chí ngay cả…; nhấn mạnh mức độ."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "- 彼は自分の名前すら書けない。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "今にも",
+    "meanings": [
+      "Sắp sửa…, có vẻ như sắp"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "それ以来",
+    "meanings": [
+      "kể từ đó"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "むしろ",
+    "meanings": [
+      "Đúng hơn là, trái lại là",
+      "Công việc này không hẳn là vất vả, mà đúng hơn là thú vị."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "要するに ようするに",
+    "meanings": [
+      "Tóm lại, nói cách khác"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "したがって",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Vì vậy, do đó",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "とはいえ,...",
+    "meanings": [
+      "Mặc dù nói vậy, tuy vậy"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "もとで",
+    "meanings": [
+      "dưới sự chỉ đạo, bảo hộ"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～にかけては",
+    "meanings": [
+      "xét về…, nói về khoản…, khi nói đến lĩnh vực… thì đặc biệt giỏi."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～それなりに",
+    "meanings": [
+      "theo cách riêng của nó",
+      "hoàn cảnh ko thuận lợi nhưng vẫn có giá trị riêng"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～でしょうがない、～てしかたがない",
+    "meanings": [
+      "rất…, vô cùng…, không thể chịu nổi…."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "そうにない",
+    "meanings": [
+      "Có vẻ ko thể làm dc gì đó"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "Hay đi với thể khả năng bỏ ます",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "からには",
+    "meanings": [
+      "Một khi đã ... thì",
+      "Một khi đã đến Nhật, tôi muốn giỏi tiếng Nhật."
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～してで、",
+    "meanings": [
+      "Dù phải… cũng…",
+      "Bằng mọi giá để có dc mục tiêu"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "=　また",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～のだろう",
+    "meanings": [
+      "Không biết… nhỉ; tự hỏi…"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～気味",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "ぎみ",
+    "meanings": [
+      "hơi, có vẻ (ốm, mệt)"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "を通じて（をつうじて）",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "友達（ともだち）を通（つう）じて彼（かれ）を知（し）った。",
+        "vi": "Tôi biết anh ấy thông qua một người bạn."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～だって",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Ngay cả… cũng",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "くらいでも",
+    "meanings": [
+      "Dù chỉ, dù khoảng"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "だったり",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Nào là, lúc thì",
+    "meanings": [
+      "Liệt kê"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Và",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "履歴書および職務経歴書を提出（ていしゅつ）してください。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "際に（さいに）",
+    "meanings": [
+      "Khi, vào dịp…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "日本に来た際に、京都を訪れた。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～だけに",
+    "meanings": [
+      "Chính vì… nên càng…"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "とのことです",
+    "meanings": [
+      "người đó nói rằng",
+      "truyền đạt thông tin",
+      "Ông ấy nhắn rằng muốn được liên lạc lại."
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "連絡がほしいとのことです。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "ことになります",
+    "meanings": [
+      "được quyết định là",
+      "Diễn tả một quyết định hoặc kết quả"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "はずがない",
+    "meanings": [
+      "làm gì có chuyện"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "= わけがない",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Động từ dạng bỏ ます + がたい",
+    "meanings": [
+      "khó lòng…",
+      "khá mà bỏ cuộc"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "信じがたい話だ。",
+        "vi": "Đó là một câu chuyện khó tin."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～という",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Nghe nói rằng",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～ては",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Nếu cứ… thì… (kết quả không tốt)",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "V１ないでV2　＝＞　V１ずにV2",
+    "meanings": [
+      "Không làm V1 mà V2. Có ý chí",
+      "Không cáu và hãy trả lời nhẹ nhàng"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "どうせ～なら",
+    "meanings": [
+      "Đằng nào cũng"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～わりには",
+    "meanings": [
+      "So với… thì"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "彼は若いわりには、落ち着いている。→ So với tuổi còn trẻ thì anh ấy khá điềm tĩnh.",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "Vます (bỏ ます)} + つつある",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "景気が回復しつつある。",
+        "vi": "Nền kinh tế đang dần phục hồi."
+      },
+      {
+        "ja": "とすると、。。。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "Vậy thì ....",
+    "meanings": [
+      "Hơn thế nữa",
+      "Có vẻ không…, xem ra không thể…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "それどころか、。。。",
+        "vi": ""
+      },
+      {
+        "ja": "とても。。。そうにない",
+        "vi": ""
+      },
+      {
+        "ja": "この仕事は今日中には終わりそうにない。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "今にも泣きそうだ",
+    "meanings": [
+      "Trông như sắp khóc đến nơi"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～ほど",
+    "meanings": [
+      "khoảng chừng"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "３０分ほど",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "おかげで",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Nhờ có…, nhờ vào…",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～以来",
+    "meanings": [
+      "Kể từ… thì làm suốt gì đó"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "日本に来て以来、毎日日本語を勉強しています。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "ものの",
+    "meanings": [
+      "Tuy… nhưng…, mặc dù… nhưng…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "日本語を勉強したものの、まだ会話が苦手です。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～ことはありません",
+    "meanings": [
+      "không vần phải"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "心配することはありません。",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～ずにはいられない",
+    "meanings": [
+      "Không thể không…"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "その映画を見ると、泣かずにはいられません。",
+        "vi": "Xem bộ phim đó thì không thể không khóc."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "～ないことには",
+    "meanings": [],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "Nếu không… thì không thể…",
+    "meanings": [],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "応募しないことには、何も進みません。",
+        "vi": "Nếu không ứng tuyển thì chẳng có việc gì tiến triển c"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "するのではなく",
+    "meanings": [
+      "Không phải A mà là làm B"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "～たいだけ～",
+    "meanings": [
+      "Bạn hãy ăn bao nhiêu tùy thích.",
+      "Làm gì đó 1 thời gian",
+      "Không làm gì đó 1 thời gian"
+    ],
+    "structures": [],
+    "examples": [
+      {
+        "ja": "食べたいだけ食べてください。",
+        "vi": ""
+      },
+      {
+        "ja": "Vない bỏ い + ずにおこう, おこう＝おく(làm gì đó trong 1 tg)",
+        "vi": ""
+      }
+    ],
+    "notes": []
+  },
+  {
+    "pattern": "買わずにおこう",
+    "meanings": [
+      "Không mua sách trong 1 thời gian"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  },
+  {
+    "pattern": "かりに（仮に・かりに・GIẢ）",
+    "meanings": [
+      "giả sử"
+    ],
+    "structures": [],
+    "examples": [],
+    "notes": []
+  }
+]
