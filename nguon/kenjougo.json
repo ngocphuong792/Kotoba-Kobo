@@ -1,0 +1,856 @@
+{
+  "theme": "kenjougo",
+  "name": "Khiêm nhường ngữ",
+  "total": 41,
+  "generated_at": "2026-10-20",
+  "items": [
+    {
+      "id": "v5994",
+      "pattern": "謙譲語とは",
+      "structure": "けんじょうご｜分類",
+      "meaning": "Khiêm nhường ngữ — hạ thấp hành động của mình (hoặc bên mình) để tỏ kính trọng với đối phương / người nghe.",
+      "examples": [
+        {
+          "ja": "私がご案内します。",
+          "vi": "Tôi sẽ hướng dẫn ạ. (hạ mình)"
+        },
+        {
+          "ja": "資料は私がお持ちします。",
+          "vi": "Tài liệu tôi sẽ mang ạ."
+        },
+        {
+          "ja": "謙譲語は自分の行為を低めて相手を立てる。",
+          "vi": "Khiêm nhường ngữ hạ hành động của mình để nâng đối phương."
+        }
+      ]
+    },
+    {
+      "id": "v5995",
+      "pattern": "お／ご～する",
+      "structure": "お＋Vます＋する／ご＋漢語＋する｜有規則",
+      "meaning": "[Có quy tắc] Mình làm hành động hướng tới đối phương.",
+      "examples": [
+        {
+          "ja": "荷物をお持ちします。",
+          "vi": "Tôi sẽ xách hành lý giúp ạ."
+        },
+        {
+          "ja": "後でご連絡します。",
+          "vi": "Sau tôi sẽ liên lạc ạ."
+        },
+        {
+          "ja": "駅までお送りします。",
+          "vi": "Tôi sẽ tiễn/đưa đến ga ạ."
+        },
+        {
+          "ja": "ご説明します。",
+          "vi": "Tôi xin giải thích ạ."
+        }
+      ]
+    },
+    {
+      "id": "v5996",
+      "pattern": "お／ご～いたす",
+      "structure": "お＋Vます＋いたす／ご＋漢語＋いたす｜有規則",
+      "meaning": "[Có quy tắc] Khiêm nhường hơn ～する (công sở, phục vụ).",
+      "examples": [
+        {
+          "ja": "確認いたします。",
+          "vi": "Tôi sẽ xác nhận ạ."
+        },
+        {
+          "ja": "ご案内いたします。",
+          "vi": "Xin phép được hướng dẫn ạ."
+        },
+        {
+          "ja": "すぐご用意いたします。",
+          "vi": "Tôi sẽ chuẩn bị ngay ạ."
+        },
+        {
+          "ja": "資料をお送りいたします。",
+          "vi": "Tôi sẽ gửi tài liệu ạ."
+        }
+      ]
+    },
+    {
+      "id": "v5997",
+      "pattern": "～ていただく",
+      "structure": "Vて＋いただく｜有規則",
+      "meaning": "[Có quy tắc] Nhờ đối phương làm… (khiêm nhường của ～てもらう).",
+      "examples": [
+        {
+          "ja": "ご意見をいただけますか。",
+          "vi": "Xin cho tôi nhận ý kiến được không ạ?"
+        },
+        {
+          "ja": "説明していただき、ありがとうございます。",
+          "vi": "Xin cảm ơn anh/chị đã giải thích."
+        },
+        {
+          "ja": "サインをいただけますでしょうか。",
+          "vi": "Xin cho tôi chữ ký được không ạ?"
+        },
+        {
+          "ja": "待っていただいてすみません。",
+          "vi": "Xin lỗi vì đã để anh/chị phải chờ."
+        }
+      ]
+    },
+    {
+      "id": "v5998",
+      "pattern": "～させていただく",
+      "structure": "Vさせる＋ていただく｜有規則",
+      "meaning": "[Có quy tắc] Xin phép được… (rất phổ biến trong công việc).",
+      "examples": [
+        {
+          "ja": "明日欠席させていただきます。",
+          "vi": "Xin phép được vắng mặt ngày mai."
+        },
+        {
+          "ja": "説明させていただきます。",
+          "vi": "Xin phép tôi được giải thích."
+        },
+        {
+          "ja": "検討させていただきます。",
+          "vi": "Xin phép được xem xét ạ."
+        },
+        {
+          "ja": "座らせていただいてもよろしいですか。",
+          "vi": "Xin phép được ngồi có được không ạ?"
+        }
+      ]
+    },
+    {
+      "id": "v5999",
+      "pattern": "お／ご～できる",
+      "structure": "お＋Vます＋できる／ご＋漢語＋できる｜可能・謙譲寄り",
+      "meaning": "[Có quy tắc] Có thể… (lịch sự khi nói khả năng của mình / dịch vụ).",
+      "examples": [
+        {
+          "ja": "ご予約をお取りできます。",
+          "vi": "Chúng tôi có thể giữ chỗ giúp ạ."
+        },
+        {
+          "ja": "明日お届けできます。",
+          "vi": "Ngày mai có thể giao được ạ."
+        },
+        {
+          "ja": "ご案内できますが、よろしいですか。",
+          "vi": "Tôi có thể hướng dẫn, anh/chị thấy được không ạ?"
+        }
+      ]
+    },
+    {
+      "id": "v6000",
+      "pattern": "お／ご～願う",
+      "structure": "お／ご＋N／Vます＋願う｜依頼の謙譲",
+      "meaning": "[Có quy tắc] Xin nhờ… (khiêm nhường khi nhờ đối phương).",
+      "examples": [
+        {
+          "ja": "ご確認をお願いします。",
+          "vi": "Xin nhờ anh/chị xác nhận."
+        },
+        {
+          "ja": "少々お待ち願えますか。",
+          "vi": "Xin anh/chị đợi một chút được không ạ?"
+        },
+        {
+          "ja": "ご検討をお願いいたします。",
+          "vi": "Xin nhờ anh/chị xem xét."
+        }
+      ]
+    },
+    {
+      "id": "v6001",
+      "pattern": "お／ご～申し上げる",
+      "structure": "お／ご＋N＋申し上げる｜有規則・鄭重",
+      "meaning": "[Có quy tắc] Bày tỏ / nói một cách rất trang trọng.",
+      "examples": [
+        {
+          "ja": "深くお礼申し上げます。",
+          "vi": "Xin bày tỏ lòng cảm ơn sâu sắc."
+        },
+        {
+          "ja": "心よりお祝い申し上げます。",
+          "vi": "Xin chân thành chúc mừng."
+        },
+        {
+          "ja": "ご報告申し上げます。",
+          "vi": "Xin phép báo cáo ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6002",
+      "pattern": "参る",
+      "structure": "まいる｜不規則 ← 行く／来る",
+      "meaning": "[Bất quy tắc] đi / đến (của mình).",
+      "examples": [
+        {
+          "ja": "明日の会議に参ります。",
+          "vi": "Tôi sẽ đến cuộc họp ngày mai."
+        },
+        {
+          "ja": "すぐに参ります。",
+          "vi": "Tôi đến ngay ạ."
+        },
+        {
+          "ja": "駅まで参りましょうか。",
+          "vi": "Tôi đưa đến ga nhé ạ?"
+        }
+      ]
+    },
+    {
+      "id": "v6003",
+      "pattern": "伺う（訪問）",
+      "structure": "うかがう｜不規則 ← 行く／訪れる",
+      "meaning": "[Bất quy tắc] đến thăm / đến chỗ đối phương.",
+      "examples": [
+        {
+          "ja": "明日お宅へ伺います。",
+          "vi": "Ngày mai tôi sẽ đến nhà anh/chị."
+        },
+        {
+          "ja": "来週ご都合のよい時に伺います。",
+          "vi": "Tuần sau tôi sẽ đến vào lúc tiện cho anh/chị."
+        },
+        {
+          "ja": "会社に伺ってもよろしいですか。",
+          "vi": "Tôi đến công ty có được không ạ?"
+        }
+      ]
+    },
+    {
+      "id": "v6004",
+      "pattern": "伺う（聞く・尋ねる）",
+      "structure": "うかがう｜不規則 ← 聞く／尋ねる",
+      "meaning": "[Bất quy tắc] hỏi / được nghe (khiêm nhường).",
+      "examples": [
+        {
+          "ja": "ご意見を伺いたいのですが。",
+          "vi": "Tôi muốn được nghe ý kiến của anh/chị."
+        },
+        {
+          "ja": "少し伺ってもよろしいですか。",
+          "vi": "Xin hỏi một chút được không ạ?"
+        },
+        {
+          "ja": "その話は前に伺いました。",
+          "vi": "Chuyện đó trước đây tôi đã được nghe ạ."
+        },
+        {
+          "ja": "お名前を伺ってもよろしいですか。",
+          "vi": "Xin hỏi tên anh/chị được không ạ?"
+        }
+      ]
+    },
+    {
+      "id": "v6005",
+      "pattern": "おる",
+      "structure": "おります｜不規則 ← いる",
+      "meaning": "[Bất quy tắc] ở / đang… (mình hoặc người bên mình).",
+      "examples": [
+        {
+          "ja": "私は受付におります。",
+          "vi": "Tôi đang ở quầy lễ tân ạ."
+        },
+        {
+          "ja": "山田は席を外しております。",
+          "vi": "Yamada hiện không có ở chỗ ạ."
+        },
+        {
+          "ja": "今調べております。",
+          "vi": "Hiện tôi đang tra cứu ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6006",
+      "pattern": "申す",
+      "structure": "もうす｜不規則 ← 言う",
+      "meaning": "[Bất quy tắc] nói; tự xưng tên.",
+      "examples": [
+        {
+          "ja": "田中と申します。",
+          "vi": "Tôi tên là Tanaka ạ."
+        },
+        {
+          "ja": "私から申します。",
+          "vi": "Xin phép tôi được nói."
+        },
+        {
+          "ja": "そのように申しておりました。",
+          "vi": "Người ấy có nói như vậy ạ. (nói về bên mình)"
+        }
+      ]
+    },
+    {
+      "id": "v6007",
+      "pattern": "申し上げる",
+      "structure": "もうしあげる｜不規則 ← 言う｜鄭重",
+      "meaning": "[Bất quy tắc] nói / trình bày (trang trọng hơn 申す).",
+      "examples": [
+        {
+          "ja": "改めて御礼申し上げます。",
+          "vi": "Xin một lần nữa bày tỏ lời cảm ơn."
+        },
+        {
+          "ja": "私から申し上げます。",
+          "vi": "Xin phép tôi được trình bày."
+        },
+        {
+          "ja": "お祝いの言葉を申し上げます。",
+          "vi": "Xin phép nói lời chúc mừng."
+        }
+      ]
+    },
+    {
+      "id": "v6008",
+      "pattern": "いたす",
+      "structure": "いたします｜不規則 ← する",
+      "meaning": "[Bất quy tắc] làm (của mình).",
+      "examples": [
+        {
+          "ja": "確認いたします。",
+          "vi": "Tôi sẽ xác nhận ạ."
+        },
+        {
+          "ja": "承知いたしました。",
+          "vi": "Tôi đã rõ ạ."
+        },
+        {
+          "ja": "対応いたします。",
+          "vi": "Tôi sẽ xử lý ạ."
+        },
+        {
+          "ja": "失礼いたします。",
+          "vi": "Xin phép cáo từ ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6009",
+      "pattern": "いただく",
+      "structure": "不規則 ← もらう／食べる／飲む",
+      "meaning": "[Bất quy tắc] nhận; ăn/uống (khiêm nhường).",
+      "examples": [
+        {
+          "ja": "名刺をいただきました。",
+          "vi": "Tôi đã nhận danh thiếp ạ."
+        },
+        {
+          "ja": "いただきます。",
+          "vi": "Xin phép dùng bữa ạ."
+        },
+        {
+          "ja": "ご意見をいただきたいです。",
+          "vi": "Tôi muốn được nhận ý kiến của anh/chị."
+        },
+        {
+          "ja": "賞をいただきました。",
+          "vi": "Tôi đã nhận giải ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6010",
+      "pattern": "頂戴する",
+      "structure": "ちょうだいする｜不規則 ← もらう",
+      "meaning": "[Bất quy tắc] nhận (lịch sự).",
+      "examples": [
+        {
+          "ja": "ご意見を頂戴できますか。",
+          "vi": "Xin cho tôi nhận ý kiến được không ạ?"
+        },
+        {
+          "ja": "名刺を頂戴いたしました。",
+          "vi": "Tôi đã nhận danh thiếp ạ."
+        },
+        {
+          "ja": "お茶を頂戴します。",
+          "vi": "Xin phép dùng trà ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6011",
+      "pattern": "差し上げる",
+      "structure": "さしあげる｜不規則 ← あげる",
+      "meaning": "[Bất quy tắc] đưa / tặng cho người trên.",
+      "examples": [
+        {
+          "ja": "記念品を差し上げます。",
+          "vi": "Xin tặng món quà kỷ niệm."
+        },
+        {
+          "ja": "後でメールを差し上げます。",
+          "vi": "Sau tôi sẽ gửi email ạ."
+        },
+        {
+          "ja": "ご案内を差し上げます。",
+          "vi": "Xin gửi thông tin hướng dẫn ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6012",
+      "pattern": "拝見する",
+      "structure": "はいけんする｜不規則 ← 見る",
+      "meaning": "[Bất quy tắc] xem (tài liệu, thư của đối phương).",
+      "examples": [
+        {
+          "ja": "資料を拝見しました。",
+          "vi": "Tôi đã xem tài liệu ạ."
+        },
+        {
+          "ja": "メールを拝見いたしました。",
+          "vi": "Tôi đã đọc email ạ."
+        },
+        {
+          "ja": "拝見してもよろしいですか。",
+          "vi": "Xin phép được xem có được không ạ?"
+        }
+      ]
+    },
+    {
+      "id": "v6013",
+      "pattern": "拝借する",
+      "structure": "はいしゃくする｜不規則 ← 借りる",
+      "meaning": "[Bất quy tắc] mượn (của đối phương).",
+      "examples": [
+        {
+          "ja": "少し拝借してもよろしいですか。",
+          "vi": "Xin phép mượn một chút được không ạ?"
+        },
+        {
+          "ja": "資料を拝借いたします。",
+          "vi": "Tôi xin mượn tài liệu ạ."
+        },
+        {
+          "ja": "ペンを拝借できますか。",
+          "vi": "Xin mượn bút được không ạ?"
+        }
+      ]
+    },
+    {
+      "id": "v6014",
+      "pattern": "拝読する",
+      "structure": "はいどくする｜不規則 ← 読む",
+      "meaning": "[Bất quy tắc] đọc (thư / tài liệu của đối phương).",
+      "examples": [
+        {
+          "ja": "お手紙を拝読しました。",
+          "vi": "Tôi đã đọc thư của anh/chị ạ."
+        },
+        {
+          "ja": "原稿を拝読いたしました。",
+          "vi": "Tôi đã đọc bản thảo ạ."
+        },
+        {
+          "ja": "拝読のうえ、ご連絡します。",
+          "vi": "Sau khi đọc xong tôi sẽ liên lạc ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6015",
+      "pattern": "存じる",
+      "structure": "ぞんじる｜不規則 ← 知る／思う",
+      "meaning": "[Bất quy tắc] biết / nghĩ (của mình).",
+      "examples": [
+        {
+          "ja": "存じませんでした。",
+          "vi": "Tôi không biết ạ / tôi chưa hay."
+        },
+        {
+          "ja": "ぜひお会いしたいと存じます。",
+          "vi": "Tôi nghĩ rất muốn được gặp ạ."
+        },
+        {
+          "ja": "その件は存じております。",
+          "vi": "Việc đó tôi có biết ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6016",
+      "pattern": "存じ上げる",
+      "structure": "ぞんじあげる｜不規則 ← 知っている｜より鄭重",
+      "meaning": "[Bất quy tắc] biết về người trên / đối phương (khiêm nhường hơn).",
+      "examples": [
+        {
+          "ja": "その方は存じ上げております。",
+          "vi": "Người đó tôi có biết ạ."
+        },
+        {
+          "ja": "お名前は存じ上げております。",
+          "vi": "Tôi biết tên anh/chị ạ."
+        },
+        {
+          "ja": "ご高名は存じ上げております。",
+          "vi": "Tôi biết danh tiếng của anh/chị ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6017",
+      "pattern": "お目にかかる",
+      "structure": "おめにかかる｜不規則 ← 会う",
+      "meaning": "[Bất quy tắc] được gặp (người trên).",
+      "examples": [
+        {
+          "ja": "お目にかかれて光栄です。",
+          "vi": "Được gặp anh/chị thật vinh hạnh."
+        },
+        {
+          "ja": "先日はお目にかかり、ありがとうございました。",
+          "vi": "Hôm trước được gặp, xin cảm ơn."
+        },
+        {
+          "ja": "来週お目にかかりたいのですが。",
+          "vi": "Tuần sau tôi muốn được gặp anh/chị."
+        }
+      ]
+    },
+    {
+      "id": "v6018",
+      "pattern": "お目にかける",
+      "structure": "おめにかける｜不規則 ← 見せる",
+      "meaning": "[Bất quy tắc] cho đối phương xem.",
+      "examples": [
+        {
+          "ja": "新製品をお目にかけます。",
+          "vi": "Xin phép cho anh/chị xem sản phẩm mới."
+        },
+        {
+          "ja": "完成品をお目にかけたく存じます。",
+          "vi": "Tôi muốn đưa thành phẩm cho anh/chị xem."
+        },
+        {
+          "ja": "面白い資料をお目にかけましょう。",
+          "vi": "Tôi sẽ cho anh/chị xem tài liệu thú vị."
+        }
+      ]
+    },
+    {
+      "id": "v6019",
+      "pattern": "お聞きする／拝聴する",
+      "structure": "おききする／はいちょうする｜← 聞く",
+      "meaning": "[Bất quy tắc / cố định] nghe (ý kiến, bài nói của đối phương).",
+      "examples": [
+        {
+          "ja": "ご意見をお聞きしたいです。",
+          "vi": "Tôi muốn được nghe ý kiến của anh/chị."
+        },
+        {
+          "ja": "講演を拝聴しました。",
+          "vi": "Tôi đã lắng nghe bài giảng ạ."
+        },
+        {
+          "ja": "少しお聞きしてもよろしいですか。",
+          "vi": "Xin hỏi/nghe một chút được không ạ?"
+        }
+      ]
+    },
+    {
+      "id": "v6020",
+      "pattern": "お届けする／お伝えする",
+      "structure": "おとどけする／おつたえする｜有規則寄り",
+      "meaning": "Giao / chuyển lời (khiêm nhường thông dụng).",
+      "examples": [
+        {
+          "ja": "商品をお届けします。",
+          "vi": "Chúng tôi sẽ giao hàng ạ."
+        },
+        {
+          "ja": "ご伝言をお伝えします。",
+          "vi": "Tôi sẽ chuyển lời nhắn ạ."
+        },
+        {
+          "ja": "明日までにお届けいたします。",
+          "vi": "Chúng tôi sẽ giao trước ngày mai ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6021",
+      "pattern": "お借りする／お返しする",
+      "structure": "おかりする／おかえしする｜有規則",
+      "meaning": "Mượn / trả lại (khiêm nhường thông dụng).",
+      "examples": [
+        {
+          "ja": "本をお借りしてもよろしいですか。",
+          "vi": "Xin mượn sách được không ạ?"
+        },
+        {
+          "ja": "来週お返しします。",
+          "vi": "Tuần sau tôi sẽ trả lại ạ."
+        },
+        {
+          "ja": "すぐにお返しいたします。",
+          "vi": "Tôi sẽ trả lại ngay ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6022",
+      "pattern": "かしこまりました",
+      "structure": "応対定型｜← 分かりました",
+      "meaning": "Xin tuân lệnh / Tôi đã rõ ạ (phục vụ, điện thoại).",
+      "examples": [
+        {
+          "ja": "かしこまりました。すぐご用意します。",
+          "vi": "Xin vâng ạ. Tôi chuẩn bị ngay."
+        },
+        {
+          "ja": "かしこまりました。少々お待ちください。",
+          "vi": "Xin vâng ạ. Xin vui lòng đợi một chút."
+        },
+        {
+          "ja": "はい、かしこまりました。",
+          "vi": "Vâng, tôi đã rõ ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6023",
+      "pattern": "承知いたしました",
+      "structure": "しょうちいたしました｜定型",
+      "meaning": "Tôi đã hiểu / xin tuân theo ạ.",
+      "examples": [
+        {
+          "ja": "ご依頼の件、承知いたしました。",
+          "vi": "Việc anh/chị nhờ, tôi đã rõ ạ."
+        },
+        {
+          "ja": "日程変更、承知いたしました。",
+          "vi": "Thay đổi lịch, tôi đã nắm ạ."
+        },
+        {
+          "ja": "承知いたしました。対応いたします。",
+          "vi": "Xin vâng. Tôi sẽ xử lý ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6024",
+      "pattern": "失礼いたします",
+      "structure": "しつれいいたします｜定型",
+      "meaning": "Xin phép thất lễ / cáo từ (vào-ra, gọi điện, về trước).",
+      "examples": [
+        {
+          "ja": "それでは失礼いたします。",
+          "vi": "Vậy tôi xin phép cáo từ ạ."
+        },
+        {
+          "ja": "お先に失礼します。",
+          "vi": "Tôi xin phép về trước ạ."
+        },
+        {
+          "ja": "ちょっと失礼いたします。",
+          "vi": "Xin phép một chút ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6025",
+      "pattern": "お願いいたします／お願い申し上げます",
+      "structure": "依頼定型",
+      "meaning": "Xin nhờ… (trang trọng).",
+      "examples": [
+        {
+          "ja": "ご確認をお願いいたします。",
+          "vi": "Xin nhờ anh/chị xác nhận."
+        },
+        {
+          "ja": "何卒よろしくお願い申し上げます。",
+          "vi": "Xin hết lòng nhờ anh/chị hỗ trợ."
+        },
+        {
+          "ja": "当日はよろしくお願いいたします。",
+          "vi": "Ngày hôm đó xin nhờ anh/chị ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6026",
+      "pattern": "お待ちしております",
+      "structure": "謙譲・待機表現",
+      "meaning": "Chúng tôi đang chờ / xin chờ đón (khiêm nhường).",
+      "examples": [
+        {
+          "ja": "ご来店を心よりお待ちしております。",
+          "vi": "Xin chân thành chờ đón quý khách đến cửa hàng."
+        },
+        {
+          "ja": "ご返信をお待ちしております。",
+          "vi": "Chúng tôi chờ phản hồi của anh/chị."
+        },
+        {
+          "ja": "会場でお待ちしております。",
+          "vi": "Chúng tôi sẽ chờ tại hội trường ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6027",
+      "pattern": "お預かりする",
+      "structure": "おあずかりする｜← 預かる",
+      "meaning": "Nhận giữ / tiếp nhận hộ (hành lý, đồ, yêu cầu).",
+      "examples": [
+        {
+          "ja": "お荷物をお預かりします。",
+          "vi": "Tôi xin giữ hành lý giúp ạ."
+        },
+        {
+          "ja": "ご要望をお預かりしました。",
+          "vi": "Tôi đã tiếp nhận yêu cầu của anh/chị."
+        },
+        {
+          "ja": "こちらでお預かりいたします。",
+          "vi": "Chúng tôi xin giữ tại đây ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6028",
+      "pattern": "お越しいただく",
+      "structure": "おこしいただく｜← 来てもらう",
+      "meaning": "Được đón đối phương đến (nói về việc khách đến với mình).",
+      "examples": [
+        {
+          "ja": "本日はお越しいただき、ありがとうございます。",
+          "vi": "Hôm nay xin cảm ơn anh/chị đã đến."
+        },
+        {
+          "ja": "お忙しい中お越しいただき恐縮です。",
+          "vi": "Xin cảm ơn anh/chị đã đến dù đang bận."
+        },
+        {
+          "ja": "会場までお越しいただきますようお願いいたします。",
+          "vi": "Xin nhờ anh/chị đến hội trường ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6029",
+      "pattern": "ご覧いただく",
+      "structure": "ごらんいただく｜← 見てもらう",
+      "meaning": "Được đối phương xem (khiêm nhường khi mời xem).",
+      "examples": [
+        {
+          "ja": "こちらの資料をご覧ください。／ご覧いただけますか。",
+          "vi": "Xin hãy xem tài liệu này / Xin anh/chị xem giúp được không ạ?"
+        },
+        {
+          "ja": "ご覧いただければと思います。",
+          "vi": "Tôi mong anh/chị vui lòng xem giúp."
+        },
+        {
+          "ja": "サンプルをご覧いただきます。",
+          "vi": "Xin mời anh/chị xem mẫu ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6030",
+      "pattern": "お引き受けする／お受けする",
+      "structure": "おひきうけする／おうけする",
+      "meaning": "Nhận việc / nhận lời (khiêm nhường).",
+      "examples": [
+        {
+          "ja": "その件、お引き受けいたします。",
+          "vi": "Việc đó tôi xin nhận ạ."
+        },
+        {
+          "ja": "ご注文をお受けしました。",
+          "vi": "Chúng tôi đã nhận đơn hàng ạ."
+        },
+        {
+          "ja": "今はお引き受けしかねます。",
+          "vi": "Hiện tôi khó lòng nhận được ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6031",
+      "pattern": "ご連絡さしあげる／ご報告する",
+      "structure": "連絡・報告の謙譲",
+      "meaning": "Liên lạc / báo cáo (khiêm nhường công việc).",
+      "examples": [
+        {
+          "ja": "追ってご連絡さしあげます。",
+          "vi": "Tôi sẽ liên lạc lại sau ạ."
+        },
+        {
+          "ja": "結果をご報告します。",
+          "vi": "Tôi xin báo cáo kết quả ạ."
+        },
+        {
+          "ja": "進捗をご報告いたします。",
+          "vi": "Xin báo cáo tiến độ ạ."
+        }
+      ]
+    },
+    {
+      "id": "v6032",
+      "pattern": "お許しください／お許しくださいませ",
+      "structure": "謝罪・許可の定型",
+      "meaning": "Xin hãy thứ lỗi / xin lượng thứ (kết hợp khiêm nhường + tôn kính).",
+      "examples": [
+        {
+          "ja": "遅れてしまい、お許しください。",
+          "vi": "Xin hãy thứ lỗi vì tôi đến muộn."
+        },
+        {
+          "ja": "私用につき早退をお許しください。",
+          "vi": "Xin phép về sớm vì việc riêng."
+        },
+        {
+          "ja": "ご不便をおかけしますが、お許しください。",
+          "vi": "Xin thứ lỗi vì gây bất tiện."
+        }
+      ]
+    },
+    {
+      "id": "v6033",
+      "pattern": "お邪魔します",
+      "structure": "おじゃまします｜訪問定型",
+      "meaning": "Xin phép làm phiền — khi vào nhà / văn phòng người khác.",
+      "examples": [
+        {
+          "ja": "お邪魔します。",
+          "vi": "Xin phép vào ạ."
+        },
+        {
+          "ja": "お邪魔しました。",
+          "vi": "Xin phép (đã làm phiền) / xin cáo từ sau khi thăm."
+        },
+        {
+          "ja": "少しお邪魔してもよろしいですか。",
+          "vi": "Xin phép làm phiền một chút được không ạ?"
+        }
+      ]
+    },
+    {
+      "id": "v6034",
+      "pattern": "お疲れさまです／お疲れさまでした（対同僚）",
+      "structure": "職場挨拶｜※目上には慎重に",
+      "meaning": "Chào đồng nghiệp khi làm việc / tan ca (với cấp trên cần cân nhắc ngữ cảnh).",
+      "examples": [
+        {
+          "ja": "お疲れさまです。これから会議ですね。",
+          "vi": "Chào anh/chị. Sắp họp rồi nhỉ."
+        },
+        {
+          "ja": "今日もお疲れさまでした。",
+          "vi": "Hôm nay cũng vất vả rồi ạ."
+        },
+        {
+          "ja": "先に失礼します。お疲れさまです。",
+          "vi": "Tôi xin về trước. Cảm ơn anh/chị đã vất vả."
+        }
+      ]
+    }
+  ]
+}

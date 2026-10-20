@@ -618,6 +618,152 @@
       color: var(--ink-soft);
       line-height: 1.5;
     }
+
+    /* N2 grammar mindmap */
+    .theme-tile-wrap { position: relative; }
+    .theme-tile-wrap .theme-tile { width: 100%; }
+    .theme-mindmap-btn {
+      position: absolute;
+      right: 10px;
+      bottom: 10px;
+      z-index: 2;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: var(--sea-deep);
+      color: #f4fafb;
+      font-family: var(--font-ui);
+      font-size: 0.72rem;
+      font-weight: 600;
+      box-shadow: 0 6px 16px rgba(15, 40, 50, 0.2);
+    }
+    .theme-mindmap-btn:hover { filter: brightness(1.08); }
+    #mindmapBtnBrowse { display: none; }
+
+    .mm-overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 1000;
+      background: #0f1a20;
+      color: #f3efe6;
+      display: none;
+      flex-direction: column;
+    }
+    .mm-overlay.open { display: flex; }
+    .mm-top {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 10px;
+      padding: 12px 16px;
+      border-bottom: 1px solid rgba(255,255,255,0.12);
+      background: rgba(15, 26, 32, 0.96);
+    }
+    .mm-top h2 {
+      margin: 0;
+      font-family: var(--font-ui);
+      font-size: 1.05rem;
+      font-weight: 700;
+      flex: 1 1 auto;
+    }
+    .mm-top .btn {
+      border-radius: 999px;
+      padding: 8px 14px;
+      font-weight: 600;
+      background: rgba(255,255,255,0.1);
+      color: #f3efe6;
+      border: 1px solid rgba(255,255,255,0.16);
+    }
+    .mm-top .btn:hover { background: rgba(255,255,255,0.16); }
+    .mm-body {
+      flex: 1;
+      min-height: 0;
+      display: grid;
+      grid-template-columns: 220px 1fr;
+    }
+    @media (max-width: 800px) {
+      .mm-body { grid-template-columns: 1fr; grid-template-rows: auto 1fr; }
+    }
+    .mm-groups {
+      overflow: auto;
+      border-right: 1px solid rgba(255,255,255,0.1);
+      padding: 10px;
+      background: rgba(0,0,0,0.2);
+    }
+    .mm-group-btn {
+      width: 100%;
+      text-align: left;
+      padding: 10px 12px;
+      margin-bottom: 6px;
+      border-radius: 12px;
+      border: 1px solid rgba(255,255,255,0.1);
+      background: rgba(255,255,255,0.04);
+      color: #e8eef1;
+      font-family: var(--font-ui);
+      font-size: 0.84rem;
+      font-weight: 600;
+    }
+    .mm-group-btn small {
+      display: block;
+      margin-top: 2px;
+      font-weight: 500;
+      opacity: 0.7;
+      font-size: 0.75rem;
+    }
+    .mm-group-btn.active {
+      background: rgba(31, 111, 122, 0.45);
+      border-color: rgba(120, 200, 210, 0.5);
+    }
+    .mm-canvas-wrap {
+      position: relative;
+      min-height: 0;
+      overflow: hidden;
+      background:
+        radial-gradient(800px 500px at 50% 45%, rgba(31,111,122,0.18), transparent 60%),
+        #13212b;
+    }
+    #mmSvg { width: 100%; height: 100%; display: block; cursor: grab; }
+    #mmSvg:active { cursor: grabbing; }
+    .mm-node-group { cursor: pointer; }
+    .mm-node-item { cursor: pointer; }
+    .mm-hint {
+      position: absolute;
+      left: 12px;
+      bottom: 12px;
+      font-size: 0.78rem;
+      color: rgba(243,239,230,0.65);
+      pointer-events: none;
+    }
+
+    .mm-popup-backdrop {
+      position: fixed;
+      inset: 0;
+      z-index: 1100;
+      background: rgba(8, 14, 18, 0.55);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .mm-popup-backdrop.open { display: flex; }
+    .mm-popup {
+      width: min(560px, 100%);
+      max-height: min(86vh, 820px);
+      overflow: auto;
+      border-radius: 20px;
+      background: #fffdf8;
+      color: var(--ink);
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+      padding: 22px;
+    }
+    .mm-popup-close {
+      float: right;
+      border-radius: 999px;
+      padding: 6px 12px;
+      background: rgba(19,33,43,0.06);
+      font-weight: 600;
+      font-size: 0.85rem;
+    }
   </style>
 </head>
 <body>
@@ -680,10 +826,11 @@
     <!-- Browse -->
     <section class="panel" id="panel-browse">
       <h2 class="section-title">Danh sách từ &amp; câu ví dụ</h2>
-      <p class="section-sub">Tìm kiếm, lọc chủ đề, mở từng từ để xem 5 câu ví dụ kinh điển.</p>
+      <p class="section-sub">Tìm kiếm, lọc chủ đề, mở từng mục để xem nghĩa và câu ví dụ kinh điển.</p>
       <div class="toolbar">
         <input class="search" id="searchInput" type="search" placeholder="Tìm kanji, kana, nghĩa…" />
         <select class="select" id="themeFilter"></select>
+        <button class="btn btn-ghost" id="mindmapBtnBrowse" type="button">Sơ đồ tư duy</button>
         <span class="chip" id="listCount">0 từ</span>
       </div>
       <div class="split">
@@ -767,9 +914,29 @@
     </footer>
   </div>
 
+  <!-- Fullscreen mindmap: Ngữ pháp N2 -->
+  <div class="mm-overlay" id="mmOverlay" aria-hidden="true">
+    <div class="mm-top">
+      <h2>Sơ đồ tư duy · Ngữ pháp N2</h2>
+      <button class="btn" type="button" id="mmFit">Vừa khung</button>
+      <button class="btn" type="button" id="mmClose">Đóng</button>
+    </div>
+    <div class="mm-body">
+      <aside class="mm-groups" id="mmGroups"></aside>
+      <div class="mm-canvas-wrap">
+        <svg id="mmSvg" xmlns="http://www.w3.org/2000/svg"></svg>
+        <div class="mm-hint">Kéo để di chuyển · lăn chuột để phóng to · bấm nút ngữ pháp để xem chi tiết</div>
+      </div>
+    </div>
+  </div>
+  <div class="mm-popup-backdrop" id="mmPopup" aria-hidden="true">
+    <div class="mm-popup" id="mmPopupBody"></div>
+  </div>
+
   <script src="vocab-data.js"></script>
   <script src="examples-data.js"></script>
   <script src="kaiwa-plan-data.js"></script>
+  <script src="n2-grammar-mindmap.js"></script>
   <script>
     (function () {
       const DATA = window.VOCAB_DATA || { themes: [], items: [], total: 0 };
@@ -807,15 +974,17 @@
 
       function getExamples(item) {
         const fromFile = EXAMPLES[item.id];
-        if (Array.isArray(fromFile) && fromFile.length) return fromFile.slice(0, 5);
+        // Vocab: thường 3 câu; ngữ pháp: không cắt — hiện đủ ví dụ đã lưu
+        if (Array.isArray(fromFile) && fromFile.length) return fromFile.slice();
+        const fallbackCount = 3;
         if (item.seed && item.seed.length) {
           const base = item.seed.slice();
-          while (base.length < 5) {
+          while (base.length < fallbackCount) {
             base.push(makeFallbackExample(item, base.length));
           }
-          return base.slice(0, 5);
+          return base.slice(0, Math.max(fallbackCount, base.length));
         }
-        return Array.from({ length: 5 }, (_, i) => makeFallbackExample(item, i));
+        return Array.from({ length: fallbackCount }, (_, i) => makeFallbackExample(item, i));
       }
 
       function makeFallbackExample(item, i) {
@@ -1015,7 +1184,7 @@
       $("heroStats").innerHTML =
         `<strong>${DATA.total.toLocaleString()}</strong> từ · ` +
         `<strong>${DATA.themes.length}</strong> chủ đề · ` +
-        `<strong>${exCount.toLocaleString()}</strong> từ × 5 câu ví dụ`;
+        `<strong>${exCount.toLocaleString()}</strong> mục có câu ví dụ`;
 
       // Theme selects
       function fillThemeSelect(sel, withAll) {
@@ -1043,11 +1212,18 @@
         grid.innerHTML = DATA.themes
           .map(
             (t) => `
-          <button class="theme-tile" data-theme="${t.id}">
-            <div class="count">${t.count}</div>
-            <div class="name">${escapeHtml(t.name)}</div>
-            <div class="hint">Nhấn để mở danh sách</div>
-          </button>`
+          <div class="theme-tile-wrap">
+            <button class="theme-tile" data-theme="${t.id}">
+              <div class="count">${t.count}</div>
+              <div class="name">${escapeHtml(t.name)}</div>
+              <div class="hint">Nhấn để mở danh sách</div>
+            </button>
+            ${
+              t.id === "n2_grammar"
+                ? `<button class="theme-mindmap-btn" type="button" data-open-mindmap="1">Sơ đồ tư duy</button>`
+                : ""
+            }
+          </div>`
           )
           .join("");
         grid.querySelectorAll("[data-theme]").forEach((btn) => {
@@ -1058,18 +1234,32 @@
             renderList();
           });
         });
+        grid.querySelectorAll("[data-open-mindmap]").forEach((btn) => {
+          btn.addEventListener("click", (e) => {
+            e.stopPropagation();
+            openGrammarMindmap();
+          });
+        });
       }
       renderThemes();
+
+      function syncMindmapBrowseBtn() {
+        const btn = $("mindmapBtnBrowse");
+        if (!btn) return;
+        btn.style.display = browseTheme === "n2_grammar" || $("themeFilter").value === "n2_grammar" ? "inline-flex" : "none";
+      }
 
       // Browse list + detail
       function renderList() {
         const q = $("searchInput").value;
         const theme = $("themeFilter").value;
         browseTheme = theme;
+        syncMindmapBrowseBtn();
         const items = filteredItems(theme, q);
         $("listCount").textContent = `${items.length} từ`;
         const list = $("wordList");
-        const limit = 400;
+        // "Tất cả" không tìm kiếm: giới hạn để nhẹ máy; đã chọn chủ đề / có tìm kiếm: hiện đủ
+        const limit = theme !== "all" || (q || "").trim() ? items.length : 400;
         const slice = items.slice(0, limit);
         list.innerHTML = slice
           .map((it) => {
@@ -1096,21 +1286,18 @@
         });
       }
 
-      function renderDetail(id) {
-        const item = DATA.items.find((x) => x.id === id);
-        const pane = $("detailPane");
-        if (!item) {
-          pane.className = "detail empty";
-          pane.innerHTML = "<div>Chọn một từ bên trái để xem nghĩa và câu ví dụ.</div>";
-          return;
-        }
+      function buildItemDetailHtml(item, opts) {
+        const options = opts || {};
         const examples = getExamples(item);
-        const isGrammar = item.t === "n2_grammar";
+        const isGrammar = item.t === "n2_grammar" || item.t === "keigo" || item.t === "kenjougo";
         const highlightKey = isGrammar
-          ? String(item.w).replace(/^[～~]/, "").split(/[／\/・]/)[0].trim()
+          ? String(item.w).replace(/^[～~おご]/, "").split(/[／\/・（(]/)[0].trim()
           : item.w;
-        pane.className = "detail";
-        pane.innerHTML = `
+        return {
+          examples,
+          isGrammar,
+          html: `
+          ${options.prepend || ""}
           <h3 class="detail-word">${escapeHtml(item.w)}</h3>
           ${
             item.r
@@ -1138,23 +1325,277 @@
               .join("")}
           </div>
           <div class="detail-actions">
-            <button class="speak-btn" id="detailSpeak">${isGrammar ? "Phát âm ví dụ 1" : "Phát âm từ"}</button>
-            <button class="btn btn-ghost" id="detailToggleMaster">${mastered.has(item.id) ? "Bỏ đánh dấu thuộc" : "Đánh dấu đã thuộc"}</button>
+            <button class="speak-btn" type="button" data-detail-speak="1">${isGrammar ? "Phát âm ví dụ 1" : "Phát âm từ"}</button>
+            <button class="btn btn-ghost" type="button" data-detail-master="1">${mastered.has(item.id) ? "Bỏ đánh dấu thuộc" : "Đánh dấu đã thuộc"}</button>
           </div>
-        `;
-        $("detailSpeak")?.addEventListener("click", () => {
+        `,
+        };
+      }
+
+      function bindDetailActions(root, item, examples, isGrammar, onMastered) {
+        root.querySelector("[data-detail-speak]")?.addEventListener("click", () => {
           if (isGrammar && examples[0]?.ja) speak(examples[0].ja);
           else speak(item.w);
         });
-        $("detailToggleMaster")?.addEventListener("click", () => {
+        root.querySelector("[data-detail-master]")?.addEventListener("click", () => {
           if (mastered.has(item.id)) mastered.delete(item.id);
           else mastered.add(item.id);
           saveMastered();
-          renderDetail(item.id);
-          renderList();
+          if (typeof onMastered === "function") onMastered();
           renderProgress();
         });
       }
+
+      function renderDetail(id) {
+        const item = DATA.items.find((x) => x.id === id);
+        const pane = $("detailPane");
+        if (!item) {
+          pane.className = "detail empty";
+          pane.innerHTML = "<div>Chọn một từ bên trái để xem nghĩa và câu ví dụ.</div>";
+          return;
+        }
+        const built = buildItemDetailHtml(item);
+        pane.className = "detail";
+        pane.innerHTML = built.html;
+        bindDetailActions(pane, item, built.examples, built.isGrammar, () => {
+          renderDetail(item.id);
+          renderList();
+        });
+      }
+
+      // ---- Mindmap Ngữ pháp N2 ----
+      let mmGroups = [];
+      let mmActiveGroupId = null;
+      let mmTransform = { x: 0, y: 0, k: 1 };
+      let mmDrag = null;
+
+      function openGrammarMindmap() {
+        const api = window.N2_GRAMMAR_MINDMAP;
+        if (!api) {
+          alert("Chưa tải được module sơ đồ tư duy.");
+          return;
+        }
+        mmGroups = api.groupN2Grammar(DATA.items);
+        mmActiveGroupId = mmGroups[0]?.id || null;
+        const overlay = $("mmOverlay");
+        overlay.classList.add("open");
+        overlay.setAttribute("aria-hidden", "false");
+        document.body.style.overflow = "hidden";
+        renderMmGroups();
+        renderMmCanvas();
+        fitMmView();
+      }
+
+      function closeGrammarMindmap() {
+        $("mmOverlay").classList.remove("open");
+        $("mmOverlay").setAttribute("aria-hidden", "true");
+        document.body.style.overflow = "";
+        closeMmPopup();
+      }
+
+      function renderMmGroups() {
+        const box = $("mmGroups");
+        box.innerHTML = mmGroups
+          .map(
+            (g) => `
+          <button class="mm-group-btn ${g.id === mmActiveGroupId ? "active" : ""}" type="button" data-gid="${g.id}" style="border-left:4px solid ${g.color}">
+            ${escapeHtml(g.name)}
+            <small>${g.items.length} ngữ pháp</small>
+          </button>`
+          )
+          .join("");
+        box.querySelectorAll("[data-gid]").forEach((btn) => {
+          btn.addEventListener("click", () => {
+            mmActiveGroupId = btn.getAttribute("data-gid");
+            renderMmGroups();
+            renderMmCanvas();
+            fitMmView();
+          });
+        });
+      }
+
+      function renderMmCanvas() {
+        const svg = $("mmSvg");
+        const group = mmGroups.find((g) => g.id === mmActiveGroupId) || mmGroups[0];
+        if (!group) {
+          svg.innerHTML = "";
+          return;
+        }
+        const items = group.items;
+        const cx = 720;
+        const cy = 480;
+        const rootR = 68;
+        const useDouble = items.length > 22;
+        const innerN = useDouble ? Math.ceil(items.length / 2) : items.length;
+        const ringInner = Math.min(260, 130 + innerN * 4);
+        const ringOuter = ringInner + 95;
+
+        let lines = "";
+        let nodes = "";
+        nodes += `<g class="mm-node-group" data-gid="${group.id}">
+          <circle cx="${cx}" cy="${cy}" r="${rootR}" fill="${group.color}" opacity="0.95"/>
+          <circle cx="${cx}" cy="${cy}" r="${rootR + 8}" fill="none" stroke="${group.color}" stroke-opacity="0.35" stroke-width="2"/>
+          <text x="${cx}" y="${cy - 8}" text-anchor="middle" fill="#fff" font-size="13" font-family="Sora,sans-serif" font-weight="700">Ngữ pháp N2</text>
+          <text x="${cx}" y="${cy + 12}" text-anchor="middle" fill="#e8f6f7" font-size="11" font-family="Sora,sans-serif">${escapeHtml(group.name)}</text>
+          <text x="${cx}" y="${cy + 28}" text-anchor="middle" fill="#cfe3e6" font-size="10" font-family="Sora,sans-serif">${items.length} mục</text>
+        </g>`;
+
+        items.forEach((it, i) => {
+          const onOuter = useDouble && i >= innerN;
+          const idx = onOuter ? i - innerN : i;
+          const count = onOuter ? items.length - innerN : innerN;
+          const r = onOuter ? ringOuter : ringInner;
+          const ang = (Math.PI * 2 * idx) / Math.max(count, 1) - Math.PI / 2 + (onOuter ? Math.PI / count : 0);
+          const x = cx + Math.cos(ang) * r;
+          const y = cy + Math.sin(ang) * r;
+          const label = String(it.w).length > 14 ? String(it.w).slice(0, 13) + "…" : it.w;
+          const boxW = Math.min(130, 18 + String(label).length * 7.2);
+          lines += `<line x1="${cx}" y1="${cy}" x2="${x}" y2="${y}" stroke="${group.color}" stroke-opacity="${onOuter ? 0.22 : 0.38}" stroke-width="1.4"/>`;
+          nodes += `<g class="mm-node-item" data-id="${it.id}">
+            <rect x="${x - boxW / 2}" y="${y - 15}" width="${boxW}" height="30" rx="14" fill="#1b2c36" stroke="${group.color}" stroke-width="1.5"/>
+            <text x="${x}" y="${y + 4}" text-anchor="middle" fill="#f3efe6" font-size="11" font-family="Shippori Mincho,serif">${escapeHtml(label)}</text>
+          </g>`;
+        });
+
+        const others = mmGroups.filter((g) => g.id !== group.id);
+        const hubR = Math.max(ringOuter + 120, 420);
+        others.forEach((g, i) => {
+          const ang = (Math.PI * 2 * i) / Math.max(others.length, 1) - Math.PI / 2;
+          const x = cx + Math.cos(ang) * hubR;
+          const y = cy + Math.sin(ang) * hubR;
+          const short = g.name.split("・")[0].slice(0, 7);
+          lines += `<line x1="${cx}" y1="${cy}" x2="${x}" y2="${y}" stroke="rgba(255,255,255,0.12)" stroke-dasharray="4 4"/>`;
+          nodes += `<g class="mm-node-group" data-gid="${g.id}">
+            <circle cx="${x}" cy="${y}" r="30" fill="${g.color}" opacity="0.85"/>
+            <text x="${x}" y="${y + 4}" text-anchor="middle" fill="#fff" font-size="9" font-family="Sora,sans-serif" font-weight="600">${escapeHtml(short)}</text>
+          </g>`;
+        });
+
+        const vb = 1440;
+        svg.setAttribute("viewBox", `0 0 ${vb} ${vb * 0.72}`);
+        svg.innerHTML = `<g id="mmWorld">${lines}${nodes}</g>`;
+        applyMmTransform();
+
+        svg.querySelectorAll(".mm-node-item").forEach((el) => {
+          el.addEventListener("click", (e) => {
+            e.stopPropagation();
+            openMmPopup(el.getAttribute("data-id"));
+          });
+        });
+        svg.querySelectorAll(".mm-node-group").forEach((el) => {
+          el.addEventListener("click", (e) => {
+            e.stopPropagation();
+            const gid = el.getAttribute("data-gid");
+            if (!gid || gid === mmActiveGroupId) return;
+            mmActiveGroupId = gid;
+            renderMmGroups();
+            renderMmCanvas();
+            fitMmView();
+          });
+        });
+      }
+
+      function applyMmTransform() {
+        const world = document.getElementById("mmWorld");
+        if (!world) return;
+        world.setAttribute(
+          "transform",
+          `translate(${mmTransform.x},${mmTransform.y}) scale(${mmTransform.k})`
+        );
+      }
+
+      function fitMmView() {
+        const wrap = document.querySelector(".mm-canvas-wrap");
+        const svg = $("mmSvg");
+        if (!wrap || !svg) return;
+        const parts = (svg.getAttribute("viewBox") || "0 0 1440 1037").split(/\s+/).map(Number);
+        const vbW = parts[2] || 1440;
+        const vbH = parts[3] || 1037;
+        const w = wrap.clientWidth || 800;
+        const h = wrap.clientHeight || 600;
+        mmTransform.k = Math.min(w / vbW, h / vbH) * 0.92;
+        mmTransform.x = (w - vbW * mmTransform.k) / 2;
+        mmTransform.y = (h - vbH * mmTransform.k) / 2;
+        applyMmTransform();
+      }
+
+      function openMmPopup(id) {
+        const item = DATA.items.find((x) => x.id === id);
+        const backdrop = $("mmPopup");
+        const body = $("mmPopupBody");
+        if (!item || !backdrop || !body) return;
+        const built = buildItemDetailHtml(item, {
+          prepend: `<button class="mm-popup-close" type="button" data-close-popup="1">Đóng</button>`,
+        });
+        body.innerHTML = built.html;
+        backdrop.classList.add("open");
+        backdrop.setAttribute("aria-hidden", "false");
+        body.querySelector("[data-close-popup]")?.addEventListener("click", closeMmPopup);
+        bindDetailActions(body, item, built.examples, built.isGrammar, () => {
+          openMmPopup(item.id);
+          renderList();
+        });
+      }
+
+      function closeMmPopup() {
+        const backdrop = $("mmPopup");
+        if (!backdrop) return;
+        backdrop.classList.remove("open");
+        backdrop.setAttribute("aria-hidden", "true");
+      }
+
+      $("mindmapBtnBrowse")?.addEventListener("click", openGrammarMindmap);
+      $("mmClose")?.addEventListener("click", closeGrammarMindmap);
+      $("mmFit")?.addEventListener("click", fitMmView);
+      $("mmPopup")?.addEventListener("click", (e) => {
+        if (e.target === $("mmPopup")) closeMmPopup();
+      });
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") {
+          if ($("mmPopup")?.classList.contains("open")) closeMmPopup();
+          else if ($("mmOverlay")?.classList.contains("open")) closeGrammarMindmap();
+        }
+      });
+
+      // pan + zoom
+      (function bindMmPanZoom() {
+        const svg = $("mmSvg");
+        if (!svg) return;
+        svg.addEventListener("pointerdown", (e) => {
+          if (e.target.closest(".mm-node-item, .mm-node-group")) return;
+          mmDrag = { x: e.clientX, y: e.clientY, ox: mmTransform.x, oy: mmTransform.y };
+          svg.setPointerCapture(e.pointerId);
+        });
+        svg.addEventListener("pointermove", (e) => {
+          if (!mmDrag) return;
+          mmTransform.x = mmDrag.ox + (e.clientX - mmDrag.x);
+          mmTransform.y = mmDrag.oy + (e.clientY - mmDrag.y);
+          applyMmTransform();
+        });
+        svg.addEventListener("pointerup", () => {
+          mmDrag = null;
+        });
+        svg.addEventListener(
+          "wheel",
+          (e) => {
+            if (!$("mmOverlay")?.classList.contains("open")) return;
+            e.preventDefault();
+            const factor = e.deltaY > 0 ? 0.9 : 1.1;
+            const next = Math.min(2.4, Math.max(0.35, mmTransform.k * factor));
+            const rect = svg.getBoundingClientRect();
+            const px = e.clientX - rect.left;
+            const py = e.clientY - rect.top;
+            mmTransform.x = px - ((px - mmTransform.x) * next) / mmTransform.k;
+            mmTransform.y = py - ((py - mmTransform.y) * next) / mmTransform.k;
+            mmTransform.k = next;
+            applyMmTransform();
+          },
+          { passive: false }
+        );
+        window.addEventListener("resize", () => {
+          if ($("mmOverlay")?.classList.contains("open")) fitMmView();
+        });
+      })();
 
       $("searchInput").addEventListener("input", renderList);
       $("themeFilter").addEventListener("change", renderList);
@@ -1175,8 +1616,8 @@
         }
         const examples = getExamples(item).slice(0, 2);
         const highlightKey =
-          item.t === "n2_grammar"
-            ? String(item.w).replace(/^[～~]/, "").split(/[／\/・]/)[0].trim()
+          item.t === "n2_grammar" || item.t === "keigo" || item.t === "kenjougo"
+            ? String(item.w).replace(/^[～~おご]/, "").split(/[／\/・（(]/)[0].trim()
             : item.w;
         box.innerHTML = examples
           .map(
