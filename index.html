@@ -469,6 +469,50 @@
     }
     .btn-ok { background: var(--ok); color: #fff; border-radius: 999px; padding: 12px 18px; font-weight: 600; }
     .btn-again { background: var(--accent); color: #fff; border-radius: 999px; padding: 12px 18px; font-weight: 600; }
+    .flash-layout {
+      display: grid;
+      grid-template-columns: minmax(0, 520px) minmax(240px, 300px);
+      justify-content: center;
+      gap: 24px;
+      align-items: start;
+    }
+    .flash-main .card-stage { margin: 24px 0 0; max-width: none; }
+    .retry-box {
+      margin-top: 24px;
+      padding: 14px;
+      border-radius: 18px;
+      border: 1px solid var(--line);
+      background: #fffdf8;
+      box-shadow: var(--shadow);
+      max-height: 560px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .retry-head h3 { margin: 0 0 10px; font-size: 1rem; display: flex; align-items: center; gap: 8px; }
+    .retry-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+    .retry-actions .btn { padding: 8px 12px; font-size: 0.85rem; }
+    .retry-list { list-style: none; margin: 0; padding: 0; overflow: auto; display: grid; gap: 6px; }
+    .retry-list li {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 10px;
+      border-radius: 12px;
+      background: rgba(196, 92, 38, 0.07);
+      border: 1px solid transparent;
+      cursor: pointer;
+    }
+    .retry-list li.current { border-color: var(--accent); background: rgba(196, 92, 38, 0.15); }
+    .retry-list .rw { font-family: var(--font-jp); font-weight: 700; }
+    .retry-list .rr { font-size: 0.8rem; color: var(--ink-soft); flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .retry-list .rx { border: 0; background: transparent; cursor: pointer; font-size: 1rem; color: var(--ink-soft); padding: 2px 6px; }
+    .retry-empty { margin: 0; font-size: 0.85rem; color: var(--ink-soft); }
+    .retry-empty[hidden] { display: none; }
+    @media (max-width: 860px) {
+      .flash-layout { grid-template-columns: minmax(0, 1fr); }
+      .retry-box { max-height: none; }
+    }
     .progress-bar {
       height: 6px;
       background: rgba(19,33,43,0.08);
@@ -855,6 +899,8 @@
         <span class="chip" id="flashPos">0 / 0</span>
       </div>
       <div class="progress-bar"><i id="flashProg"></i></div>
+      <div class="flash-layout">
+      <div class="flash-main">
       <div class="card-stage">
         <div class="flashcard" id="flashcard" title="Nhấn để lật">
           <div class="face front">
@@ -874,6 +920,19 @@
         <button class="btn btn-again" id="flashAgain">Học lại</button>
         <button class="btn btn-ok" id="flashKnow">Đã thuộc</button>
         <button class="btn btn-ghost" id="flashNext">Sau →</button>
+      </div>
+      </div>
+      <aside class="retry-box" id="retryBox">
+        <div class="retry-head">
+          <h3>Danh sách học lại <span class="chip" id="retryCount">0</span></h3>
+          <div class="retry-actions">
+            <button class="btn btn-again" id="retryStudy" type="button">Học lại danh sách</button>
+            <button class="btn btn-ghost" id="retryClear" type="button">Xóa hết</button>
+          </div>
+        </div>
+        <ul class="retry-list" id="retryList"></ul>
+        <p class="retry-empty" id="retryEmpty">Chưa có từ nào. Nhấn “Học lại” ở thẻ để thêm vào đây.</p>
+      </aside>
       </div>
     </section>
 
@@ -945,6 +1004,7 @@
       const STORAGE_KEY = "kotoba-kobo-mastered-v1";
       const KAIWA_WEEK_KEY = "kotoba-kobo-kaiwa-week";
       const FLASH_READING_BACK_KEY = "kotoba-kobo-flash-reading-back";
+      const RETRY_KEY = "kotoba-kobo-retry-v1";
 
       const themeName = Object.fromEntries(DATA.themes.map((t) => [t.id, t.name]));
       let mastered = loadMastered();
@@ -952,6 +1012,8 @@
       let selectedId = null;
       let flashDeck = [];
       let flashIndex = 0;
+      let flashRetryMode = false;
+      let retryList = loadRetry();
       let flashReadingBack = localStorage.getItem(FLASH_READING_BACK_KEY) === "1";
       let quizCorrect = 0;
       let quizTotal = 0;
@@ -970,6 +1032,17 @@
       }
       function saveMastered() {
         localStorage.setItem(STORAGE_KEY, JSON.stringify([...mastered]));
+      }
+      function loadRetry() {
+        try {
+          const arr = JSON.parse(localStorage.getItem(RETRY_KEY) || "[]");
+          return Array.isArray(arr) ? arr : [];
+        } catch {
+          return [];
+        }
+      }
+      function saveRetry() {
+        localStorage.setItem(RETRY_KEY, JSON.stringify(retryList));
       }
 
       function getExamples(item) {
@@ -1150,6 +1223,7 @@
         } else if (mode === "flash") {
           go("flash");
           flashDeck = itemsForWeek(kaiwaWeek).slice();
+          flashRetryMode = false;
           flashIndex = 0;
           showFlash(false);
           $("flashPos").textContent = flashDeck.length
@@ -1604,8 +1678,39 @@
       function buildFlashDeck() {
         const theme = $("flashTheme").value;
         flashDeck = filteredItems(theme, "");
+        flashRetryMode = false;
         flashIndex = 0;
         showFlash(false);
+      }
+      function retryItems() {
+        const byId = new Map(DATA.items.map((it) => [it.id, it]));
+        return retryList.map((id) => byId.get(id)).filter(Boolean);
+      }
+      function renderRetry() {
+        const items = retryItems();
+        const cur = flashDeck[flashIndex];
+        $("retryCount").textContent = String(items.length);
+        $("retryEmpty").hidden = items.length > 0;
+        $("retryStudy").disabled = !items.length;
+        $("retryClear").disabled = !items.length;
+        $("retryList").innerHTML = items
+          .map(
+            (it) => `<li data-id="${it.id}" class="${cur && cur.id === it.id ? "current" : ""}">
+              <span class="rw">${escapeHtml(it.w)}</span>
+              <span class="rr">${escapeHtml(it.r || it.m)}</span>
+              <button class="rx" type="button" data-remove="${it.id}" title="Bỏ khỏi danh sách học lại">×</button>
+            </li>`
+          )
+          .join("");
+      }
+      function addRetry(id) {
+        retryList = retryList.filter((x) => x !== id);
+        retryList.push(id);
+        saveRetry();
+      }
+      function removeRetry(id) {
+        retryList = retryList.filter((x) => x !== id);
+        saveRetry();
       }
       function renderFlashExamples(item) {
         const box = $("flashBackExamples");
@@ -1640,6 +1745,7 @@
           renderFlashExamples(null);
           $("flashPos").textContent = "0 / 0";
           $("flashProg").style.width = "0%";
+          renderRetry();
           return;
         }
         flashIndex = Math.max(0, Math.min(flashIndex, flashDeck.length - 1));
@@ -1654,8 +1760,9 @@
         }
         $("flashBack").textContent = it.m;
         renderFlashExamples(it);
-        $("flashPos").textContent = `${flashIndex + 1} / ${flashDeck.length}`;
+        $("flashPos").textContent = `${flashIndex + 1} / ${flashDeck.length}` + (flashRetryMode ? " (học lại)" : "");
         $("flashProg").style.width = `${((flashIndex + 1) / flashDeck.length) * 100}%`;
+        renderRetry();
       }
       const flashReadingBackEl = $("flashReadingBack");
       if (flashReadingBackEl) {
@@ -1692,7 +1799,12 @@
         if (!it) return;
         mastered.add(it.id);
         saveMastered();
-        flashIndex = Math.min(flashIndex + 1, flashDeck.length - 1);
+        removeRetry(it.id);
+        if (flashRetryMode) {
+          flashDeck.splice(flashIndex, 1);
+        } else {
+          flashIndex = Math.min(flashIndex + 1, flashDeck.length - 1);
+        }
         showFlash(false);
         renderProgress();
       });
@@ -1701,10 +1813,53 @@
         if (!it) return;
         mastered.delete(it.id);
         saveMastered();
-        flashIndex = Math.min(flashIndex + 1, flashDeck.length - 1);
+        addRetry(it.id);
+        flashIndex = flashRetryMode
+          ? (flashIndex + 1) % flashDeck.length
+          : Math.min(flashIndex + 1, flashDeck.length - 1);
         showFlash(false);
         renderProgress();
       });
+      $("retryStudy").addEventListener("click", () => {
+        const items = retryItems();
+        if (!items.length) return;
+        flashDeck = items;
+        flashRetryMode = true;
+        flashIndex = 0;
+        showFlash(false);
+      });
+      $("retryClear").addEventListener("click", () => {
+        retryList = [];
+        saveRetry();
+        renderRetry();
+      });
+      $("retryList").addEventListener("click", (e) => {
+        const rm = e.target.closest("[data-remove]");
+        if (rm) {
+          const id = rm.dataset.remove;
+          removeRetry(id);
+          if (flashRetryMode) {
+            const i = flashDeck.findIndex((x) => x.id === id);
+            if (i >= 0) flashDeck.splice(i, 1);
+            showFlash(false);
+          } else {
+            renderRetry();
+          }
+          return;
+        }
+        const li = e.target.closest("li[data-id]");
+        if (!li) return;
+        const id = li.dataset.id;
+        let i = flashDeck.findIndex((x) => x.id === id);
+        if (i < 0) {
+          flashDeck = retryItems();
+          flashRetryMode = true;
+          i = flashDeck.findIndex((x) => x.id === id);
+        }
+        flashIndex = Math.max(0, i);
+        showFlash(false);
+      });
+      renderRetry();
 
       // Quiz
       function startQuiz() {
